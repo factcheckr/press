@@ -1,0 +1,48 @@
+[kbsnews_factcheck]
+title = "KBS뉴스 ─ 팩트체크K"
+url = "https://news.kbs.co.kr/news/list.do?mcd=1032"
+entrySelector = "ul.list-type.list-thumb li"
+titleSelector = "em.tit"
+linkSelector = "a"
+contentSelector = "span.script"
+imageSelector = "span.img-center img"
+waitUntil = "networkidle"
+
+[sbsnews_fact]
+title = "SBS뉴스 ─ 사실은"
+url = "https://news.sbs.co.kr/news/fact.do"
+entrySelector = "ul.type_thumb li"
+titleSelector = "strong"
+linkSelector = "a"
+imageSelector = "span.thumb img"
+contentSelector = "a.reporter"
+waitUntil = "networkidle"
+
+[mbcnews_turnedout]
+title = "MBC뉴스 ─ 알고보니"
+url = "https://news.imbc.com/newszoomin/turnedout/"
+entrySelector = "ul.thumb_type.list_thumb_c li.item"
+titleSelector = "span[class^='tit ellipsis']"
+linkSelector = "a"
+imageSelector = "span.img.ico_vod img"
+contentSelector = "span.sub2"
+waitUntil = "networkidle"
+
+[yna_factcheck]
+title = "연합뉴스 ─ 팩트체크"
+url = "https://www.yna.co.kr/theme-list/factcheck?site=navi_factcheck"
+entrySelector = "div.list-type038 ul.list li"
+titleSelector = "strong.tit-news"
+linkSelector = "div.news-con a"
+contentSelector = "p.lead"
+imageSelector = "figure.img-con img"
+waitUntil = "networkidle"
+
+[dongascience_factcheck]
+title = "동아사이언스 ─ 팩트체크"
+url = "https://www.dongascience.com/special.php?category=001_148"
+entrySelector = "div.article-A2 ul li"
+titleSelector = "span.tit"
+linkSelector = "a"
+contentSelector = "span.cont div.two-lines"
+waitUntil = "networkidle"
