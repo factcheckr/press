@@ -1,34 +1,49 @@
-# CI setup for Feed me up, Scotty!
+# 언론사 팩트체크
 
-You can fork this repository and edit `feeds.toml` to start generating your own
-RSS feeds.
+## KBS 뉴스 ─ 팩트체크K
+https://news.kbs.co.kr/news/list.do?mcd=1032&ref=pMenu  
+- 다음 뉴스: https://news.daum.net/series/1664634
+- RSS: https://factcheckr.github.io/press/kbsnews_factcheck.xml
 
-# Automatically generate feeds
+## SBS 뉴스 ─ 사실은
+https://news.sbs.co.kr/news/fact.do  
+- 다음 뉴스: https://news.daum.net/series/252353  
+- RSS: https://factcheckr.github.io/press/sbsnews_fact.xml 
 
-## On GitHub
+## MBC 뉴스 ─ 알고보니 
+https://news.imbc.com/newszoomin/turnedout/  
+- 다음 뉴스: https://news.daum.net/series/5165002  
+- RSS: https://factcheckr.github.io/press/mbcnews_turnedout.xml
 
-To automatically generate feeds twice a day on GitHub:
+## JTBC ─ 팩트체크
+https://news.jtbc.joins.com/factcheck/  
+- 다음 뉴스: https://news.daum.net/series/1453  
+- 유튜브 플레이리스트: https://www.youtube.com/playlist?list=PL3Eb1N33oAXgQrRBThE4TPSOIR8ZgfSug  
+- RSS: https://factcheckr.github.io/JTBC/factcheck.xml
 
-1. Fork this repository and edit `feeds.toml`.
-2. Create a branch called `gh-pages`.
-3. Visit the _Actions_ tab for your fork, then enable workflows for your fork.
-4. Make sure the Publishing Source for your GitHub Pages site is set to the
-   `gh-pages` branch.
-   [Instructions here.](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+## 채널A ─ 팩트맨
+http://www.ichannela.com/news/template/program_news.do?cateCode=&subCateCode=000500&type=03&menuIndex=3&seqIndex=0&searchDate=&realCateCode=00050021
+- 다음 뉴스: https://news.daum.net/series/5157383
 
-GitHub Actions will then automatically run twice a day to check for updates,
-and publish your feeds at `https://<username>.github.io/feeds/`.
+## 경향신문 ─ 팩트체크
+https://www.khan.co.kr/series/articles/aj165  
+모바일: https://m.khan.co.kr/series/articles/aj165  
+- 다음 뉴스: https://news.daum.net/series/5028270
 
-## On GitLab
+## 오마이뉴스 ─ 오마이팩트
+http://www.ohmynews.com/NWS_Web/OhmyFact/index.aspx  
+- 다음 뉴스: https://news.daum.net/series/5175756
 
-To automatically generate feeds on GitLab:
+## 연합뉴스 ─ 팩트체크
+https://www.yna.co.kr/theme-list/factcheck  
+모바일: https://m.yna.co.kr/theme-list/factcheck  
+- RSS: https://factcheckr.github.io/press/yna_factcheck.xml
 
-1. Fork this repository and edit `feeds.toml`.
-2. [Create a new pipeline schedule](./-/pipeline_schedules/new) (CI/CD ˃
-   Schedules).
-3. Set it to your desired interval (e.g. `30 5,17 * * *` to run at 5:30 and
-   17:30).
-4. Hit "Save pipeline schedule".
+## 동아사이언스 ─ 팩트체크
+https://www.dongascience.com/special.php?category=001_148
+- RSS: https://factcheckr.github.io/press/dongascience_factcheck.xml
 
-GitLab CI/CD will then automatically run at your selected interval to check for
-updates, and publish your feeds at `https://<username>.gitlab.io/feeds/`.
+
+---
+
+[▶️ 다음 뉴스 이동하기](https://github.com/FactCheckr/Daum)
