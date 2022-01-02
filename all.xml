@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 02 Jan 2022 16:17:38 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크K] 코로나19 백신 맞으면 면역력이 떨어진다고?…전문가들 “황당 그 자체” (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5357142</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5357142</guid>
+            <pubDate>Sun, 02 Jan 2022 16:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 백신 3차 접종자 수가 150만 명을 넘어섰습니다(12월 25일 기준 15,11...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2021/12/24/173501640237268251.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크K] 코로나19 검사용 면봉에 발암 물질이 들어 있다? (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5349594</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5349594</guid>
+            <pubDate>Sun, 02 Jan 2022 16:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19가 급속히 확산하면서 확진자가 급증해 어제(15일) 하루 8,000명 선에 육박했...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/news/2021/12/16/20211216_vbf5bL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크K] ‘오미크론’, 시진핑 의식한 이름? WHO에 물어봤더니… (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5338297</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5338297</guid>
+            <pubDate>Sun, 02 Jan 2022 16:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[겨울의 문턱에 등장한 코로나19 신종 변이 바이러스의 충격이 전 세계에 확산하고 있습니다....]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2021/12/01/173501638254175948.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크K] “전두환은 5.18민주화운동 피해자들에게 사과했다?” (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5331876</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5331876</guid>
+            <pubDate>Sun, 02 Jan 2022 16:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[전두환 씨가 오늘(23일) 사망했습니다.국내외 언론매체들은 전 씨의 사망 소식을 전하면서 ...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2021/11/23/173501637653293251.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크K] 백신 접종 후 심근염, 주사 접종방식 잘못돼 생긴다? (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5324770</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5324770</guid>
+            <pubDate>Sun, 02 Jan 2022 16:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[국내 12~17세 유아·청소년 대상 코로나19 백신 접종이 30%대에 머물고 있습니다. 1...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2021/11/14/173501636700728912.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크K] 코로나19 백신 맞고 많이 아프면 젊고 건강하다? (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5302785</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5302785</guid>
+            <pubDate>Sun, 02 Jan 2022 16:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[국내 코로나19 백신 접종자가 4천만 명을 넘어섰습니다. 지난 16일 0시 기준 1차 접종...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2021/10/16/173501634259497955.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈체크K] 12~17세 백신 접종③ 부작용 심근염 어느 정도? (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5299544</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5299544</guid>
+            <pubDate>Sun, 02 Jan 2022 16:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[우리나라보다 먼저 12~17세를 대상으로 코로나19 백신 접종을 실시하고 있는 나라에서 보...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2021/10/12/173501633999010232.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈체크K] 12~17세 백신 접종② 외국은 어땠나? (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5297255</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5297255</guid>
+            <pubDate>Sun, 02 Jan 2022 16:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[판단에 도움을 드리기 위해 임상시험 결과(▶관련 기사 [이슈체크K] 12~17세 백신 접종...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2021/10/08/173501633669126913.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈체크K] 12~17세 백신 접종① 접종 근거 임상시험 살펴봤더니 (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5296777</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5296777</guid>
+            <pubDate>Sun, 02 Jan 2022 16:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[방역 당국은 기저 질환이 있는 소아·청소년에게는 백신 접종을 적극적으로 권고했습니다. 소아...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2021/10/08/173501633656035415.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈체크K] “오늘 2차 접종했는데요”…접종 완료는 언제? (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5291419</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5291419</guid>
+            <pubDate>Sun, 02 Jan 2022 16:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[국내 코로나19 백신 접종자가 2,500만 명을 넘어섰습니다. 1차 접종률이 80%에 육박...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2021/09/30/173501632984311458.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈체크K] ‘잔여 백신으로 2차 접종 앞당기기’ 예약 신청 이렇게 (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5284574</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5284574</guid>
+            <pubDate>Sun, 02 Jan 2022 16:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[1차 접종 후 6~8주인 코로나19 백신 2차 접종 간격을 3~4주로 앞당길 수 있는 방안...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2021/09/17/173501631855858452.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크K] 화이자 백신에 발암 물질 ‘산화 그래핀’이 들어 있다? (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5277732</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5277732</guid>
+            <pubDate>Sun, 02 Jan 2022 16:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[국내 코로나19 백신 접종자 수가 3,200만 명을 넘어섰습니다. 1차 접종 인원은 32,...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2021/09/10/173501631175815945.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크K] 코로나19에 확진 후 완치돼도 백신을 맞는 게 낫다? (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5270628</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5270628</guid>
+            <pubDate>Sun, 02 Jan 2022 16:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 확진자 수가 세 자리로 떨어질 기미를 보이지 않고 있습니다. 오늘(9월 2일) ...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2021/09/02/173501630475010932.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크K] 화이자·모더나 1차·2차 접종, 6주 간격 문제없다? (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5254345</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5254345</guid>
+            <pubDate>Sun, 02 Jan 2022 16:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[국내에서 접종 중인 코로나19 mRNA 백신의 1차와 2차 접종 간격이 6주로 연장됐습니다...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2021/08/11/173501628662699057.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈체크K] “어, 잔여 백신이 확 풀렸네?”…누가 어떻게 맞을 수 있나 (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5251908</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5251908</guid>
+            <pubDate>Sun, 02 Jan 2022 16:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[오늘(9일)부터 18~49세 사이 코로나19 백신 접종 대상자들의 예약이 시작됩니다. 예약...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/news/2021/08/09/20210809_h0KDoL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크K] ‘최저임금 연평균 인상률’ 문재인 정부가 박근혜 정부보다 높다? (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5235861</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5235861</guid>
+            <pubDate>Sun, 02 Jan 2022 16:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[문재인 정부 마지막 해인 내년 최저임금이 확정됐습니다. 최저임금위원회가 지난 13일 의결한...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/news/2021/07/19/20210719_Q0f4Pd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 신지예 영입 이후, '이대남'은 등을 돌릴까요? (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006583794&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006583794&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20211221/201620306_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 매번 '전격적'인 특별사면, '정치'인가요? (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006581758&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006581758&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20211224/201621657_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 시도 때도 없는 '허경영 전화' 비밀 공개 (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006576863&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006576863&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20211221/201620431_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] '위드 코로나' 이후, 한국만 역주행한 건가요? (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006576332&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006576332&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20211025/201603439_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 뇌 수술 했는데 군 면제가 아니다? (ft. 기자 군대썰) (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006571047&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006571047&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20211216/201618863_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] '사위' 이재명, '아들' 윤석열? '족집게 벨트' 분석했습니다 (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006569583&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006569583&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20211210/201617334_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] "갓 원조는 중국" 억지…"계승 · 발전한 게 핵심" (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006567613&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006567613&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 차별금지법…신중함과 무관심 사이 이재명-윤석열 (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006567132&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006567132&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 뇌종양 수술받아도 군 면제 아니다? (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006564263&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006564263&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 허경영이 말한 'TV 토론', 꼼꼼히 따져봤습니다 (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006561402&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006561402&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[백신에 미생물이?‥가짜뉴스 다시 기승 (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6325620_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6325620_34936.html</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-12-20</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/20/desk_20211220_203015_1_20_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대선주자 토론 역대 최저? 과거엔 어땠나 (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6323591_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6323591_34936.html</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-12-13</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/13/desk_20211213_203852_1_23_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중대재해법 때문에 몸 아프면 안 뽑는다? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6322200_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6322200_34936.html</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-12-08</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/08/desk_20211208_201249_1_13_Large_u.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[술김에 전동킥보드 탔다가‥차 면허도 취소? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6321541_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6321541_34936.html</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-12-06</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/06/desk_20211206_200934_1_11_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양성평등 미디어상 수상 (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6320427_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6320427_34936.html</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-12-02</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/02/desk_20211202_204539_1_26_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["위헌" 윤창호법‥상습음주운전 처벌 약해지나 (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6320004_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6320004_34936.html</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-12-01</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/01/desk_20211201_201758_1_14_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[눈치 안보고 놀려면 아파트 살아야? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/newszoomin/newsinsight/6318704_29123.html</link>
+            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6318704_29123.html</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-11-27</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[여경 무용론 누가 불지피나 (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6318351_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6318351_34936.html</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-11-25</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/25/desk_20211125_202446_1_16_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[놀이터 늘어났지만‥부익부 빈익빈? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6315951_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6315951_34936.html</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-11-19</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/19/desk_20211119_200446_1_12_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스토킹 처벌법, 층간소음 분쟁에까지 적용? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6314299_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6314299_34936.html</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-11-12</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/12/desk_20211112_202143_1_18_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['새 생명 주셔서 고맙다'는 편지 받으면‥어떨까 (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/newszoomin/newsinsight/6314154_29123.html</link>
+            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6314154_29123.html</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-11-12</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[알고보니+] 물병에도 변형 카메라가 숨어 있다? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/newszoomin/newsinsight/6313632_29123.html</link>
+            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6313632_29123.html</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-11-10</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/newszoomin/newsinsight/__icsFiles/afieldfile/2021/11/10/s2021111002_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["아이 심장 잘 뛰나 궁금해"‥소율아빠 소원 이뤄질까 (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6313146_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6313146_34936.html</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-11-08</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/08/desk_20211108_202538_1_18_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백신 맞고 숨져도 7,200원 보상이 전부? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6312364_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6312364_34936.html</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-11-04</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/04/desk_20211104_202530_1_17_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['몰카'범죄는 왜 일상이 되었을까 (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/newszoomin/newsinsight/6311393_29123.html</link>
+            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6311393_29123.html</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-11-01</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임인년 새해의 상징 '검은 호랑이'는 상상 속 동물? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211231125200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211231125200502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[전신이 검은색인 호랑이는 발견된 사례 없어
+검은 줄무늬가 넓은 벵갈호랑이를 흑호로 부르기도
+(서울=연합뉴스) 이웅 기자 = 2022...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2021/12/31/AKR20211231125200502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['임인년' 새해가 밝았다고요?…아직 '신축년'입니다 (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211230127400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211230127400502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[60갑자 연도 표기는 음력이 기준…음력 설부터 임인년
+사주명리학에서는 입춘부터 새해로…"2월4일 오전 5시51분 이후 태어나야 호랑이띠"
+...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2021/12/28/PYH2021122818860005400_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국회의원 출마 연령 만 18세로 내린다는데…다른 나라는? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211229120800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211229120800502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[OECD 회원국 37개국 중 20개국이 만 18세…만 25세는 6개국
+(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 국회의원 선...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2021/12/14/PYH2021121417860005300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[편의점 심야 손님 없어도 위약금 때문에 24시간 영업한다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211228131600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211228131600502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[가맹본부와 계약때 편의점주가 '24시간 영업' 또는 '18시간 영업' 선택 가능
+'24시간 영업' 선택했더라도 3개월간 적자 나면 영업시간 ...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/cms/2019/02/18/38/PCM20190218000038990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나 간호사들, 정규직 사표 내고 파견직으로 간다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211228077900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211228077900502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[파견직 선호하는 간호사 많아…중수본에 등록된 파견 희망자 6천여 명
+정규직보다 임금은 높고 업무 강도는 약한 게 주된 이유
+(서...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2021/11/16/PYH2021111618230006500_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자영업자 폐업 안 하는 게 코로나 사태 호전 기대 때문? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211224141700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211224141700502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[폐업시 대출금 상환하고 정부 지원대상에서 제외되는 게 더 큰 이유
+폐업 신고 않고 문 잠근 채 배달기사 뛰는 자영업자도 많아
+(서울...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2021/12/22/PYH2021122219260001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영부인은 대통령 배우자만 지칭하는 용어? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211223122900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211223122900502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[남의 아내를 높여 이르는 보통명사…한자로 令夫人이어서 대통령의 령(領)자와 달라
+영식·영애도 남의 아들·딸 이르는 말…군사독재 거치며 대통령...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2021/12/23/PYH2021122306650001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알바해서 2천만~3천만원 번다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211222155800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211222155800502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[1년 내내 알바하면 2천만원 이상 가능
+통계청 통계로는 연 1천99만원…30대만 보면 1천567만원
+(서울=연합뉴스) 이웅 기자 ...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2021/08/05/PYH2021080502440003000_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백신 미접종자 혼밥 거부한 음식점에 벌금 부과 가능? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211221133300502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211221133300502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[현행법 위반에 해당하지 않아 처벌 불가능
+전문가들 "영업상 자유에 해당"…차별금지법도 없어
+(서울=연합뉴스) 박성제 기자 제은효 인...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2021/12/19/PYH2021121906130001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달리는 차에 커피 던진 걸로는 가벼운 처벌받는다고? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211220047100502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211220047100502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[전문가들 "특정범죄가중처벌법상 '운전자 폭행죄' 가능성 커"
+차량 손상됐다면 재물손괴죄로도 처벌받을 수 있어
+(서울=연합뉴스) 이웅...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2021/12/20/AKR20211220047100502_08_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PCR검사 면봉에 발암물질?…"걱정할 필요 없어" (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211217098800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211217098800502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[일부 제조업체가 면봉 멸균과정에서 'EO'(에틸렌옥사이드) 사용
+잔류량 기준 충족해야 식약처 승인받아
+(서울=연합뉴스) 박성제 기...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2021/09/28/PYH2021092802700001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나 사망자 중 접종자가 과반이어서 백신 효과 없다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211217133000502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211217133000502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[최춘식 의원 "백신 효과 없다는 것 드러났다" 주장
+질병관리청 "모수를 고려한 사망 발생률, 미접종군이 9배 높아"
+(서울=연합뉴스...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2021/12/15/PYH2021121503860001301_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내년부턴 남녀 성비 안 맞으면 채용 취소된다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211216046200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211216046200502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[개정 남녀고용평등법 시행 앞서 일각에서 우려·반발
+법 개정 취지는 '성차별 구제신청 개선'…노동위가 심판관 역할
+전문가들 "성비 안 맞는다고...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/cms/2019/11/27/97/PCM20191127000197990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['고양이 동영상'도 불법 촬영물인지 검열한다고? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211213103700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211213103700502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[모든 동영상 필터링하는 동안 등장하는 문구 때문에 생긴 해프닝
+플랫폼 사업자가 동영상 보는 게 아니라 디지털 코드 일치 여부 확인
+...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2021/12/13/AKR20211213103700502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BJ에게 후원한 별풍선 돌려받을 수 있나 (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211209165500502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211209165500502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[민법상 증여계약이어서 특별한 사유없으면 환불 어려워
+미성년자·피성년후견인인인 경우 돌려받을 여지 있어
+(서울=연합뉴스) 이웅 기자 ...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2021/12/09/AKR20211209165500502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기업 로고 패러디해 선거 홍보에 활용하면 상표법 위반? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211207073900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211207073900502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[동일 상품군 사용이 아니어서 상표권 침해로 보기 어려워
+패러디물이 기업 명성 손상하면 부정경쟁행위 가능성 커
+노래 개사해 선거 로고송으로 사...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/etc/inner/KR/2021/12/07/AKR20211207073900502_02_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부모가 코로나 재택치료하면 아들 기말시험은? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211206121600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211206121600502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[미접종이면 20일 격리…격리기간에 시험일 있으면 응시 불가
+중간고사 성적을 환산해 산정…공정성 논란도 있어
+(서울=연합뉴스) 이웅...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2021/11/18/PYH2021111809080001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[40대 이상 출입금지…차별행위로 처벌할 수 있나? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211203147000502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211203147000502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[영업상 고객층 제한할 수 있지만 인권위법상 차별행위 여지 커
+차별금지법 제정되지 않아 처벌은 어려워
+(서울=연합뉴스) 이웅 기자...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/photo/cms/2015/10/22/01/C0A8CA3D000001508E4EB59B0006529F_P2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[오미크론 확산세…바이러스 전파력 높으면 치명률 낮다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211202095200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211202095200502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[개연성 높지만 예외도 있어…스페인 독감이 대표적
+코로나19 델타 변이도 전파력·치명률 모두 높아
+(서울=연합뉴스) 장하나 기자 = ...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/photo/cms/2021/12/02/01/PCM20211202000101990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반려동물 치료받다 죽어도 진료기록 안 보여주는 이유는? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211202049200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211202049200502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[진료기록부 발급 놓고 보호자-수의사 분쟁 잦아
+수의사회 "진료부 발급시 자가 진료로 인한 약물 오남용·사회 혼란 우려"
+동물 보호자들 "알권...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/photo/cms/2019/08/10/61/PCM20190810000061063_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여성 초혼 연령 24.6세…만혼 현실과 동떨어졌다고? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211130083700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211130083700502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[통계청 발표에 인터넷 커뮤니티에서 "다들 늦게 결혼하는데…"
+통계 잘못 해석한 결과…수십 년 전 결혼한 사람까지 포함해 평균
+(서울...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/photo/cms/2019/12/13/48/PCM20191213000148990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PCR 검사 영문확인서 발급 수수료가 20만원? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211129155500502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211129155500502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[검사비 포함 총비용 12만~18만원…발급 수수료는 5천~2만원
+(서울=연합뉴스) 이웅 기자 = 단계적 일상회복(위드 코로나) 조치와...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2021/11/25/PYH2021112519670001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현장 CCTV 보려면 화면에 나온 사람들 동의 필요? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211125167000502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211125167000502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[CCTV 영상도 '개인정보'…수사·재판 목적 외에 제공 어려워
+(서울=연합뉴스) 장하나 기자 = 인천 '층간소음 흉기난동' 사건 당...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/etc/inner/KR/2021/11/25/AKR20211125167000502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오토바이 탄 채 횡단보도 건너면 위법? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211124118400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211124118400502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[도로교통법상 중앙선 침범·보행자 안전 위협 행위에 해당
+내려서 시동 끈 채 끌고 가야…자전거도 동일 규정 적용
+(서울=연합뉴스)...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/etc/inner/KR/2021/11/24/AKR20211124118400502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배달 전성시대 몸값 오른 라이더들 월수익은? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211126032200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211126032200502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[1주일에 200만원 넘었다는 수익인증 게시글 심심찮게 올라와
+"업계 평균으론 볼 수 없어"…보험료·유지비 등도 라이더가 부담
+코로나 확산과 ...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2021/03/02/PYH2021030217200001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=51290</link>
+            <guid>https://www.dongascience.com/news.php?idx=51290</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ellip">최근 일각에서 신종 코로나바이러스 감염증(COVID-19·코로나19)은 호흡기 바이러스이기 <span class="ellip-line">때문에 백신을 맞아 혈중 항체가 생기더라도 감염 자체를 막을 수 없다거나, 코로나19 백신 안에 미생물이 들어 있다는 주장이 나와 논란이 됐다. 유명 학교 명예교수나 전문의가 이같은 주장을 한 탓에 사실로 받아들여지기도 했다. 하지만 국내 전문가들에게 확인한 결과 주장을 내놓은 이들은 '감염병 전문가'가 아닌 데다, 주장에 대한 근거도 과학적이지 않은 것... </span></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크]오미크론 변이는 감기 바이러스의 혼종? (동아사이언스 ─ 팩트체크)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=50982</link>
+            <guid>https://www.dongascience.com/news.php?idx=50982</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ellip">최근 전세계적으로 확산하고 있는 신종 코로나바이러스 감염증(COVID-19·코로나19) 오미크론 <span class="ellip-line">변이의 유전정보를 분석한 결과 감기 바이러스와 공통적인 부분이 있다며 코로나19가 계절 감기처럼 토착화하고 있다는 연구 결과가 나왔다. 국내외에서 이와 관련한 기사가 여럿 나왔는데 전문가들에게 확인한 결과, 전혀 과학적인 분석 결과가 아니며 오히려 논리적으로 비약한 엉터리라는 지적이 나왔다. 미국 생체정보분석업체인 엔퍼런스 연구팀은 오미크론 변이... </span></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=49497</link>
+            <guid>https://www.dongascience.com/news.php?idx=49497</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ellip">12∼17세 소아청소년과 임신부를 대상으로 한 신종 코로나바이러스 <span class="ellip-line">감염증(COVID-19·코로나19) 백신 접종이 다음 달부터 시작되는 가운데 전문가들은 접종에 따른 위험보다 이득이 더 크다는 분석을 내놨다. 임신부 백신 접종은 이득이 더욱 크고 소아·청소년에게 발생할 수 있는 이상반응도 성인과 비슷한 정도라는 분석이다. 다음은 최은화 예방접종전문위원회 위원장과 김여향 대한소아심장학회 사회협력이사, 정은경 질병관리청장이 27일 질병관리... </span></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] mRNA 백신에 산화 그래핀이 들어 있다? (동아사이언스 ─ 팩트체크)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=49167</link>
+            <guid>https://www.dongascience.com/news.php?idx=49167</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ellip">최근 소셜네트워크서비스(SNS)와 기사 댓글에서 '미국 화이자와 독일 바이오엔테크가 개발한 <span class="ellip-line">신종 코로나바이러스 감염증(COVID-19·코로나19) 백신에 독극물인 '산화 그래핀'이 들어 있어 치명적인 부작용을 일으킨다'는 주장이 돌고 있다. 세계의 주요 보건기구와 각국의 철저한 허가를 거친 약품이라는 점에서 터무니 없다는 지적들이 대부분이다. 하지만 한편에선 마치 진짜 뉴스인마냥 온라인 커뮤니티 등을 떠돌고 있어 백신 접종을 앞두고... </span></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크]립밤이 코로나 확산 막는다? (동아사이언스 ─ 팩트체크)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=48889</link>
+            <guid>https://www.dongascience.com/news.php?idx=48889</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ellip">립밤을 입술에 바르면 신종 코로나바이러스 감염증(COVID-19·코로나19) 전파를 막는 효과가 <span class="ellip-line">있다는 주장이 일부 언론과 온라인 게시판 등에 올라와 사실 관계에 관심이 모아지고 있다. 이런 주장이 정부 산하의 출연연구기관이 제작을 지원하고 일부 언론을 통해 배포되는 외주제작 칼럼을 통해 제기됐는데 확인 결과 사용된 논리에 비약이 있고 해당 연구자도 사실과 다르다는 반응이어서 콘텐츠 검증을 강화할 필요성이 제기되고 있다. 최근 네이버와 다음 등... </span></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크]어린이는 코로나19에 걸려도 비교적 안전하다? (동아사이언스 ─ 팩트체크)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=48690</link>
+            <guid>https://www.dongascience.com/news.php?idx=48690</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ellip">그간 어린이는 신종 코로나바이러스 감염증(COVID-19·코로나19)에 감염돼도 대부분 무증상 <span class="ellip-line">또는 경미한 증상에 그쳐 성인보다 위험하지 않은 것으로 보고됐다. 한국을 포함해 세계 주요 나라에서 긴급사용승인이 떨어진 코로나19 백신도 18세 미만 소아청소년을 대상으로 한 임상시험 데이터가 없어 초기에는 백신 접종 대상에서 제외됐다. 현재 12세 이상으로 접종 연령이 확대된 백신은 화이자가 유일하다. 하지만 최근 전파력이 강한 인도 유래 델타 변이 바이... </span></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크]코로나19 백신 접종 후 식욕 늘었다? (동아사이언스 ─ 팩트체크)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=47479</link>
+            <guid>https://www.dongascience.com/news.php?idx=47479</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ellip">미국 존슨앤드존슨의 자회사 얀센이 개발한 신종 코로나바이러스 감염증(COVID-19·코로나19) <span class="ellip-line">백신을 맞고 식욕이 늘었다는 후기들이 소셜미디어와 온라인 커뮤니티, 일부 매체를 통해 퍼지고 있다. 백신을 맞은 후 희귀 혈전증과 같은 부작용을 우려하다가 식욕 증진이라는 다소 '부작용인 듯 부작용이 아닌 현상'이 나타난다는 내용의 접종 후기에 사람들은 흥미를 갖고 내용을 공유하고 있다. 일단 공식적인 내용을 살펴보면 코로나19예방접종추진단을... </span></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크]백신 맞고 하루이틀이면 술 마셔도 될까 (동아사이언스 ─ 팩트체크)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=47204</link>
+            <guid>https://www.dongascience.com/news.php?idx=47204</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ellip">국내에서 신종 코로나바이러스 감염증(COVID-19·코로나19) 백신을 한 번 이상 맞은 사람이 <span class="ellip-line">1000만을 넘어섰다. 코로나19 예방접종대응추진단(추진단)은 이날 오전 11시 기준 1006만705명이 백신 1차 접종을 마친 것으로 잠정 집계됐다고 밝혔다. 이는 전체 인구(지난해 12월 기준 5134만9116명) 약 19.6%에 해당한다. 접종 예약자 외에도 잔여백신을 맞은 30~50대들이 늘면서 코로나19로 제한됐던 일상생활 복귀에 대한 기대감도 커지고 있다. 지금도 하루 400~600명씩... </span></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[만연하는 가짜 의학정보] 코로나 백신, 싸면 비지떡인가 (동아사이언스 ─ 팩트체크)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=46644</link>
+            <guid>https://www.dongascience.com/news.php?idx=46644</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ellip">다국적 제약사 아스트라제네카와 영국 옥스퍼드대가 개발한 신종 코로나바이러스 <span class="ellip-line">감염증(COVID-19·코로나19) 백신의 가격이 다른 백신 종류에 비해 크게 떨어져 효능이 떨어지는 이른바 ‘싸구려’ 백신이라는 주장이 소셜미디어와 온라인 커뮤니티 등에서 퍼지고 있다. 세계 10대 경제대국에 해당하는 한국이 이런 싸구려 백신을 맞을 수 밖에 없는 것은 정부의 무능이라는 주장으로 이어진다. 하지만 이런 주장이 무색하게 백신의 가격과 효능은 비... </span></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[만연하는 가짜 의학정보]백신 맞기 전 알레르기약 복용하면 덜 아플까 (동아사이언스 ─ 팩트체크)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=45382</link>
+            <guid>https://www.dongascience.com/news.php?idx=45382</guid>
+            <pubDate>Sun, 02 Jan 2022 16:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ellip">"알레르기가 있는 사람은 백신을 접종하기 전 알레르기 약을 먼저 복용한 후 주사를 맞으면 덜 <span class="ellip-line">아프고 부작용도 없다." 신종 코로나바이러스 감염증(COVID-19·코로나19) 백신 접종과 관련해 최근 인터넷에 번지고 있는 내용의 일부다. 백신을 맞고 발열, 두통 등 각종 이상반응이 나타난다고 신고한 사람들이 늘고 있는 가운데 백신 접종을 앞둔 이들 사이에 확산하고 있다. 백신 접종 대상이 병원 종사자나 요양병원 입소자 외에도 일반 국민으로 확대... </span></span>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
