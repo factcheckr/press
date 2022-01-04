@@ -1,13 +1,3 @@
-[jtbc_factcheck]
-title = "JTBC 뉴스 ─ 팩트체크"
-url = "https://news.jtbc.joins.com/factcheck/"
-entrySelector = "div.bd.news_area ul li"
-titleSelector = "div.news dl dt"
-linkSelector = "div.news dl dt a"
-contentSelector = "dl dd.desc a"
-imageSelector = "div.news dl dd a img"
-waitForSelector = "div.bd.news_area ul li"
-
 [kbsnews_factcheck]
 title = "KBS뉴스 ─ 팩트체크K"
 url = "https://news.kbs.co.kr/news/list.do?mcd=1032"
