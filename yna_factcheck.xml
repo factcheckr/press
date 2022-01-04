@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 03:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 04:31:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백신 접종률 90% 넘은 상황에선 방역패스 실효성 없다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220104079900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220104079900502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 04 Jan 2022 04:30:20 GMT</pubDate>
+            <content:encoded><![CDATA[미접종자 감염 막는 데 기여…확진자 중 미접종자 비율 하락
+"3차 접종 독려하기 위해서도 백신 패스 중요"
+(서울=연합뉴스) 이웅 ...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2022/01/03/PYH2022010313780001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임인년 새해의 상징 '검은 호랑이'는 상상 속 동물?]]></title>
             <link>https://www.yna.co.kr/view/AKR20211231125200502?section=theme-list/factcheck</link>
@@ -241,16 +251,6 @@
 내려서 시동 끈 채 끌고 가야…자전거도 동일 규정 적용
 (서울=연합뉴스)...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/etc/inner/KR/2021/11/24/AKR20211124118400502_01_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배달 전성시대 몸값 오른 라이더들 월수익은?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211126032200502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211126032200502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[1주일에 200만원 넘었다는 수익인증 게시글 심심찮게 올라와
-"업계 평균으론 볼 수 없어"…보험료·유지비 등도 라이더가 부담
-코로나 확산과 ...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2021/03/02/PYH2021030217200001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
