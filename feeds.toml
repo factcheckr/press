@@ -78,3 +78,11 @@ linkSelector = "div.newest_area a.link_today"
 contentSelector = "div.newest_area a.link_today div.text_area p.sbtit"
 imageSelector = "div.verify-box span.face"
 waitUntil = "networkidle"
+
+[hani_factcheck]
+title = "한겨레 ─ 팩트체크"
+url = "https://www.hani.co.kr/arti/SERIES/1459/title1.html"
+entrySelector = "div.series-list-area ul.one-type li"
+titleSelector = "a"
+linkSelector = "a"
+waitUntil = "networkidle"
