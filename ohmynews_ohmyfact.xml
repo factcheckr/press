@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 09:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 10:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["문재인 정부 수도권 공급량 역대 최대" 심상정 주장 '사실']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002800322</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002800322</guid>
+            <pubDate>Wed, 05 Jan 2022 10:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[[삼프로TV 팩트체크③] "코로나19 추가 재정 지출, OECD 국가 1/3" 주장 '대체로 사실']]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/010513124070.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["작전주 모르고 투자해 무죄" 이재명 주장 '대체로 사실']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002800313</link>
@@ -37,14 +45,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002795951</guid>
             <pubDate>Mon, 03 Jan 2022 08:30:28 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] &lt;조선일보&gt;에서 시작된 잘못된 계산법... 청년고용·주거지원 예산까지 포함]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["주52시간제, 1년만에 16시간 단축" 윤석열 주장은 '거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002795713</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002795713</guid>
-            <pubDate>Mon, 03 Jan 2022 08:30:28 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 한국도 3~4년 단계적 시행... "일본은 1년에 2시간씩 단축" 주장도 근거 부족해]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/063014413355.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
