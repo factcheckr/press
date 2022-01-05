@@ -4,9 +4,25 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 04:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 05:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["작전주 모르고 투자해 무죄" 이재명 주장 '대체로 사실']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002800313</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002800313</guid>
+            <pubDate>Wed, 05 Jan 2022 05:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[[삼프로TV 팩트체크 ①] "높은 가계부채비율, 정부 가계지원 부족 탓"도 '대체로 사실']]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/110902400291.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["국민 10% 종부세 영향" 윤석열 주장 '반복된 거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002800315</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002800315</guid>
+            <pubDate>Wed, 05 Jan 2022 05:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[[삼프로TV 팩트체크 ②] "주52시간제, 1년에 16시간 단축"도 역시 거짓말 반복]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/063014413355.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[선관위가 이재명 '욕설' 원본 유포 허용?... 국힘 주장은 '사실반 거짓반']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002796874</link>
@@ -29,21 +45,6 @@
             <pubDate>Mon, 03 Jan 2022 08:30:28 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 한국도 3~4년 단계적 시행... "일본은 1년에 2시간씩 단축" 주장도 근거 부족해]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/063014413355.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["n번방 방지법은 사전검열법" 국민의힘 주장 '대체로 거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002795166</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002795166</guid>
-            <pubDate>Mon, 03 Jan 2022 08:30:28 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 이미 공개된 불법촬영물 '코드'만 비교... 단톡방·텔레그램 등 '사적 대화방' 제외]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/120610245888.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["미국·유럽은 '딥페이크' 선거 금지"... 사실 반 거짓 반]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002794784</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002794784</guid>
-            <pubDate>Mon, 03 Jan 2022 08:30:28 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 명예훼손 등 악의적 활용 규제하지만 그 자체는 위반 아냐... '유권자 기만' 우려]]></content:encoded>
         </item>
     </channel>
 </rss>
