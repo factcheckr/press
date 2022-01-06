@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 05:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 06:29:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <content:encoded><![CDATA[<span>2021-11-01</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[마스크 1장당 5만원에 팔고 환불 거부한 약국…위법? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220106114100502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220106114100502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 06 Jan 2022 06:28:24 GMT</pubDate>
+            <content:encoded><![CDATA[의약품 판매자 가격표시제 1999년 도입…가격 상한 규정은 없어
+전자상거래와 달리 오프라인 쇼핑시 환불 의무도 없어
+(서울...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/cms/2018/12/27/35/PCM20181227000135990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리나라 탈모 인구가 1천만 명이라고? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220106076400502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220106076400502?section=theme-list/factcheck</guid>
@@ -578,15 +588,6 @@
 통계 잘못 해석한 결과…수십 년 전 결혼한 사람까지 포함해 평균
 (서울...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/photo/cms/2019/12/13/48/PCM20191213000148990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PCR 검사 영문확인서 발급 수수료가 20만원? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211129155500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211129155500502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[검사비 포함 총비용 12만~18만원…발급 수수료는 5천~2만원
-(서울=연합뉴스) 이웅 기자 = 단계적 일상회복(위드 코로나) 조치와...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2021/11/25/PYH2021112519670001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
