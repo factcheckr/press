@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 09:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 10:24:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["공기업 부채 많은데 부채비율 낮다 속여" 안철수 주장 '대체로 거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002800620</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002800620</guid>
+            <pubDate>Thu, 06 Jan 2022 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[[삼프로TV 팩트체크 ④] "국민연금 2055년 고갈, 2088년 누적적자 1경 7천조"는 '사실반 거짓반']]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/071318280723.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["문재인 정부 수도권 공급량 역대 최대" 심상정 주장 '사실']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002800322</link>
@@ -38,13 +46,6 @@
             <pubDate>Mon, 03 Jan 2022 08:30:28 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 선관위 유권해석을 어떻게 해석해야 하는가... 법원, 낙선·비방 목적일 경우 '위법성' 인정]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/120610245888.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["신생아 1인당 예산이 2억 원" 주장은 '거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002795951</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002795951</guid>
-            <pubDate>Mon, 03 Jan 2022 08:30:28 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] &lt;조선일보&gt;에서 시작된 잘못된 계산법... 청년고용·주거지원 예산까지 포함]]></content:encoded>
         </item>
     </channel>
 </rss>
