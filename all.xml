@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 01:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 02:45:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <content:encoded><![CDATA[<span>2021-11-01</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[우리나라 탈모 인구가 1천만 명이라고? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220106076400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220106076400502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 06 Jan 2022 02:43:58 GMT</pubDate>
+            <content:encoded><![CDATA['탈모 건보 적용 검토' 보도 나온 뒤 "1천만명 혜택" 등 반응
+건강보험공단·통계청 등에서는 탈모 인구 집계하지 않아
+"남성 20% 탈모...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/cms/2017/05/26/01/C0A8CAE20000015C426391C500000057_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[대한민국 대통령은 취임식만 있고 퇴임식은 없다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220105033800502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220105033800502?section=theme-list/factcheck</guid>
@@ -577,15 +587,6 @@
             <content:encoded><![CDATA[검사비 포함 총비용 12만~18만원…발급 수수료는 5천~2만원
 (서울=연합뉴스) 이웅 기자 = 단계적 일상회복(위드 코로나) 조치와...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2021/11/25/PYH2021112519670001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현장 CCTV 보려면 화면에 나온 사람들 동의 필요? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211125167000502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211125167000502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[CCTV 영상도 '개인정보'…수사·재판 목적 외에 제공 어려워
-(서울=연합뉴스) 장하나 기자 = 인천 '층간소음 흉기난동' 사건 당...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/etc/inner/KR/2021/11/25/AKR20211125167000502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
