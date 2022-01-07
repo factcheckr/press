@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 11:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 12:34:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["윤석열 수사한 5명 극단 선택" 이재명 발언은 '사실 반 거짓 반']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002801118</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002801118</guid>
+            <pubDate>Fri, 07 Jan 2022 12:34:54 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 홍준표·유승민 국힘 경선 당시 발언의 재탕... 서울중앙지검장 때 수사한 사람은 3명]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/110902400291.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["공기업 부채 많은데 부채비율 낮다 속여" 안철수 주장 '대체로 거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002800620</link>
@@ -38,14 +46,6 @@
             <pubDate>Wed, 05 Jan 2022 05:21:46 GMT</pubDate>
             <content:encoded><![CDATA[[삼프로TV 팩트체크 ②] "주52시간제, 1년에 16시간 단축"도 역시 거짓말 반복]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/063014413355.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선관위가 이재명 '욕설' 원본 유포 허용?... 국힘 주장은 '사실반 거짓반']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002796874</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002796874</guid>
-            <pubDate>Mon, 03 Jan 2022 08:30:28 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 선관위 유권해석을 어떻게 해석해야 하는가... 법원, 낙선·비방 목적일 경우 '위법성' 인정]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/120610245888.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
