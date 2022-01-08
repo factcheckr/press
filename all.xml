@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 01:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 02:43:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,15 @@
             <content:encoded><![CDATA[<span>2021-11-01</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[아래층에서 우퍼 스피커로 층간소음 보복해도 괜찮다고? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220107080000502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220107080000502?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 08 Jan 2022 02:42:33 GMT</pubDate>
+            <content:encoded><![CDATA[음향으로 지속해서 괴롭히는 것도 스토킹 처벌법 적용 대상
+(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 코로나19로 인해 집에 ...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/photo/cms/2020/03/30/46/PCM20200330000146990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[마스크 1장당 5만원에 팔고 환불 거부한 약국…위법? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220106114100502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220106114100502?section=theme-list/factcheck</guid>
@@ -578,16 +587,6 @@
 수의사회 "진료부 발급시 자가 진료로 인한 약물 오남용·사회 혼란 우려"
 동물 보호자들 "알권...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/photo/cms/2019/08/10/61/PCM20190810000061063_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성 초혼 연령 24.6세…만혼 현실과 동떨어졌다고? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211130083700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211130083700502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[통계청 발표에 인터넷 커뮤니티에서 "다들 늦게 결혼하는데…"
-통계 잘못 해석한 결과…수십 년 전 결혼한 사람까지 포함해 평균
-(서울...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/cms/2019/12/13/48/PCM20191213000148990_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
