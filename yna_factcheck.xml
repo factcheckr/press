@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 22:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 23:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백신 미접종 간호사는 코로나 업무 할 수 없다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220107140700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220107140700502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 09 Jan 2022 23:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[정부는 접종 여부 상관없이 간호사 파견…일부 병원이 미접종자 거부
+미접종 간호사 주 1회 PCR 받아…의심 증상 있으면 즉시 배제
+...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2021/12/21/PYH2021122109690001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아래층에서 우퍼 스피커로 층간소음 보복해도 괜찮다고?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220107080000502?section=theme-list/factcheck</link>
@@ -242,16 +252,6 @@
 코로나19 델타 변이도 전파력·치명률 모두 높아
 (서울=연합뉴스) 장하나 기자 = ...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/photo/cms/2021/12/02/01/PCM20211202000101990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반려동물 치료받다 죽어도 진료기록 안 보여주는 이유는?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211202049200502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211202049200502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[진료기록부 발급 놓고 보호자-수의사 분쟁 잦아
-수의사회 "진료부 발급시 자가 진료로 인한 약물 오남용·사회 혼란 우려"
-동물 보호자들 "알권...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/cms/2019/08/10/61/PCM20190810000061063_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
