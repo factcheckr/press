@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 08:27:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 09:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -739,11 +739,11 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/09/12/l_2020091101001474400115001.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤석열 '병사 봉급 200만 원', 하사보다 많다? '사실' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <title><![CDATA[윤석열 '병사 봉급 200만 원', 하사보다 많다?... 사실 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002801598</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002801598</guid>
             <pubDate>Mon, 10 Jan 2022 05:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 하사·소위 초봉 170만 원대... 수당 제외하면 '군인 봉급 역전' 현상]]></content:encoded>
+            <content:encoded><![CDATA[[팩트체크] 하사·소위 초봉 170만 원대... 수당 제외하면 '봉급 역전' 현상]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["윤석열 수사한 5명 극단 선택" 이재명 발언은 '사실 반 거짓 반' (오마이뉴스 ─ 오마이팩트)]]></title>
