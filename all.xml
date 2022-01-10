@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 21:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 22:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크K] 한국의 코로나19 방역 통제, 가장 낮은 수준이다? (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5369310</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5369310</guid>
+            <pubDate>Mon, 10 Jan 2022 22:22:30 GMT</pubDate>
+            <content:encoded><![CDATA['방역패스(접종증명·음성확인제)'의 효력을 두고 법정 공방이 이어지고 있는 가운데 어제(1...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/01/10/173501641791885825.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크K] 코로나19 백신 맞으면 면역력이 떨어진다고?…전문가들 “황당 그 자체” (KBS뉴스 ─ 팩트체크K)]]></title>
             <link>https://news.kbs.co.kr/news/view.do?ncd=5357142</link>
@@ -126,14 +134,6 @@
             <pubDate>Sun, 02 Jan 2022 16:16:47 GMT</pubDate>
             <content:encoded><![CDATA[오늘(9일)부터 18~49세 사이 코로나19 백신 접종 대상자들의 예약이 시작됩니다. 예약...]]></content:encoded>
             <enclosure url="https://news.kbs.co.kr/data/news/2021/08/09/20210809_h0KDoL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크K] ‘최저임금 연평균 인상률’ 문재인 정부가 박근혜 정부보다 높다? (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=5235861</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=5235861</guid>
-            <pubDate>Sun, 02 Jan 2022 16:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[문재인 정부 마지막 해인 내년 최저임금이 확정됐습니다. 최저임금위원회가 지난 13일 의결한...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/news/2021/07/19/20210719_Q0f4Pd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 탈모약 보험 적용, 700~800억 원 정도면 될까 (SBS뉴스 ─ 사실은)]]></title>
