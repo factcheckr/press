@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 22:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 23:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연초 꽃값 폭등은 도매상 담합 때문?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220110151700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220110151700502?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 10 Jan 2022 23:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[작년 말 한파로 공급 줄고 연초 졸업식 몰린 영향이 커
+담합 근거는 뚜렷하지 않아…농림부, 공정위에 검토 요청
+(서울=연합뉴스) 이...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2022/01/09/PYH2022010906270001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백신 미접종 간호사는 코로나 업무 할 수 없다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220107140700502?section=theme-list/factcheck</link>
@@ -242,16 +252,6 @@
 차별금지법 제정되지 않아 처벌은 어려워
 (서울=연합뉴스) 이웅 기자...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/photo/cms/2015/10/22/01/C0A8CA3D000001508E4EB59B0006529F_P2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[오미크론 확산세…바이러스 전파력 높으면 치명률 낮다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211202095200502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211202095200502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[개연성 높지만 예외도 있어…스페인 독감이 대표적
-코로나19 델타 변이도 전파력·치명률 모두 높아
-(서울=연합뉴스) 장하나 기자 = ...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/photo/cms/2021/12/02/01/PCM20211202000101990_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
