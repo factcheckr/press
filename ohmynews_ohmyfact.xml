@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 07:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 08:27:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["가까운 이마트에서 방역패스 점검" 윤석열 해명 '거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002802018</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002802018</guid>
+            <pubDate>Tue, 11 Jan 2022 08:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 이마트 이수점, 방역패스 대상 아냐... 집과 가까운 3000㎡ 이상 마트 2곳 존재]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/063014413355.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 '병사 봉급 200만 원', 하사보다 많다?... 사실]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002801598</link>
@@ -37,14 +45,6 @@
             <pubDate>Wed, 05 Jan 2022 10:24:20 GMT</pubDate>
             <content:encoded><![CDATA[[삼프로TV 팩트체크③] "코로나19 추가 재정 지출, OECD 국가 1/3" 주장 '대체로 사실']]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/010513124070.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["작전주 모르고 투자해 무죄" 이재명 주장 '대체로 사실']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002800313</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002800313</guid>
-            <pubDate>Wed, 05 Jan 2022 05:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[[삼프로TV 팩트체크 ①] "높은 가계부채비율, 정부 가계지원 부족 탓"도 '대체로 사실']]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/110902400291.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
