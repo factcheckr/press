@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 23:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 01:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알짜배기 사업 물적분할은 기존 주주의 주주권 침해?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220112046900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220112046900502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 12 Jan 2022 01:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[이론적으로 물적분할에 따른 기업 가치나 주식 변동은 없어
+분할 자회사 상장시 모회사 가치 하락 불가피…"이해상충 우려"
+(서울=연...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2022/01/12/AKR20220112046900502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연초 꽃값 폭등은 도매상 담합 때문?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220110151700502?section=theme-list/factcheck</link>
@@ -242,16 +252,6 @@
 중간고사 성적을 환산해 산정…공정성 논란도 있어
 (서울=연합뉴스) 이웅...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2021/11/18/PYH2021111809080001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[40대 이상 출입금지…차별행위로 처벌할 수 있나?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211203147000502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211203147000502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[영업상 고객층 제한할 수 있지만 인권위법상 차별행위 여지 커
-차별금지법 제정되지 않아 처벌은 어려워
-(서울=연합뉴스) 이웅 기자...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/photo/cms/2015/10/22/01/C0A8CA3D000001508E4EB59B0006529F_P2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
