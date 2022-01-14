@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 10:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 11:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -738,6 +738,13 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/09/12/l_2020091101001474400115001.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["독감 사망자가 코로나19보다 많다" 최춘식 의원 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002802950</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002802950</guid>
+            <pubDate>Fri, 14 Jan 2022 11:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 최 의원의 이상한 계산법 두 가지... 전문가들 "부적절한 계산"]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["주52시간제가 광주 참사 불렀다" 언론 보도는 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002802669</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002802669</guid>
@@ -766,14 +773,6 @@
             <pubDate>Fri, 07 Jan 2022 12:34:54 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 홍준표·유승민 국힘 경선 당시 발언의 재탕... 서울중앙지검장 때 수사한 사람은 3명]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/110902400291.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["공기업 부채 많은데 부채비율 낮다 속여" 안철수 주장 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002800620</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002800620</guid>
-            <pubDate>Thu, 06 Jan 2022 10:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[[삼프로TV 팩트체크 ④] "국민연금 2055년 고갈, 2088년 누적적자 1경 7천조"는 '사실반 거짓반']]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/071318280723.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
