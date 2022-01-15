@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 01:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 02:46:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아파트명에서 아이파크 빼려면 현대산업개발 동의 필수?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220114156600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220114156600502?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 15 Jan 2022 02:45:18 GMT</pubDate>
+            <content:encoded><![CDATA[아파트 이름에 건설사 브랜드를 추가할 경우에는 회사 동의 받아야
+뺄 경우에는 명확하지 않아…지자체가 자체 판단해 요구하기도
+...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2022/01/14/PYH2022011415260005400_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매장 주방서 흡연한 직원, 어떤 처벌 받을까?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220113155700502?section=theme-list/factcheck</link>
@@ -241,16 +251,6 @@
 플랫폼 사업자가 동영상 보는 게 아니라 디지털 코드 일치 여부 확인
 ...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2021/12/13/AKR20211213103700502_01_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BJ에게 후원한 별풍선 돌려받을 수 있나]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211209165500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211209165500502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[민법상 증여계약이어서 특별한 사유없으면 환불 어려워
-미성년자·피성년후견인인인 경우 돌려받을 여지 있어
-(서울=연합뉴스) 이웅 기자 ...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2021/12/09/AKR20211209165500502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
