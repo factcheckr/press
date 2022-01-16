@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 23:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 01:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <content:encoded><![CDATA[<span>2021-11-01</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[우리나라 산업용 전기요금이 다른 나라보다 비싸다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220114176800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220114176800502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 16 Jan 2022 01:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[OECD 회원국 평균보다 낮아…34개국 중 23번째 비싸
+가정용 대비 산업용 가격 수준은 높아…IEA 회원국 중 2위
+(서울=연...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/01/13/PYH2022011313220001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아파트명에서 아이파크 빼려면 현대산업개발 동의 필수? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220114156600502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220114156600502?section=theme-list/factcheck</guid>
@@ -576,16 +586,6 @@
 법 개정 취지는 '성차별 구제신청 개선'…노동위가 심판관 역할
 전문가들 "성비 안 맞는다고...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/photo/cms/2019/11/27/97/PCM20191127000197990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['고양이 동영상'도 불법 촬영물인지 검열한다고? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211213103700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211213103700502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[모든 동영상 필터링하는 동안 등장하는 문구 때문에 생긴 해프닝
-플랫폼 사업자가 동영상 보는 게 아니라 디지털 코드 일치 여부 확인
-...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2021/12/13/AKR20211213103700502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
