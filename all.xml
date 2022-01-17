@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 07:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 08:28:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <content:encoded><![CDATA[<span>2021-11-01</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오미크론 차단하려면 고품질 마스크 써야? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220117128700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220117128700502?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 17 Jan 2022 08:27:41 GMT</pubDate>
+            <content:encoded><![CDATA[미국 방역당국, 일반인에게도 의료용 마스크 N95 권고
+우리나라에서 많이 쓰는 KF94 성능, N95와 비슷
+(서울=연합뉴스) 이...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/01/13/PYH2022011305620034000_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리나라 산업용 전기요금이 다른 나라보다 비싸다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220114176800502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220114176800502?section=theme-list/factcheck</guid>
@@ -576,16 +586,6 @@
 질병관리청 "모수를 고려한 사망 발생률, 미접종군이 9배 높아"
 (서울=연합뉴스...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2021/12/15/PYH2021121503860001301_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내년부턴 남녀 성비 안 맞으면 채용 취소된다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211216046200502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211216046200502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[개정 남녀고용평등법 시행 앞서 일각에서 우려·반발
-법 개정 취지는 '성차별 구제신청 개선'…노동위가 심판관 역할
-전문가들 "성비 안 맞는다고...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/photo/cms/2019/11/27/97/PCM20191127000197990_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
