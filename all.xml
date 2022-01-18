@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 23:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 01:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <content:encoded><![CDATA[<span>2021-11-01</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[이재명·윤석열 후보 양자 TV 토론은 위법? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220117151200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220117151200502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 18 Jan 2022 01:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[언론기관 개최 토론회는 언론사 자율적으로 참석자 선정
+단체 주관 토론회는 모든 후보에게 공평하게 해야
+선거방송토론위 개최 토론회는 지지율...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/photo/cms/2021/11/09/82/PCM20211109000082990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오미크론 차단하려면 고품질 마스크 써야? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220117128700502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220117128700502?section=theme-list/factcheck</guid>
@@ -576,16 +586,6 @@
 잔류량 기준 충족해야 식약처 승인받아
 (서울=연합뉴스) 박성제 기...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2021/09/28/PYH2021092802700001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나 사망자 중 접종자가 과반이어서 백신 효과 없다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211217133000502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211217133000502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[최춘식 의원 "백신 효과 없다는 것 드러났다" 주장
-질병관리청 "모수를 고려한 사망 발생률, 미접종군이 9배 높아"
-(서울=연합뉴스...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2021/12/15/PYH2021121503860001301_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
