@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 09:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 10:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -738,6 +738,13 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/09/12/l_2020091101001474400115001.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['기호 2번 윤석열' 어깨띠 선거법 위반? '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002803789</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002803789</guid>
+            <pubDate>Tue, 18 Jan 2022 10:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 원내정당 후보, 기호 결정 전에도 사용 가능... "원외정당·무소속 불리"]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["독감 사망자가 코로나19보다 많다" 최춘식 의원 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002802950</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002802950</guid>
@@ -765,14 +772,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002801598</guid>
             <pubDate>Mon, 10 Jan 2022 05:25:41 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 하사·소위 초봉 170만 원대... 수당 제외하면 '봉급 역전' 현상]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["윤석열 수사한 5명 극단 선택" 이재명 발언은 '사실 반 거짓 반' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002801118</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002801118</guid>
-            <pubDate>Fri, 07 Jan 2022 12:34:54 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 홍준표·유승민 국힘 경선 당시 발언의 재탕... 서울중앙지검장 때 수사한 사람은 3명]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/110902400291.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
