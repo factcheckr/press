@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 04:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 05:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <content:encoded><![CDATA[<span>2021-11-01</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[카카오톡 대화 내용, 청와대가 감시한다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220119076500502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220119076500502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 19 Jan 2022 05:18:11 GMT</pubDate>
+            <content:encoded><![CDATA['카카오톡에 청와대앱이 설치됐다'는 글과 대처법 인터넷에 확산
+'소셜 로그인' 잘못 이해한 데서 비롯된 허위 정보
+'소셜 로그인', 편리하지...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/etc/inner/KR/2022/01/19/AKR20220119076500502_03_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이재명·윤석열 후보 양자 TV 토론은 위법? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220117151200502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220117151200502?section=theme-list/factcheck</guid>
@@ -576,16 +586,6 @@
 차량 손상됐다면 재물손괴죄로도 처벌받을 수 있어
 (서울=연합뉴스) 이웅...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2021/12/20/AKR20211220047100502_08_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PCR검사 면봉에 발암물질?…"걱정할 필요 없어" (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211217098800502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211217098800502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[일부 제조업체가 면봉 멸균과정에서 'EO'(에틸렌옥사이드) 사용
-잔류량 기준 충족해야 식약처 승인받아
-(서울=연합뉴스) 박성제 기...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2021/09/28/PYH2021092802700001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
