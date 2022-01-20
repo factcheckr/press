@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 21:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 22:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -738,6 +738,13 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/09/12/l_2020091101001474400115001.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["이재명 4년 중임제, 대통령 8년 하려는 속임수" 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002804336</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002804336</guid>
+            <pubDate>Thu, 20 Jan 2022 22:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 개헌 당시 대통령은 중임 불가능... 안철수의 발언도 언론 보도와는 맥락 달라]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['기호 2번 윤석열' 어깨띠 선거법 위반? '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002803789</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002803789</guid>
@@ -765,13 +772,6 @@
             <pubDate>Tue, 11 Jan 2022 08:27:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 이마트 이수점, 방역패스 대상 아냐... 집과 가까운 3000㎡ 이상 마트 2곳 존재]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/063014413355.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 '병사 봉급 200만 원', 하사보다 많다?... 사실 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002801598</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002801598</guid>
-            <pubDate>Mon, 10 Jan 2022 05:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 하사·소위 초봉 170만 원대... 수당 제외하면 '봉급 역전' 현상]]></content:encoded>
         </item>
     </channel>
 </rss>
