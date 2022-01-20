@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 07:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 08:24:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <content:encoded><![CDATA[<span>2021-11-01</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[제설제 염화칼슘이 강아지에게 화상 입힌다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220120139300502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220120139300502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 20 Jan 2022 08:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[반려견 화상 경고하는 언론보도·인터넷 게시글 등 많아
+전문가들 "염화칼슘 녹을 때 발열 현상…화상 입힐 정도는 아냐"
+(서울=연합...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/01/12/PYH2022011215250006200_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카카오톡 대화 내용, 청와대가 감시한다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220119076500502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220119076500502?section=theme-list/factcheck</guid>
@@ -576,16 +586,6 @@
 전문가들 "영업상 자유에 해당"…차별금지법도 없어
 (서울=연합뉴스) 박성제 기자 제은효 인...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2021/12/19/PYH2021121906130001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달리는 차에 커피 던진 걸로는 가벼운 처벌받는다고? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211220047100502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211220047100502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[전문가들 "특정범죄가중처벌법상 '운전자 폭행죄' 가능성 커"
-차량 손상됐다면 재물손괴죄로도 처벌받을 수 있어
-(서울=연합뉴스) 이웅...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2021/12/20/AKR20211220047100502_08_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
