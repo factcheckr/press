@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 23:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 01:05:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <content:encoded><![CDATA[<span>2021-11-01</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[코로나 감염됐더니 모유 색이 녹색으로 바뀌었다고? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220121149800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220121149800502?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 22 Jan 2022 01:05:02 GMT</pubDate>
+            <content:encoded><![CDATA[엄마가 먹는 음식 등에 따라 모유 색깔 바뀔 수 있어
+바이러스 감염·백신 접종 등도 영향 가능성…전문가 "수유 문제없어"
+(서울=...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2022/01/21/AKR20220121149800502_02_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제설제 염화칼슘이 강아지에게 화상 입힌다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220120139300502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220120139300502?section=theme-list/factcheck</guid>
@@ -576,16 +586,6 @@
 통계청 통계로는 연 1천99만원…30대만 보면 1천567만원
 (서울=연합뉴스) 이웅 기자 ...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2021/08/05/PYH2021080502440003000_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백신 미접종자 혼밥 거부한 음식점에 벌금 부과 가능? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211221133300502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211221133300502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[현행법 위반에 해당하지 않아 처벌 불가능
-전문가들 "영업상 자유에 해당"…차별금지법도 없어
-(서울=연합뉴스) 박성제 기자 제은효 인...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2021/12/19/PYH2021121906130001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
