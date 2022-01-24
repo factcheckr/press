@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 02:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 03:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["외국인 담보대출 100%, 내국인 역차별" 안철수 주장 '대체로 거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002804606</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002804606</guid>
+            <pubDate>Mon, 24 Jan 2022 03:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 내·외국인 대출 규제 동일... '외국인 투기세'는 오히려 차별 지적]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/071318280723.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["이재명 4년 중임제, 대통령 8년 하려는 속임수" 주장은 '거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002804336</link>
@@ -34,14 +42,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002802669</guid>
             <pubDate>Fri, 14 Jan 2022 04:29:09 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 현대산업개발 공사 수주 전부터 시행... 기사에 인용된 보고서 작성자도 부인]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["가까운 이마트에서 방역패스 점검" 윤석열 해명 '거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002802018</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002802018</guid>
-            <pubDate>Tue, 11 Jan 2022 08:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 이마트 이수점, 방역패스 대상 아냐... 집과 가까운 3000㎡ 이상 마트 2곳 존재]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/063014413355.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
