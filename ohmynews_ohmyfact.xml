@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 10:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 11:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["오미크론 못 막아"... '부스터샷 무용론' 대체로 거짓]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002805724</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002805724</guid>
+            <pubDate>Wed, 26 Jan 2022 11:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 3차 접종 뒤 오미크론 변이 중화항체 증가 확인... 중증 예방 효과도 지속]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["외국인 담보대출 100%, 내국인 역차별" 안철수 주장 '대체로 거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002804606</link>
@@ -35,13 +42,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002802950</guid>
             <pubDate>Fri, 14 Jan 2022 11:19:02 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 최 의원의 이상한 계산법 두 가지... 전문가들 "부적절한 계산"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["주52시간제가 광주 참사 불렀다" 언론 보도는 '거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002802669</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002802669</guid>
-            <pubDate>Fri, 14 Jan 2022 04:29:09 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 현대산업개발 공사 수주 전부터 시행... 기사에 인용된 보고서 작성자도 부인]]></content:encoded>
         </item>
     </channel>
 </rss>
