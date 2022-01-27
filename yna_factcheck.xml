@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 03:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 04:26:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대선후보 지지율 여론조사에서 허경영 제외하면 불공정?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220127105100502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220127105100502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 27 Jan 2022 04:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[선관위, 특정 후보 포함 관련 규정 없어…조사기관이 자율적으로 선정
+질문내용과 표본 등이 편향됐는지는 심의
+(서울=연합뉴스) 장하나...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2022/01/03/PYH2022010307940001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노동운동 역사 오래된 나라는 노동이사제 안 한다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220125142800502?section=theme-list/factcheck</link>
@@ -241,15 +251,6 @@
 폐업 신고 않고 문 잠근 채 배달기사 뛰는 자영업자도 많아
 (서울...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2021/12/22/PYH2021122219260001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영부인은 대통령 배우자만 지칭하는 용어?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211223122900502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211223122900502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[남의 아내를 높여 이르는 보통명사…한자로 令夫人이어서 대통령의 령(領)자와 달라
-영식·영애도 남의 아들·딸 이르는 말…군사독재 거치며 대통령...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2021/12/23/PYH2021122306650001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
