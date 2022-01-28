@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 12:31:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 13:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -145,7 +145,7 @@
             <enclosure url="https://img.sbs.co.kr/newimg/news/20220128/201632512_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["진보? 보수? 됐어요!"…2030 표심의 숨겨진 진실 [사실은x마부작침] (SBS뉴스 ─ 사실은)]]></title>
+            <title><![CDATA[[사실은x마부작침] "진보? 보수? 됐어요!"…2030 표심의 숨겨진 진실 (SBS뉴스 ─ 사실은)]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006620445&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006620445&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Fri, 28 Jan 2022 09:20:48 GMT</pubDate>
