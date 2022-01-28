@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 10:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 11:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -738,6 +738,13 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/09/12/l_2020091101001474400115001.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["세종시 접종률 꼴찌, 공무원 백신 기피 탓" 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002806448</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002806448</guid>
+            <pubDate>Fri, 28 Jan 2022 11:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] '접종 제외' 아동 비중 높은 탓... 성인 접종률은 큰 차이 없어]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["오미크론 못 막아"... '부스터샷 무용론' 대체로 거짓 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002805724</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002805724</guid>
@@ -765,13 +772,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002803789</guid>
             <pubDate>Tue, 18 Jan 2022 10:24:43 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 원내정당 후보, 기호 결정 전에도 사용 가능... "원외정당·무소속 불리"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["독감 사망자가 코로나19보다 많다" 최춘식 의원 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002802950</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002802950</guid>
-            <pubDate>Fri, 14 Jan 2022 11:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 최 의원의 이상한 계산법 두 가지... 전문가들 "부적절한 계산"]]></content:encoded>
         </item>
     </channel>
 </rss>
