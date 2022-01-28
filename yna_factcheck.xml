@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 22:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 23:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대통령 건강 상태는 국가 기밀?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220128181900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220128181900502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 28 Jan 2022 23:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[보안업무규정상 2급 비밀…청와대에서 공개한 경우도 있어
+2018년 "문 대통령 몸살감기" 브리핑…박근혜 대통령 때는 위경련·인두염 등 수시로...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/01/28/PYH2022012814450001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대선후보 지지율 여론조사에서 허경영 제외하면 불공정?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220127105100502?section=theme-list/factcheck</link>
@@ -241,16 +250,6 @@
 정규직보다 임금은 높고 업무 강도는 약한 게 주된 이유
 (서...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2021/11/16/PYH2021111618230006500_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자영업자 폐업 안 하는 게 코로나 사태 호전 기대 때문?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211224141700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211224141700502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[폐업시 대출금 상환하고 정부 지원대상에서 제외되는 게 더 큰 이유
-폐업 신고 않고 문 잠근 채 배달기사 뛰는 자영업자도 많아
-(서울...]]></content:encoded>
-            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2021/12/22/PYH2021122219260001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
