@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 22:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 23:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중대재해처벌법 처벌수위, 해외에서 보기 어려울 만큼 높다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220128176900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220128176900502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 30 Jan 2022 23:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[경영책임자 처벌할 수 있고 형량도 하한형인 '징역 1년 이상'
+호주도 사용자 처벌할 수 있어…영국·캐나다는 벌금에 상한 없어
+...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/01/27/PYH2022012717330001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대통령 건강 상태는 국가 기밀?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220128181900502?section=theme-list/factcheck</link>
@@ -240,16 +250,6 @@
             <content:encoded><![CDATA[가맹본부와 계약때 편의점주가 '24시간 영업' 또는 '18시간 영업' 선택 가능
 '24시간 영업' 선택했더라도 3개월간 적자 나면 영업시간 ...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/photo/cms/2019/02/18/38/PCM20190218000038990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나 간호사들, 정규직 사표 내고 파견직으로 간다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211228077900502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211228077900502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[파견직 선호하는 간호사 많아…중수본에 등록된 파견 희망자 6천여 명
-정규직보다 임금은 높고 업무 강도는 약한 게 주된 이유
-(서...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2021/11/16/PYH2021111618230006500_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
