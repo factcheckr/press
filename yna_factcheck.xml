@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 12:33:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 13:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 캠프 LTV 공약 80%→90%로 완화했다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220203166500502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220203166500502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 03 Feb 2022 13:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[이재명 "80%로 공약했다가 90%로 바꿨다"며 윤석열 공격
+윤석열 "바꾸지 않았다"…윤 선대본부도 "80% 유지하고 있다" 반박
+...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/photo/cms/2022/02/03/70/PCM20220203000170990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리나라의 최대 무역 흑자국은 중국?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220203106200502?section=theme-list/factcheck</link>
@@ -242,15 +252,6 @@
 사주명리학에서는 입춘부터 새해로…"2월4일 오전 5시51분 이후 태어나야 호랑이띠"
 ...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2021/12/28/PYH2021122818860005400_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국회의원 출마 연령 만 18세로 내린다는데…다른 나라는?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211229120800502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211229120800502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[OECD 회원국 37개국 중 20개국이 만 18세…만 25세는 6개국
-(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 국회의원 선...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2021/12/14/PYH2021121417860005300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
