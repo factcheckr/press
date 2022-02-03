@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 06:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 07:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <content:encoded><![CDATA[<span>2021-11-01</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[우리나라의 최대 무역 흑자국은 중국? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220203106200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220203106200502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 03 Feb 2022 07:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[우리나라 최대 교역국은 중국…작년 수출의 25%·수입의 23% 차지
+흑자는 홍콩과의 무역에서 가장 커…중국은 3위
+(서울=연합뉴스)...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2021/12/21/PYH2021122110770005100_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[중대재해처벌법 처벌수위, 해외에서 보기 어려울 만큼 높다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220128176900502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220128176900502?section=theme-list/factcheck</guid>
@@ -576,15 +586,6 @@
             <content:encoded><![CDATA[OECD 회원국 37개국 중 20개국이 만 18세…만 25세는 6개국
 (서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 국회의원 선...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2021/12/14/PYH2021121417860005300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[편의점 심야 손님 없어도 위약금 때문에 24시간 영업한다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211228131600502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211228131600502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[가맹본부와 계약때 편의점주가 '24시간 영업' 또는 '18시간 영업' 선택 가능
-'24시간 영업' 선택했더라도 3개월간 적자 나면 영업시간 ...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/photo/cms/2019/02/18/38/PCM20190218000038990_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
