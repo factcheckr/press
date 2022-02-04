@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 10:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 11:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["공원 만든 건 대장동 이익 환수 아니다" 윤석열 발언 '대체로 거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002807707</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002807707</guid>
+            <pubDate>Fri, 04 Feb 2022 11:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 대장동·LTV·사드... 대선 후보 첫 4자 토론 3가지 논쟁 검증]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/063014413355.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["세종시 접종률 꼴찌, 공무원 백신 기피 탓" 주장은 '거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002806448</link>
@@ -35,13 +43,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002804336</guid>
             <pubDate>Thu, 20 Jan 2022 22:22:20 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 개헌 당시 대통령은 중임 불가능... 안철수의 발언도 언론 보도와는 맥락 달라]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['기호 2번 윤석열' 어깨띠 선거법 위반? '대체로 거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002803789</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002803789</guid>
-            <pubDate>Tue, 18 Jan 2022 10:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 원내정당 후보, 기호 결정 전에도 사용 가능... "원외정당·무소속 불리"]]></content:encoded>
         </item>
     </channel>
 </rss>
