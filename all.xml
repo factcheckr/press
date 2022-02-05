@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 01:44:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 02:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,15 @@
             <content:encoded><![CDATA[<span>2021-11-01</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[사드로 수도권 노리는 북한 미사일 막을 수 있나 (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220203175700504?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220203175700504?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 05 Feb 2022 02:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[尹 "수도권 방어위해 추가배치 필요"…李 "수도권 방어에 도움 안돼"
+北 신형미사일, 사드 요격고도 아래로 변칙기동…전문가 "패트리엇 효과적...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2017/09/07/PYH2017090716240001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열 캠프 LTV 공약 80%→90%로 완화했다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220203166500502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220203166500502?section=theme-list/factcheck</guid>
@@ -577,16 +586,6 @@
 검은 줄무늬가 넓은 벵갈호랑이를 흑호로 부르기도
 (서울=연합뉴스) 이웅 기자 = 2022...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2021/12/31/AKR20211231125200502_01_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['임인년' 새해가 밝았다고요?…아직 '신축년'입니다 (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211230127400502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211230127400502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[60갑자 연도 표기는 음력이 기준…음력 설부터 임인년
-사주명리학에서는 입춘부터 새해로…"2월4일 오전 5시51분 이후 태어나야 호랑이띠"
-...]]></content:encoded>
-            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2021/12/28/PYH2021122818860005400_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
