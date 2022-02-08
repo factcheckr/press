@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 01:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 02:34:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <content:encoded><![CDATA[<span>2021-11-01</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[월급 21년 치 꼬박 모아야 서울에서 집 산다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220207161400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220207161400502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 08 Feb 2022 02:34:06 GMT</pubDate>
+            <content:encoded><![CDATA[한국경제연구원, 내 집 마련 소요 기간 21년으로 분석
+서울시 발표한 13.5년과 차이 커
+PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2022/02/07/PYH2022020710600001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사드로 수도권 노리는 북한 미사일 막을 수 있나 (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220203175700504?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220203175700504?section=theme-list/factcheck</guid>
@@ -576,16 +586,6 @@
 "3차 접종 독려하기 위해서도 백신 패스 중요"
 (서울=연합뉴스) 이웅 ...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2022/01/03/PYH2022010313780001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임인년 새해의 상징 '검은 호랑이'는 상상 속 동물? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211231125200502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211231125200502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[전신이 검은색인 호랑이는 발견된 사례 없어
-검은 줄무늬가 넓은 벵갈호랑이를 흑호로 부르기도
-(서울=연합뉴스) 이웅 기자 = 2022...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2021/12/31/AKR20211231125200502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
