@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 20:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 21:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -738,6 +738,14 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/09/12/l_2020091101001474400115001.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["윤석열 147억 특활비 검증 끝났다" 국힘 주장 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002808684</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002808684</guid>
+            <pubDate>Tue, 08 Feb 2022 21:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 현금 사용했지만 세부 집행내역 비공개... 법원 1월 정보공개 판결에 항소]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/120610245888.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["공원 만든 건 대장동 이익 환수 아니다" 윤석열 발언 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002807707</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002807707</guid>
@@ -766,13 +774,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
             <pubDate>Mon, 24 Jan 2022 03:23:50 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 내·외국인 대출 규제 동일... '외국인 투기세'는 오히려 차별 지적]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/071318280723.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이재명 4년 중임제, 대통령 8년 하려는 속임수" 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002804336</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002804336</guid>
-            <pubDate>Thu, 20 Jan 2022 22:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 개헌 당시 대통령은 중임 불가능... 안철수의 발언도 언론 보도와는 맥락 달라]]></content:encoded>
         </item>
     </channel>
 </rss>
