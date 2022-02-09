@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 22:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 23:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <content:encoded><![CDATA[<span>2021-11-01</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[IMF가 한국의 국가채무비율을 '85% 이내'로 권고했다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220209152600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220209152600502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 09 Feb 2022 23:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[이재명, 2017년 IMF-한국 연례협의 결과 보고서 인용해 재정지출 확대 주장
+보고서엔 선진국 기준 위험한 수준으로 85% 언급
+한국의 ...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/cms/2022/02/09/57/PCM20220209000057055_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[월급 21년 치 꼬박 모아야 서울에서 집 산다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220207161400502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220207161400502?section=theme-list/factcheck</guid>
@@ -576,16 +586,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
 관례적으로 취임식 개최…떠나는 대통령도 후임 취임식에서 환송
 (...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2017/05/10/PYH2017051023970001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백신 접종률 90% 넘은 상황에선 방역패스 실효성 없다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220104079900502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220104079900502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 04 Jan 2022 04:30:20 GMT</pubDate>
-            <content:encoded><![CDATA[미접종자 감염 막는 데 기여…확진자 중 미접종자 비율 하락
-"3차 접종 독려하기 위해서도 백신 패스 중요"
-(서울=연합뉴스) 이웅 ...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2022/01/03/PYH2022010313780001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
