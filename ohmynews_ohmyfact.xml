@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 20:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 21:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["한국노총 이재명 지지, 정치 중립 의무 깼다" 주장은 '거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002809011</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002809011</guid>
+            <pubDate>Wed, 09 Feb 2022 21:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 과거 이명박·문재인 지지 선언도... 선관위도 문제 안 삼아]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["윤석열 147억 특활비 검증 끝났다" 국힘 주장 '대체로 거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002808684</link>
@@ -36,14 +43,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002805724</guid>
             <pubDate>Wed, 26 Jan 2022 11:19:08 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 3차 접종 뒤 오미크론 변이 중화항체 증가 확인... 중증 예방 효과도 지속]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["외국인 담보대출 100%, 내국인 역차별" 안철수 주장 '대체로 거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002804606</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002804606</guid>
-            <pubDate>Mon, 24 Jan 2022 03:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 내·외국인 대출 규제 동일... '외국인 투기세'는 오히려 차별 지적]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/071318280723.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
