@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 22:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 23:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동네 병의원 신속항원검사 5천 원 내면 된다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220210181600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220210181600502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 10 Feb 2022 23:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[유증상자와 방역패스발급용 검사땐 건강보험 적용돼 저렴
+증상없이 검사받을 때는 5만~7만원 부담해야
+(서울=연합뉴스) 이웅 기자 =...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/02/06/PYH2022020606350001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[IMF가 한국의 국가채무비율을 '85% 이내'로 권고했다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220209152600502?section=theme-list/factcheck</link>
@@ -241,16 +251,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
 건강보험공단·통계청 등에서는 탈모 인구 집계하지 않아
 "남성 20% 탈모...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/cms/2017/05/26/01/C0A8CAE20000015C426391C500000057_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대한민국 대통령은 취임식만 있고 퇴임식은 없다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220105033800502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220105033800502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 05 Jan 2022 02:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[법률에는 취임식도·퇴임식도 규정 없어…새 대통령 선서만 헌법에 명시
-관례적으로 취임식 개최…떠나는 대통령도 후임 취임식에서 환송
-(...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2017/05/10/PYH2017051023970001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
