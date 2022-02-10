@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 20:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 21:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["검찰청 앞에서 폭력성 시위" 윤석열 주장 '새빨간 거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002809302</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002809302</guid>
+            <pubDate>Thu, 10 Feb 2022 21:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 서초동 촛불집회 폭력사건 없어... 광화문 보수집회 '폭력시위'와 대비]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/063014413355.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["한국노총 이재명 지지, 정치 중립 의무 깼다" 주장은 '거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002809011</link>
@@ -36,13 +44,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002806448</guid>
             <pubDate>Fri, 28 Jan 2022 11:20:10 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] '접종 제외' 아동 비중 높은 탓... 성인 접종률은 큰 차이 없어]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["오미크론 못 막아"... '부스터샷 무용론' 대체로 거짓]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002805724</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002805724</guid>
-            <pubDate>Wed, 26 Jan 2022 11:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 3차 접종 뒤 오미크론 변이 중화항체 증가 확인... 중증 예방 효과도 지속]]></content:encoded>
         </item>
     </channel>
 </rss>
