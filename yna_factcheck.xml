@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 15:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 16:27:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 후보가 원전 추가 건설한다고 했다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220212002000502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220212002000502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 11 Feb 2022 16:26:19 GMT</pubDate>
+            <content:encoded><![CDATA[한국기자협회 주최 2차 TV토론 발언 검증
+(서울=연합뉴스) 장하나 기자 = 여야 대선 후보들이 11일 한국기자협회 주최로 열린 ...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2022/02/11/PYH2022021125070001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동네 병의원 신속항원검사 5천 원 내면 된다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220210181600502?section=theme-list/factcheck</link>
@@ -241,16 +250,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
 전자상거래와 달리 오프라인 쇼핑시 환불 의무도 없어
 (서울...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/cms/2018/12/27/35/PCM20181227000135990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리나라 탈모 인구가 1천만 명이라고?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220106076400502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220106076400502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 06 Jan 2022 02:43:58 GMT</pubDate>
-            <content:encoded><![CDATA['탈모 건보 적용 검토' 보도 나온 뒤 "1천만명 혜택" 등 반응
-건강보험공단·통계청 등에서는 탈모 인구 집계하지 않아
-"남성 20% 탈모...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/cms/2017/05/26/01/C0A8CAE20000015C426391C500000057_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
