@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 03:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 04:26:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다른 나라에서는 자궁경부암 예방 백신 안 맞는다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220211125700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220211125700502?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 12 Feb 2022 04:25:36 GMT</pubDate>
+            <content:encoded><![CDATA[접종 대상 확대 추진에 "다른 나라에선 접종 안한다" "후유증 크다" 등 반발
+OECD 38개국 중 37개국이 필수 접종 백신으로 지정
+WH...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/cms/2021/03/04/57/PCM20210304000057990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 후보가 원전 추가 건설한다고 했다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220212002000502?section=theme-list/factcheck</link>
@@ -240,16 +250,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
             <content:encoded><![CDATA[음향으로 지속해서 괴롭히는 것도 스토킹 처벌법 적용 대상
 (서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 코로나19로 인해 집에 ...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/photo/cms/2020/03/30/46/PCM20200330000146990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마스크 1장당 5만원에 팔고 환불 거부한 약국…위법?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220106114100502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220106114100502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 06 Jan 2022 06:28:24 GMT</pubDate>
-            <content:encoded><![CDATA[의약품 판매자 가격표시제 1999년 도입…가격 상한 규정은 없어
-전자상거래와 달리 오프라인 쇼핑시 환불 의무도 없어
-(서울...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/cms/2018/12/27/35/PCM20181227000135990_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
