@@ -4,9 +4,18 @@
         <title>SBS뉴스 ─ 사실은</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 10:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 11:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] 원전 추가? 전작권 환수? 어느 후보 말이 맞나]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006638278&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006638278&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Sat, 12 Feb 2022 11:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20220212/201637042_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사실은] 스티브 유, 이번 소송 이기면 입국 가능할까?]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006635183&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -48,7 +57,7 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006620445&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006620445&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Fri, 28 Jan 2022 09:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="배여운 기자 기자 사진" src="//img.sbs.co.kr/newsnet/user_photo/delete210_USER_PHOTO_ORIGIN_20191011150325_1v1_141.jpg" class="lazy" style="display: inline;">
+            <content:encoded><![CDATA[<img alt="배여운 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newsnet/user_photo/delete210_USER_PHOTO_ORIGIN_20191011150325_1v1_141.jpg" class="lazy">
 									배여운 기자]]></content:encoded>
             <enclosure url="https://img.sbs.co.kr/newimg/news/20220127/201632175_300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -59,7 +68,7 @@
             <pubDate>Fri, 28 Jan 2022 09:20:48 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20220125/201631366_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] '여가부 폐지', 그 이후의 시나리오는?]]></title>
@@ -84,15 +93,6 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006604262&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006604262&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Thu, 13 Jan 2022 12:34:58 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
-									이경원 기자]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 이재명 후보의 탈모 공약, 돈은 얼마나 들까요?]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006600344&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006600344&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Tue, 11 Jan 2022 03:23:45 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
