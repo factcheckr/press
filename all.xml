@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 06:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 07:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,15 @@
             <content:encoded><![CDATA[<span>2021-11-01</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[배달앱 요청사항에 '○번 지지해 주세요' 적으면 선거법 위반? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220216114800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220216114800502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 16 Feb 2022 07:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[인터넷 이용한 선거운동에 해당…일반 유권자라면 위법 아냐
+(서울=연합뉴스) 장하나 기자 = 20대 대선 공식 선거운동이 15일 시작...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/etc/inner/KR/2022/02/16/AKR20220216114800502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다른 나라에서는 자궁경부암 예방 백신 안 맞는다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220211125700502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220211125700502?section=theme-list/factcheck</guid>
@@ -576,15 +585,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
 미접종 간호사 주 1회 PCR 받아…의심 증상 있으면 즉시 배제
 ...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2021/12/21/PYH2021122109690001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아래층에서 우퍼 스피커로 층간소음 보복해도 괜찮다고? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220107080000502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220107080000502?section=theme-list/factcheck</guid>
-            <pubDate>Sat, 08 Jan 2022 02:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[음향으로 지속해서 괴롭히는 것도 스토킹 처벌법 적용 대상
-(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 코로나19로 인해 집에 ...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/photo/cms/2020/03/30/46/PCM20200330000146990_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
