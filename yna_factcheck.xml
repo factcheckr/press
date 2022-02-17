@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 01:04:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 02:29:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나 자가진단키트에 독성 물질?…"인체 유해 수준 아냐"]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220216170900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220216170900502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 17 Feb 2022 02:28:45 GMT</pubDate>
+            <content:encoded><![CDATA[검체추출액 오염 방지 위해 아자이드화 소듐 미량 포함
+실수로 삼키더라도 독성 야기 가능성 낮아
+(서울=연합뉴스) 박성제 기자...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/cms/2022/02/13/04/PCM20220213000004505_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배달앱 요청사항에 '○번 지지해 주세요' 적으면 선거법 위반?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220216114800502?section=theme-list/factcheck</link>
@@ -240,16 +250,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
 담합 근거는 뚜렷하지 않아…농림부, 공정위에 검토 요청
 (서울=연합뉴스) 이...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2022/01/09/PYH2022010906270001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백신 미접종 간호사는 코로나 업무 할 수 없다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220107140700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220107140700502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 09 Jan 2022 23:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[정부는 접종 여부 상관없이 간호사 파견…일부 병원이 미접종자 거부
-미접종 간호사 주 1회 PCR 받아…의심 증상 있으면 즉시 배제
-...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2021/12/21/PYH2021122109690001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
