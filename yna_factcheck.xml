@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 22:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 01:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민주당 반대로 광주에 복합쇼핑몰 들어서지 못했다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220217163000502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220217163000502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 18 Feb 2022 01:16:11 GMT</pubDate>
+            <content:encoded><![CDATA["민주당이 반대했다" 윤석열 발언에 민주당 "반대한 적 없다" 반박 성명
+민주당 을지로위원회 명의로 광주시에 반대 공문 보낸 적 있어
+"광주...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/02/16/PYH2022021613490001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나 자가진단키트에 독성 물질?…"인체 유해 수준 아냐"]]></title>
             <link>https://www.yna.co.kr/view/AKR20220216170900502?section=theme-list/factcheck</link>
@@ -240,16 +250,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
 분할 자회사 상장시 모회사 가치 하락 불가피…"이해상충 우려"
 (서울=연...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2022/01/12/AKR20220112046900502_01_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연초 꽃값 폭등은 도매상 담합 때문?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220110151700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220110151700502?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 10 Jan 2022 23:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[작년 말 한파로 공급 줄고 연초 졸업식 몰린 영향이 커
-담합 근거는 뚜렷하지 않아…농림부, 공정위에 검토 요청
-(서울=연합뉴스) 이...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2022/01/09/PYH2022010906270001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
