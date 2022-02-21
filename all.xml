@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 15:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 16:31:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,15 @@
             <content:encoded><![CDATA[<span>2021-11-01</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[이재명 후보가 손실보상 얘기를 한 적이 없다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220222001200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220222001200502?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 21 Feb 2022 16:30:47 GMT</pubDate>
+            <content:encoded><![CDATA[선거방송토론위 주관 1차 토론회 발언 검증
+(서울=연합뉴스) 장하나 기자 = 여야 대선 후보 4인이 21일 중앙선거방송토론위원회 주...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/02/21/PYH2022022118370001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[민주당 반대로 광주에 복합쇼핑몰 들어서지 못했다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220217163000502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220217163000502?section=theme-list/factcheck</guid>
@@ -575,16 +584,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
 전단지 배포·경찰 신고 등 일반인과 유사한 과정 진행
 (서울=연합뉴스)...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2022/01/12/AKR20220112104400502_07_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알짜 사업 물적분할은 기존 주주의 주주권 침해? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220112046900502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220112046900502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 12 Jan 2022 01:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[이론적으로 물적분할에 따른 기업 가치나 주식 변동은 없어
-분할 자회사 상장시 모회사 가치 하락 불가피…"이해상충 우려"
-(서울=연...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2022/01/12/AKR20220112046900502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
