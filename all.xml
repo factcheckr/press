@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 20:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 21:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -735,6 +735,14 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/09/17/l_2020091701002185800171601.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["대장동 3억 5천 투자해 1조 수익" 윤석열 발언 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002812668</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002812668</guid>
+            <pubDate>Tue, 22 Feb 2022 21:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 성남의뜰 자본금과 투자금 혼동... 화천대유 초기 투자금만 350억 원]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/063014413355.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["검찰청 앞에서 폭력성 시위" 윤석열 주장 '새빨간 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002809302</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002809302</guid>
@@ -764,13 +772,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
             <pubDate>Fri, 04 Feb 2022 11:16:07 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 대장동·LTV·사드... 대선 후보 첫 4자 토론 3가지 논쟁 검증]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/063014413355.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["세종시 접종률 꼴찌, 공무원 백신 기피 탓" 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002806448</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002806448</guid>
-            <pubDate>Fri, 28 Jan 2022 11:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] '접종 제외' 아동 비중 높은 탓... 성인 접종률은 큰 차이 없어]]></content:encoded>
         </item>
     </channel>
 </rss>
