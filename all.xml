@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 06:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 07:26:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,7 +36,7 @@
             <link>https://news.kbs.co.kr/news/view.do?ncd=5400482</link>
             <guid>https://news.kbs.co.kr/news/view.do?ncd=5400482</guid>
             <pubDate>Mon, 21 Feb 2022 21:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[■ 발언 : "주식 양도세 제안, 대만 경제장관 경질"      "주식 양도세는 대만에서 ...]]></content:encoded>
+            <content:encoded><![CDATA[■ 발언 : "주식 양도세 제안, 대만 경제장관 경질"      "주식 양도세는 대만에서...]]></content:encoded>
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/02/22/kn103571645470845226.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
