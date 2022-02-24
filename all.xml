@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 06:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 07:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <content:encoded><![CDATA[<span>2021-11-01</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[국가 부채는 다른 나라에 진 빚이 아니다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220224102800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220224102800502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 24 Feb 2022 07:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[이재명, 라디오 인터뷰에서 발언
+국가 부채 중 연금 충당 부채 등은 대외 부채 아냐
+우리 정부 발행 국고채는 외국인도 보유…작년 말 기준 ...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2022/02/24/PYH2022022409220001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리도 기축통화국에 포함될 가능성이 높다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220222091200502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220222091200502?section=theme-list/factcheck</guid>
@@ -574,15 +584,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
 뺄 경우에는 명확하지 않아…지자체가 자체 판단해 요구하기도
 ...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2022/01/14/PYH2022011415260005400_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매장 주방서 흡연한 직원, 어떤 처벌 받을까? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220113155700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220113155700502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 13 Jan 2022 23:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[비난 쏟아지지만 금연구역 위반 과태료만 부과 가능
-(서울=연합뉴스) 이웅 기자 = 한 햄버거 프랜차이즈 매장 직원이 주방에서 담배를...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/cms/2017/06/20/24/C0A8CA3C0000015CC4A1699700044E43_P2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
