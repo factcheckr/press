@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 21:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 22:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크K] 격리해제 때 PCR 검사, 확진자(X), 동거인(O)…왜? (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5403606</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5403606</guid>
+            <pubDate>Thu, 24 Feb 2022 22:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 확진자가 급증하면서 전체 확진자가 250만 명에 육박했습니다. 하루 신규 확진은...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/02/24/173501645601102644.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크K] 안철수 “공정위 비정규직 10명이 ‘기술 탈취’ 감독” (KBS뉴스 ─ 팩트체크K)]]></title>
             <link>https://news.kbs.co.kr/news/view.do?ncd=5400674</link>
@@ -126,14 +134,6 @@
             <pubDate>Sun, 02 Jan 2022 16:16:47 GMT</pubDate>
             <content:encoded><![CDATA[국내 12~17세 유아·청소년 대상 코로나19 백신 접종이 30%대에 머물고 있습니다. 1...]]></content:encoded>
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2021/11/14/173501636700728912.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크K] 코로나19 백신 맞고 많이 아프면 젊고 건강하다? (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=5302785</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=5302785</guid>
-            <pubDate>Sun, 02 Jan 2022 16:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[국내 코로나19 백신 접종자가 4천만 명을 넘어섰습니다. 지난 16일 0시 기준 1차 접종...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2021/10/16/173501634259497955.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사실은] '2월 여론조사' 모두 모아 평균화(化) 했습니다 (SBS뉴스 ─ 사실은)]]></title>
