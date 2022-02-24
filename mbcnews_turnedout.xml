@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 11:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 12:37:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['소가죽', '패륜아'‥ 대선 현수막에 써도 된다?]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6344699_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6344699_35744.html</guid>
+            <pubDate>Thu, 24 Feb 2022 12:36:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-02-24</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/02/24/desk_20220224_203910_1_22_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백신에 미생물이?‥가짜뉴스 다시 기승]]></title>
             <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6325620_34936.html</link>
@@ -116,13 +124,6 @@
             <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-11-04</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/04/desk_20211104_202530_1_17_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['몰카'범죄는 왜 일상이 되었을까]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6311393_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6311393_29123.html</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-11-01</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
