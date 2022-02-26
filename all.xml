@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 23:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 01:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -344,6 +344,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/04/desk_20211104_202530_1_17_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 부산저축은행 수사 때 일반대출은 기소 안 했다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220226022000502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220226022000502?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 26 Feb 2022 01:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[윤, 대장동 대출건 불기소 의혹 제기에 "일반대출을 누가 기소하냐"
+민주당 "다른 일반대출 2건은 기소했다"
+국민의힘 "구체적인 단서 없는 ...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/02/25/PYH2022022515640001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[겨울철 '삼한사미' 실제로 일어날까? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220225048900502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220225048900502?section=theme-list/factcheck</guid>
@@ -574,16 +584,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
 단체 주관 토론회는 모든 후보에게 공평하게 해야
 선거방송토론위 개최 토론회는 지지율...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/photo/cms/2021/11/09/82/PCM20211109000082990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오미크론 차단하려면 고품질 마스크 써야? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220117128700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220117128700502?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 17 Jan 2022 08:27:41 GMT</pubDate>
-            <content:encoded><![CDATA[미국 방역당국, 일반인에게도 의료용 마스크 N95 권고
-우리나라에서 많이 쓰는 KF94 성능, N95와 비슷
-(서울=연합뉴스) 이...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/01/13/PYH2022011305620034000_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
