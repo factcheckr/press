@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 14:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 15:22:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -344,6 +344,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/04/desk_20211104_202530_1_17_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이재명 후보가 '증세는 자폭행위'라고 했다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220302198800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220302198800502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 02 Mar 2022 15:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[중앙선거방송토론위 주관 3차 대선 후보 TV 토론회 팩트체크
+(서울=연합뉴스) 장하나 기자 = 20대 대선을 일주일 앞둔 2일 마지...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/03/02/PYH2022030221630001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열 부산저축은행 수사 때 일반대출은 기소 안 했다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220226022000502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220226022000502?section=theme-list/factcheck</guid>
@@ -574,16 +583,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
 '소셜 로그인' 잘못 이해한 데서 비롯된 허위 정보
 '소셜 로그인', 편리하지...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/etc/inner/KR/2022/01/19/AKR20220119076500502_03_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명·윤석열 후보 양자 TV 토론은 위법? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220117151200502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220117151200502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 18 Jan 2022 01:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[언론기관 개최 토론회는 언론사 자율적으로 참석자 선정
-단체 주관 토론회는 모든 후보에게 공평하게 해야
-선거방송토론위 개최 토론회는 지지율...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/photo/cms/2021/11/09/82/PCM20211109000082990_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
