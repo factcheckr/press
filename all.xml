@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 22:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 23:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이슈체크K] 정규직화? 철저 수사?…토론 소환된 故 김용균 (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5407691</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5407691</guid>
+            <pubDate>Wed, 02 Mar 2022 23:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[■ 발언 : "정치인 자식은 산재 당할 가능성이 별로 없어"      "사고가 났을 때 발...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/03/03/314601646239605927.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크K] 이재명 “증세는 ‘좌파적 관념·자폭행위’ 말한 적 없다” (KBS뉴스 ─ 팩트체크K)]]></title>
             <link>https://news.kbs.co.kr/news/view.do?ncd=5407558</link>
@@ -126,14 +134,6 @@
             <pubDate>Sun, 02 Jan 2022 16:16:47 GMT</pubDate>
             <content:encoded><![CDATA[코로나19가 급속히 확산하면서 확진자가 급증해 어제(15일) 하루 8,000명 선에 육박했...]]></content:encoded>
             <enclosure url="https://news.kbs.co.kr/data/news/2021/12/16/20211216_vbf5bL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크K] ‘오미크론’, 시진핑 의식한 이름? WHO에 물어봤더니… (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=5338297</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=5338297</guid>
-            <pubDate>Sun, 02 Jan 2022 16:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[겨울의 문턱에 등장한 코로나19 신종 변이 바이러스의 충격이 전 세계에 확산하고 있습니다....]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2021/12/01/173501638254175948.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 대선에 이용되는 '우크라이나 비극' 따져 봤습니다 (SBS뉴스 ─ 사실은)]]></title>
