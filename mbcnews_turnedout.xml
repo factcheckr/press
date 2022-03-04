@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 11:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 12:34:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[대선 알고보니] "스냅백 전제 동시행동"vs"완전한 비핵화가 먼저"]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6347123_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6347123_35744.html</guid>
+            <pubDate>Fri, 04 Mar 2022 12:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-03-04</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/03/04/desk_20220304_202046_1_18_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['소가죽', '패륜아'‥ 대선 현수막에 써도 된다?]]></title>
             <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6344699_35744.html</link>
@@ -116,14 +124,6 @@
             <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-11-08</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/08/desk_20211108_202538_1_18_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백신 맞고 숨져도 7,200원 보상이 전부?]]></title>
-            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6312364_34936.html</link>
-            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6312364_34936.html</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-11-04</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/04/desk_20211104_202530_1_17_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
