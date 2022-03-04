@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 09:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 10:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["우리나라 무고죄 형량 가장 높다" 심상정 발언 '대체로 사실']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002815605</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002815605</guid>
+            <pubDate>Fri, 04 Mar 2022 10:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 최대 형량 미국·독일·프랑스 2배 수준... UN도 성폭력 사건에 무고죄 남용 우려]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/010513124070.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["대장동 3억 5천 투자해 1조 수익" 윤석열 발언 '대체로 거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002812668</link>
@@ -37,14 +45,6 @@
             <pubDate>Tue, 08 Feb 2022 21:18:30 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 현금 사용했지만 세부 집행내역 비공개... 법원 1월 정보공개 판결에 항소]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/120610245888.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["공원 만든 건 대장동 이익 환수 아니다" 윤석열 발언 '대체로 거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002807707</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002807707</guid>
-            <pubDate>Fri, 04 Feb 2022 11:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 대장동·LTV·사드... 대선 후보 첫 4자 토론 3가지 논쟁 검증]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/063014413355.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
