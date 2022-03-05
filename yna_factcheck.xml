@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 01:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 03:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유럽 주요 국가는 의료비 본인부담상한제 한다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220304149600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220304149600502?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 05 Mar 2022 03:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[심상정, 1인당 연 최대 100만 원 부담하는 상한제 공약
+독일·프랑스 등은 시행 중…영국·이탈리아는 무상의료
+(서울=연합뉴...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/03/03/PYH2022030308290001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이재명 후보가 '증세는 자폭행위'라고 했다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220302198800502?section=theme-list/factcheck</link>
@@ -237,16 +247,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
 전문가들 "염화칼슘 녹을 때 발열 현상…화상 입힐 정도는 아냐"
 (서울=연합...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/01/12/PYH2022011215250006200_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오톡 대화 내용, 청와대가 감시한다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220119076500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220119076500502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 19 Jan 2022 05:18:11 GMT</pubDate>
-            <content:encoded><![CDATA['카카오톡에 청와대앱이 설치됐다'는 글과 대처법 인터넷에 확산
-'소셜 로그인' 잘못 이해한 데서 비롯된 허위 정보
-'소셜 로그인', 편리하지...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/etc/inner/KR/2022/01/19/AKR20220119076500502_03_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

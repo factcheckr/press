@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 01:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 03:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -344,6 +344,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/08/desk_20211108_202538_1_18_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유럽 주요 국가는 의료비 본인부담상한제 한다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220304149600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220304149600502?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 05 Mar 2022 03:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[심상정, 1인당 연 최대 100만 원 부담하는 상한제 공약
+독일·프랑스 등은 시행 중…영국·이탈리아는 무상의료
+(서울=연합뉴...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/03/03/PYH2022030308290001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이재명 후보가 '증세는 자폭행위'라고 했다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220302198800502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220302198800502?section=theme-list/factcheck</guid>
@@ -575,16 +585,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
             <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/01/12/PYH2022011215250006200_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카카오톡 대화 내용, 청와대가 감시한다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220119076500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220119076500502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 19 Jan 2022 05:18:11 GMT</pubDate>
-            <content:encoded><![CDATA['카카오톡에 청와대앱이 설치됐다'는 글과 대처법 인터넷에 확산
-'소셜 로그인' 잘못 이해한 데서 비롯된 허위 정보
-'소셜 로그인', 편리하지...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/etc/inner/KR/2022/01/19/AKR20220119076500502_03_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
             <link>https://www.dongascience.com/news.php?idx=51290</link>
             <guid>https://www.dongascience.com/news.php?idx=51290</guid>
@@ -735,6 +735,14 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/03/l_2020093001003491300281111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["고양시 행정입원 0명인데 이재명은 25명" 윤석열 주장 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002815581</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002815581</guid>
+            <pubDate>Sat, 05 Mar 2022 03:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 2016~2018년 3년간 고양시 102건·성남시 25건... "시장 권한이지만 보건소장이 결정”]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/063014413355.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["우리나라 무고죄 형량 가장 높다" 심상정 발언 '대체로 사실' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002815605</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002815605</guid>
@@ -764,14 +772,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002809011</guid>
             <pubDate>Wed, 09 Feb 2022 21:21:16 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 과거 이명박·문재인 지지 선언도... 선관위도 문제 안 삼아]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["윤석열 147억 특활비 검증 끝났다" 국힘 주장 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002808684</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002808684</guid>
-            <pubDate>Tue, 08 Feb 2022 21:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 현금 사용했지만 세부 집행내역 비공개... 법원 1월 정보공개 판결에 항소]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/120610245888.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
