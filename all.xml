@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 06:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 07:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/08/desk_20211108_202538_1_18_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[확진자가 일반 유권자로 속여 투표하면 처벌은? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220307112400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220307112400502?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 07 Mar 2022 07:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[방역지침 위반…다만 투표소에서는 확진자 여부 알 수 없어
+적발시에는 1년 이하 징역 또는 1천만원 이하 벌금
+(서울=연합뉴스)...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/03/05/PYH2022030512710005200_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우크라이나 참전 위해 출국한 이근, 어떤 처벌받나? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220307080700502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220307080700502?section=theme-list/factcheck</guid>
@@ -572,16 +582,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
             <content:encoded><![CDATA[국회 보고서 따르면 1951년 독일 시작으로 현재 유럽 19개국 시행
 (서울=연합뉴스) 이웅 기자 = 기업의 의사결정에 노동자 참여...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/01/11/PYH2022011115970001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나 감염됐더니 모유 색이 녹색으로 바뀌었다고? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220121149800502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220121149800502?section=theme-list/factcheck</guid>
-            <pubDate>Sat, 22 Jan 2022 01:05:02 GMT</pubDate>
-            <content:encoded><![CDATA[엄마가 먹는 음식 등에 따라 모유 색깔 바뀔 수 있어
-바이러스 감염·백신 접종 등도 영향 가능성…전문가 "수유 문제없어"
-(서울=...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2022/01/21/AKR20220121149800502_02_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
