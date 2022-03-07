@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 02:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 03:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라이나 참전 위해 출국한 이근, 어떤 처벌받나?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220307080700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220307080700502?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 07 Mar 2022 03:25:29 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나 방문하면 여권법 위반…실제로 참전하면 형법 위반 소지
+군미필 병역의무자일 경우에는 병역법에도 저촉
+(서울=연합뉴스) 이웅...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2022/03/07/AKR20220307080700502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유럽 주요 국가는 의료비 본인부담상한제 한다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220304149600502?section=theme-list/factcheck</link>
@@ -237,16 +247,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
 바이러스 감염·백신 접종 등도 영향 가능성…전문가 "수유 문제없어"
 (서울=...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2022/01/21/AKR20220121149800502_02_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제설제 염화칼슘이 강아지에게 화상 입힌다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220120139300502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220120139300502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 20 Jan 2022 08:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[반려견 화상 경고하는 언론보도·인터넷 게시글 등 많아
-전문가들 "염화칼슘 녹을 때 발열 현상…화상 입힐 정도는 아냐"
-(서울=연합...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/01/12/PYH2022011215250006200_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
