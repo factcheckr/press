@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 09:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 10:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/08/desk_20211108_202538_1_18_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우리나라 성평등은 뒤떨어져 있다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220308156700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220308156700502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 08 Mar 2022 10:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[세계경제포럼 평가에서는 102위로 낮아
+유엔개발계획은 11위로 평가…아시아 1위
+(서울=연합뉴스) 이웅 기자 = 문재인 대통령이 8...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2022/03/08/PYH2022030814790006300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[확진자가 일반 유권자로 속여 투표하면 처벌은? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220307112400502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220307112400502?section=theme-list/factcheck</guid>
@@ -573,15 +583,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
 질문내용과 표본 등이 편향됐는지는 심의
 (서울=연합뉴스) 장하나...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2022/01/03/PYH2022010307940001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노동운동 역사 오래된 나라는 노동이사제 안 한다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220125142800502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220125142800502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 25 Jan 2022 08:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[국회 보고서 따르면 1951년 독일 시작으로 현재 유럽 19개국 시행
-(서울=연합뉴스) 이웅 기자 = 기업의 의사결정에 노동자 참여...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/01/11/PYH2022011115970001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
