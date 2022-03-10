@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 07:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 08:25:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 정부에서 최저임금 폐지된다고?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220310125800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220310125800502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 10 Mar 2022 08:25:09 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령 당선 이후 온라인에 우려 이어져
+공약집·발언에서 "폐지하겠다"고 한 적 없어
+개선 필요성은 시사…"(최저임금 때문에) 자영업...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/03/10/PYH2022031019140001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리나라 성평등은 뒤떨어져 있다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220308156700502?section=theme-list/factcheck</link>
@@ -238,16 +248,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
             <content:encoded><![CDATA[보안업무규정상 2급 비밀…청와대에서 공개한 경우도 있어
 2018년 "문 대통령 몸살감기" 브리핑…박근혜 대통령 때는 위경련·인두염 등 수시로...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/01/28/PYH2022012814450001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대선후보 지지율 여론조사에서 허경영 제외하면 불공정?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220127105100502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220127105100502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 27 Jan 2022 04:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[선관위, 특정 후보 포함 관련 규정 없어…조사기관이 자율적으로 선정
-질문내용과 표본 등이 편향됐는지는 심의
-(서울=연합뉴스) 장하나...]]></content:encoded>
-            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2022/01/03/PYH2022010307940001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
