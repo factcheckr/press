@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 02:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 03:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/08/desk_20211108_202538_1_18_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[군대에서 휴대전화 사용 못 하게 된다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220314076900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220314076900502?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 14 Mar 2022 03:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 공약집에는 "휴대전화 소지 시간 확대"
+선대위 김용현 위원장도 "오히려 사용 시간 늘려나갈 방침"
+'군 복무 기간 늘어난다'는 우려...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/etc/inner/KR/2022/03/14/AKR20220314076900502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열 정부에서 최저임금 폐지된다고?(종합) (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220310125851502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220310125851502?section=theme-list/factcheck</guid>
@@ -574,15 +584,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
 호주도 사용자 처벌할 수 있어…영국·캐나다는 벌금에 상한 없어
 ...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/01/27/PYH2022012717330001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령 건강 상태는 국가 기밀? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220128181900502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220128181900502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 10 Mar 2022 12:34:43 GMT</pubDate>
-            <content:encoded><![CDATA[보안업무규정상 2급 비밀…청와대에서 공개한 경우도 있어
-2018년 "문 대통령 몸살감기" 브리핑…박근혜 대통령 때는 위경련·인두염 등 수시로...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/01/28/PYH2022012814450001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
