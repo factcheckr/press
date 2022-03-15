@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 02:44:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 03:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규확진 세계 1위라고 코로나 방역 정책 부실?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220315081700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220315081700502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 15 Mar 2022 03:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[단기적으로 급증했지만 2년간 보면 다른 나라보다 심각하지 않아
+인구 100만 명당 확진자는 세계 87위…100만 명당 사망자는 151위
+...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/03/14/PYH2022031406620005600_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[군대에서 휴대전화 사용 못 하게 된다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220314076900502?section=theme-list/factcheck</link>
@@ -239,16 +249,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
 흑자는 홍콩과의 무역에서 가장 커…중국은 3위
 (서울=연합뉴스)...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2021/12/21/PYH2021122110770005100_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중대재해처벌법 처벌수위, 해외에서 보기 어려울 만큼 높다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220128176900502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220128176900502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 30 Jan 2022 23:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[경영책임자 처벌할 수 있고 형량도 하한형인 '징역 1년 이상'
-호주도 사용자 처벌할 수 있어…영국·캐나다는 벌금에 상한 없어
-...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/01/27/PYH2022012717330001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
