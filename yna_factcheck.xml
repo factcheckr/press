@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 04:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 05:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새 정부에선 노인 지하철 무임승차 혜택 줄어든다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220316085700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220316085700502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 16 Mar 2022 05:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 커뮤니티 등에 "혜택 축소" 글 이어져
+윤석열 공약에 없는 내용…윤석열 측 "확정된 것 없다" 재확인
+(서울=연합뉴스) 장하...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/cms/2018/07/19/02/C0A8CA3D00000164B06C86800006BA9E_P2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[신규확진 세계 1위라고 코로나 방역 정책 부실?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220315081700502?section=theme-list/factcheck</link>
@@ -239,16 +249,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
 윤석열 "바꾸지 않았다"…윤 선대본부도 "80% 유지하고 있다" 반박
 ...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/photo/cms/2022/02/03/70/PCM20220203000170990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리나라의 최대 무역 흑자국은 중국?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220203106200502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220203106200502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 03 Feb 2022 07:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라 최대 교역국은 중국…작년 수출의 25%·수입의 23% 차지
-흑자는 홍콩과의 무역에서 가장 커…중국은 3위
-(서울=연합뉴스)...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2021/12/21/PYH2021122110770005100_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
