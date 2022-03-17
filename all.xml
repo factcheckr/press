@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 22:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 01:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,13 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA['초과수당 0원' 산불특수진화대, "대체휴무 다 쓸 수 있을지‥" (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/newszoomin/newsinsight/6350838_29123.html</link>
+            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6350838_29123.html</guid>
+            <pubDate>Thu, 17 Mar 2022 01:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-03-17</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[밤낮없이 산불 진압해도‥ 초과근무수당 '0원'? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6350072_35744.html</link>
             <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6350072_35744.html</guid>
@@ -333,14 +340,6 @@
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6314154_29123.html</guid>
             <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-11-12</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[알고보니+] 물병에도 변형 카메라가 숨어 있다? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6313632_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6313632_29123.html</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-11-10</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/newszoomin/newsinsight/__icsFiles/afieldfile/2021/11/10/s2021111002_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새 정부에선 노인 지하철 무임승차 혜택 줄어든다? (연합뉴스 ─ 팩트체크)]]></title>
