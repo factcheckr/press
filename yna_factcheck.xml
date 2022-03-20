@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 23:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 01:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[文정부에선 박근혜정부 공공기관장 90% 임기 보장했다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220319051400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220319051400502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 20 Mar 2022 01:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[공기업·준정부기관 131개 전수 조사 결과 절반가량 임기 채워
+윤건영 의원측 "기타 공공기관 포함 300여개 기관 임원 전부 고려하면 6...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2022/03/19/AKR20220319051400502_02_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새 정부에선 노인 지하철 무임승차 혜택 줄어든다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220316085700502?section=theme-list/factcheck</link>
@@ -239,16 +248,6 @@ PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:enc
             <content:encoded><![CDATA[尹 "수도권 방어위해 추가배치 필요"…李 "수도권 방어에 도움 안돼"
 北 신형미사일, 사드 요격고도 아래로 변칙기동…전문가 "패트리엇 효과적...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2017/09/07/PYH2017090716240001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 캠프 LTV 공약 80%→90%로 완화했다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220203166500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220203166500502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 03 Feb 2022 13:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[이재명 "80%로 공약했다가 90%로 바꿨다"며 윤석열 공격
-윤석열 "바꾸지 않았다"…윤 선대본부도 "80% 유지하고 있다" 반박
-...]]></content:encoded>
-            <enclosure url="https://img9.yna.co.kr/photo/cms/2022/02/03/70/PCM20220203000170990_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
