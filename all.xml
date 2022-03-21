@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 09:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 10:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/19/desk_20211119_200446_1_12_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이재명 지사가 4천700억원 들여 경기도청 이전했다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220321144200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220321144200502?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 21 Mar 2022 10:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[경기도 청사 신축계획 추진은 1995년 이인제 지사 시절부터
+사업 보류되다 남경필 지사 때 본격 재개…올해 5월 30일 신청사 시대 개막
+...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/03/20/PYH2022032003790001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[文정부에선 박근혜정부 공공기관장 90% 임기 보장했다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220319051400502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220319051400502?section=theme-list/factcheck</guid>
@@ -573,15 +583,6 @@ WH...]]></content:encoded>
 서울시 발표한 13.5년과 차이 커
 PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2022/02/07/PYH2022020710600001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사드로 수도권 노리는 북한 미사일 막을 수 있나 (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220203175700504?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220203175700504?section=theme-list/factcheck</guid>
-            <pubDate>Sat, 05 Feb 2022 02:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[尹 "수도권 방어위해 추가배치 필요"…李 "수도권 방어에 도움 안돼"
-北 신형미사일, 사드 요격고도 아래로 변칙기동…전문가 "패트리엇 효과적...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2017/09/07/PYH2017090716240001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
