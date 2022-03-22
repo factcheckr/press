@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 08:26:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 10:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/19/desk_20211119_200446_1_12_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한의사가 코로나19 검사하면 무면허 의료행위? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220322144900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220322144900502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 22 Mar 2022 10:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[한의업계 신속항원검사 허용 요청에 의사협회 "무면허 의료행위" 주장
+의료법에서 한의사 의료행위 범위 구체적으로 규정하지 않아
+한의원에서 검사...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2022/03/22/AKR20220322144900502_02_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이재명 지사가 4천700억원 들여 경기도청 이전했다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220321144200502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220321144200502?section=theme-list/factcheck</guid>
@@ -573,16 +583,6 @@ WH...]]></content:encoded>
 보고서엔 선진국 기준 위험한 수준으로 85% 언급
 한국의 ...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/photo/cms/2022/02/09/57/PCM20220209000057055_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월급 21년 치 꼬박 모아야 서울에서 집 산다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220207161400502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220207161400502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 08 Feb 2022 02:34:06 GMT</pubDate>
-            <content:encoded><![CDATA[한국경제연구원, 내 집 마련 소요 기간 21년으로 분석
-서울시 발표한 13.5년과 차이 커
-PIR 계산 때 가구소득·주택가격 얼마로 설정하...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2022/02/07/PYH2022020710600001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
