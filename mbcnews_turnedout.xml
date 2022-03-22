@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 11:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 12:37:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전직 대통령들, 임기 마지막 날 어디에 있었나]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6352436_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6352436_35744.html</guid>
+            <pubDate>Tue, 22 Mar 2022 12:36:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-03-22</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/03/22/desk_20220322_200034_1_7_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국은 어쩌다 '갈등공화국'이 되었나 (인터뷰)]]></title>
             <link>https://imnews.imbc.com/newszoomin/newsinsight/6351640_29123.html</link>
@@ -114,14 +122,6 @@
             <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-11-25</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/25/desk_20211125_202446_1_16_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[놀이터 늘어났지만‥부익부 빈익빈?]]></title>
-            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6315951_34936.html</link>
-            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6315951_34936.html</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-11-19</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/19/desk_20211119_200446_1_12_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
