@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 06:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 07:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인수위원장 맡은 뒤 국무총리까지 간 경우는 없다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220323112600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220323112600502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 23 Mar 2022 07:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[권성동, CBS 라디오서 '안철수 초대 총리 유력설'에 선 그어
+인수위원장→총리 사례는 없어…총리로 지명됐다가 낙마한 경우는 있어
+...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2022/03/23/PYH2022032303620001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한의사가 코로나19 검사하면 무면허 의료행위?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220322144900502?section=theme-list/factcheck</link>
@@ -239,16 +249,6 @@ WH...]]></content:encoded>
 증상없이 검사받을 때는 5만~7만원 부담해야
 (서울=연합뉴스) 이웅 기자 =...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/02/06/PYH2022020606350001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IMF가 한국의 국가채무비율을 '85% 이내'로 권고했다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220209152600502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220209152600502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 09 Feb 2022 23:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[이재명, 2017년 IMF-한국 연례협의 결과 보고서 인용해 재정지출 확대 주장
-보고서엔 선진국 기준 위험한 수준으로 85% 언급
-한국의 ...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/photo/cms/2022/02/09/57/PCM20220209000057055_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
