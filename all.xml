@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 07:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 09:22:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/25/desk_20211125_202446_1_16_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정개특위서 기초의원 중대선거구제 다루면 위법? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220324139700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220324139700502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 24 Mar 2022 09:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[국민의힘 김기현 "정개특위 안건에 포함 안돼" 주장
+본회의 통과한 합의문에 명시되지 않은 것은 사실
+민주당 "합의문의 '지방선거 선거구 획정...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/03/24/PYH2022032409230001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인수위원장 맡은 뒤 국무총리까지 간 경우는 없다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220323112600502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220323112600502?section=theme-list/factcheck</guid>
@@ -573,16 +583,6 @@ WH...]]></content:encoded>
             <content:encoded><![CDATA[한국기자협회 주최 2차 TV토론 발언 검증
 (서울=연합뉴스) 장하나 기자 = 여야 대선 후보들이 11일 한국기자협회 주최로 열린 ...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2022/02/11/PYH2022021125070001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동네 병의원 신속항원검사 5천 원 내면 된다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220210181600502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220210181600502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 10 Feb 2022 23:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[유증상자와 방역패스발급용 검사땐 건강보험 적용돼 저렴
-증상없이 검사받을 때는 5만~7만원 부담해야
-(서울=연합뉴스) 이웅 기자 =...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/02/06/PYH2022020606350001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
