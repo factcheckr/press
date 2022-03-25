@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 10:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 19:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[떼었다 붙였다 정부 조직개편‥ 유독 우리만? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6353484_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6353484_35744.html</guid>
+            <pubDate>Fri, 25 Mar 2022 19:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-03-25</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/03/25/desk_20220325_201635_1_14_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전직 대통령들, 임기 마지막 날 어디에 있었나 (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6352436_35744.html</link>
             <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6352436_35744.html</guid>
@@ -332,14 +340,6 @@
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6318704_29123.html</guid>
             <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-11-27</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[여경 무용론 누가 불지피나 (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6318351_34936.html</link>
-            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6318351_34936.html</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-11-25</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/25/desk_20211125_202446_1_16_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시진핑이 당선인 신분의 국가 차기 지도자와 통화한 적 없다? (연합뉴스 ─ 팩트체크)]]></title>
