@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 02:49:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 09:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/25/desk_20211125_202446_1_16_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[시진핑이 당선인 신분의 국가 차기 지도자와 통화한 적 없다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220325071300502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220325071300502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 25 Mar 2022 09:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[2013년 시 주석 선출 후 한국 대통령 당선인 尹이 유일…文, 당선인 안 거치고 바로 취임
+시진핑, 트럼프·마크롱·푸틴 등 외국의 당선인과...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/cms/2022/03/25/06/PCM20220325000006990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[정개특위서 기초의원 중대선거구제 다루면 위법? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220324139700502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220324139700502?section=theme-list/factcheck</guid>
@@ -574,15 +583,6 @@
 OECD 38개국 중 37개국이 필수 접종 백신으로 지정
 WH...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/cms/2021/03/04/57/PCM20210304000057990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 후보가 원전 추가 건설한다고 했다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220212002000502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220212002000502?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 11 Feb 2022 16:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[한국기자협회 주최 2차 TV토론 발언 검증
-(서울=연합뉴스) 장하나 기자 = 여야 대선 후보들이 11일 한국기자협회 주최로 열린 ...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2022/02/11/PYH2022021125070001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
