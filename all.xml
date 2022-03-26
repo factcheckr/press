@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 01:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 03:26:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,16 @@
             <content:encoded><![CDATA[<span>2021-11-27</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[윤석열 득표율, 조선대·전남대 인근에선 30% 달했다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220325136300502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220325136300502?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 26 Mar 2022 03:26:08 GMT</pubDate>
+            <content:encoded><![CDATA[광주에서 국민의힘 득표율 높아졌지만 30%에는 못 미쳐
+조선대 인근 1개 투표소에서는 30% 넘어…28% 기록한 곳도 있어
+...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/03/10/PYH2022031023280005400_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[시진핑이 당선인 신분의 국가 차기 지도자와 통화한 적 없다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220325071300502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220325071300502?section=theme-list/factcheck</guid>
@@ -573,16 +583,6 @@
             <content:encoded><![CDATA[인터넷 이용한 선거운동에 해당…일반 유권자라면 위법 아냐
 (서울=연합뉴스) 장하나 기자 = 20대 대선 공식 선거운동이 15일 시작...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/etc/inner/KR/2022/02/16/AKR20220216114800502_01_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다른 나라에서는 자궁경부암 예방 백신 안 맞는다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220211125700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220211125700502?section=theme-list/factcheck</guid>
-            <pubDate>Sat, 12 Feb 2022 04:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[접종 대상 확대 추진에 "다른 나라에선 접종 안한다" "후유증 크다" 등 반발
-OECD 38개국 중 37개국이 필수 접종 백신으로 지정
-WH...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/cms/2021/03/04/57/PCM20210304000057990_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
