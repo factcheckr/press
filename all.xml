@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 23:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 03:26:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,16 @@
             <content:encoded><![CDATA[<span>2021-11-27</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[文 정부가 조선족에 공무원 시험 혜택 줬다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220325078700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220325078700502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 27 Mar 2022 03:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[국가공무원은 물론 지방공무원 채용 때도 혜택 없어
+운전면허시험 때 국비 지원받는다는 주장도 근거 없어
+(서울=연합뉴스) 박성제 기...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2022/03/25/AKR20220325078700502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기재부는 대통령 집무실 이전비용을 인수위에 제출 안했나? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220326033100002?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220326033100002?section=theme-list/factcheck</guid>
@@ -574,16 +584,6 @@
 민주당 을지로위원회 명의로 광주시에 반대 공문 보낸 적 있어
 "광주...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/02/16/PYH2022021613490001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나 자가진단키트에 독성 물질?…"인체 유해 수준 아냐" (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220216170900502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220216170900502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 17 Feb 2022 02:28:45 GMT</pubDate>
-            <content:encoded><![CDATA[검체추출액 오염 방지 위해 아자이드화 소듐 미량 포함
-실수로 삼키더라도 독성 야기 가능성 낮아
-(서울=연합뉴스) 박성제 기자...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/cms/2022/02/13/04/PCM20220213000004505_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
