@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 06:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 08:28:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지하철 승강기 100% 설치 약속 박원순 시장 때 했다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220328118500502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220328118500502?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 28 Mar 2022 08:27:57 GMT</pubDate>
+            <content:encoded><![CDATA[2002년 이명박 당시 서울시장 "2004년까지 모두 설치"…지켜지지 않아
+박원순 시장 시절인 2015년에 다시 '2022년까지 100% 설...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/03/28/PYH2022032804510001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[文 정부가 조선족에 공무원 시험 혜택 줬다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220325078700502?section=theme-list/factcheck</link>
@@ -240,16 +249,6 @@
             <content:encoded><![CDATA[선거방송토론위 주관 1차 토론회 발언 검증
 (서울=연합뉴스) 장하나 기자 = 여야 대선 후보 4인이 21일 중앙선거방송토론위원회 주...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/02/21/PYH2022022118370001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주당 반대로 광주에 복합쇼핑몰 들어서지 못했다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220217163000502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220217163000502?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 18 Feb 2022 01:16:11 GMT</pubDate>
-            <content:encoded><![CDATA["민주당이 반대했다" 윤석열 발언에 민주당 "반대한 적 없다" 반박 성명
-민주당 을지로위원회 명의로 광주시에 반대 공문 보낸 적 있어
-"광주...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/02/16/PYH2022021613490001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
