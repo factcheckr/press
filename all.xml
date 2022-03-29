@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 10:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 13:31:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[MBC 뉴스데스크 '알고보니' 제5회 한국팩트체크대상 우수상 (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6354496_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6354496_35744.html</guid>
+            <pubDate>Tue, 29 Mar 2022 13:31:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-03-29</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/03/29/desk_20220329_204309_1_26_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[떼었다 붙였다 정부 조직개편‥ 유독 우리만? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6353484_35744.html</link>
             <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6353484_35744.html</guid>
@@ -333,13 +341,6 @@
             <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-12-01</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/01/desk_20211201_201758_1_14_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈치 안보고 놀려면 아파트 살아야? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6318704_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6318704_29123.html</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-11-27</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지하철 승강기 100% 설치 약속 박원순 시장 때 했다? (연합뉴스 ─ 팩트체크)]]></title>
