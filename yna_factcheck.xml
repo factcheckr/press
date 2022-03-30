@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 08:27:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 09:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임대차3법으로 전세계약 갱신율 70%로 높아졌다?(종합)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220330134551502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220330134551502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 30 Mar 2022 09:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[윤호중, 임대차3법 폐지 반대하며 "계약갱신율 상승" 주장
+국토부 서울 100대 아파트 조사 결과 작년 5월 갱신율 77.7%
+...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/03/30/PYH2022033010010001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임대차3법으로 전세계약 갱신율 70%로 높아졌다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220330134500502?section=theme-list/factcheck</link>
@@ -241,15 +251,6 @@
 국가 부채 중 연금 충당 부채 등은 대외 부채 아냐
 우리 정부 발행 국고채는 외국인도 보유…작년 말 기준 ...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2022/02/24/PYH2022022409220001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리도 기축통화국에 포함될 가능성이 높다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220222091200502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220222091200502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 22 Feb 2022 06:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[이재명 후보 TV 토론서 발언…"전경련 보도자료 인용한 것"
-전경련, IMF SDR 편입 5개 화폐를 기축통화라며 "원화가 편입 1순위"라는...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/cms/2022/02/22/10/PCM20220222000010990_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

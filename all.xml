@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 08:27:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 09:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,15 @@
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/01/10/173501641791885825.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[사실은] 불붙은 풍수지리 논란…'명당'이란 무엇인가 (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006695434&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006695434&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Wed, 30 Mar 2022 09:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20220330/201651190_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[사실은] 지하철 장애인 시위, 시장 바뀌고 지속적으로? (SBS뉴스 ─ 사실은)]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006694588&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006694588&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
@@ -176,7 +185,7 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006680380&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006680380&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Fri, 18 Mar 2022 09:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://img.sbs.co.kr/newimg/news/20220318/201647839_300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -187,7 +196,7 @@
             <pubDate>Tue, 15 Mar 2022 02:43:03 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20220309/201645222_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 후보들의 증세 · 기본소득 발언, 따져 보니 (SBS뉴스 ─ 사실은)]]></title>
@@ -212,15 +221,6 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006656236&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006656236&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Sat, 26 Feb 2022 12:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
-									이경원 기자]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] '2월 여론조사' 모두 모아 평균화(化) 했습니다 (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006653846&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006653846&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Thu, 24 Feb 2022 09:21:07 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
@@ -341,6 +341,16 @@
             <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-12-01</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/01/desk_20211201_201758_1_14_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임대차3법으로 전세계약 갱신율 70%로 높아졌다?(종합) (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220330134551502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220330134551502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 30 Mar 2022 09:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[윤호중, 임대차3법 폐지 반대하며 "계약갱신율 상승" 주장
+국토부 서울 100대 아파트 조사 결과 작년 5월 갱신율 77.7%
+...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/03/30/PYH2022033010010001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임대차3법으로 전세계약 갱신율 70%로 높아졌다? (연합뉴스 ─ 팩트체크)]]></title>
@@ -576,15 +586,6 @@
 국가 부채 중 연금 충당 부채 등은 대외 부채 아냐
 우리 정부 발행 국고채는 외국인도 보유…작년 말 기준 ...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2022/02/24/PYH2022022409220001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리도 기축통화국에 포함될 가능성이 높다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220222091200502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220222091200502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 22 Feb 2022 06:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[이재명 후보 TV 토론서 발언…"전경련 보도자료 인용한 것"
-전경련, IMF SDR 편입 5개 화폐를 기축통화라며 "원화가 편입 1순위"라는...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/cms/2022/02/22/10/PCM20220222000010990_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
