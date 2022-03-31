@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 05:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 07:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/01/desk_20211201_201758_1_14_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[장애인 콜택시 타려고 2시간 기다리는 경우 많다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220331051400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220331051400502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 31 Mar 2022 07:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[서울 평균 32분 대기…2시간 이상 기다린 비율 2019년 6.1%→작년 1.1%
+김예지 의원 "비장애인보다 훨씬 오래 걸려…얼마나 기다릴지...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2021/11/05/PYH2021110800230000400_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[임대차3법으로 전세계약 갱신율 70%로 높아졌다?(종합) (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220330134551502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220330134551502?section=theme-list/factcheck</guid>
@@ -576,15 +585,6 @@
 국가 부채 중 연금 충당 부채 등은 대외 부채 아냐
 우리 정부 발행 국고채는 외국인도 보유…작년 말 기준 ...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2022/02/24/PYH2022022409220001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리도 기축통화국에 포함될 가능성이 높다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220222091200502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220222091200502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 31 Mar 2022 01:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[이재명 후보 TV 토론서 발언…"전경련 보도자료 인용한 것"
-전경련, IMF SDR 편입 5개 화폐를 기축통화라며 "원화가 편입 1순위"라는...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/cms/2022/02/22/10/PCM20220222000010990_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
