@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 11:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 12:39:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[집무실 이전하면 최대 '12조 원' 이득? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6355174_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6355174_35744.html</guid>
+            <pubDate>Thu, 31 Mar 2022 12:38:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-03-31</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/03/31/desk_20220331_202152_1_14_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[MBC 뉴스데스크 '알고보니' 제5회 한국팩트체크대상 우수상 (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6354496_35744.html</link>
             <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6354496_35744.html</guid>
@@ -333,14 +341,6 @@
             <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-12-02</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/02/desk_20211202_204539_1_26_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["위헌" 윤창호법‥상습음주운전 처벌 약해지나 (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6320004_34936.html</link>
-            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6320004_34936.html</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-12-01</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/01/desk_20211201_201758_1_14_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장애인 콜택시 타려고 2시간 기다리는 경우 많다? (연합뉴스 ─ 팩트체크)]]></title>
