@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 10:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 11:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -737,6 +737,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/03/l_2020093001003491300281111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["1회용품 규제, 코로나 감염 우려" 안철수 주장 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002823047</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002823047</guid>
+            <pubDate>Fri, 01 Apr 2022 11:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] '규제 유예' 요구에 환경단체 반박... "다회용품 감염 가능성 낮아"]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/071318280723.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[햇살 들어가면 모두 욱일기 문양?... 일본이 감춘 진실 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002822406</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002822406</guid>
@@ -766,14 +774,6 @@
             <pubDate>Thu, 17 Mar 2022 10:24:30 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 2017년 문 대통령 취임 직후 여민관 집무실 사용..."참모들과 1-2분 내에 소통 가능"]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/031716120064.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["고양시 행정입원 0명인데 이재명은 25명" 윤석열 주장 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002815581</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002815581</guid>
-            <pubDate>Sat, 05 Mar 2022 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 2016~2018년 3년간 고양시 102건·성남시 25건... "시장 권한이지만 보건소장이 결정”]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/063014413355.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
