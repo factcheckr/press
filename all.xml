@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 09:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 10:25:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/06/desk_20211206_200934_1_11_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['대표이사 알박기 논란' 대우조선해양은 공기업? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220404136200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220404136200502?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 04 Apr 2022 10:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[산업은행이 55.7% 지분 보유…공기업 지정 요건 갖춰
+공기업 지정 안 돼…"실익이 적다고 판단해 지정하지 않아"
+(서울=연합뉴스)...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2022/03/31/PYH2022033113340001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[장애인 콜택시 타려고 2시간 기다리는 경우 많다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220331051400502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220331051400502?section=theme-list/factcheck</guid>
@@ -574,16 +584,6 @@
             <content:encoded><![CDATA[선거방송토론위 주관 2차 TV토론회 발언 검증
 (서울=연합뉴스) 이웅 기자 = 여야 대선 후보들이 25일 중앙선거방송토론위원회가 주...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2022/02/25/PYH2022022515700001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국가 부채는 다른 나라에 진 빚이 아니다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220224102800502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220224102800502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 24 Feb 2022 07:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[이재명, 라디오 인터뷰에서 발언
-국가 부채 중 연금 충당 부채 등은 대외 부채 아냐
-우리 정부 발행 국고채는 외국인도 보유…작년 말 기준 ...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2022/02/24/PYH2022022409220001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
