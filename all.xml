@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 11:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 12:39:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[장애인 이동권, 장애인들 '집단이기주의'? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6356898_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6356898_35744.html</guid>
+            <pubDate>Wed, 06 Apr 2022 12:38:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-04-06</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/04/06/desk_20220406_201338_1_13_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전경련 "집무실 경제효과 12조 원", 어떻게 나왔나 (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/newszoomin/newsinsight/6355743_29123.html</link>
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6355743_29123.html</guid>
@@ -332,14 +340,6 @@
             <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-12-08</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/08/desk_20211208_201249_1_13_Large_u.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[술김에 전동킥보드 탔다가‥차 면허도 취소? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6321541_34936.html</link>
-            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6321541_34936.html</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-12-06</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/06/desk_20211206_200934_1_11_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국이 수출한 의류 때문에 중국에서 코로나 감염? (연합뉴스 ─ 팩트체크)]]></title>
