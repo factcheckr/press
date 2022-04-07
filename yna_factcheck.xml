@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 08:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 09:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본이 외국인 입국 완화 대상에서 한국을 제외했다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220407122800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220407122800502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 07 Apr 2022 09:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[국내 일부 언론, 日 106개국 입국 거부 해제하면서 한국은 뺐다고 보도
+한국은 2020년 4월 입국 거부 대상 지정됐다가 같은 해 11월 ...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2021/12/01/PYH2021120107440007301_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국이 수출한 의류 때문에 중국에서 코로나 감염?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220406117000502?section=theme-list/factcheck</link>
@@ -240,16 +249,6 @@
 민주당 "다른 일반대출 2건은 기소했다"
 국민의힘 "구체적인 단서 없는 ...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/02/25/PYH2022022515640001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울철 '삼한사미' 실제로 일어날까?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220225048900502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220225048900502?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 25 Feb 2022 23:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[추위 풀린다고 반드시 미세먼지 심하지는 않아
-다만 한파 뒤 기온 급상승때는 미세먼지도 '나쁨'
-(서울=연합뉴스) 이웅 기자 = ...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2022/02/14/PYH2022021413740001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
