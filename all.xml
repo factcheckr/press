@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 11:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 12:38:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[아이폰 잠금, 정말 못 푸나 (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6357242_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6357242_35744.html</guid>
+            <pubDate>Thu, 07 Apr 2022 12:37:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-04-07</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/04/07/desk_20220407_195722_1_4_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[장애인 이동권, 장애인들 '집단이기주의'? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6356898_35744.html</link>
             <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6356898_35744.html</guid>
@@ -332,14 +340,6 @@
             <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-12-13</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/13/desk_20211213_203852_1_23_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중대재해법 때문에 몸 아프면 안 뽑는다? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6322200_34936.html</link>
-            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6322200_34936.html</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-12-08</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/08/desk_20211208_201249_1_13_Large_u.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본이 외국인 입국 완화 대상에서 한국을 제외했다? (연합뉴스 ─ 팩트체크)]]></title>
