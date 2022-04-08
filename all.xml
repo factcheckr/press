@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 05:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 06:27:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/02/25/PYH2022022515640001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[팩트체크]옷에 묻은 코로나 바이러스에 감염될까 (동아사이언스 ─ 팩트체크)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=53503</link>
+            <guid>https://www.dongascience.com/news.php?idx=53503</guid>
+            <pubDate>Fri, 08 Apr 2022 06:26:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ellip">중국이 최근 한국산 의류를 신종 코로나바이러스 감염증(COVID-19·코로나19) 감염원으로 <span class="ellip-line">지목하면서 한국 제품에 대한 편견이 확산하고 있다. 실제로 중국 지방 방역당국의 언급과 일무 매체에서 중국에서 한국산 의류 수입이 위축되고 있다. 정부는 이에 대해 아직까지 확인한 바가 없다며 말을 아꼈다. 중국에서 코로나19 재확산하는 원인으로 한국산 옷이 지목된 것은 지난달 중순 경이다. 지난달 중순 저장성 원저우시 질병통제센터는 "꼭 필요한 경우가... </span></span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
             <link>https://www.dongascience.com/news.php?idx=51290</link>
             <guid>https://www.dongascience.com/news.php?idx=51290</guid>
@@ -645,13 +652,6 @@
             <guid>https://www.dongascience.com/news.php?idx=46644</guid>
             <pubDate>Sun, 03 Apr 2022 09:20:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ellip">다국적 제약사 아스트라제네카와 영국 옥스퍼드대가 개발한 신종 코로나바이러스 <span class="ellip-line">감염증(COVID-19·코로나19) 백신의 가격이 다른 백신 종류에 비해 크게 떨어져 효능이 떨어지는 이른바 ‘싸구려’ 백신이라는 주장이 소셜미디어와 온라인 커뮤니티 등에서 퍼지고 있다. 세계 10대 경제대국에 해당하는 한국이 이런 싸구려 백신을 맞을 수 밖에 없는 것은 정부의 무능이라는 주장으로 이어진다. 하지만 이런 주장이 무색하게 백신의 가격과 효능은 비... </span></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[만연하는 가짜 의학정보]백신 맞기 전 알레르기약 복용하면 덜 아플까 (동아사이언스 ─ 팩트체크)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=45382</link>
-            <guid>https://www.dongascience.com/news.php?idx=45382</guid>
-            <pubDate>Sun, 03 Apr 2022 09:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ellip">"알레르기가 있는 사람은 백신을 접종하기 전 알레르기 약을 먼저 복용한 후 주사를 맞으면 덜 <span class="ellip-line">아프고 부작용도 없다." 신종 코로나바이러스 감염증(COVID-19·코로나19) 백신 접종과 관련해 최근 인터넷에 번지고 있는 내용의 일부다. 백신을 맞고 발열, 두통 등 각종 이상반응이 나타난다고 신고한 사람들이 늘고 있는 가운데 백신 접종을 앞둔 이들 사이에 확산하고 있다. 백신 접종 대상이 병원 종사자나 요양병원 입소자 외에도 일반 국민으로 확대... </span></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['30조 성인지감수성 예산' 떼어서 북핵 막는다? 윤석열표 '가짜뉴스' (경향신문 ─ 연재 ─ 팩트체크)]]></title>
