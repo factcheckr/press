@@ -4,9 +4,16 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 03:05:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 04:29:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장애인 이동권, 장애인만을 위한 것일까?]]></title>
+            <link>https://imnews.imbc.com/newszoomin/newsinsight/6357483_29123.html</link>
+            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6357483_29123.html</guid>
+            <pubDate>Fri, 08 Apr 2022 04:27:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-04-08</span>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[아이폰 잠금, 정말 못 푸나]]></title>
             <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6357242_35744.html</link>
@@ -114,14 +121,6 @@
             <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-12-20</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/20/desk_20211220_203015_1_20_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대선주자 토론 역대 최저? 과거엔 어땠나]]></title>
-            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6323591_34936.html</link>
-            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6323591_34936.html</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-12-13</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/13/desk_20211213_203852_1_23_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
