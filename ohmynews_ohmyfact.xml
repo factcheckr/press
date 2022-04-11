@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 16:34:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 21:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["8억에 판 목동 아파트 26억 됐다" 원희룡 배우자 주장은 '거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002825581</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002825581</guid>
+            <pubDate>Mon, 11 Apr 2022 21:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 48평 현 시세는 14~15억... 70~80평대 호가와 비교해 상승폭 부풀려]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/041117283081.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["국가부채 2200조, GDP 역전" 언론의 '반복된 거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002824380</link>
@@ -36,14 +44,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002820497</guid>
             <pubDate>Wed, 23 Mar 2022 21:19:08 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 자체 홈피 관리 예산 5억 원 수준… 나머지는 돌봄 플랫폼 등 대국민 서비스 예산]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[용산 집무실 주변 공원 조성해 소통? 최소 7년이상 걸린다]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002820215</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002820215</guid>
-            <pubDate>Wed, 23 Mar 2022 01:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 윤석열 '용산 이전' 둘러싼 쟁점 따져보니...이전 비용 496억? 1200억 추가도 부족]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/063014413355.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
