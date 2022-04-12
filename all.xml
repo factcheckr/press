@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 08:31:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 09:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -734,7 +734,7 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/03/l_2020093001003491300281111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["취임식 엠블럼, 장례 때 쓰는 '사동심결'" 주장, '대체로 사실' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <title><![CDATA["취임식 엠블럼, 장례 때 쓰는 사동심결" 주장은 '대체로 사실' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002825847</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002825847</guid>
             <pubDate>Tue, 12 Apr 2022 07:21:39 GMT</pubDate>
