@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 06:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 07:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["취임식 엠블럼, 장례 때 쓰는 '사동심결'" 주장, '대체로 사실']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002825847</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002825847</guid>
+            <pubDate>Tue, 12 Apr 2022 07:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 황교익 등 문제 제기... 매듭장 전수교육조교 "생동심결 아닌 사동심결 모티브"]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/041215502793.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["8억에 판 목동 아파트 26억 됐다" 원희룡 배우자 주장은 '거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002825581</link>
@@ -37,13 +45,6 @@
             <pubDate>Thu, 31 Mar 2022 21:22:36 GMT</pubDate>
             <content:encoded><![CDATA[논란의 '일본 외무성 유튜브 광고' 검증... '일제 군국주의 상징' 의미 축소]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/033018411045.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA["여가부 홈페이지 관리에만 180억 쓴다" 주장 '거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002820497</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002820497</guid>
-            <pubDate>Wed, 23 Mar 2022 21:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 자체 홈피 관리 예산 5억 원 수준… 나머지는 돌봄 플랫폼 등 대국민 서비스 예산]]></content:encoded>
         </item>
     </channel>
 </rss>
