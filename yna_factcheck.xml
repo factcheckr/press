@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 23:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 01:42:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권성동도 과거 검찰 수사권 폐지 주장했다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220412030600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220412030600502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 12 Apr 2022 01:41:35 GMT</pubDate>
+            <content:encoded><![CDATA[권성동, 2019년 검찰 직접 수사권 축소하는 법률안 발의 주도
+현재 민주당 추진 '검찰 수사권 완전 박탈'과는 차이 있어
+(서울=...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/04/11/PYH2022041120260001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본이 외국인 입국 완화 대상에서 한국을 제외했다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220407122800502?section=theme-list/factcheck</link>
@@ -239,16 +249,6 @@
             <content:encoded><![CDATA[중앙선거방송토론위 주관 3차 대선 후보 TV 토론회 팩트체크
 (서울=연합뉴스) 장하나 기자 = 20대 대선을 일주일 앞둔 2일 마지...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/03/02/PYH2022030221630001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 부산저축은행 수사 때 일반대출은 기소 안 했다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220226022000502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220226022000502?section=theme-list/factcheck</guid>
-            <pubDate>Sat, 26 Feb 2022 01:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[윤, 대장동 대출건 불기소 의혹 제기에 "일반대출을 누가 기소하냐"
-민주당 "다른 일반대출 2건은 기소했다"
-국민의힘 "구체적인 단서 없는 ...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/02/25/PYH2022022515640001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
