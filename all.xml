@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 11:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 12:40:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[외국 검찰은 수사권 '있다? vs 없다?' (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6358708_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6358708_35744.html</guid>
+            <pubDate>Tue, 12 Apr 2022 12:39:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-04-12</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/04/12/desk_20220412_195233_1_5_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[장애인 이동권, 장애인만을 위한 것일까? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/newszoomin/newsinsight/6357483_29123.html</link>
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6357483_29123.html</guid>
@@ -331,14 +339,6 @@
             <pubDate>Thu, 24 Feb 2022 12:36:33 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-02-24</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/02/24/desk_20220224_203910_1_22_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백신에 미생물이?‥가짜뉴스 다시 기승 (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6325620_34936.html</link>
-            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6325620_34936.html</guid>
-            <pubDate>Sun, 02 Jan 2022 16:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-12-20</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/20/desk_20211220_203015_1_20_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[문재인 정부 때 소득 증가율이 전 정부의 ¼? (연합뉴스 ─ 팩트체크)]]></title>
