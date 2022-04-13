@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 01:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 03:08:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -341,6 +341,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/02/24/desk_20220224_203910_1_22_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[검사 범죄사건 기소율 0.2%밖에 안 된다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220413079300502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220413079300502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 13 Apr 2022 03:07:19 GMT</pubDate>
+            <content:encoded><![CDATA[민주당 윤호중 비대위원장, 검찰개혁 필요성 언급하며 주장
+법무부가 제출한 국감 자료 보면 최근 7년간 기소율 0.1%
+(서울=연합뉴...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/cms/2016/04/20/01/C0A8CA3D0000015431EB17EB000CB7E7_P2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[문재인 정부 때 소득 증가율이 전 정부의 ¼? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220412079100502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220412079100502?section=theme-list/factcheck</guid>
@@ -572,16 +582,6 @@
 군미필 병역의무자일 경우에는 병역법에도 저촉
 (서울=연합뉴스) 이웅...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2022/03/07/AKR20220307080700502_01_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유럽 주요 국가는 의료비 본인부담상한제 한다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220304149600502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220304149600502?section=theme-list/factcheck</guid>
-            <pubDate>Sat, 05 Mar 2022 03:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[심상정, 1인당 연 최대 100만 원 부담하는 상한제 공약
-독일·프랑스 등은 시행 중…영국·이탈리아는 무상의료
-(서울=연합뉴...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/03/03/PYH2022030308290001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]옷에 묻은 코로나 바이러스에 감염될까 (동아사이언스 ─ 팩트체크)]]></title>
