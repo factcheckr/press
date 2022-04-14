@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 08:29:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 09:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -341,6 +341,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/02/24/desk_20220224_203910_1_22_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[경찰이 무혐의 처리한 '계곡살인'을 검찰이 혐의 밝혀냈다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220414151300502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220414151300502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 14 Apr 2022 09:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[국민의힘 권성동 원내대표, 검찰 수사권 필요성 언급하며 발언
+경찰이 살인 및 보험사기 미수 혐의로 검찰에 송치
+검찰은 살인미수 혐의 두 건...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2022/03/30/PYH2022033009240006500_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[검사 범죄사건 기소율 0.2%밖에 안 된다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220413079300502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220413079300502?section=theme-list/factcheck</guid>
@@ -572,16 +582,6 @@
 적발시에는 1년 이하 징역 또는 1천만원 이하 벌금
 (서울=연합뉴스)...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/03/05/PYH2022030512710005200_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 참전 위해 출국한 이근, 어떤 처벌받나? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220307080700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220307080700502?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 07 Mar 2022 03:25:29 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나 방문하면 여권법 위반…실제로 참전하면 형법 위반 소지
-군미필 병역의무자일 경우에는 병역법에도 저촉
-(서울=연합뉴스) 이웅...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2022/03/07/AKR20220307080700502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]옷에 묻은 코로나 바이러스에 감염될까 (동아사이언스 ─ 팩트체크)]]></title>
