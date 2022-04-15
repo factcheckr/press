@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 09:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 10:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -734,6 +734,22 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/03/l_2020093001003491300281111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["장애인 시설에 만족해 탈시설 반대" 이준석이 간과한 것 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002826655</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002826655</guid>
+            <pubDate>Fri, 15 Apr 2022 10:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 인권위 조사에선 '퇴소 의사' 더 높아... 전문가들 "만족보다 탈시설 두려움 때문"]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062117063253.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA["저상버스 교체 5~7년이면 된다" 이준석 발언은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002826765</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002826765</guid>
+            <pubDate>Fri, 15 Apr 2022 10:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 기존 시내버스 교체에 11~12년 걸려... 서울 제외한 지자체 보급률 10~30%대 그쳐]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062117063253.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA["취임식 엠블럼, 장례 때 쓰는 사동심결" 주장은 '대체로 사실' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002825847</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002825847</guid>
@@ -755,22 +771,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002824380</guid>
             <pubDate>Thu, 07 Apr 2022 05:21:02 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] '재무제표상 부채'를 '국가부채'로 섞어서 보도... 한두번도 아니고 매번 왜이러나]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["1회용품 규제, 코로나 감염 우려" 안철수 주장 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002823047</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002823047</guid>
-            <pubDate>Fri, 01 Apr 2022 11:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] '규제 유예' 요구에 환경단체 반박... "다회용품 감염 가능성 낮아"]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/071318280723.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[햇살 들어가면 모두 욱일기 문양?... 일본이 감춘 진실 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002822406</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002822406</guid>
-            <pubDate>Thu, 31 Mar 2022 21:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[논란의 '일본 외무성 유튜브 광고' 검증... '일제 군국주의 상징' 의미 축소]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/033018411045.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
