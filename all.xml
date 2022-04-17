@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 23:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 01:45:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -341,6 +341,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/02/24/desk_20220224_203910_1_22_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한동훈 법무부 장관 후보자가 강원도 출신이라고? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220416023500502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220416023500502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 17 Apr 2022 01:44:51 GMT</pubDate>
+            <content:encoded><![CDATA[한 후보자 태어난 곳은 서울…아버지 고향이 강원도 춘천
+이상민 후보자는 전북서 태어났지만 본적은 서울
+(서울=연합뉴스) 장하나 기자...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2022/04/15/PYH2022041506140001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[경찰이 무혐의 처리한 '계곡살인'을 검찰이 혐의 밝혀냈다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220414151300502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220414151300502?section=theme-list/factcheck</guid>
@@ -572,16 +582,6 @@
 유엔개발계획은 11위로 평가…아시아 1위
 (서울=연합뉴스) 이웅 기자 = 문재인 대통령이 8...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2022/03/08/PYH2022030814790006300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[확진자가 일반 유권자로 속여 투표하면 처벌은? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220307112400502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220307112400502?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 07 Mar 2022 07:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[방역지침 위반…다만 투표소에서는 확진자 여부 알 수 없어
-적발시에는 1년 이하 징역 또는 1천만원 이하 벌금
-(서울=연합뉴스)...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/03/05/PYH2022030512710005200_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]옷에 묻은 코로나 바이러스에 감염될까 (동아사이언스 ─ 팩트체크)]]></title>
