@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 11:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 12:48:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[역대 최대 사외이사, 내각으로 직행? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6360850_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6360850_35744.html</guid>
+            <pubDate>Tue, 19 Apr 2022 12:47:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-04-19</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/04/19/desk_20220419_200837_1_10_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[외국 검찰은 수사권 '있다? vs 없다?' (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6358708_35744.html</link>
             <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6358708_35744.html</guid>
@@ -331,14 +339,6 @@
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6347320_29123.html</guid>
             <pubDate>Sat, 05 Mar 2022 04:28:14 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-03-05</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['소가죽', '패륜아'‥ 대선 현수막에 써도 된다? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6344699_35744.html</link>
-            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6344699_35744.html</guid>
-            <pubDate>Thu, 24 Feb 2022 12:36:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-02-24</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/02/24/desk_20220224_203910_1_22_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한동훈 법무부 장관 후보자가 강원도 출신이라고? (연합뉴스 ─ 팩트체크)]]></title>
