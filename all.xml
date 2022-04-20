@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 07:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 08:30:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -341,6 +341,15 @@
             <content:encoded><![CDATA[<span>2022-03-05</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[검수완박 통과되면 국회 입법권 박탈한다고 尹측이 말했다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220420126900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220420126900502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[박민식, MBC 라디오서 "차라리 국회 입법권 박탈시키라는 것이 국민 목소리" 발언
+포털 사이트에는 "완전 박탈해야" 제목하에 인터뷰 전문...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/etc/inner/KR/2022/04/20/AKR20220420126900502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한동훈 법무부 장관 후보자가 강원도 출신이라고? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220416023500502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220416023500502?section=theme-list/factcheck</guid>
@@ -572,16 +581,6 @@
 공약집·발언에서 "폐지하겠다"고 한 적 없어
 개선 필요성은 시사…"(최저임금 때문에) 자영업...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/03/10/PYH2022031019140001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리나라 성평등은 뒤떨어져 있다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220308156700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220308156700502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 08 Mar 2022 10:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[세계경제포럼 평가에서는 102위로 낮아
-유엔개발계획은 11위로 평가…아시아 1위
-(서울=연합뉴스) 이웅 기자 = 문재인 대통령이 8...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2022/03/08/PYH2022030814790006300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]옷에 묻은 코로나 바이러스에 감염될까 (동아사이언스 ─ 팩트체크)]]></title>

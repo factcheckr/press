@@ -4,14 +4,23 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 07:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 08:30:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검수완박 통과되면 국회 입법권 박탈한다고 尹측이 말했다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220420126900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220420126900502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[박민식, MBC 라디오서 "차라리 국회 입법권 박탈시키라는 것이 국민 목소리" 발언
+포털 사이트에는 "완전 박탈해야" 제목하에 인터뷰 전문...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/etc/inner/KR/2022/04/20/AKR20220420126900502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한동훈 법무부 장관 후보자가 강원도 출신이라고?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220416023500502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220416023500502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 17 Apr 2022 01:44:51 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[한 후보자 태어난 곳은 서울…아버지 고향이 강원도 춘천
 이상민 후보자는 전북서 태어났지만 본적은 서울
 (서울=연합뉴스) 장하나 기자...]]></content:encoded>
@@ -21,7 +30,7 @@
             <title><![CDATA[경찰이 무혐의 처리한 '계곡살인'을 검찰이 혐의 밝혀냈다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220414151300502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220414151300502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 14 Apr 2022 09:23:11 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[국민의힘 권성동 원내대표, 검찰 수사권 필요성 언급하며 발언
 경찰이 살인 및 보험사기 미수 혐의로 검찰에 송치
 검찰은 살인미수 혐의 두 건...]]></content:encoded>
@@ -31,7 +40,7 @@
             <title><![CDATA[검사 범죄사건 기소율 0.2%밖에 안 된다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220413079300502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220413079300502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 13 Apr 2022 03:07:19 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[민주당 윤호중 비대위원장, 검찰개혁 필요성 언급하며 주장
 법무부가 제출한 국감 자료 보면 최근 7년간 기소율 0.1%
 (서울=연합뉴...]]></content:encoded>
@@ -41,7 +50,7 @@
             <title><![CDATA[문재인 정부 때 소득 증가율이 전 정부의 ¼?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220412079100502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220412079100502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 12 Apr 2022 06:27:06 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[안철수 인수위원장, 현 정부로부터 물려받는 경제 상황 비판
 1인당 실질 GNI 증가율 박근혜 4년 평균 4.0%…문재인 5년 평균 1.5%...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/04/10/PYH2022041003390001300_P2.jpg" length="0" type="image/jpg"/>
@@ -50,7 +59,7 @@
             <title><![CDATA[권성동도 과거 검찰 수사권 폐지 주장했다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220412030600502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220412030600502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 12 Apr 2022 01:41:35 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[권성동, 2019년 검찰 직접 수사권 축소하는 법률안 발의 주도
 현재 민주당 추진 '검찰 수사권 완전 박탈'과는 차이 있어
 (서울=...]]></content:encoded>
@@ -60,7 +69,7 @@
             <title><![CDATA[일본이 외국인 입국 완화 대상에서 한국을 제외했다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220407122800502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220407122800502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 07 Apr 2022 09:21:19 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[국내 일부 언론, 日 106개국 입국 거부 해제하면서 한국은 뺐다고 보도
 한국은 2020년 4월 입국 거부 대상 지정됐다가 같은 해 11월 ...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2021/12/01/PYH2021120107440007301_P2.jpg" length="0" type="image/jpg"/>
@@ -69,7 +78,7 @@
             <title><![CDATA[한국이 수출한 의류 때문에 중국에서 코로나 감염?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220406117000502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220406117000502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 06 Apr 2022 09:21:31 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[연구 결과 천에 묻은 코로나바이러스 상온에서 오래 생존 못 해
 미 CDC "코로나바이러스 오염 물체와 접촉해 감염될 확률은 1만 분의 1 미...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2022/04/06/PYH2022040615980001300_P2.jpg" length="0" type="image/jpg"/>
@@ -78,7 +87,7 @@
             <title><![CDATA['대표이사 알박기 논란' 대우조선해양은 공기업?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220404136200502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220404136200502?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 04 Apr 2022 10:24:53 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[산업은행이 55.7% 지분 보유…공기업 지정 요건 갖춰
 공기업 지정 안 돼…"실익이 적다고 판단해 지정하지 않아"
 (서울=연합뉴스)...]]></content:encoded>
@@ -88,7 +97,7 @@
             <title><![CDATA[장애인 콜택시 타려고 2시간 기다리는 경우 많다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220331051400502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220331051400502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 31 Mar 2022 07:20:46 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[서울 평균 32분 대기…2시간 이상 기다린 비율 2019년 6.1%→작년 1.1%
 김예지 의원 "비장애인보다 훨씬 오래 걸려…얼마나 기다릴지...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2021/11/05/PYH2021110800230000400_P2.jpg" length="0" type="image/jpg"/>
@@ -97,7 +106,7 @@
             <title><![CDATA[임대차3법으로 전세계약 갱신율 70%로 높아졌다?(종합)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220330134551502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220330134551502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 30 Mar 2022 09:22:49 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[윤호중, 임대차3법 폐지 반대하며 "계약갱신율 상승" 주장
 국토부 서울 100대 아파트 조사 결과 작년 5월 갱신율 77.7%
 ...]]></content:encoded>
@@ -107,7 +116,7 @@
             <title><![CDATA[지하철 승강기 100% 설치 약속 박원순 시장 때 했다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220328118500502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220328118500502?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 28 Mar 2022 08:27:57 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[2002년 이명박 당시 서울시장 "2004년까지 모두 설치"…지켜지지 않아
 박원순 시장 시절인 2015년에 다시 '2022년까지 100% 설...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/03/28/PYH2022032804510001300_P2.jpg" length="0" type="image/jpg"/>
@@ -116,7 +125,7 @@
             <title><![CDATA[文 정부가 조선족에 공무원 시험 혜택 줬다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220325078700502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220325078700502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 27 Mar 2022 03:25:32 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[국가공무원은 물론 지방공무원 채용 때도 혜택 없어
 운전면허시험 때 국비 지원받는다는 주장도 근거 없어
 (서울=연합뉴스) 박성제 기...]]></content:encoded>
@@ -126,7 +135,7 @@
             <title><![CDATA[기재부는 대통령 집무실 이전비용을 인수위에 제출 안했나?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220326033100002?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220326033100002?section=theme-list/factcheck</guid>
-            <pubDate>Sat, 26 Mar 2022 06:25:10 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[국방부·대통령실 이전비용 산출과정 관여했지만 직접 제출은 안 해
 기재부 검토 거쳐 국방부·행안부가 인수위에 자료 보내
 (세종=연...]]></content:encoded>
@@ -136,7 +145,7 @@
             <title><![CDATA[윤석열 득표율, 조선대·전남대 인근에선 30% 달했다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220325136300502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220325136300502?section=theme-list/factcheck</guid>
-            <pubDate>Sat, 26 Mar 2022 03:26:08 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[광주에서 국민의힘 득표율 높아졌지만 30%에는 못 미쳐
 조선대 인근 1개 투표소에서는 30% 넘어…28% 기록한 곳도 있어
 ...]]></content:encoded>
@@ -146,7 +155,7 @@
             <title><![CDATA[시진핑이 당선인 신분의 국가 차기 지도자와 통화한 적 없다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220325071300502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220325071300502?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 25 Mar 2022 09:22:27 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[2013년 시 주석 선출 후 한국 대통령 당선인 尹이 유일…文, 당선인 안 거치고 바로 취임
 시진핑, 트럼프·마크롱·푸틴 등 외국의 당선인과...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/cms/2022/03/25/06/PCM20220325000006990_P2.jpg" length="0" type="image/jpg"/>
@@ -155,7 +164,7 @@
             <title><![CDATA[정개특위서 기초의원 중대선거구제 다루면 위법?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220324139700502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220324139700502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 24 Mar 2022 09:21:44 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[국민의힘 김기현 "정개특위 안건에 포함 안돼" 주장
 본회의 통과한 합의문에 명시되지 않은 것은 사실
 민주당 "합의문의 '지방선거 선거구 획정...]]></content:encoded>
@@ -165,7 +174,7 @@
             <title><![CDATA[인수위원장 맡은 뒤 국무총리까지 간 경우는 없다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220323112600502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220323112600502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 23 Mar 2022 07:20:28 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[권성동, CBS 라디오서 '안철수 초대 총리 유력설'에 선 그어
 인수위원장→총리 사례는 없어…총리로 지명됐다가 낙마한 경우는 있어
 ...]]></content:encoded>
@@ -175,7 +184,7 @@
             <title><![CDATA[한의사가 코로나19 검사하면 무면허 의료행위?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220322144900502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220322144900502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 22 Mar 2022 11:18:05 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:09 GMT</pubDate>
             <content:encoded><![CDATA[한의업계 신속항원검사 허용 요청에 의사협회 "무면허 의료행위" 주장
 의료법에서 한의사 의료행위 범위 구체적으로 규정하지 않아
 한의원에서 검사...]]></content:encoded>
@@ -185,7 +194,7 @@
             <title><![CDATA[이재명 지사가 4천700억원 들여 경기도청 이전했다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220321144200502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220321144200502?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 21 Mar 2022 10:24:38 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:09 GMT</pubDate>
             <content:encoded><![CDATA[경기도 청사 신축계획 추진은 1995년 이인제 지사 시절부터
 사업 보류되다 남경필 지사 때 본격 재개…올해 5월 30일 신청사 시대 개막
 ...]]></content:encoded>
@@ -195,7 +204,7 @@
             <title><![CDATA[文정부에선 박근혜정부 공공기관장 90% 임기 보장했다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220319051400502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220319051400502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 20 Mar 2022 01:22:53 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:09 GMT</pubDate>
             <content:encoded><![CDATA[공기업·준정부기관 131개 전수 조사 결과 절반가량 임기 채워
 윤건영 의원측 "기타 공공기관 포함 300여개 기관 임원 전부 고려하면 6...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2022/03/19/AKR20220319051400502_02_i_P2.jpg" length="0" type="image/jpg"/>
@@ -204,7 +213,7 @@
             <title><![CDATA[새 정부에선 노인 지하철 무임승차 혜택 줄어든다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220316085700502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220316085700502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 16 Mar 2022 05:19:11 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:09 GMT</pubDate>
             <content:encoded><![CDATA[온라인 커뮤니티 등에 "혜택 축소" 글 이어져
 윤석열 공약에 없는 내용…윤석열 측 "확정된 것 없다" 재확인
 (서울=연합뉴스) 장하...]]></content:encoded>
@@ -214,7 +223,7 @@
             <title><![CDATA[신규확진 세계 1위라고 코로나 방역 정책 부실?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220315081700502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220315081700502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 15 Mar 2022 03:22:35 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:09 GMT</pubDate>
             <content:encoded><![CDATA[단기적으로 급증했지만 2년간 보면 다른 나라보다 심각하지 않아
 인구 100만 명당 확진자는 세계 87위…100만 명당 사망자는 151위
 ...]]></content:encoded>
@@ -224,7 +233,7 @@
             <title><![CDATA[군대에서 휴대전화 사용 못 하게 된다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220314076900502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220314076900502?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 14 Mar 2022 03:23:57 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:09 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 공약집에는 "휴대전화 소지 시간 확대"
 선대위 김용현 위원장도 "오히려 사용 시간 늘려나갈 방침"
 '군 복무 기간 늘어난다'는 우려...]]></content:encoded>
@@ -234,21 +243,11 @@
             <title><![CDATA[윤석열 정부에서 최저임금 폐지된다고?(종합)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220310125851502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220310125851502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 10 Mar 2022 09:20:40 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 08:30:09 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령 당선 이후 온라인에 우려 이어져
 공약집·발언에서 "폐지하겠다"고 한 적 없어
 개선 필요성은 시사…"(최저임금 때문에) 자영업...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/03/10/PYH2022031019140001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리나라 성평등은 뒤떨어져 있다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220308156700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220308156700502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 08 Mar 2022 10:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[세계경제포럼 평가에서는 102위로 낮아
-유엔개발계획은 11위로 평가…아시아 1위
-(서울=연합뉴스) 이웅 기자 = 문재인 대통령이 8...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2022/03/08/PYH2022030814790006300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
