@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 23:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 03:39:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헌재는 수사주체를 법률로 바꿀 수 있다고 봤다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220421031400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220421031400502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 21 Apr 2022 03:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[민주당 최강욱, 국회가 수사 주체 결정할 수 있다며 헌재 결정문 제시
+2021년 공수처법 관련 헌재 결정문에 "입법자가 수사 주체 결정할 수...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/04/19/PYH2022041913730001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검수완박 통과되면 국회 입법권 박탈한다고 尹측이 말했다?(종합)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220420126951502?section=theme-list/factcheck</link>
@@ -237,16 +246,6 @@
 인구 100만 명당 확진자는 세계 87위…100만 명당 사망자는 151위
 ...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/03/14/PYH2022031406620005600_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[군대에서 휴대전화 사용 못 하게 된다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220314076900502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220314076900502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 20 Apr 2022 08:30:09 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 공약집에는 "휴대전화 소지 시간 확대"
-선대위 김용현 위원장도 "오히려 사용 시간 늘려나갈 방침"
-'군 복무 기간 늘어난다'는 우려...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/etc/inner/KR/2022/03/14/AKR20220314076900502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
