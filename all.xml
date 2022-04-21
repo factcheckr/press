@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 08:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 09:26:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -341,6 +341,16 @@
             <content:encoded><![CDATA[<span>2022-03-05</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[현역으로 입영하는 사람이 90% 이상 된다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220421151900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220421151900502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 21 Apr 2022 09:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[하태경 의원, KBS 라디오서 병역 특례 축소하자는 취지로 언급
+작년 현역 처분율 83.1%…신체검사 기준 일부 완화 등으로 소폭 상승
+...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/photo/cms/2022/04/12/23/PCM20220412000023005_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[헌재는 수사주체를 법률로 바꿀 수 있다고 봤다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220421031400502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220421031400502?section=theme-list/factcheck</guid>
@@ -569,16 +579,6 @@
 윤석열 공약에 없는 내용…윤석열 측 "확정된 것 없다" 재확인
 (서울=연합뉴스) 장하...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/cms/2018/07/19/02/C0A8CA3D00000164B06C86800006BA9E_P2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[신규확진 세계 1위라고 코로나 방역 정책 부실? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220315081700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220315081700502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 15 Mar 2022 03:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[단기적으로 급증했지만 2년간 보면 다른 나라보다 심각하지 않아
-인구 100만 명당 확진자는 세계 87위…100만 명당 사망자는 151위
-...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/03/14/PYH2022031406620005600_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]옷에 묻은 코로나 바이러스에 감염될까 (동아사이언스 ─ 팩트체크)]]></title>
