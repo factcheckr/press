@@ -4,9 +4,16 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 23:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 01:59:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['역대 최다' 사외이사 내각‥'꿀알바'에서 장관 직행?]]></title>
+            <link>https://imnews.imbc.com/newszoomin/newsinsight/6361779_29123.html</link>
+            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6361779_29123.html</guid>
+            <pubDate>Fri, 22 Apr 2022 01:58:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-04-22</span>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[역대 최대 사외이사, 내각으로 직행?]]></title>
             <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6360850_35744.html</link>
@@ -114,13 +121,6 @@
             <pubDate>Mon, 14 Mar 2022 12:36:04 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-03-14</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/03/14/desk_20220314_202402_1_18_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특혜 아니라는데‥구치소 독방 왜 자꾸 논란되나]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6347320_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6347320_29123.html</guid>
-            <pubDate>Sat, 05 Mar 2022 04:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-03-05</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
