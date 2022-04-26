@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 03:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 04:36:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -731,6 +731,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/03/l_2020093001003491300281111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["차량구입용 위장전입 꽤 있었다" 한동훈 주장, 검증해보니 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002829500</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002829500</guid>
+            <pubDate>Tue, 26 Apr 2022 04:36:01 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 서울보다 경기도 신차등록비용 낮아, 100여만 원 절약 추정... '얌체족' 있었지만 대부분 법인 차량]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/042520102473.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["장애인 시설에 만족해 탈시설 반대" 이준석이 간과한 것 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002826655</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002826655</guid>
@@ -761,13 +769,6 @@
             <pubDate>Mon, 11 Apr 2022 21:23:05 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 48평 현 시세는 14~15억... 70~80평대 호가와 비교해 상승폭 부풀려]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/041117283081.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["국가부채 2200조, GDP 역전" 언론의 '반복된 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002824380</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002824380</guid>
-            <pubDate>Thu, 07 Apr 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] '재무제표상 부채'를 '국가부채'로 섞어서 보도... 한두번도 아니고 매번 왜이러나]]></content:encoded>
         </item>
     </channel>
 </rss>
