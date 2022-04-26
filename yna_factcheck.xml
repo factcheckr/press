@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 07:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 08:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[총리 인사청문 기간을 어긴 사례가 한 차례도 없었다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220426137800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220426137800502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 26 Apr 2022 08:28:48 GMT</pubDate>
+            <content:encoded><![CDATA[한덕수 청문회 파행에 국힘 "과거 총리 인사청문 기간 어긴 사례 없다" 주장
+이완구·황교안·정세균·김부겸, 국회 제출일로부터 20일 넘겨 인...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/04/26/PYH2022042607490001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현역으로 입영하는 사람이 90% 이상 된다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220421151900502?section=theme-list/factcheck</link>
@@ -236,16 +245,6 @@
             <content:encoded><![CDATA[공기업·준정부기관 131개 전수 조사 결과 절반가량 임기 채워
 윤건영 의원측 "기타 공공기관 포함 300여개 기관 임원 전부 고려하면 6...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2022/03/19/AKR20220319051400502_02_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 정부에선 노인 지하철 무임승차 혜택 줄어든다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220316085700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220316085700502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 20 Apr 2022 08:30:09 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 커뮤니티 등에 "혜택 축소" 글 이어져
-윤석열 공약에 없는 내용…윤석열 측 "확정된 것 없다" 재확인
-(서울=연합뉴스) 장하...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/cms/2018/07/19/02/C0A8CA3D00000164B06C86800006BA9E_P2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
