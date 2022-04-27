@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 08:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 09:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/03/18/desk_20220318_202324_1_17_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['검수완박' 법안에 대해 국민투표를 추진한다고? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220427160400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220427160400502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 27 Apr 2022 09:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[국민투표법, 재외국민 투표권 침해 이유로 2014년 헌법불합치 결정받아
+법 개정 시한 지나 효력 상실…2018년 개헌 위한 국민투표도 못해
+...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2022/04/27/PYH2022042717330034300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[총리 인사청문 기간을 어긴 사례가 한 차례도 없었다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220426137800502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220426137800502?section=theme-list/factcheck</guid>
@@ -570,15 +580,6 @@
 사업 보류되다 남경필 지사 때 본격 재개…올해 5월 30일 신청사 시대 개막
 ...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/photo/cms/2022/03/04/73/PCM20220304000073061_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[文정부에선 박근혜정부 공공기관장 90% 임기 보장했다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220319051400502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220319051400502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 20 Mar 2022 01:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[공기업·준정부기관 131개 전수 조사 결과 절반가량 임기 채워
-윤건영 의원측 "기타 공공기관 포함 300여개 기관 임원 전부 고려하면 6...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2022/03/19/AKR20220319051400502_02_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]옷에 묻은 코로나 바이러스에 감염될까 (동아사이언스 ─ 팩트체크)]]></title>
