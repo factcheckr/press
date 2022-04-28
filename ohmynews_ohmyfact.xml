@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 11:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 12:44:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["실외 마스크 풀려면 확진자 수 내려가야" 안철수 주장 따져보니]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002830468</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002830468</guid>
+            <pubDate>Thu, 28 Apr 2022 12:44:09 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 프랑스, 독일 등 한국보다 확진자 수 많을 때 해제... "비교 부적절" 주장도]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/071318280723.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["차량구입용 위장전입 꽤 있었다" 한동훈 주장, 검증해보니]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002829500</link>
@@ -38,14 +46,6 @@
             <pubDate>Tue, 12 Apr 2022 07:21:39 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 황교익 등 문제 제기... 매듭장 전수교육조교 "생동심결 아닌 사동심결 모티브"]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/041215502793.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["8억에 판 목동 아파트 26억 됐다" 원희룡 배우자 주장은 '거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002825581</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002825581</guid>
-            <pubDate>Mon, 11 Apr 2022 21:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 48평 현 시세는 14~15억... 70~80평대 호가와 비교해 상승폭 부풀려]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/041117283081.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
