@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 04:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 05:44:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,13 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA["OECD가 '검수완박' 우려"‥당사자에게 연락해 봤더니 (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/newszoomin/newsinsight/6363656_29123.html</link>
+            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6363656_29123.html</guid>
+            <pubDate>Thu, 28 Apr 2022 05:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-04-28</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[동물 학대, 반사회적 범죄 '예고편'? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6363054_35744.html</link>
             <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6363054_35744.html</guid>
@@ -332,14 +339,6 @@
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6351640_29123.html</guid>
             <pubDate>Sun, 20 Mar 2022 01:22:40 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-03-20</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우리나라 '갈등'이 세계 1위? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6351315_35744.html</link>
-            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6351315_35744.html</guid>
-            <pubDate>Fri, 18 Mar 2022 12:33:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-03-18</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/03/18/desk_20220318_202324_1_17_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[총리 국회인준 못 받으면 장관 임명은…과거 사례 어땠나? (연합뉴스 ─ 팩트체크)]]></title>
