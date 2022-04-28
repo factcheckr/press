@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 22:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 23:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -341,6 +341,16 @@
             <content:encoded><![CDATA[<span>2022-03-20</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[대선 경쟁자를 대통령 취임식에 초청한 전례 없다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220428166700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220428166700502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 28 Apr 2022 23:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[박주선 취임준비위원장 "전례에 따라 이재명·유승민 초청 안해"
+문재인 대통령 취임 때 대선 경쟁자 중 유승민 참석
+2008년 이명박 대통령 ...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/04/28/PYH2022042816610001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[총리 국회인준 못 받으면 장관 임명은…과거 사례 어땠나? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220428045700502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220428045700502?section=theme-list/factcheck</guid>
@@ -569,16 +579,6 @@
 인수위원장→총리 사례는 없어…총리로 지명됐다가 낙마한 경우는 있어
 ...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2022/03/23/PYH2022032303620001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한의사가 코로나19 검사하면 무면허 의료행위? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220322144900502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220322144900502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 22 Mar 2022 11:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[한의업계 신속항원검사 허용 요청에 의사협회 "무면허 의료행위" 주장
-의료법에서 한의사 의료행위 범위 구체적으로 규정하지 않아
-한의원에서 검사...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/03/18/PYH2022031802220001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]옷에 묻은 코로나 바이러스에 감염될까 (동아사이언스 ─ 팩트체크)]]></title>
