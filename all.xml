@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 01:59:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 03:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -341,6 +341,16 @@
             <content:encoded><![CDATA[<span>2022-03-20</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[CPTPP 가입하면 해외 성인사이트 차단할 수 없다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220429130900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220429130900502?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 30 Apr 2022 03:21:46 GMT</pubDate>
+            <content:encoded><![CDATA['가입하면 인터넷 검열 사라진다'는 글 온라인에서 유포
+협정문에 관련 조항 없어…"정당한 목적의 정책은 유지"
+(서울=연합뉴스) 박...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/cms/2019/02/14/08/PCM20190214000008017_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[대선 경쟁자를 대통령 취임식에 초청한 전례 없다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220428166700502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220428166700502?section=theme-list/factcheck</guid>
@@ -569,16 +579,6 @@
 본회의 통과한 합의문에 명시되지 않은 것은 사실
 민주당 "합의문의 '지방선거 선거구 획정...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/03/24/PYH2022032409230001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인수위원장 맡은 뒤 국무총리까지 간 경우는 없다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220323112600502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220323112600502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 23 Mar 2022 07:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[권성동, CBS 라디오서 '안철수 초대 총리 유력설'에 선 그어
-인수위원장→총리 사례는 없어…총리로 지명됐다가 낙마한 경우는 있어
-...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2022/03/23/PYH2022032303620001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]옷에 묻은 코로나 바이러스에 감염될까 (동아사이언스 ─ 팩트체크)]]></title>
