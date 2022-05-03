@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 03:40:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 04:37:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,7 +136,7 @@
             <enclosure url="https://news.kbs.co.kr/data/news/2022/02/04/20220204_kFTWIP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[사실은] 검수완박 마무리… 누가 국회선진화법을 위반했나요? (SBS뉴스 ─ 사실은)]]></title>
+            <title><![CDATA[[사실은] 검수완박 마무리…누가 국회선진화법을 위반했나요? (SBS뉴스 ─ 사실은)]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006735948&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006735948&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Tue, 03 May 2022 03:39:30 GMT</pubDate>
