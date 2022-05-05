@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 09:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 10:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -731,6 +731,13 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/03/l_2020093001003491300281111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["노키즈존 리스트 공유하면 영업 방해" 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002832165</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002832165</guid>
+            <pubDate>Thu, 05 May 2022 10:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 노키즈존 표시 의무 없어 이용자 혼란... 전문가 "영업방해 주장은 자기 모순"]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["실외 마스크 풀려면 확진자 수 내려가야" 안철수 주장 따져보니 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002830468</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002830468</guid>
@@ -761,14 +768,6 @@
             <pubDate>Fri, 15 Apr 2022 10:24:43 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 기존 시내버스 교체에 11~12년 걸려... 서울 제외한 지자체 보급률 10~30%대 그쳐]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062117063253.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA["취임식 엠블럼, 장례 때 쓰는 사동심결" 주장은 '대체로 사실' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002825847</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002825847</guid>
-            <pubDate>Tue, 12 Apr 2022 07:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 황교익 등 문제 제기... 매듭장 전수교육조교 "생동심결 아닌 사동심결 모티브"]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/041215502793.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
