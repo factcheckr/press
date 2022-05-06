@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 11:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 12:42:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -731,6 +731,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/03/l_2020093001003491300281111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["대통령 관저와 집무실 분리, 우리뿐?"... '사실반 거짓반' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002832790</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002832790</guid>
+            <pubDate>Fri, 06 May 2022 12:42:42 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 미국 영국 독일 프랑스 등 대부분 '직주근접'... 러시아, 캐나다 등 일부는 '분리']]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/050617503226.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["노키즈존 리스트 공유하면 영업 방해" 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002832165</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002832165</guid>
@@ -759,14 +767,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002826655</guid>
             <pubDate>Fri, 15 Apr 2022 10:24:43 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 인권위 조사에선 '퇴소 의사' 더 높아... 전문가들 "만족보다 탈시설 두려움 때문"]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062117063253.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA["저상버스 교체 5~7년이면 된다" 이준석 발언은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002826765</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002826765</guid>
-            <pubDate>Fri, 15 Apr 2022 10:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 기존 시내버스 교체에 11~12년 걸려... 서울 제외한 지자체 보급률 10~30%대 그쳐]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062117063253.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
