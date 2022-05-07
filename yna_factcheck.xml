@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 01:44:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 03:04:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리나라 최저임금 OECD 국가 중 상대적으로 높다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220504144200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220504144200502?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 07 May 2022 03:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[추경호 경제부총리 후보자, 인사청문회에서 발언
+실질 최저임금 기준으로 보면 31개국 중 14번째 높아
+중위임금 대비 최저임금 비율은 62%로...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2022/05/02/PYH2022050204940001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나 방역 덕분에 잔병치레 줄었다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220504138600502?section=theme-list/factcheck</link>
@@ -236,16 +246,6 @@
 기재부 검토 거쳐 국방부·행안부가 인수위에 자료 보내
 (세종=연...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2022/03/22/PYH2022032209610001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 득표율, 조선대·전남대 인근에선 30% 달했다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220325136300502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220325136300502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[광주에서 국민의힘 득표율 높아졌지만 30%에는 못 미쳐
-조선대 인근 1개 투표소에서는 30% 넘어…28% 기록한 곳도 있어
-...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/03/10/PYH2022031023280005400_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
