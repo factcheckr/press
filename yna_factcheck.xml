@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 23:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 01:54:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리나라 코로나 방역 OECD 최상위권?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220507024300502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220507024300502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 08 May 2022 01:53:52 GMT</pubDate>
+            <content:encoded><![CDATA[김부겸 총리, 마지막 중대본 회의에서 "방역 성공" 자평
+월드오미터 '100만 명당 누적 사망률'은 OECD에서 다섯 번째로 낮아
+'확진자 ...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2022/05/05/PYH2022050509640001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리나라 최저임금 OECD 국가 중 상대적으로 높다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220504144200502?section=theme-list/factcheck</link>
@@ -236,16 +246,6 @@
 운전면허시험 때 국비 지원받는다는 주장도 근거 없어
 (서울=연합뉴스) 박성제 기...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2022/03/25/AKR20220325078700502_01_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기재부는 대통령 집무실 이전비용을 인수위에 제출 안했나?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220326033100002?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220326033100002?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[국방부·대통령실 이전비용 산출과정 관여했지만 직접 제출은 안 해
-기재부 검토 거쳐 국방부·행안부가 인수위에 자료 보내
-(세종=연...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2022/03/22/PYH2022032209610001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
