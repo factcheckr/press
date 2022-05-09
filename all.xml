@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 04:37:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 06:29:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -356,7 +356,7 @@
             <guid>https://www.yna.co.kr/view/AKR20220504144200502?section=theme-list/factcheck</guid>
             <pubDate>Sat, 07 May 2022 03:04:16 GMT</pubDate>
             <content:encoded><![CDATA[추경호 경제부총리 후보자, 인사청문회에서 발언
-실질 최저임금 기준으로 보면 31개국 중 14번째 높아
+실질 최저임금 기준으로 보면 30개국 중 14번째 높아
 중위임금 대비 최저임금 비율은 62%로...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2022/05/02/PYH2022050204940001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
