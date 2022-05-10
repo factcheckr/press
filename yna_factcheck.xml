@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 07:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 08:28:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[형사소송법 개정으로 아동학대 수사 부실해진다고?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220510127400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220510127400502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 10 May 2022 08:28:11 GMT</pubDate>
+            <content:encoded><![CDATA[부실수사 이의신청 주체에서 고발인 제외되자 일각에서 우려
+아동학대처벌법에 따라 아동학대 사건은 전부 검찰에 송치해야
+(서울=연합뉴...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2022/04/28/PYH2022042809190001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리나라 코로나 방역 OECD 최상위권?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220507024300502?section=theme-list/factcheck</link>
@@ -236,16 +246,6 @@
             <content:encoded><![CDATA[2002년 이명박 당시 서울시장 "2004년까지 모두 설치"…지켜지지 않아
 박원순 시장 시절인 2015년에 다시 '2022년까지 100% 설...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/03/28/PYH2022032804510001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[文 정부가 조선족에 공무원 시험 혜택 줬다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220325078700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220325078700502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[국가공무원은 물론 지방공무원 채용 때도 혜택 없어
-운전면허시험 때 국비 지원받는다는 주장도 근거 없어
-(서울=연합뉴스) 박성제 기...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2022/03/25/AKR20220325078700502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
