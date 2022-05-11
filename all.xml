@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 07:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 08:31:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -341,6 +341,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/03/22/desk_20220322_200034_1_7_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[앉아서 거수경례하면 안 된다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220511124800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220511124800502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 11 May 2022 08:30:32 GMT</pubDate>
+            <content:encoded><![CDATA[尹 대통령, 軍 통수권 이양받을 때 경례 두고 갑론을박
+군예식령은 거수경례를 기본으로 규정…"다만 앉아서 경례 받을 때는 목례도 가능"
+...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/05/10/PYH2022051000140001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[형사소송법 개정으로 아동학대 수사 부실해진다고? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220510127400502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220510127400502?section=theme-list/factcheck</guid>
@@ -570,15 +580,6 @@
 국토부 서울 100대 아파트 조사 결과 작년 5월 갱신율 77.7%
 ...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/03/30/PYH2022033010010001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지하철 승강기 100% 설치 약속 박원순 시장 때 했다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220328118500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220328118500502?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 28 Mar 2022 08:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[2002년 이명박 당시 서울시장 "2004년까지 모두 설치"…지켜지지 않아
-박원순 시장 시절인 2015년에 다시 '2022년까지 100% 설...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/03/28/PYH2022032804510001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
