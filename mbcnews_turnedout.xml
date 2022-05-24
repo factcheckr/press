@@ -4,9 +4,25 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 01:53:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[출퇴근 대통령의 소통‥다른 나라는?]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6369645_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6369645_35744.html</guid>
+            <pubDate>Tue, 24 May 2022 01:52:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-05-17</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/05/17/desk_20220517_201808_1_15_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['표절률' 낮으면 표절 아니다?]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6368474_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6368474_35744.html</guid>
+            <pubDate>Tue, 24 May 2022 01:52:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-05-13</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/05/13/desk_20220513_200531_1_11_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여가부 폐지 압도적? 여론조사 따져보니‥]]></title>
             <link>https://imnews.imbc.com/newszoomin/newsinsight/6365850_29123.html</link>
@@ -105,22 +121,6 @@
             <pubDate>Tue, 29 Mar 2022 13:31:07 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-03-29</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/03/29/desk_20220329_204309_1_26_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[떼었다 붙였다 정부 조직개편‥ 유독 우리만?]]></title>
-            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6353484_35744.html</link>
-            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6353484_35744.html</guid>
-            <pubDate>Fri, 25 Mar 2022 19:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-03-25</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/03/25/desk_20220325_201635_1_14_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전직 대통령들, 임기 마지막 날 어디에 있었나]]></title>
-            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6352436_35744.html</link>
-            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6352436_35744.html</guid>
-            <pubDate>Tue, 22 Mar 2022 12:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-03-22</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/03/22/desk_20220322_200034_1_7_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

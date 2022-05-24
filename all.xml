@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 01:53:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이슈체크K] ‘원숭이두창’에 대한 13가지 궁금증 (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5469048</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5469048</guid>
+            <pubDate>Tue, 24 May 2022 01:51:49 GMT</pubDate>
+            <content:encoded><![CDATA[아프리카의 풍토병이었던 '원숭이두창'이 최근 세계 각지에서 발견되면서 보건당국이 긴장하고 ...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/05/23/173501653290888598.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크K] “산업기술 중국에 넘겨도 솜방망이 처벌”…왜? (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5466350</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5466350</guid>
+            <pubDate>Tue, 24 May 2022 01:51:49 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자의 반도체 핵심기술이 중국으로 넘어간 정황이 최근 검찰 수사를 통해 드러났습니다. ...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/05/18/310691652863327914.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크K] 한국이 일본보다 먼저 소멸한다? (KBS뉴스 ─ 팩트체크K)]]></title>
             <link>https://news.kbs.co.kr/news/view.do?ncd=5461192</link>
@@ -120,20 +136,22 @@
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/02/22/290541645471993582.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크K] 이재명 “한국, 곧 기축통화국 될 가능성 매우 높아” (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=5400481</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=5400481</guid>
-            <pubDate>Mon, 21 Feb 2022 21:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[■ 발언 : "한국, 곧 기축통화국 될 가능성 높아"      "우리가 곧 '기축통화국'으...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/02/22/290541645472629872.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[사실은] 5·18 왜곡 처벌법 시행됐지만…유언비어 여전 (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006755359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006755359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Tue, 24 May 2022 01:52:03 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20220518/201665451_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크K] 윤석열 “대만, 주식 양도세에 장관 경질” (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=5400482</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=5400482</guid>
-            <pubDate>Mon, 21 Feb 2022 21:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[■ 발언 : "주식 양도세 제안, 대만 경제장관 경질"      "주식 양도세는 대만에서...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/02/22/kn103571645470845226.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[사실은] 한 곳에서 여러 명 뽑으면 다당제 가능한가요? (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006751946&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006751946&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Tue, 24 May 2022 01:52:03 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20220516/201664667_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 한 곳에서 여러 명 뽑으면, 작은 정당에 유리? (SBS뉴스 ─ 사실은)]]></title>
@@ -167,7 +185,7 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006722375&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006722375&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Fri, 22 Apr 2022 01:58:07 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://img.sbs.co.kr/newimg/news/20220410/201654272_300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -176,9 +194,9 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006715482&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006715482&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Fri, 15 Apr 2022 08:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20220415/201656051_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] "문재인 정부 탈원전 이후 온실가스 증가" 사실은? (SBS뉴스 ─ 사실은)]]></title>
@@ -187,7 +205,7 @@
             <pubDate>Thu, 14 Apr 2022 03:10:43 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20220329/201650868_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] "'여성가족부' 한국 같은 나라는 10곳뿐"…사실은? (SBS뉴스 ─ 사실은)]]></title>
@@ -208,22 +226,20 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[사실은] 푸틴, 전범 재판 법정에 세울 수 있을까 (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006703818&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006703818&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Wed, 06 Apr 2022 09:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
-									이경원 기자]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+            <title><![CDATA[출퇴근 대통령의 소통‥다른 나라는? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6369645_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6369645_35744.html</guid>
+            <pubDate>Tue, 24 May 2022 01:52:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-05-17</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/05/17/desk_20220517_201808_1_15_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[사실은] 불붙은 풍수지리 논란…'명당'이란 무엇인가 (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006695434&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006695434&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Wed, 30 Mar 2022 09:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
-									이경원 기자]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+            <title><![CDATA['표절률' 낮으면 표절 아니다? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6368474_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6368474_35744.html</guid>
+            <pubDate>Tue, 24 May 2022 01:52:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-05-13</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/05/13/desk_20220513_200531_1_11_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여가부 폐지 압도적? 여론조사 따져보니‥ (MBC뉴스 ─ 알고보니)]]></title>
@@ -325,20 +341,54 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/03/29/desk_20220329_204309_1_26_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[떼었다 붙였다 정부 조직개편‥ 유독 우리만? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6353484_35744.html</link>
-            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6353484_35744.html</guid>
-            <pubDate>Fri, 25 Mar 2022 19:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-03-25</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/03/25/desk_20220325_201635_1_14_Large.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[공직자 인사검증 법무부에 맡길 법적 근거 없다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220523076500502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220523076500502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 24 May 2022 01:52:30 GMT</pubDate>
+            <content:encoded><![CDATA[대통령 임명직 검증은 비서실장이 수행토록 법제화돼 있어
+법령 개정없이 법무부가 인사검증하면 위법 소지
+(서울=연합뉴스) 이웅 기자 ...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2022/05/09/PYH2022050915270001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전직 대통령들, 임기 마지막 날 어디에 있었나 (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6352436_35744.html</link>
-            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6352436_35744.html</guid>
-            <pubDate>Tue, 22 Mar 2022 12:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-03-22</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/03/22/desk_20220322_200034_1_7_Large.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[문재인 정부 때 한미정상회담 다 주선했다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220520029700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220520029700502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 24 May 2022 01:52:30 GMT</pubDate>
+            <content:encoded><![CDATA[민주당 김민석 의원 "문재인 대통령 시절에 만든 정상회담" 주장
+文정부때 물밑 작업…윤석열 인수위 시절 본격 준비 거쳐 확정
+(...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2021/05/22/PYH2021052207920001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명 현수막 잘 보이게 하려고 가로수 가지치기했다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220518064300502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220518064300502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 24 May 2022 01:52:30 GMT</pubDate>
+            <content:encoded><![CDATA[윤형선 국민의힘 계양을 후보 주장…이준석 국민의힘 대표도 "나무야 미안해"
+계양구청 "바람길 조성사업에 따라 2월 중순 가지치기한 것"
+...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2022/05/18/AKR20220518064300502_05_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세빛섬에 서울시 예산이 한 푼도 들어간 게 없다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220517049700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220517049700502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 24 May 2022 01:52:30 GMT</pubDate>
+            <content:encoded><![CDATA[오세훈, CBS 라디오서 '세금둥둥섬' 지적에 반박
+BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
+서울시 산하 SH공사가 1...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/cms/2022/03/01/21/PCM20220301000021004_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권성동 불체포특권 포기하고 즉각 영장심사 받았다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220515032900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220515032900502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 24 May 2022 01:52:30 GMT</pubDate>
+            <content:encoded><![CDATA[권성동, 자신의 사례 거론하며 이재명에 불체포특권 포기 촉구
+강원랜드 채용비리 수사때 권의원이 포기 선언했던 것은 사실
+구속영장 청구 46일...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2022/05/13/PYH2022051302660001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[앉아서 거수경례하면 안 된다? (연합뉴스 ─ 팩트체크)]]></title>
@@ -535,53 +585,6 @@
             <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/04/11/PYH2022041120260001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본이 외국인 입국 완화 대상에서 한국을 제외했다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220407122800502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220407122800502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 07 Apr 2022 09:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[국내 일부 언론, 日 106개국 입국 거부 해제하면서 한국은 뺐다고 보도
-한국은 2020년 4월 입국 거부 대상 지정됐다가 같은 해 11월 ...]]></content:encoded>
-            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2021/12/01/PYH2021120107440007301_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국이 수출한 의류 때문에 중국에서 코로나 감염? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220406117000502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220406117000502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 06 Apr 2022 09:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[연구 결과 천에 묻은 코로나바이러스 상온에서 오래 생존 못 해
-미 CDC "코로나바이러스 오염 물체와 접촉해 감염될 확률은 1만 분의 1 미...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2022/04/06/PYH2022040615980001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['대표이사 알박기 논란' 대우조선해양은 공기업? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220404136200502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220404136200502?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 04 Apr 2022 10:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[산업은행이 55.7% 지분 보유…공기업 지정 요건 갖춰
-공기업 지정 안 돼…"실익이 적다고 판단해 지정하지 않아"
-(서울=연합뉴스)...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2022/03/31/PYH2022033113340001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장애인 콜택시 타려고 2시간 기다리는 경우 많다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220331051400502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220331051400502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 31 Mar 2022 07:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[서울 평균 32분 대기…2시간 이상 기다린 비율 2019년 6.1%→작년 1.1%
-김예지 의원 "비장애인보다 훨씬 오래 걸려…얼마나 기다릴지...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2021/11/05/PYH2021110800230000400_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임대차3법으로 전세계약 갱신율 70%로 높아졌다?(종합) (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220330134551502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220330134551502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 30 Mar 2022 09:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[윤호중, 임대차3법 폐지 반대하며 "계약갱신율 상승" 주장
-국토부 서울 100대 아파트 조사 결과 작년 5월 갱신율 77.7%
-...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/03/30/PYH2022033010010001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
             <link>https://www.dongascience.com/news.php?idx=54018</link>
             <guid>https://www.dongascience.com/news.php?idx=54018</guid>
@@ -732,6 +735,28 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/03/l_2020093001003491300281111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["원전 대개 80년, 100년 쓴다" 박형준 주장 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002836895</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002836895</guid>
+            <pubDate>Tue, 24 May 2022 01:53:18 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 미국, 80년 연장 사례 있지만 유럽은 '조기 폐쇄' 흐름... 박형준 "최신 원전 말한 것" 해명]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/052018532780.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["윤석열 출퇴근 때문에 '용산 차막힘' 검색 통제" 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002836580</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002836580</guid>
+            <pubDate>Tue, 24 May 2022 01:53:18 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 용산 이외 지역도 '하수구 막힘' 사진 노출... 네이버, 19일 오후 5시쯤 '정상화']]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["총리·국정원장 없어 NSC 소집 안 했다" 언론 보도 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002835009</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002835009</guid>
+            <pubDate>Tue, 24 May 2022 01:53:18 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 문재인 취임 직후 박근혜 인사로 긴급 NSC 회의... 윤 정부 "도발 수위 경미" 해명]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["동성애는 치료하면 바뀐다" 김성회 비서관 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002834462</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002834462</guid>
@@ -746,29 +771,6 @@
             <pubDate>Fri, 06 May 2022 12:42:42 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 미국 영국 독일 프랑스 등 대부분 '직주근접'... 러시아, 캐나다 등 일부는 '분리']]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/050617503226.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["노키즈존 리스트 공유하면 영업 방해" 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002832165</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002832165</guid>
-            <pubDate>Thu, 05 May 2022 10:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 노키즈존 표시 의무 없어 이용자 혼란... 전문가 "영업방해 주장은 자기 모순"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["실외 마스크 풀려면 확진자 수 내려가야" 안철수 주장 따져보니 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002830468</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002830468</guid>
-            <pubDate>Thu, 28 Apr 2022 12:44:09 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 프랑스, 독일 등 한국보다 확진자 수 많을 때 해제... "비교 부적절" 주장도]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/071318280723.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["차량구입용 위장전입 꽤 있었다" 한동훈 주장, 검증해보니 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002829500</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002829500</guid>
-            <pubDate>Tue, 26 Apr 2022 04:36:01 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 서울보다 경기도 신차등록비용 낮아, 100여만 원 절약 추정... '얌체족' 있었지만 대부분 법인 차량]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/042520102473.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
