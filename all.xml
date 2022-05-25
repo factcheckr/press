@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 03:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 04:37:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -341,6 +341,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/03/29/desk_20220329_204309_1_26_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미국에선 응답률 15% 이하 여론조사는 발표 못 하게 한다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220525079500502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220525079500502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 25 May 2022 04:36:36 GMT</pubDate>
+            <content:encoded><![CDATA[이재명, 우리나라 ARS 조사 응답률 1∼2%대 불과하다며 미국 사례 언급
+미국은 여론조사 심의 제도 없어…협회 차원 권고 항목에도 응답률은...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/05/24/PYH2022052413800001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[공직자 인사검증 법무부에 맡길 법적 근거 없다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220523076500502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220523076500502?section=theme-list/factcheck</guid>
@@ -573,16 +582,6 @@ BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
             <content:encoded><![CDATA[안철수 인수위원장, 현 정부로부터 물려받는 경제 상황 비판
 1인당 실질 GNI 증가율 박근혜 4년 평균 4.0%…문재인 5년 평균 1.5%...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/04/10/PYH2022041003390001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권성동도 과거 검찰 수사권 폐지 주장했다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220412030600502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220412030600502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 12 Apr 2022 01:41:35 GMT</pubDate>
-            <content:encoded><![CDATA[권성동, 2019년 검찰 직접 수사권 축소하는 법률안 발의 주도
-현재 민주당 추진 '검찰 수사권 완전 박탈'과는 차이 있어
-(서울=...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/04/11/PYH2022041120260001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
