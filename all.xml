@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 01:59:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 03:38:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -341,6 +341,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/03/29/desk_20220329_204309_1_26_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[21대 빼곤 국회의장·법사위원장 소속정당 한 번도 같지 않았다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220526059300502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220526059300502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 26 May 2022 03:37:28 GMT</pubDate>
+            <content:encoded><![CDATA[김기현 "상임위원장 배분 시작 이후 21대 국회에서만 같았다" 주장
+13대 이후 17차례 중 7차례 1당이 의장·법사위원장 동시에 맡아
+17...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/05/20/PYH2022052019620001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미국에선 응답률 15% 이하 여론조사는 발표 못 하게 한다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220525079500502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220525079500502?section=theme-list/factcheck</guid>
@@ -575,15 +585,6 @@ BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
             <enclosure url="https://img5.yna.co.kr/photo/cms/2016/04/20/01/C0A8CA3D0000015431EB17EB000CB7E7_P2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[문재인 정부 때 소득 증가율이 전 정부의 ¼? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220412079100502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220412079100502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 12 Apr 2022 06:27:06 GMT</pubDate>
-            <content:encoded><![CDATA[안철수 인수위원장, 현 정부로부터 물려받는 경제 상황 비판
-1인당 실질 GNI 증가율 박근혜 4년 평균 4.0%…문재인 5년 평균 1.5%...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/04/10/PYH2022041003390001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
             <link>https://www.dongascience.com/news.php?idx=54018</link>
             <guid>https://www.dongascience.com/news.php?idx=54018</guid>
@@ -734,6 +735,14 @@ BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/03/l_2020093001003491300281111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["1회용컵 보증금 때문에 물가 상승" 국힘 주장 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002838171</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002838171</guid>
+            <pubDate>Thu, 26 May 2022 03:38:08 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 보증금 대부분 돌려받아 물가 영향 없어... 국민 77.5% "1회용컵 반환할 것"]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/120610245888.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["원전 대개 80년, 100년 쓴다" 박형준 주장 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002836895</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002836895</guid>
@@ -762,14 +771,6 @@ BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
             <pubDate>Wed, 11 May 2022 11:19:55 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] WHO 등 질병분류에서 '동성애' 삭제... 의학·법률 전문가 "혐오발언"]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/051118090748.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["대통령 관저와 집무실 분리, 우리뿐?"... '사실반 거짓반' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002832790</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002832790</guid>
-            <pubDate>Fri, 06 May 2022 12:42:42 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 미국 영국 독일 프랑스 등 대부분 '직주근접'... 러시아, 캐나다 등 일부는 '분리']]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/050617503226.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
