@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 08:34:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 09:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[법무부 장관은 당연히 검사 출신이 했다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220609135700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220609135700502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 09 Jun 2022 09:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[권성동, CBS 라디오서 '검찰 편중 인사' 비판에 해명
+1987년 민주화 이후 이명박·박근혜 정권만 전원 검사 출신 법무장관
+과거 민정수석...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/etc/graphic/YH/2022/06/09/GYH2022060900140004402_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오염정화 없는 용산공원 부지 임시개방은 위법?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220608139500502?section=theme-list/factcheck</link>
@@ -239,16 +249,6 @@ BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
             <content:encoded><![CDATA[박민식, MBC 라디오서 "차라리 국회 입법권 박탈시키라는 것이 국민 목소리" 발언
 포털 사이트에는 "완전 박탈해야" 제목하에 인터뷰 전문...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/etc/inner/KR/2022/04/20/AKR20220420126900502_01_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한동훈 법무부 장관 후보자가 강원도 출신이라고?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220416023500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220416023500502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[한 후보자 태어난 곳은 서울…아버지 고향이 강원도 춘천
-이상민 후보자는 전북서 태어났지만 본적은 서울
-(서울=연합뉴스) 장하나 기자...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2022/04/15/PYH2022041506140001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
