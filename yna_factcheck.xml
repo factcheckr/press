@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 08:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 10:27:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안전운임제, 해외에는 유사한 사례가 없다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220610127200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220610127200502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 10 Jun 2022 10:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[브라질·호주·캐나다 등에서도 시행중
+(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 민주노총 화물연대가 연장을 요구하는 안전운임제...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2022/06/07/PYH2022060710030005300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[법무부 장관은 당연히 검사 출신이 했다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220609135700502?section=theme-list/factcheck</link>
@@ -240,15 +249,6 @@ BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
             <content:encoded><![CDATA[박민식, MBC 라디오서 "차라리 국회 입법권 박탈시키라는 것이 국민 목소리" 발언
 포털 사이트에는 "완전 박탈해야" 제목하에 인터뷰 전문 ...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2022/04/20/AKR20220420126951502_02_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검수완박 통과되면 국회 입법권 박탈한다고 尹측이 말했다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220420126900502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220420126900502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 20 Apr 2022 08:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[박민식, MBC 라디오서 "차라리 국회 입법권 박탈시키라는 것이 국민 목소리" 발언
-포털 사이트에는 "완전 박탈해야" 제목하에 인터뷰 전문...]]></content:encoded>
-            <enclosure url="https://img9.yna.co.kr/etc/inner/KR/2022/04/20/AKR20220420126900502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
