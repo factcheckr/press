@@ -4,9 +4,16 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 02:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 04:00:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["과거에는 민변 도배" 주장 따져보니‥]]></title>
+            <link>https://imnews.imbc.com/newszoomin/newsinsight/6377943_29123.html</link>
+            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6377943_29123.html</guid>
+            <pubDate>Mon, 13 Jun 2022 03:59:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-06-13</span>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[민변으로 도배? 따져보니‥]]></title>
             <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6376689_35744.html</link>
@@ -113,14 +120,6 @@
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6355743_29123.html</guid>
             <pubDate>Sun, 03 Apr 2022 01:43:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-04-03</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[집무실 이전하면 최대 '12조 원' 이득?]]></title>
-            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6355174_35744.html</link>
-            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6355174_35744.html</guid>
-            <pubDate>Thu, 31 Mar 2022 12:38:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-03-31</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/03/31/desk_20220331_202152_1_14_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
