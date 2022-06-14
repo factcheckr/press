@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 11:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 12:42:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[욕설·고성 시위‥집시법 강화가 답?]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6378431_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6378431_35744.html</guid>
+            <pubDate>Tue, 14 Jun 2022 12:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-06-14</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/06/14/desk_20220614_201239_1_13_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["과거에는 민변 도배" 주장 따져보니‥]]></title>
             <link>https://imnews.imbc.com/newszoomin/newsinsight/6377943_29123.html</link>
@@ -113,13 +121,6 @@
             <pubDate>Wed, 06 Apr 2022 12:38:08 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-04-06</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/04/06/desk_20220406_201338_1_13_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전경련 "집무실 경제효과 12조 원", 어떻게 나왔나]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6355743_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6355743_29123.html</guid>
-            <pubDate>Sun, 03 Apr 2022 01:43:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-04-03</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
