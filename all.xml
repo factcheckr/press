@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 07:28:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 08:28:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크K] “권성동, ‘국회 패싱 방지법’ 박근혜 땐 찬성·지금은 반대?” (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5485764</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5485764</guid>
+            <pubDate>Tue, 14 Jun 2022 08:27:24 GMT</pubDate>
+            <content:encoded><![CDATA["2015년도에 이것과 거의 유사한 유승민 국회법 개정 파동 그때, 권성동 의원...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/06/14/310691655167434826.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크K] 원숭이두창 확산은 사전에 계획된 음모다? (KBS뉴스 ─ 팩트체크K)]]></title>
             <link>https://news.kbs.co.kr/news/view.do?ncd=5480493</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 02 Mar 2022 21:18:47 GMT</pubDate>
             <content:encoded><![CDATA[■ 발언 : "성인지 예산으로 대공 방어망 구축"       "성인지 예산이라고 하는 것은...]]></content:encoded>
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/03/03/310711646243894900.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크K] 격리해제 때 PCR 검사, 확진자(X), 동거인(O)…왜? (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=5403606</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=5403606</guid>
-            <pubDate>Thu, 24 Feb 2022 22:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 확진자가 급증하면서 전체 확진자가 250만 명에 육박했습니다. 하루 신규 확진은...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/02/24/173501645601102644.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] '편중 인사 논란' 윤석열 정부, 文 정부와 비교하면? (SBS뉴스 ─ 사실은)]]></title>
@@ -338,6 +338,16 @@
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6355743_29123.html</guid>
             <pubDate>Sun, 03 Apr 2022 01:43:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-04-03</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[권성동 의원도 2015년 '행정입법 통제 강화'에 찬성했다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220614128700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220614128700502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 14 Jun 2022 08:28:07 GMT</pubDate>
+            <content:encoded><![CDATA[국회법 개정안 대표발의한 조응천 민주당 의원 방송에서 주장
+권 의원, 박근혜 정부 시절 국회법 개정안 표결 때 찬성표 던져
+(서울=...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/06/14/PYH2022061403380001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안전운임제, 해외에는 유사한 사례가 없다? (연합뉴스 ─ 팩트체크)]]></title>
@@ -572,15 +582,6 @@ BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
             <content:encoded><![CDATA[민주당 최강욱, 국회가 수사 주체 결정할 수 있다며 헌재 결정문 제시
 2021년 공수처법 관련 헌재 결정문에 "입법자가 수사 주체 결정할 수...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/04/19/PYH2022041913730001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검수완박 통과되면 국회 입법권 박탈한다고 尹측이 말했다?(종합) (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220420126951502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220420126951502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 20 Apr 2022 12:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[박민식, MBC 라디오서 "차라리 국회 입법권 박탈시키라는 것이 국민 목소리" 발언
-포털 사이트에는 "완전 박탈해야" 제목하에 인터뷰 전문 ...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2022/04/20/AKR20220420126951502_02_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>

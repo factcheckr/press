@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 07:28:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 08:28:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권성동 의원도 2015년 '행정입법 통제 강화'에 찬성했다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220614128700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220614128700502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 14 Jun 2022 08:28:07 GMT</pubDate>
+            <content:encoded><![CDATA[국회법 개정안 대표발의한 조응천 민주당 의원 방송에서 주장
+권 의원, 박근혜 정부 시절 국회법 개정안 표결 때 찬성표 던져
+(서울=...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/06/14/PYH2022061403380001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안전운임제, 해외에는 유사한 사례가 없다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220610127200502?section=theme-list/factcheck</link>
@@ -240,15 +250,6 @@ BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
             <content:encoded><![CDATA[민주당 최강욱, 국회가 수사 주체 결정할 수 있다며 헌재 결정문 제시
 2021년 공수처법 관련 헌재 결정문에 "입법자가 수사 주체 결정할 수...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/04/19/PYH2022041913730001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검수완박 통과되면 국회 입법권 박탈한다고 尹측이 말했다?(종합)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220420126951502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220420126951502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 20 Apr 2022 12:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[박민식, MBC 라디오서 "차라리 국회 입법권 박탈시키라는 것이 국민 목소리" 발언
-포털 사이트에는 "완전 박탈해야" 제목하에 인터뷰 전문 ...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2022/04/20/AKR20220420126951502_02_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
