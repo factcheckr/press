@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 23:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 02:01:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -341,6 +341,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/04/06/desk_20220406_201338_1_13_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[12일 북한이 쏜 방사포는 미사일에 준하지 않았다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220614144100502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220614144100502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 15 Jun 2022 02:00:31 GMT</pubDate>
+            <content:encoded><![CDATA[尹대통령, 방사포 발사 당일 영화 관람 두고 논란 일자 해명
+12일 방사포는 유도 기능 없는 122㎜ 또는 240㎜로 추정
+방사포 중에서 유...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/06/12/PYH2022061208950001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[권성동 의원도 2015년 '행정입법 통제 강화'에 찬성했다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220614128700502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220614128700502?section=theme-list/factcheck</guid>
@@ -574,15 +584,6 @@ BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
 작년 현역 처분율 83.1%…신체검사 기준 일부 완화 등으로 소폭 상승
 ...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/photo/cms/2022/04/12/23/PCM20220412000023005_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헌재는 수사주체를 법률로 바꿀 수 있다고 봤다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220421031400502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220421031400502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 21 Apr 2022 03:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[민주당 최강욱, 국회가 수사 주체 결정할 수 있다며 헌재 결정문 제시
-2021년 공수처법 관련 헌재 결정문에 "입법자가 수사 주체 결정할 수...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/04/19/PYH2022041913730001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
