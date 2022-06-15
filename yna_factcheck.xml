@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 08:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 09:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민주화 이후 행안장관의 경찰 감독권은 없어졌다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220615144900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220615144900502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 15 Jun 2022 09:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[민주당 황운하 의원, 행안부 경찰국 신설에 반대하며 주장
+법 개정으로 1991년부터 행안장관 업무에서 치안 사무 폐지
+(서울=연합뉴...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2022/06/09/PYH2022060917790001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[12일 북한이 쏜 방사포는 미사일에 준하지 않았다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220614144100502?section=theme-list/factcheck</link>
@@ -241,16 +251,6 @@ BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
             <content:encoded><![CDATA[한덕수 청문회 파행에 국힘 "과거 총리 인사청문 기간 어긴 사례 없다" 주장
 이완구·황교안·정세균·김부겸, 국회 제출일로부터 20일 넘겨 인...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/04/26/PYH2022042607490001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현역으로 입영하는 사람이 90% 이상 된다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220421151900502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220421151900502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 21 Apr 2022 09:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[하태경 의원, KBS 라디오서 병역 특례 축소하자는 취지로 언급
-작년 현역 처분율 83.1%…신체검사 기준 일부 완화 등으로 소폭 상승
-...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/photo/cms/2022/04/12/23/PCM20220412000023005_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
