@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 06:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 07:43:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[취임 한 달 만에 지지율이 하락한 대통령은 없었다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220616090800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220616090800502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 16 Jun 2022 07:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[리얼미터 주간 조사서 尹 대통령 국정 수행 지지율 48.0%로 떨어져
+이명박·박근혜·문재인도 취임 1개월내 지지율 소폭 하락
+尹 지지율은 이...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/06/16/PYH2022061604710001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민주화 이후 행안장관의 경찰 감독권은 없어졌다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220615144900502?section=theme-list/factcheck</link>
@@ -242,15 +252,6 @@ BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
 법 개정 시한 지나 효력 상실…2018년 개헌 위한 국민투표도 못해
 ...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2022/04/27/PYH2022042717330034300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[총리 인사청문 기간을 어긴 사례가 한 차례도 없었다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220426137800502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220426137800502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 26 Apr 2022 08:28:48 GMT</pubDate>
-            <content:encoded><![CDATA[한덕수 청문회 파행에 국힘 "과거 총리 인사청문 기간 어긴 사례 없다" 주장
-이완구·황교안·정세균·김부겸, 국회 제출일로부터 20일 넘겨 인...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/04/26/PYH2022042607490001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
