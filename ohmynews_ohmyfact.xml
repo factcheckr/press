@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 01:57:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 03:27:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["문재인, 북 미사일 쏘는데 휴가" 언론보도 '사실반 거짓반']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002843180</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002843180</guid>
+            <pubDate>Sat, 18 Jun 2022 03:27:56 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 2017년 여름휴가 하루 연기하고 NSC 주재... 휴가 도중 발사한 사례도 포함]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["임대주택서 정신질환자 나온다" 성일종 주장 '대체로 거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002843336</link>
@@ -38,13 +45,6 @@
             <pubDate>Tue, 24 May 2022 01:53:18 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 미국, 80년 연장 사례 있지만 유럽은 '조기 폐쇄' 흐름... 박형준 "최신 원전 말한 것" 해명]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/052018532780.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["윤석열 출퇴근 때문에 '용산 차막힘' 검색 통제" 주장은 '거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002836580</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002836580</guid>
-            <pubDate>Tue, 24 May 2022 01:53:18 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 용산 이외 지역도 '하수구 막힘' 사진 노출... 네이버, 19일 오후 5시쯤 '정상화']]></content:encoded>
         </item>
     </channel>
 </rss>
