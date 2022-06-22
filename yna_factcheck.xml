@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 08:32:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 09:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원숭이두창은 동성애자만 걸린다? 호흡기로도 전파된다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220622148400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220622148400502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 22 Jun 2022 09:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[대규모 파티가 확산 경로로 부각된 뒤 일부에서 동성간 성관계를 감염 원인으로 지목
+성관계 안 해도 전파…바이러스에 오염된 물질 밀접 접촉해도...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2022/06/22/PYH2022062219580001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서해 공무원 피살 당시 '월북'은 큰 쟁점 아니었다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220621061100502?section=theme-list/factcheck</link>
@@ -241,16 +250,6 @@ BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
 협정문에 관련 조항 없어…"정당한 목적의 정책은 유지"
 (서울=연합뉴스) 박...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/cms/2019/02/14/08/PCM20190214000008017_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대선 경쟁자를 대통령 취임식에 초청한 전례 없다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220428166700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220428166700502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 28 Apr 2022 23:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[박주선 취임준비위원장 "전례에 따라 이재명·유승민 초청 안해"
-문재인 대통령 취임 때 대선 경쟁자 중 유승민 참석
-2008년 이명박 대통령 ...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/04/28/PYH2022042816610001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
