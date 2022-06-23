@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 05:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 06:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["임기제 정무직, 정권 바뀌면 물러나야" 국힘 주장 따져보니]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002844599</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002844599</guid>
+            <pubDate>Thu, 23 Jun 2022 06:28:49 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 공정위·금융위 '중도사퇴', 인권위·감사원 '임기 보장' 사례도]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/120610245888.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["이전 대통령들, 백화점 공개 쇼핑 안 해" 김어준 발언 '대체로 사실']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002843633</link>
@@ -37,14 +45,6 @@
             <pubDate>Mon, 30 May 2022 12:43:51 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 이재명캠프 "고속철 속도 기준 말한 것"... 공항철도 급행화시 10~20분대 가능]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/110902400291.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["1회용컵 보증금 때문에 물가 상승" 국힘 주장 '대체로 거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002838171</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002838171</guid>
-            <pubDate>Thu, 26 May 2022 03:38:08 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 보증금 대부분 돌려받아 물가 영향 없어... 국민 77.5% "1회용컵 반환할 것"]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/120610245888.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
