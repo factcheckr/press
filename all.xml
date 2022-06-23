@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 07:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 08:30:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -340,6 +340,15 @@
             <content:encoded><![CDATA[<span>2022-04-08</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[서해 공무원 피격 당시 남북통신선 3개 살아있었다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220623076600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220623076600502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 23 Jun 2022 08:30:05 GMT</pubDate>
+            <content:encoded><![CDATA[국민의힘 하태경, 3개 라인 가동 중인데도 북측에 협조 요청하지 않았다고 주장
+8개 라인 중 2개 작동 중…나머지 6개는 사건 발생 3개월...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/etc/inner/KR/2022/06/23/AKR20220623076600502_02_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[원숭이두창은 동성애자만 걸린다? 호흡기로도 전파된다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220622148400502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220622148400502?section=theme-list/factcheck</guid>
@@ -572,16 +581,6 @@ BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
             <content:encoded><![CDATA[송언석 "의장이 '필리버스터 뒤 즉시 표결'을 잘못 해석해 표결을 먼저 했다" 주장
 국회법은 "무제한 토론 종결 후 다음 회기에서 지체 없이...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/05/03/PYH2022050307760001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CPTPP 가입하면 해외 성인사이트 차단할 수 없다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220429130900502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220429130900502?section=theme-list/factcheck</guid>
-            <pubDate>Sat, 30 Apr 2022 03:21:46 GMT</pubDate>
-            <content:encoded><![CDATA['가입하면 인터넷 검열 사라진다'는 글 온라인에서 유포
-협정문에 관련 조항 없어…"정당한 목적의 정책은 유지"
-(서울=연합뉴스) 박...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/cms/2019/02/14/08/PCM20190214000008017_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
