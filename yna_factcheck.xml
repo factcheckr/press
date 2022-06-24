@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 05:26:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 06:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['누리호 발사 성공' 항우연 월급이 최하위 수준?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220624073500502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220624073500502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 24 Jun 2022 06:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[블라인드에서 정부출연연구기관중 '하위 3번째'라는 주장 제기돼
+항우연, 작년 1인당 보수는 과기출연연 24곳 중 12위…1위는 한국전자통신...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/photo/cms/2022/06/22/50/PCM20220622000150990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서해 공무원 피격 당시 남북통신선 3개 살아있었다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220623076600502?section=theme-list/factcheck</link>
@@ -240,15 +249,6 @@ BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
 질병관리청 포털에서 독감·감기·수두·A형 간염 등 감소세 확인
 ...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2022/05/04/AKR20220504138600502_02_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의사진행발언은 본회의 안건 표결 전에 해야 한다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220503145400502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220503145400502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 03 May 2022 08:28:03 GMT</pubDate>
-            <content:encoded><![CDATA[송언석 "의장이 '필리버스터 뒤 즉시 표결'을 잘못 해석해 표결을 먼저 했다" 주장
-국회법은 "무제한 토론 종결 후 다음 회기에서 지체 없이...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/05/03/PYH2022050307760001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
