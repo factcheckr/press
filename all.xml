@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 11:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 12:46:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[법인세 내리면 담뱃세 오른다? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6381948_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6381948_35744.html</guid>
+            <pubDate>Fri, 24 Jun 2022 12:45:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-06-24</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/06/24/desk_20220624_201455_1_15_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['20대에 주거 사다리'‥가능한가? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6381240_35744.html</link>
             <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6381240_35744.html</guid>
@@ -331,13 +339,6 @@
             <pubDate>Tue, 12 Apr 2022 12:39:20 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-04-12</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/04/12/desk_20220412_195233_1_5_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장애인 이동권, 장애인만을 위한 것일까? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6357483_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6357483_29123.html</guid>
-            <pubDate>Fri, 08 Apr 2022 04:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-04-08</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['누리호 발사 성공' 항우연 월급이 최하위 수준? (연합뉴스 ─ 팩트체크)]]></title>
