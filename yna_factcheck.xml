@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 03:54:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 04:33:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대통령 결재 전 경찰 인사 발표 관행이었다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220625023800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220625023800502?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 25 Jun 2022 04:32:53 GMT</pubDate>
+            <content:encoded><![CDATA[대통령실-행안부-경찰청 3자 협의 뒤 추천→제청→결재 순으로 진행
+경찰은 관행적으로 '3자 협의 뒤 결재 전'에 인사 발표
+(서울=...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/06/24/PYH2022062403670001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['누리호 발사 성공' 항우연 월급이 최하위 수준?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220624073500502?section=theme-list/factcheck</link>
@@ -239,16 +249,6 @@ BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
 실질 최저임금 기준으로 보면 30개국 중 14번째 높아
 중위임금 대비 최저임금 비율은 62%로...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2022/05/02/PYH2022050204940001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나 방역 덕분에 잔병치레 줄었다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220504138600502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220504138600502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 04 May 2022 08:27:42 GMT</pubDate>
-            <content:encoded><![CDATA[최재천 일상회복위원장, 손씻기·마스크 효과 강조하며 "잔병 없이 살았다"
-질병관리청 포털에서 독감·감기·수두·A형 간염 등 감소세 확인
-...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2022/05/04/AKR20220504138600502_02_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
