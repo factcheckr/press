@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 21:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 22:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이슈체크K] ‘기상 망명’ 부르는 날씨 정보…어디를 믿어야 할까? (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5499074</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5499074</guid>
+            <pubDate>Thu, 30 Jun 2022 22:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[퇴근길 갑자기 쏟아진 비에 무방비로 서 있는 자신과 달리 여유롭게 우산을 꺼내 드는 사람...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/06/30/310691656563475016.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[이슈체크K] ‘주 단위 초과근로 관리’ 우리나라만?…해외 주요국 사례 보니 (KBS뉴스 ─ 팩트체크K)]]></title>
             <link>https://news.kbs.co.kr/news/view.do?ncd=5494575</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 04 Mar 2022 22:16:40 GMT</pubDate>
             <content:encoded><![CDATA[제20대 대통령 선거 투표가 시작됐습니다. 4일과 5일 사전투표에 이어 9일 선거일에도 투...]]></content:encoded>
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/03/04/kn103901646393778049.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이슈체크K] 정규직화? 철저 수사?…토론 소환된 故 김용균 (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=5407691</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=5407691</guid>
-            <pubDate>Wed, 02 Mar 2022 23:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[■ 발언 : "정치인 자식은 산재 당할 가능성이 별로 없어"      "사고가 났을 때 발...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/03/03/314601646239605927.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사실은] "초과 노동, 한국만 1주일 단위로…" 사실은? (SBS뉴스 ─ 사실은)]]></title>
