@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 07:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 08:33:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MB의 577회 변호사 접견은 적은 것이다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220630120400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220630120400502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 30 Jun 2022 08:32:52 GMT</pubDate>
+            <content:encoded><![CDATA[김윤덕 민주당 의원의 '과다 접견' 지적에 이재오 "적게 한 것" 반박
+형사 사건은 변호인 접견 횟수·시간 제한 없어
+최근 5년간 수용자 ...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/06/28/PYH2022062822350001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대통령 결재 전 경찰 인사 발표 관행이었다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220625023800502?section=theme-list/factcheck</link>
@@ -239,16 +249,6 @@ BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
 월드오미터 '100만 명당 누적 사망률'은 OECD에서 다섯 번째로 낮아
 '확진자 ...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2022/05/05/PYH2022050509640001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리나라 최저임금 OECD 국가 중 상대적으로 높다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220504144200502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220504144200502?section=theme-list/factcheck</guid>
-            <pubDate>Sat, 07 May 2022 03:04:16 GMT</pubDate>
-            <content:encoded><![CDATA[추경호 경제부총리 후보자, 인사청문회에서 발언
-실질 최저임금 기준으로 보면 30개국 중 14번째 높아
-중위임금 대비 최저임금 비율은 62%로...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2022/05/02/PYH2022050204940001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
