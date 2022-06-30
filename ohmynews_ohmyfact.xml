@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 10:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 11:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['한동훈 비즈니스석 출장 파격' 언론보도, 검증해보니]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002846729</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002846729</guid>
+            <pubDate>Thu, 30 Jun 2022 11:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 워싱턴D.C행 대한항공 일등석 없어... '비즈니스석 파격' 의미 부여 과장]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["임기제 정무직, 정권 바뀌면 물러나야" 국힘 주장 따져보니]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002844599</link>
@@ -37,14 +44,6 @@
             <pubDate>Fri, 17 Jun 2022 10:24:58 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 인과관계 증명 어렵고 공공임대주택, 만족도·긍정적 영향 조사 결과 존재]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/061711024054.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["김포-인천공항, 고속전철로 10여분 거리" 이재명 주장 '대체로 사실']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002839468</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002839468</guid>
-            <pubDate>Mon, 30 May 2022 12:43:51 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 이재명캠프 "고속철 속도 기준 말한 것"... 공항철도 급행화시 10~20분대 가능]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/110902400291.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
