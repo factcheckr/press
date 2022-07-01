@@ -4,7 +4,7 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 23:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 08:31:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,14 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002846729</guid>
             <pubDate>Thu, 30 Jun 2022 11:19:39 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 워싱턴D.C행 대한항공 일등석 없어... '비즈니스석 파격' 의미 부여 과장]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["검찰총장 공백 역대 최장"... 박주민 vs. <조선> 누가 맞나]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002846208</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002846208</guid>
+            <pubDate>Fri, 01 Jul 2022 08:31:02 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 후보추천위 구성, 이미 역대 최장 기록... 취임까지 평균 63~66일 더 걸려]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062118003672.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA["임기제 정무직, 정권 바뀌면 물러나야" 국힘 주장 따져보니]]></title>
@@ -36,14 +44,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002843180</guid>
             <pubDate>Sat, 18 Jun 2022 03:27:56 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 2017년 여름휴가 하루 연기하고 NSC 주재... 휴가 도중 발사한 사례도 포함]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["임대주택서 정신질환자 나온다" 성일종 주장 '대체로 거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002843336</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002843336</guid>
-            <pubDate>Fri, 17 Jun 2022 10:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 인과관계 증명 어렵고 공공임대주택, 만족도·긍정적 영향 조사 결과 존재]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/061711024054.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

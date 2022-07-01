@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 23:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 08:31:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,24 @@
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/03/04/kn103901646393778049.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[팩트체크는 누가 하는 걸까? '야, 너두 할 수 있어' (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006780072&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006780072&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Fri, 01 Jul 2022 08:29:54 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="조성원 D콘텐츠 제작위원 기자 사진" src="//img.sbs.co.kr/newsnet/user_photo/wonnie_USER_PHOTO_ORIGIN_20150904154458_1v1_141.jpg" class="lazy" style="display: inline;">
+									조성원 D콘텐츠 제작위원]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20220630/201678020_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] "한국의 최저임금은 OECD 3위" 사실은? (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006806359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006806359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Fri, 01 Jul 2022 08:29:54 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20220630/201677814_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[사실은] "초과 노동, 한국만 1주일 단위로…" 사실은? (SBS뉴스 ─ 사실은)]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006800576&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006800576&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
@@ -167,7 +185,7 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006795543&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006795543&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Thu, 23 Jun 2022 03:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://img.sbs.co.kr/newimg/news/20220620/201674406_300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -176,9 +194,9 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006785310&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006785310&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Tue, 14 Jun 2022 02:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20220525/201667288_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] "모든 정권 1년 차 특별사면 해왔다" 따져보니 (SBS뉴스 ─ 사실은)]]></title>
@@ -187,7 +205,7 @@
             <pubDate>Thu, 09 Jun 2022 12:43:58 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20220609/201671659_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 대선과 지선 85일, 민심은 얼마나 변했을까 (SBS뉴스 ─ 사실은)]]></title>
@@ -203,24 +221,6 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006770812&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006770812&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Tue, 31 May 2022 12:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
-									이경원 기자]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 지자체장, 40만 명 인사권 '쥐락펴락' (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006765393&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006765393&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Thu, 26 May 2022 12:43:49 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
-									이경원 기자]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 5·18 왜곡 처벌법 시행됐지만…유언비어 여전 (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006755359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006755359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Tue, 24 May 2022 01:52:03 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
@@ -741,6 +741,14 @@ BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
             <content:encoded><![CDATA[[팩트체크] 워싱턴D.C행 대한항공 일등석 없어... '비즈니스석 파격' 의미 부여 과장]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA["검찰총장 공백 역대 최장"... 박주민 vs. <조선> 누가 맞나 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002846208</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002846208</guid>
+            <pubDate>Fri, 01 Jul 2022 08:31:02 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 후보추천위 구성, 이미 역대 최장 기록... 취임까지 평균 63~66일 더 걸려]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062118003672.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA["임기제 정무직, 정권 바뀌면 물러나야" 국힘 주장 따져보니 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002844599</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002844599</guid>
@@ -762,14 +770,6 @@ BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002843180</guid>
             <pubDate>Sat, 18 Jun 2022 03:27:56 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 2017년 여름휴가 하루 연기하고 NSC 주재... 휴가 도중 발사한 사례도 포함]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["임대주택서 정신질환자 나온다" 성일종 주장 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002843336</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002843336</guid>
-            <pubDate>Fri, 17 Jun 2022 10:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 인과관계 증명 어렵고 공공임대주택, 만족도·긍정적 영향 조사 결과 존재]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/061711024054.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
