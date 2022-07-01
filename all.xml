@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 11:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 12:46:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[중국 통한 수출 호황 끝나간다? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6384199_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6384199_35744.html</guid>
+            <pubDate>Fri, 01 Jul 2022 12:45:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-07-01</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/07/01/desk_20220701_200550_1_11_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[법인세 내리면 담뱃세 오른다? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6381948_35744.html</link>
             <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6381948_35744.html</guid>
@@ -331,14 +339,6 @@
             <pubDate>Tue, 19 Apr 2022 12:47:13 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-04-19</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/04/19/desk_20220419_200837_1_10_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외국 검찰은 수사권 '있다? vs 없다?' (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6358708_35744.html</link>
-            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6358708_35744.html</guid>
-            <pubDate>Tue, 12 Apr 2022 12:39:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-04-12</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/04/12/desk_20220412_195233_1_5_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MB의 577회 변호사 접견은 적은 것이다? (연합뉴스 ─ 팩트체크)]]></title>
