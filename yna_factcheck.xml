@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 02:02:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 03:51:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국 통한 수출 호황 시대 끝나가고 있다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220701043900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220701043900502?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 02 Jul 2022 03:51:08 GMT</pubDate>
+            <content:encoded><![CDATA[최상목 대통령실 경제수석, 수출 다변화 강조하며 언급
+작년까지는 중국으로의 수출이 25%대…여전히 압도적 1위
+올해 들어 소폭 하락…추세화될...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/07/01/PYH2022070110130005100_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MB의 577회 변호사 접견은 적은 것이다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220630120400502?section=theme-list/factcheck</link>
@@ -239,16 +249,6 @@ BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
 아동학대처벌법에 따라 아동학대 사건은 전부 검찰에 송치해야
 (서울=연합뉴...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2022/04/28/PYH2022042809190001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리나라 코로나 방역 OECD 최상위권?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220507024300502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220507024300502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 08 May 2022 01:53:52 GMT</pubDate>
-            <content:encoded><![CDATA[김부겸 총리, 마지막 중대본 회의에서 "방역 성공" 자평
-월드오미터 '100만 명당 누적 사망률'은 OECD에서 다섯 번째로 낮아
-'확진자 ...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2022/05/05/PYH2022050509640001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
