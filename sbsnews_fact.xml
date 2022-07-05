@@ -4,7 +4,7 @@
         <title>SBS뉴스 ─ 사실은</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 04:02:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 04:48:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,7 +17,7 @@
             <enclosure url="https://img.sbs.co.kr/newimg/news/20220703/201678675_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["한국 최저임금 OECD 3위" 사실일까…팩트체크 해보니]]></title>
+            <title><![CDATA[[사실은] "한국 최저임금 OECD 3위" 사실일까…팩트체크 해보니]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006808987&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006808987&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Mon, 04 Jul 2022 02:16:29 GMT</pubDate>
