@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 21:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 22:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크K] 휴가철 앞두고 고개드는 코로나19…7월 ‘재유행’ 오나? (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5502505</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5502505</guid>
+            <pubDate>Tue, 05 Jul 2022 22:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[“올해 여름은 코로나 재유행의 도화선이 될 수 있는 중요한 시기입니다”- 이기일...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/07/05/173501657010029164.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[이슈체크K] ‘기상 망명’ 부르는 날씨 정보…어디를 믿어야 할까? (KBS뉴스 ─ 팩트체크K)]]></title>
             <link>https://news.kbs.co.kr/news/view.do?ncd=5499074</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 21 Mar 2022 23:20:42 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 백신 3차 접종까지 마친 접종 완료자가 32,370,843명으로 집계됐습니다. ...]]></content:encoded>
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/03/21/173501647482033895.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크K] 투표 때 투표용지 촬영해도 처벌받지 않는다? (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=5409326</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=5409326</guid>
-            <pubDate>Fri, 04 Mar 2022 22:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[제20대 대통령 선거 투표가 시작됐습니다. 4일과 5일 사전투표에 이어 9일 선거일에도 투...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/03/04/kn103901646393778049.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 국회 '개점 휴업', 이번이 유독 길었나요? (SBS뉴스 ─ 사실은)]]></title>
