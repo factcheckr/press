@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 08:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 09:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박지현, 비대위원장 임명시 피선거권 받았다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220705135400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220705135400502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 05 Jul 2022 09:21:57 GMT</pubDate>
+            <content:encoded><![CDATA["중앙위 투표로 비대위원장에 선출됐다…피선거권 지금도 유효" 주장
+투표없이 공동 비대위원장에 선임…이후 '윤호중 비대위' 반발 일자 중앙위 ...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2022/07/01/PYH2022070117860001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국 통한 수출 호황 시대 끝나가고 있다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220701043900502?section=theme-list/factcheck</link>
@@ -239,16 +248,6 @@ BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
 군예식령은 거수경례를 기본으로 규정…"다만 앉아서 경례 받을 때는 목례도 가능"
 ...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/05/10/PYH2022051000140001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[형사소송법 개정으로 아동학대 수사 부실해진다고?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220510127400502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220510127400502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 10 May 2022 08:28:11 GMT</pubDate>
-            <content:encoded><![CDATA[부실수사 이의신청 주체에서 고발인 제외되자 일각에서 우려
-아동학대처벌법에 따라 아동학대 사건은 전부 검찰에 송치해야
-(서울=연합뉴...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2022/04/28/PYH2022042809190001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
