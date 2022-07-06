@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 02:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 04:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["연대 청소노동자 월급 300만~400만원" 고소 학생 주장은 '거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002847964</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002847964</guid>
+            <pubDate>Wed, 06 Jul 2022 04:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 학교가 지급하는 용역업체 도급비와 혼동... 급여명세서 월급은 208만 원]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA['한동훈 비즈니스석 출장 파격' 언론보도, 검증해보니]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002846729</link>
@@ -37,13 +44,6 @@
             <pubDate>Tue, 21 Jun 2022 01:59:11 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 우리나라 대통령은 주로 전통시장 방문... 해외정상들은 백화점·마트도 방문]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/061711290760.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["문재인, 북 미사일 쏘는데 휴가" 언론보도 '사실반 거짓반']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002843180</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002843180</guid>
-            <pubDate>Sat, 18 Jun 2022 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 2017년 여름휴가 하루 연기하고 NSC 주재... 휴가 도중 발사한 사례도 포함]]></content:encoded>
         </item>
     </channel>
 </rss>
