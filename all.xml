@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 07:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 08:28:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -341,6 +341,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/04/19/desk_20220419_200837_1_10_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[119 신고해도 위치추적 안 된다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220706120700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220706120700502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 06 Jul 2022 08:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[가양역 실종 사건 관련해 온라인에서 갑론을박
+위치 설명 없을 경우 이동통신사에 요청해 위치 추적 가능
+실제 위치와 오차는 있어…위치정보 제공...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2021/07/28/PYH2021072809670005400_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박지현, 비대위원장 임명시 피선거권 받았다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220705135400502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220705135400502?section=theme-list/factcheck</guid>
@@ -571,16 +581,6 @@ BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
 강원랜드 채용비리 수사때 권의원이 포기 선언했던 것은 사실
 구속영장 청구 46일...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2022/05/13/PYH2022051302660001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앉아서 거수경례하면 안 된다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220511124800502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220511124800502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 11 May 2022 08:30:32 GMT</pubDate>
-            <content:encoded><![CDATA[尹 대통령, 軍 통수권 이양받을 때 경례 두고 갑론을박
-군예식령은 거수경례를 기본으로 규정…"다만 앉아서 경례 받을 때는 목례도 가능"
-...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/05/10/PYH2022051000140001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
