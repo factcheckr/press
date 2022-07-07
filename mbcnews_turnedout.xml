@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 11:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 12:44:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주식·코인 투자빚 서울 가서 탕감받는다?]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6386033_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6386033_35744.html</guid>
+            <pubDate>Thu, 07 Jul 2022 12:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-07-07</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/07/07/desk_20220707_201333_1_10_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국 통한 수출 호황 끝나간다?]]></title>
             <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6384199_35744.html</link>
@@ -113,14 +121,6 @@
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6361779_29123.html</guid>
             <pubDate>Fri, 22 Apr 2022 01:58:23 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-04-22</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[역대 최대 사외이사, 내각으로 직행?]]></title>
-            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6360850_35744.html</link>
-            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6360850_35744.html</guid>
-            <pubDate>Tue, 19 Apr 2022 12:47:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-04-19</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/04/19/desk_20220419_200837_1_10_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
