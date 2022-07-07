@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 02:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 04:08:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["윤석열보다 노태우 데드크로스 더 빨라" 보도는 '대체로 거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002848334</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002848334</guid>
+            <pubDate>Thu, 07 Jul 2022 04:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 노태우, 지지율 낮은 상태서 정권 출범... 취임 50일 이내 역전은 윤석열 처음]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["연대 청소노동자 월급 300만~400만원" 고소 학생 주장은 '거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002847964</link>
@@ -36,14 +43,6 @@
             <pubDate>Thu, 23 Jun 2022 06:28:49 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 공정위·금융위 '중도사퇴', 인권위·감사원 '임기 보장' 사례도]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/120610245888.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이전 대통령들, 백화점 공개 쇼핑 안 해" 김어준 발언 '대체로 사실']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002843633</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002843633</guid>
-            <pubDate>Tue, 21 Jun 2022 01:59:11 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 우리나라 대통령은 주로 전통시장 방문... 해외정상들은 백화점·마트도 방문]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/061711290760.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
