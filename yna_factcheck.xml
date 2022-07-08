@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 02:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 04:02:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공무원 행동강령에서 가족 채용 제한 규정이 삭제됐다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220708055400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220708055400502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 08 Jul 2022 04:01:41 GMT</pubDate>
+            <content:encoded><![CDATA[尹대통령 '외가 6촌' 부속실 근무 논란에 누리꾼 시끌
+이해충돌방지법 제정에 맞춰 유사·중복 규정 삭제된 건 사실
+가족 채용은 원칙적으로 ...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/07/08/PYH2022070802530001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국 수출 없으면 우리나라도 무역적자국 된다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220707034800502?section=theme-list/factcheck</link>
@@ -237,16 +247,6 @@
 계양구청 "바람길 조성사업에 따라 2월 중순 가지치기한 것"
 ...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2022/05/18/AKR20220518064300502_05_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세빛섬에 서울시 예산이 한 푼도 들어간 게 없다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220517049700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220517049700502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 24 May 2022 01:52:30 GMT</pubDate>
-            <content:encoded><![CDATA[오세훈, CBS 라디오서 '세금둥둥섬' 지적에 반박
-BOT 방식 민간투자 사업으로 서울시 예산 직접 투입은 없어
-서울시 산하 SH공사가 1...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/cms/2022/03/01/21/PCM20220301000021004_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
