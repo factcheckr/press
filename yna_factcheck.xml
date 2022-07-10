@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 02:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 03:53:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리가 전기·물 전세계에서 제일 팡팡 쓴다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220710003300502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220710003300502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 10 Jul 2022 03:53:20 GMT</pubDate>
+            <content:encoded><![CDATA[안철수, 경제위기 극복 위한 국민단합 강조하며 언급
+1인당 가정용 전력 소비량은 OECD 38개국중 25번째
+1인당 가정용수 사용량은 29개...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/06/27/PYH2022062706120001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공무원 행동강령에서 가족 채용 제한 규정이 삭제됐다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220708055400502?section=theme-list/factcheck</link>
@@ -237,16 +247,6 @@
 文정부때 물밑 작업…윤석열 인수위 시절 본격 준비 거쳐 확정
 (...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2021/05/22/PYH2021052207920001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 현수막 잘 보이게 하려고 가로수 가지치기했다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220518064300502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220518064300502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 24 May 2022 01:52:30 GMT</pubDate>
-            <content:encoded><![CDATA[윤형선 국민의힘 계양을 후보 주장…이준석 국민의힘 대표도 "나무야 미안해"
-계양구청 "바람길 조성사업에 따라 2월 중순 가지치기한 것"
-...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2022/05/18/AKR20220518064300502_05_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
