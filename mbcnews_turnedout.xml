@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 11:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 12:52:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대통령 출근길 발언, 지지율에 영향미쳤나]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6387104_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6387104_35744.html</guid>
+            <pubDate>Mon, 11 Jul 2022 12:50:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-07-11</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/07/11/desk_20220711_194759_1_3_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주식·코인 투자빚 서울 가서 탕감받는다?]]></title>
             <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6386033_35744.html</link>
@@ -114,13 +122,6 @@
             <pubDate>Fri, 22 Apr 2022 12:40:48 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-04-22</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/04/22/desk_20220422_202905_1_20_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['역대 최다' 사외이사 내각‥'꿀알바'에서 장관 직행?]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6361779_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6361779_29123.html</guid>
-            <pubDate>Fri, 22 Apr 2022 01:58:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-04-22</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
