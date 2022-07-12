@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 23:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 02:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["전기·물 세계에서 제일 펑펑 쓴다" 안철수 발언 '대체로 거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002849522</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002849522</guid>
+            <pubDate>Tue, 12 Jul 2022 02:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 1인당 전력소비량, 세계 3위 아닌 13위... 가정용은 OECD 평균 이하]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/071318280723.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["윤석열보다 노태우 데드크로스 더 빨라" 보도는 '대체로 거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002848334</link>
@@ -35,14 +43,6 @@
             <pubDate>Fri, 01 Jul 2022 08:31:02 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 후보추천위 구성, 이미 역대 최장 기록... 취임까지 평균 63~66일 더 걸려]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062118003672.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA["임기제 정무직, 정권 바뀌면 물러나야" 국힘 주장 따져보니]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002844599</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002844599</guid>
-            <pubDate>Thu, 23 Jun 2022 06:28:49 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 공정위·금융위 '중도사퇴', 인권위·감사원 '임기 보장' 사례도]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/120610245888.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
