@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 08:29:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 09:27:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/04/22/desk_20220422_202905_1_20_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한미통화스와프, 文정부 때 한미 관계 나빠져 종료됐다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220712151200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220712151200502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 12 Jul 2022 09:26:38 GMT</pubDate>
+            <content:encoded><![CDATA[국민의힘 성일종, 한미 통화스와프 종료 이유를 한미관계 악화로 돌려
+2008년·2020년 두 차례 체결…두 번 모두 연장 끝에 유인 사라져...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2021/12/16/PYH2021121613180001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리가 전기·물 전세계에서 제일 펑펑 쓴다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220710003300502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220710003300502?section=theme-list/factcheck</guid>
@@ -571,16 +580,6 @@
 법령 개정없이 법무부가 인사검증하면 위법 소지
 (서울=연합뉴스) 이웅 기자 ...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2022/05/09/PYH2022050915270001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문재인 정부 때 한미정상회담 다 주선했다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220520029700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220520029700502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 24 May 2022 01:52:30 GMT</pubDate>
-            <content:encoded><![CDATA[민주당 김민석 의원 "문재인 대통령 시절에 만든 정상회담" 주장
-文정부때 물밑 작업…윤석열 인수위 시절 본격 준비 거쳐 확정
-(...]]></content:encoded>
-            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2021/05/22/PYH2021052207920001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
