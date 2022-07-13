@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 23:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 02:05:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['튀르키예발 비행기 연착' 보상으로 24만원 할인권은 적정?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220712153100502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220712153100502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 13 Jul 2022 02:05:16 GMT</pubDate>
+            <content:encoded><![CDATA[대한항공 보상 이후 일각에서 '겪은 공포에 비하면 적다' 지적
+연착 원인인 '예견하지 못한 정비 문제'는 항공사 면책 사유
+대한항공, 내부 ...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/07/10/PYH2022071000170010800_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한미통화스와프, 文정부 때 한미 관계 나빠져 종료됐다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220712151200502?section=theme-list/factcheck</link>
@@ -236,16 +246,6 @@
             <content:encoded><![CDATA[이재명, 우리나라 ARS 조사 응답률 1∼2%대 불과하다며 미국 사례 언급
 미국은 여론조사 심의 제도 없어…협회 차원 권고 항목에도 응답률은...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/05/24/PYH2022052413800001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공직자 인사검증 법무부에 맡길 법적 근거 없다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220523076500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220523076500502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 24 May 2022 01:52:30 GMT</pubDate>
-            <content:encoded><![CDATA[대통령 임명직 검증은 비서실장이 수행토록 법제화돼 있어
-법령 개정없이 법무부가 인사검증하면 위법 소지
-(서울=연합뉴스) 이웅 기자 ...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2022/05/09/PYH2022050915270001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
