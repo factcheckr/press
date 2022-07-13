@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 05:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 06:31:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/04/22/desk_20220422_202905_1_20_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['튀르키예발 비행기 연착' 보상으로 24만원 할인권이 적정?(종합) (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220712153151502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220712153151502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 13 Jul 2022 06:30:24 GMT</pubDate>
+            <content:encoded><![CDATA[대한항공 보상 이후 일각에서 '승객이 겪은 공포에 비하면 적다' 지적
+연착 원인인 '예견하지 못한 정비 문제'는 항공사 면책 사유
+대한항공 ...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/07/10/PYH2022071000170010800_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['튀르키예발 비행기 연착' 보상으로 24만원 할인권은 적정? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220712153100502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220712153100502?section=theme-list/factcheck</guid>
@@ -571,15 +581,6 @@
 13대 이후 17차례 중 7차례 1당이 의장·법사위원장 동시에 맡아
 17...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2021/10/07/PYH2021100711700001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국에선 응답률 15% 이하 여론조사는 발표 못 하게 한다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220525079500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220525079500502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 25 May 2022 04:36:36 GMT</pubDate>
-            <content:encoded><![CDATA[이재명, 우리나라 ARS 조사 응답률 1∼2%대 불과하다며 미국 사례 언급
-미국은 여론조사 심의 제도 없어…협회 차원 권고 항목에도 응답률은...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/05/24/PYH2022052413800001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
