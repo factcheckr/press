@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 23:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 02:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -733,6 +733,13 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/03/l_2020093001003491300281111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["WHO가 퀴어퍼레이드 원숭이두창 확산 경고" 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002850168</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002850168</guid>
+            <pubDate>Thu, 14 Jul 2022 02:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] WHO, 오히려 '낙인 효과' 경계... 퍼레이드 통한 감염 가능성도 낮아]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["전기·물 세계에서 제일 펑펑 쓴다" 안철수 발언 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002849522</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002849522</guid>
@@ -760,14 +767,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002846729</guid>
             <pubDate>Thu, 30 Jun 2022 11:19:39 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 워싱턴D.C행 대한항공 일등석 없어... '비즈니스석 파격' 의미 부여 과장]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["검찰총장 공백 역대 최장"... 박주민 vs. <조선> 누가 맞나 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002846208</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002846208</guid>
-            <pubDate>Fri, 01 Jul 2022 08:31:02 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 후보추천위 구성, 이미 역대 최장 기록... 취임까지 평균 63~66일 더 걸려]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062118003672.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
