@@ -4,9 +4,18 @@
         <title>SBS뉴스 ─ 사실은</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 11:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 12:49:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] 북송 두고 범죄인 · 준외국인 논란…법 따져보니]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006823520&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006823520&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 14 Jul 2022 12:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20220714/201682275_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사실은] 유류세 내렸는데, 기름값은 그대로다?]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006823174&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -48,7 +57,7 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006780072&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006780072&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Fri, 01 Jul 2022 08:29:54 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="조성원 D콘텐츠 제작위원 기자 사진" src="//img.sbs.co.kr/newsnet/user_photo/wonnie_USER_PHOTO_ORIGIN_20150904154458_1v1_141.jpg" class="lazy" style="display: inline;">
+            <content:encoded><![CDATA[<img alt="조성원 D콘텐츠 제작위원 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newsnet/user_photo/wonnie_USER_PHOTO_ORIGIN_20150904154458_1v1_141.jpg" class="lazy">
 									조성원 D콘텐츠 제작위원]]></content:encoded>
             <enclosure url="https://img.sbs.co.kr/newimg/news/20220630/201678020_300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -59,7 +68,7 @@
             <pubDate>Fri, 01 Jul 2022 08:29:54 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20220630/201677814_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] "초과 노동, 한국만 1주일 단위로…" 사실은?]]></title>
@@ -84,15 +93,6 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006797601&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006797601&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Thu, 23 Jun 2022 12:44:01 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
-									이경원 기자]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 한국인 콩쿠르 입상자는 얼마나 되나요]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006795543&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006795543&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Thu, 23 Jun 2022 03:42:01 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
