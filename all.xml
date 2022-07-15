@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 04:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 05:44:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/04/22/desk_20220422_202905_1_20_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['북송 어민 자필 귀순의사 표명' 정부가 숨겼다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220715073500502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220715073500502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 15 Jul 2022 05:43:26 GMT</pubDate>
+            <content:encoded><![CDATA[국민의 힘 하태경, 귀순 진정성 없다고 판단하기 위해 은폐했다고 주장
+김연철 통일장관, 북송 8일 뒤 외통위 보고때 "서면으로 보호 요청한 ...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2022/07/15/AKR20220715073500502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['튀르키예발 비행기 연착' 보상으로 24만원 할인권이 적정?(종합) (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220712153151502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220712153151502?section=theme-list/factcheck</guid>
@@ -571,16 +580,6 @@
             <content:encoded><![CDATA[중국 동포 많은 수도권 10곳 광역단체장 선거 보면 국민의힘이 7곳 우세
 중국 동포가 선거에 미치는 영향 '미미'…유권자 수도 적고 투표율도...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/photo/cms/2021/02/09/09/PCM20210209000009371_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21대 빼곤 국회의장·법사위원장 소속정당 한 번도 같지 않았다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220526059300502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220526059300502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 26 May 2022 03:37:28 GMT</pubDate>
-            <content:encoded><![CDATA[김기현 "상임위원장 배분 시작 이후 21대 국회에서만 같았다" 주장
-13대 이후 17차례 중 7차례 1당이 의장·법사위원장 동시에 맡아
-17...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2021/10/07/PYH2021100711700001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
