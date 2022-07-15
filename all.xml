@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 11:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 12:47:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[공영방송 기자들, 질문하지 말라? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6388729_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6388729_35744.html</guid>
+            <pubDate>Fri, 15 Jul 2022 12:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-07-15</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/07/15/desk_20220715_195515_1_6_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[대통령 출근길 발언, 지지율에 영향미쳤나 (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6387104_35744.html</link>
             <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6387104_35744.html</guid>
@@ -332,14 +340,6 @@
             <pubDate>Tue, 26 Apr 2022 12:42:47 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-04-26</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/04/26/desk_20220426_203252_1_20_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창신동 모자가 지원하지 못한 이유‥'가난의 조건'은? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6361980_35744.html</link>
-            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6361980_35744.html</guid>
-            <pubDate>Fri, 22 Apr 2022 12:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-04-22</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/04/22/desk_20220422_202905_1_20_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['북송 어민 자필 귀순의사 표명' 정부가 숨겼다? (연합뉴스 ─ 팩트체크)]]></title>
