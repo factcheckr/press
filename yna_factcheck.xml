@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 02:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 03:52:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 생활비가 홍콩보다 비싸다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220715085800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220715085800502?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 16 Jul 2022 03:51:23 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 사이트 넘베오 생활비 통계에서 서울 44위 홍콩 49위
+사이트 이용자가 가격정보 직접 입력하는 방식…신뢰성 의문
+머서 등 3개 기관 ...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/07/12/PYH2022071209940001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['북송 어민 자필 귀순의사 표명' 정부가 숨겼다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220715073500502?section=theme-list/factcheck</link>
@@ -237,15 +247,6 @@
 국토부 "임시개방과 관련된 실정법 규정은 없어"
 (서울=연합뉴스) 이웅 기자 =...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/05/26/PYH2022052619000001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 동포 밀집 지역만 민주당 후보가 당선됐다고?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220602180900502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220602180900502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 02 Jun 2022 10:27:28 GMT</pubDate>
-            <content:encoded><![CDATA[중국 동포 많은 수도권 10곳 광역단체장 선거 보면 국민의힘이 7곳 우세
-중국 동포가 선거에 미치는 영향 '미미'…유권자 수도 적고 투표율도...]]></content:encoded>
-            <enclosure url="https://img9.yna.co.kr/photo/cms/2021/02/09/09/PCM20210209000009371_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
