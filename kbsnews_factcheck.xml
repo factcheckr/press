@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 팩트체크K</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 23:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 02:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크K] 대한민국은 진짜로 ‘양성 평등 후진국’일까?]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5511120</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5511120</guid>
+            <pubDate>Sun, 17 Jul 2022 02:10:06 GMT</pubDate>
+            <content:encoded><![CDATA["대한민국의 성 평등 수준이 세계 146개 나라 중 99위에 불과하다."   최...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/07/15/310691657877417951.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크K] 자진사퇴 안 하면 ‘알박기’?…역대 정부 살펴보니]]></title>
             <link>https://news.kbs.co.kr/news/view.do?ncd=5506922</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 12 Apr 2022 08:29:26 GMT</pubDate>
             <content:encoded><![CDATA[청와대 건물 뒤편 북악산이 지난 6일 개방됐습니다. 이번에 개방된 곳은 '북악산 남측면'으...]]></content:encoded>
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/04/12/173501649740561775.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크K] 확진 이력자 “해외여행 쉽지 않네”…어떻게 갈 수 있을까?]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=5431983</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=5431983</guid>
-            <pubDate>Mon, 04 Apr 2022 22:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19의 국내 유입을 차단하기 위해 인천국제공항 입국장에 설치됐던 방역 관련 시설이 지...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/04/04/173501648791763297.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
