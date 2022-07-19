@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 05:48:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 06:30:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,15 @@
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/04/12/173501649740561775.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[사실은] 전반기 국회 성적표 공개…발언王은 누구? (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006827338&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006827338&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Tue, 19 Jul 2022 06:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20180516/201182737_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[사실은] 북송 두고 범죄인 · 준외국인 논란…법 따져보니 (SBS뉴스 ─ 사실은)]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006823520&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006823520&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
@@ -176,7 +185,7 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006808987&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006808987&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Mon, 04 Jul 2022 02:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://img.sbs.co.kr/newimg/news/20220703/201678770_300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -187,7 +196,7 @@
             <pubDate>Fri, 01 Jul 2022 08:29:54 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="조성원 D콘텐츠 제작위원 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newsnet/user_photo/wonnie_USER_PHOTO_ORIGIN_20150904154458_1v1_141.jpg" class="lazy">
 									조성원 D콘텐츠 제작위원]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20220630/201678020_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] "한국의 최저임금은 OECD 3위" 사실은? (SBS뉴스 ─ 사실은)]]></title>
@@ -212,15 +221,6 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006798763&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006798763&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Fri, 24 Jun 2022 09:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
-									이경원 기자]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] "일하자"며 '월 3회 회의'…국회는 잘 지켰나 (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006797601&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006797601&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Thu, 23 Jun 2022 12:44:01 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
