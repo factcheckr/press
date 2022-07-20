@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 05:28:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 06:34:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우회전 일시정지 차량에 경적 울리면 범칙금 4만원?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220720110200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220720110200502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 20 Jul 2022 06:34:09 GMT</pubDate>
+            <content:encoded><![CDATA[새 도로교통법 시행에 곳곳에서 혼선…인터넷상에서도 갑론을박
+횡단보도 앞 일시정지 의무 확대가 핵심…경적 관련해 바뀐 내용은 없어
+기존에도 정...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2022/07/11/PYH2022071116680001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블룸버그가 한국을 채무불이행 가능국으로 보고 있다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220719149800502?section=theme-list/factcheck</link>
@@ -236,15 +246,6 @@
 권 의원, 박근혜 정부 시절 국회법 개정안 표결 때 찬성표 던져
 (서울=...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/06/14/PYH2022061403380001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안전운임제, 해외에는 유사한 사례가 없다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220610127200502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220610127200502?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 10 Jun 2022 10:26:26 GMT</pubDate>
-            <content:encoded><![CDATA[브라질·호주·캐나다 등에서도 시행중
-(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 민주노총 화물연대가 연장을 요구하는 안전운임제...]]></content:encoded>
-            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2022/06/07/PYH2022060710030005300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
