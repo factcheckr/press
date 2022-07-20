@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 22:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 02:08:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["공공기관 28℃인데 윤 대통령 21℃에서 회의" 검증해보니]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002851529</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002851529</guid>
+            <pubDate>Wed, 20 Jul 2022 02:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 14일 회의 때 에어컨 표시 21℃는 '현재 온도'... "해당 건물은 유관기관, 26℃ 유지"]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["WHO가 퀴어퍼레이드 원숭이두창 확산 경고" 주장은 '거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002850168</link>
@@ -35,13 +42,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002847964</guid>
             <pubDate>Wed, 06 Jul 2022 04:12:54 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 학교가 지급하는 용역업체 도급비와 혼동... 급여명세서 월급은 208만 원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['한동훈 비즈니스석 출장 파격' 언론보도, 검증해보니]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002846729</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002846729</guid>
-            <pubDate>Thu, 30 Jun 2022 11:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 워싱턴D.C행 대한항공 일등석 없어... '비즈니스석 파격' 의미 부여 과장]]></content:encoded>
         </item>
     </channel>
 </rss>
