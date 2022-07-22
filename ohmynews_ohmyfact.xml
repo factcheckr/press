@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 04:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 05:31:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['한국 공영방송, 세계 최다' <조선> 사설, '대체로 거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002852206</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002852206</guid>
+            <pubDate>Fri, 22 Jul 2022 05:31:18 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 공영은 KBS·MBC·EBS 3사, 미·영·프 등과 비슷... 전문가 "공영과 국영 구분해야"]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062117362513.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA["공공기관 28℃인데 윤 대통령 21℃에서 회의" 검증해보니]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002851529</link>
@@ -35,13 +43,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002848334</guid>
             <pubDate>Thu, 07 Jul 2022 04:08:25 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 노태우, 지지율 낮은 상태서 정권 출범... 취임 50일 이내 역전은 윤석열 처음]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["연대 청소노동자 월급 300만~400만원" 고소 학생 주장은 '거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002847964</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002847964</guid>
-            <pubDate>Wed, 06 Jul 2022 04:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 학교가 지급하는 용역업체 도급비와 혼동... 급여명세서 월급은 208만 원]]></content:encoded>
         </item>
     </channel>
 </rss>
