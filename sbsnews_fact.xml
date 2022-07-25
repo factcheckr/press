@@ -1,8 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://news.sbs.co.kr/news/fact.do</id>
-    <title>SBS뉴스 ─ 사실은</title>
-    <updated>2022-07-25T17:28:48.003Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://news.sbs.co.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SBS뉴스 ─ 사실은</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 25 Jul 2022 18:30:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] 음악 표절 기준…판결로 살펴봤습니다]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006832370&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006832370&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Mon, 25 Jul 2022 18:29:11 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20220722/201684521_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 국회의원 토론王은 누구일까요?]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006829445&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006829445&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Mon, 25 Jul 2022 18:29:11 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20180516/201182739_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 전반기 국회 성적표 공개…발언王은 누구?]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006827338&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006827338&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Mon, 25 Jul 2022 18:29:11 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20180516/201182737_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 북송 두고 범죄인 · 준외국인 논란…법 따져보니]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006823520&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006823520&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Mon, 25 Jul 2022 18:29:11 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20220714/201682275_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 유류세 내렸는데, 기름값은 그대로다?]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006823174&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006823174&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Mon, 25 Jul 2022 18:29:11 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20220714/201682159_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 美 총기 사고 희생자, 전쟁 희생자 수준?]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006814566&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006814566&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Mon, 25 Jul 2022 18:29:11 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20220707/201680076_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 국회 '개점 휴업', 이번이 유독 길었나요?]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006810990&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006810990&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Mon, 25 Jul 2022 18:29:11 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] "한국 최저임금 OECD 3위" 사실일까…팩트체크 해보니]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006808987&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006808987&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Mon, 25 Jul 2022 18:29:12 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[팩트체크는 누가 하는 걸까? '야, 너두 할 수 있어']]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006780072&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006780072&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Mon, 25 Jul 2022 18:29:12 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="조성원 D콘텐츠 제작위원 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newsnet/user_photo/wonnie_USER_PHOTO_ORIGIN_20150904154458_1v1_141.jpg" class="lazy">
+									조성원 D콘텐츠 제작위원]]></content:encoded>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] "한국의 최저임금은 OECD 3위" 사실은?]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006806359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006806359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Mon, 25 Jul 2022 18:29:12 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
