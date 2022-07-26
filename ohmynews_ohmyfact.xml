@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 08:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 09:28:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["류삼영 총경이 조국 집회 참석" 주장은 '새빨간 거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002853219</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002853219</guid>
+            <pubDate>Tue, 26 Jul 2022 09:28:53 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] &lt;주간조선&gt;, 다른 경찰 간부와 혼동해 '정치 중립 위반' 오보... 기사 삭제]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["경찰서장회의, 12·12 쿠데타에 준한다" 이상민 장관 발언은 '거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002852960</link>
@@ -36,14 +43,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002850168</guid>
             <pubDate>Thu, 14 Jul 2022 02:15:08 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] WHO, 오히려 '낙인 효과' 경계... 퍼레이드 통한 감염 가능성도 낮아]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["전기·물 세계에서 제일 펑펑 쓴다" 안철수 발언 '대체로 거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002849522</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002849522</guid>
-            <pubDate>Tue, 12 Jul 2022 02:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 1인당 전력소비량, 세계 3위 아닌 13위... 가정용은 OECD 평균 이하]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/071318280723.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
