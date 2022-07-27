@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 23:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 02:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부 직제 개편안 입법예고 기간은 통상 5일?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220726149800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220726149800502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 27 Jul 2022 02:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[4일간 입법예고된 '경찰국 신설' 법안에 비판 일자 행안부 해명
+직제 개편안은 입법예고 '예외'…작년 하반기부터 국민알권리 위해 시행
+올해 ...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/07/26/PYH2022072615600001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우회전 일시정지 차량에 경적 울리면 범칙금 4만원?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220720110200502?section=theme-list/factcheck</link>
@@ -236,16 +246,6 @@
 12일 방사포는 유도 기능 없는 122㎜ 또는 240㎜로 추정
 방사포 중에서 유...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/06/12/PYH2022061208950001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권성동 의원도 2015년 '행정입법 통제 강화'에 찬성했다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220614128700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220614128700502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 14 Jun 2022 08:28:07 GMT</pubDate>
-            <content:encoded><![CDATA[국회법 개정안 대표발의한 조응천 민주당 의원 방송에서 주장
-권 의원, 박근혜 정부 시절 국회법 개정안 표결 때 찬성표 던져
-(서울=...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/06/14/PYH2022061403380001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
