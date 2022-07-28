@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 08:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 09:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,15 @@
             <content:encoded><![CDATA[<span>2022-04-28</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[훈련소 입소 후 코로나 확진돼 귀가하면 복무기간 안 빼준다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220728160200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220728160200502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 28 Jul 2022 09:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[입영 장정 귀가 조치 소식에 "입소대 있었던 기간 날리는 것" 글 잇따라
+병역법, '귀가 전 입영부대 복무 기간은 현역병 복무기간에 산입' ...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2021/07/08/PYH2021070808560006300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[정부 직제 개편안 입법예고 기간은 통상 5일? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220726149800502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220726149800502?section=theme-list/factcheck</guid>
@@ -570,16 +579,6 @@
 법 개정으로 1991년부터 행안장관 업무에서 치안 사무 폐지
 (서울=연합뉴...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2022/06/09/PYH2022060917790001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12일 북한이 쏜 방사포는 미사일에 준하지 않았다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220614144100502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220614144100502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 15 Jun 2022 02:00:31 GMT</pubDate>
-            <content:encoded><![CDATA[尹대통령, 방사포 발사 당일 영화 관람 두고 논란 일자 해명
-12일 방사포는 유도 기능 없는 122㎜ 또는 240㎜로 추정
-방사포 중에서 유...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/06/12/PYH2022061208950001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
