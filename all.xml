@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 11:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 12:49:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[대통령실 직원 깜깜이, 유독 우리나라만? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6393492_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6393492_35744.html</guid>
+            <pubDate>Fri, 29 Jul 2022 12:48:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-07-29</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/07/29/desk_20220729_195343_1_5_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[디지털성범죄 남성피해자가 20%? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6392356_35744.html</link>
             <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6392356_35744.html</guid>
@@ -333,13 +341,6 @@
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6365850_29123.html</guid>
             <pubDate>Thu, 05 May 2022 01:50:43 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-05-05</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["OECD가 '검수완박' 우려"‥당사자에게 연락해 봤더니 (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6363656_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6363656_29123.html</guid>
-            <pubDate>Thu, 28 Apr 2022 05:43:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-04-28</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[훈련소 입소 후 코로나 확진돼 귀가하면 복무기간 안 빼준다? (연합뉴스 ─ 팩트체크)]]></title>
