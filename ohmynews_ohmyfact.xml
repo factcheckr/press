@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 02:03:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 04:06:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["펠로시에 외교 결례, 국회의장 탓" 하태경 주장 따져보니]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002855218</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002855218</guid>
+            <pubDate>Fri, 05 Aug 2022 04:06:16 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 과거엔 대통령-외교장관 면담 진행… 국회는 "미국과 사전 조율" 해명]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/083012352284.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["류삼영 총경이 조국 집회 참석" 주장은 '새빨간 거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002853219</link>
@@ -36,13 +44,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002851529</guid>
             <pubDate>Wed, 20 Jul 2022 02:08:46 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 14일 회의 때 에어컨 표시 21℃는 '현재 온도'... "해당 건물은 유관기관, 26℃ 유지"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["WHO가 퀴어퍼레이드 원숭이두창 확산 경고" 주장은 '거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002850168</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002850168</guid>
-            <pubDate>Thu, 14 Jul 2022 02:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] WHO, 오히려 '낙인 효과' 경계... 퍼레이드 통한 감염 가능성도 낮아]]></content:encoded>
         </item>
     </channel>
 </rss>
