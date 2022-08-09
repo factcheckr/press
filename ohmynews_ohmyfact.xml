@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 09:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 10:27:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["강남 물난리는 빗물펌프장 반대탓" 주장은 '대체로 거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002856311</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002856311</guid>
+            <pubDate>Tue, 09 Aug 2022 10:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 신사동은 무산됐지만 대치동 펌프장은 위치 옮겨 2017년 완공]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["펠로시에 외교 결례, 국회의장 탓" 하태경 주장 따져보니]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002855218</link>
@@ -37,13 +44,6 @@
             <pubDate>Fri, 22 Jul 2022 05:31:18 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 공영은 KBS·MBC·EBS 3사, 미·영·프 등과 비슷... 전문가 "공영과 국영 구분해야"]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062117362513.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA["공공기관 28℃인데 윤 대통령 21℃에서 회의" 검증해보니]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002851529</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002851529</guid>
-            <pubDate>Wed, 20 Jul 2022 02:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 14일 회의 때 에어컨 표시 21℃는 '현재 온도'... "해당 건물은 유관기관, 26℃ 유지"]]></content:encoded>
         </item>
     </channel>
 </rss>
