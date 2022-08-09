@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 08:28:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 09:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/05/13/desk_20220513_200531_1_11_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['우영우' 작가가 졸업한 하자센터, 박원순이 설립했다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220809122200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220809122200502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 09 Aug 2022 09:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[12회 에피소드 방영 이후 박원순과 관련됐다는 의혹 확산
+하자센터는 서울시가 1999년 설립…2011년 시장 취임한 박원순은 무관
+...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/photo/cms/2022/07/16/22/PCM20220716000022005_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[대통령이 휴가 중에 방한한 인사를 만나는 것은 적절치 않다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220804120500502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220804120500502?section=theme-list/factcheck</guid>
@@ -571,16 +581,6 @@ DJ, 20년전 美하원의장 청와대 초청 오찬…朴, 청와대서 펠로�
             <content:encoded><![CDATA[대규모 파티가 확산 경로로 부각된 뒤 일부에서 동성간 성관계를 감염 원인으로 지목
 성관계 안 해도 전파…바이러스에 오염된 물질 밀접 접촉해도...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2022/06/22/PYH2022062216550001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서해 공무원 피살 당시 '월북'은 큰 쟁점 아니었다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220621061100502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220621061100502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 21 Jun 2022 01:58:28 GMT</pubDate>
-            <content:encoded><![CDATA[민주당 윤건영, 국민의힘도 월북 정황 문제 삼지 않았다는 취지 발언
-사건 발생 초기에는 '당국 대응'이 쟁점…이후 '월북'으로 옮겨
-...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/etc/inner/KR/2022/06/21/AKR20220621061100502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
