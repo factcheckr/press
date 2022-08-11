@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 07:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 08:28:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도림천 같은 지천에는 수위 예측 시스템이 없다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220811107600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220811107600502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 11 Aug 2022 08:27:06 GMT</pubDate>
+            <content:encoded><![CDATA[도림천·청계천 등 지천에 지자체 운영 수위 관측소 있어
+정부 운영 수위 관측소는 전국에 587개…모든 하천 커버하진 못해
+(서울=연...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2022/08/09/PYH2022080913340001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['우영우' 작가가 졸업한 하자센터, 박원순이 설립했다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220809122200502?section=theme-list/factcheck</link>
@@ -237,15 +247,6 @@ DJ, 20년전 美하원의장 청와대 초청 오찬…朴, 청와대서 펠로�
             <content:encoded><![CDATA[국민의힘 하태경, 3개 라인 가동 중인데도 북측에 협조 요청하지 않았다고 주장
 8개 라인 중 2개 작동 중…나머지 6개는 사건 발생 3개월...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/etc/inner/KR/2022/06/23/AKR20220623076600502_02_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원숭이두창은 동성애자만 걸린다? 호흡기로도 전파된다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220622148400502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220622148400502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 22 Jun 2022 09:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[대규모 파티가 확산 경로로 부각된 뒤 일부에서 동성간 성관계를 감염 원인으로 지목
-성관계 안 해도 전파…바이러스에 오염된 물질 밀접 접촉해도...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2022/06/22/PYH2022062216550001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
