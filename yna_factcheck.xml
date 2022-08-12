@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 08:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 09:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반지하 주택은 안보 목적으로 생겨났다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220812118800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220812118800502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 12 Aug 2022 09:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[집중호우 때 일가족 3명 참사한 이후 반지하 주택 주목
+1970년 안보 차원에서 지하층 건설 의무화…창고 등으로 이용
+급격한 도시화속에 주택...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2022/08/09/PYH2022080910510001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도림천 같은 지천에는 수위 예측 시스템이 없다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220811107600502?section=theme-list/factcheck</link>
@@ -238,15 +248,6 @@ DJ, 20년전 美하원의장 청와대 초청 오찬…朴, 청와대서 펠로�
             <content:encoded><![CDATA[블라인드에서 정부출연연구기관중 '하위 3번째'라는 주장 제기돼
 항우연, 작년 1인당 보수는 과기출연연 24곳 중 12위…1위는 한국전자통신...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/photo/cms/2022/06/22/50/PCM20220622000150990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서해 공무원 피격 당시 남북통신선 3개 살아있었다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220623076600502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220623076600502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 23 Jun 2022 08:30:05 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘 하태경, 3개 라인 가동 중인데도 북측에 협조 요청하지 않았다고 주장
-8개 라인 중 2개 작동 중…나머지 6개는 사건 발생 3개월...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/etc/inner/KR/2022/06/23/AKR20220623076600502_02_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
