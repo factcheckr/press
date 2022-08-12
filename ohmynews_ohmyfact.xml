@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 03:40:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 04:37:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["수방예산 삭감, 민주당 시의회 탓" 서울시 주장은 '대체로 거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002856892</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002856892</guid>
+            <pubDate>Fri, 12 Aug 2022 04:37:47 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 서울시 먼저 700억 삭감안 제출... 시의회, '안전 소홀' 비판하고 '오세훈 예산' 삭감]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/081119442989.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["강남 물난리는 빗물펌프장 반대탓" 주장은 '대체로 거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002856311</link>
@@ -36,14 +44,6 @@
             <pubDate>Mon, 25 Jul 2022 10:27:18 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 경찰서장 '위수지역' 개념 없어 ... 법률가들 "경찰 무장, 현실성 없어"]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/072518324764.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['한국 공영방송, 세계 최다' <조선> 사설, '대체로 거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002852206</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002852206</guid>
-            <pubDate>Fri, 22 Jul 2022 05:31:18 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 공영은 KBS·MBC·EBS 3사, 미·영·프 등과 비슷... 전문가 "공영과 국영 구분해야"]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062117362513.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
