@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 23:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 02:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위암 치료는 우리나라가 세계 1등이다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220813038600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220813038600502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 14 Aug 2022 02:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[OECD 통계 보면 우리나라 위암 5년 순생존율 68.9%…세계 1위
+건강검진 보편화 등으로 발견율·치료 성공률 높아
+(서울=연합뉴...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2022/08/13/AKR20220813038600502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반지하 주택은 안보 목적으로 생겨났다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220812118800502?section=theme-list/factcheck</link>
@@ -239,15 +249,6 @@ DJ, 20년전 美하원의장 청와대 초청 오찬…朴, 청와대서 펠로�
 경찰은 관행적으로 '3자 협의 뒤 결재 전'에 인사 발표
 (서울=...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/06/24/PYH2022062403670001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['누리호 발사 성공' 항우연 월급이 최하위 수준?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220624073500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220624073500502?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 24 Jun 2022 06:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[블라인드에서 정부출연연구기관중 '하위 3번째'라는 주장 제기돼
-항우연, 작년 1인당 보수는 과기출연연 24곳 중 12위…1위는 한국전자통신...]]></content:encoded>
-            <enclosure url="https://img9.yna.co.kr/photo/cms/2022/06/22/50/PCM20220622000150990_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
