@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 07:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 08:29:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/05/17/desk_20220517_201808_1_15_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여론조사때 60대·70대 구분 않으면 尹 지지율 높아진다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220817117600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220817117600502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 17 Aug 2022 08:29:24 GMT</pubDate>
+            <content:encoded><![CDATA[이준석 "나누지 않으면 (윤 대통령에 긍정적인) 70대 응답이 많이 반영돼"
+최근 여론조사 결과 보면 반대의 경우도 많아…연관성 찾기 어려...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/cms/2022/08/17/94/PCM20220817000094990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[위암 치료는 우리나라가 세계 1등이다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220813038600502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220813038600502?section=theme-list/factcheck</guid>
@@ -574,16 +583,6 @@ DJ, 20년전 美하원의장 청와대 초청 오찬…朴, 청와대서 펠로�
 형사 사건은 변호인 접견 횟수·시간 제한 없어
 최근 5년간 수용자 ...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/06/28/PYH2022062822350001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령 결재 전 경찰 인사 발표 관행이었다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220625023800502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220625023800502?section=theme-list/factcheck</guid>
-            <pubDate>Sat, 25 Jun 2022 04:32:53 GMT</pubDate>
-            <content:encoded><![CDATA[대통령실-행안부-경찰청 3자 협의 뒤 추천→제청→결재 순으로 진행
-경찰은 관행적으로 '3자 협의 뒤 결재 전'에 인사 발표
-(서울=...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/06/24/PYH2022062403670001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
