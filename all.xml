@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 23:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 02:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/05/17/desk_20220517_201808_1_15_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[부모 혈액형이 모두 B형인데 자녀가 A형일 수 있다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220818040900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220818040900502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 18 Aug 2022 02:24:04 GMT</pubDate>
+            <content:encoded><![CDATA[혈액형에 돌연변이 있어…우리나라에선 '시스-AB형' 종종 보고
+부모 중 한쪽이 '시스-AB형'인 경우 자녀 A형도 가능…확률은 극히 낮아
+...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2022/08/18/AKR20220818040900502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여론조사때 60대·70대 구분 않으면 尹 지지율 높아진다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220817117600502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220817117600502?section=theme-list/factcheck</guid>
@@ -573,16 +583,6 @@ DJ, 20년전 美하원의장 청와대 초청 오찬…朴, 청와대서 펠로�
 작년까지는 중국으로의 수출이 25%대…여전히 압도적 1위
 올해 들어 소폭 하락…추세화될...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/07/01/PYH2022070110130005100_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MB의 577회 변호사 접견은 적은 것이다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220630120400502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220630120400502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 30 Jun 2022 08:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[김윤덕 민주당 의원의 '과다 접견' 지적에 이재오 "적게 한 것" 반박
-형사 사건은 변호인 접견 횟수·시간 제한 없어
-최근 5년간 수용자 ...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/06/28/PYH2022062822350001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
