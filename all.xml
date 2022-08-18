@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 02:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 04:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,9 +348,8 @@
             <guid>https://www.yna.co.kr/view/AKR20220818040900502?section=theme-list/factcheck</guid>
             <pubDate>Thu, 18 Aug 2022 02:24:04 GMT</pubDate>
             <content:encoded><![CDATA[혈액형에 돌연변이 있어…우리나라에선 '시스-AB형' 종종 보고
-부모 중 한쪽이 '시스-AB형'인 경우 자녀 A형도 가능…확률은 극히 낮아
-...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2022/08/18/AKR20220818040900502_01_i_P2.jpg" length="0" type="image/jpg"/>
+"B형으로 알았던 부모에게 약한 A형 숨어있다면 자녀 A형 가능할 수도"…확률...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/cms/2018/04/18/02/C0A8CA3D00000162D7BA592100076660_P2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[여론조사때 60대·70대 구분 않으면 尹 지지율 높아진다? (연합뉴스 ─ 팩트체크)]]></title>
