@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 02:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 04:47:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/05/17/desk_20220517_201808_1_15_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[출범 100일까지 내각 완성 못한 건 尹정부가 처음? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220823076400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220823076400502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 23 Aug 2022 04:47:14 GMT</pubDate>
+            <content:encoded><![CDATA[문재인 정부도 조직개편 등으로 지연돼 100일내 못 마쳐
+(서울=연합뉴스) 이웅 기자 = 김종인 전 국민의힘 비상대책위원장은 지난 ...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/08/17/PYH2022081707230001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[부모 혈액형이 모두 B형인데 자녀가 A형일 수 있다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220818040900502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220818040900502?section=theme-list/factcheck</guid>
@@ -572,16 +581,6 @@ DJ, 20년전 美하원의장 청와대 초청 오찬…朴, 청와대서 펠로�
             <content:encoded><![CDATA["중앙위 투표로 비대위원장에 선출됐다…피선거권 지금도 유효" 주장
 투표없이 공동 비대위원장에 선임…이후 '윤호중 비대위' 반발 일자 중앙위 ...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2022/07/01/PYH2022070117860001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 통한 수출 호황 시대 끝나가고 있다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220701043900502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220701043900502?section=theme-list/factcheck</guid>
-            <pubDate>Sat, 02 Jul 2022 03:51:08 GMT</pubDate>
-            <content:encoded><![CDATA[최상목 대통령실 경제수석, 수출 다변화 강조하며 언급
-작년까지는 중국으로의 수출이 25%대…여전히 압도적 1위
-올해 들어 소폭 하락…추세화될...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/07/01/PYH2022070110130005100_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
