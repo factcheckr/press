@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 04:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 05:47:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국민 90%가 '검수원복 시행령'을 문제없다고 본다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220824050000502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220824050000502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 24 Aug 2022 05:46:28 GMT</pubDate>
+            <content:encoded><![CDATA[국민의힘 유상범 의원, 중앙일보 홈페이지 설문조사 근거로 주장
+코리아리서치 여론조사에선 56%가 '부적절' 답변
+(서울=연합뉴스) ...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2022/08/24/AKR20220824050000502_04_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[출범 100일까지 내각 완성 못한 건 尹정부가 처음?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220823076400502?section=theme-list/factcheck</link>
@@ -237,15 +247,6 @@ DJ, 20년전 美하원의장 청와대 초청 오찬…朴, 청와대서 펠로�
 위치 설명 없을 경우 이동통신사에 요청해 위치 추적 가능
 실제 위치와 오차는 있어…위치정보 제공...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2021/07/28/PYH2021072809670005400_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박지현, 비대위원장 임명시 피선거권 받았다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220705135400502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220705135400502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 05 Jul 2022 09:21:57 GMT</pubDate>
-            <content:encoded><![CDATA["중앙위 투표로 비대위원장에 선출됐다…피선거권 지금도 유효" 주장
-투표없이 공동 비대위원장에 선임…이후 '윤호중 비대위' 반발 일자 중앙위 ...]]></content:encoded>
-            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2022/07/01/PYH2022070117860001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
