@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 06:31:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 07:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -734,6 +734,13 @@ DJ, 20년전 美하원의장 청와대 초청 오찬…朴, 청와대서 펠로�
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/03/l_2020093001003491300281111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["코로나19에도 한국은 가정폭력 감소"? 통계 따져보니 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002859334</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002859334</guid>
+            <pubDate>Wed, 24 Aug 2022 07:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 경찰 신고 건수는 줄었지만 2021년 이후 가정폭력 상담 늘고 아동학대도 증가]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["수방예산 삭감, 민주당 시의회 탓" 서울시 주장은 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002856892</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002856892</guid>
@@ -762,14 +769,6 @@ DJ, 20년전 美하원의장 청와대 초청 오찬…朴, 청와대서 펠로�
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002853219</guid>
             <pubDate>Tue, 26 Jul 2022 09:28:53 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] &lt;주간조선&gt;, 다른 경찰 간부와 혼동해 '정치 중립 위반' 오보... 기사 삭제]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["경찰서장회의, 12·12 쿠데타에 준한다" 이상민 장관 발언은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002852960</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002852960</guid>
-            <pubDate>Mon, 25 Jul 2022 10:27:18 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 경찰서장 '위수지역' 개념 없어 ... 법률가들 "경찰 무장, 현실성 없어"]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/072518324764.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
