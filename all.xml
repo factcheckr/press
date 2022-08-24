@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 21:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 22:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크K] ‘대통령 취임식 초청자 명단’ 폐기해도 문제 없다? (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5541109</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5541109</guid>
+            <pubDate>Wed, 24 Aug 2022 22:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[“저희도 팩트가 궁금해서 취임준비위원회에 물어보니 (대통령 취임식 초청 명단이)...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/08/25/310691661330393057.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크K] 휴대폰 충전하면서 통화하면 감전사할 수 있다? (KBS뉴스 ─ 팩트체크K)]]></title>
             <link>https://news.kbs.co.kr/news/view.do?ncd=5535606</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 24 May 2022 01:51:49 GMT</pubDate>
             <content:encoded><![CDATA[아프리카의 풍토병이었던 '원숭이두창'이 최근 세계 각지에서 발견되면서 보건당국이 긴장하고 ...]]></content:encoded>
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/05/23/173501653290888598.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크K] “산업기술 중국에 넘겨도 솜방망이 처벌”…왜? (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=5466350</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=5466350</guid>
-            <pubDate>Tue, 24 May 2022 01:51:49 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자의 반도체 핵심기술이 중국으로 넘어간 정황이 최근 검찰 수사를 통해 드러났습니다. ...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/05/18/310691652863327914.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사실은] '수방 예산 900억 삭감' 네 탓 공방 따져보니 (SBS뉴스 ─ 사실은)]]></title>
