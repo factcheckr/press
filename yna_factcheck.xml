@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 07:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 08:31:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대통령 취임식 초청 명단 파기는 위법?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220825126800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220825126800502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 25 Aug 2022 08:30:11 GMT</pubDate>
+            <content:encoded><![CDATA[역대 정부, 취임식 초청 명단 대통령기록관에 이관
+인수위, 행안부에 추천 명단 통보…행안부도 초청장 발송 후 보고
+법규상 대통령기록물로 볼 ...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2022/05/10/PYH2022051024470001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제네바 협약에서 민방위복을 노란색으로 정해놨다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220824122000502?section=theme-list/factcheck</link>
@@ -238,15 +248,6 @@ DJ, 20년전 美하원의장 청와대 초청 오찬…朴, 청와대서 펠로�
 이해충돌방지법 제정에 맞춰 유사·중복 규정 삭제된 건 사실
 가족 채용은 원칙적으로 ...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/07/08/PYH2022070802530001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 수출 없으면 우리나라도 무역적자국 된다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220707034800502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220707034800502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 07 Jul 2022 02:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[최배근 교수, 탈중국 정책 우려하며 "중국 빼면 10년 정도 적자국" 주장
-대중 무역흑자, 한중수교 이후 29년간 지속…전체 흑자에서 차지...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/07/01/PYH2022070110070005100_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
