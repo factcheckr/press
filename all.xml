@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 23:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 02:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/05/17/desk_20220517_201808_1_15_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[제네바 협약에서 민방위복을 노란색으로 정해놨다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220824122000502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220824122000502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 25 Aug 2022 02:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[제네바 협약에는 민방위 식별 표지만 명시…민방위복 색깔 규정은 없어
+국제민방위기구도 깃발과 표지장만 제시하고 대표색은 별도로 없어
+독일 등...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/08/12/PYH2022081201090001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국민 90%가 '검수원복 시행령'을 문제없다고 본다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220824050000502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220824050000502?section=theme-list/factcheck</guid>
@@ -572,16 +582,6 @@ DJ, 20년전 美하원의장 청와대 초청 오찬…朴, 청와대서 펠로�
             <content:encoded><![CDATA[최배근 교수, 탈중국 정책 우려하며 "중국 빼면 10년 정도 적자국" 주장
 대중 무역흑자, 한중수교 이후 29년간 지속…전체 흑자에서 차지...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2022/07/01/PYH2022070110070005100_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[119 신고해도 위치추적 안 된다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220706120700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220706120700502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 06 Jul 2022 08:27:44 GMT</pubDate>
-            <content:encoded><![CDATA[가양역 실종 사건 관련해 온라인에서 갑론을박
-위치 설명 없을 경우 이동통신사에 요청해 위치 추적 가능
-실제 위치와 오차는 있어…위치정보 제공...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2021/07/28/PYH2021072809670005400_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
