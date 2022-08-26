@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 11:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 12:44:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[활발한 여사님 행보‥제2부속실 불필요? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6402018_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6402018_35744.html</guid>
+            <pubDate>Fri, 26 Aug 2022 12:43:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-08-26</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/08/26/desk_20220826_201604_1_14_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[강남 알짜 빌딩, '노는 땅'이라 판다? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6397773_35744.html</link>
             <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6397773_35744.html</guid>
@@ -333,14 +341,6 @@
             <pubDate>Wed, 08 Jun 2022 11:19:22 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-06-08</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/06/08/desk_20220608_195741_1_6_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출퇴근 대통령의 소통‥다른 나라는? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6369645_35744.html</link>
-            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6369645_35744.html</guid>
-            <pubDate>Tue, 24 May 2022 01:52:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-05-17</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/05/17/desk_20220517_201808_1_15_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대통령 취임식 초청 명단 파기는 위법? (연합뉴스 ─ 팩트체크)]]></title>
