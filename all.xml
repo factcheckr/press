@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 19:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 20:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -735,6 +735,13 @@ DJ, 20년전 美하원의장 청와대 초청 오찬…朴, 청와대서 펠로�
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/03/l_2020093001003491300281111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["임대차법 때문에 전셋값 폭등" 보수언론 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002861654</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002861654</guid>
+            <pubDate>Wed, 31 Aug 2022 20:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 빗나간 '8월 전세대란' 예측... 전문가들 "전셋값 변동은 금리 탓"]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["OECD에서 한국만 입국 전 코로나19 검사" 보도는 '대체로 사실' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002860010</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002860010</guid>
@@ -762,14 +769,6 @@ DJ, 20년전 美하원의장 청와대 초청 오찬…朴, 청와대서 펠로�
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002856311</guid>
             <pubDate>Tue, 09 Aug 2022 10:27:32 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 신사동은 무산됐지만 대치동 펌프장은 위치 옮겨 2017년 완공]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["펠로시에 외교 결례, 국회의장 탓" 하태경 주장 따져보니 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002855218</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002855218</guid>
-            <pubDate>Fri, 05 Aug 2022 04:06:16 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 과거엔 대통령-외교장관 면담 진행… 국회는 "미국과 사전 조율" 해명]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/083012352284.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
