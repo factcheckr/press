@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 11:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 12:48:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[월 27만 원 노인일자리, 용돈벌이 허드렛일? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6403914_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6403914_35744.html</guid>
+            <pubDate>Thu, 01 Sep 2022 12:48:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-09-01</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/09/01/desk_20220901_201312_1_12_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[활발한 여사님 행보‥제2부속실 불필요? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6402018_35744.html</link>
             <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6402018_35744.html</guid>
@@ -333,14 +341,6 @@
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6377943_29123.html</guid>
             <pubDate>Mon, 13 Jun 2022 03:59:23 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-06-13</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[민변으로 도배? 따져보니‥ (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6376689_35744.html</link>
-            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6376689_35744.html</guid>
-            <pubDate>Wed, 08 Jun 2022 11:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-06-08</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/06/08/desk_20220608_195741_1_6_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대통령 취임식 초청 명단 파기는 위법? (연합뉴스 ─ 팩트체크)]]></title>
