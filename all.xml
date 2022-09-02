@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 23:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 02:25:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <content:encoded><![CDATA[<span>2022-06-13</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[고가 장신구 착용하고 출국할 땐 신고해야 한다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220902038200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220902038200502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 02 Sep 2022 02:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[김건희 여사 나토 순방 때 착용한 장신구 두고 논란
+'귀중품·고가 물품'은 반출 신고 의무 대상…세부기준·처벌 규정은 없어
+'지인에게 ...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2022/07/03/PYH2022070303180001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[대통령 취임식 초청 명단 파기는 위법? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220825126800502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220825126800502?section=theme-list/factcheck</guid>
@@ -573,16 +583,6 @@ DJ, 20년전 美하원의장 청와대 초청 오찬…朴, 청와대서 펠로�
 1인당 가정용 전력 소비량은 OECD 38개국중 25번째
 1인당 가정용수 사용량은 29개...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/etc/inner/KR/2022/07/10/AKR20220710003300502_03_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공무원 행동강령에서 가족 채용 제한 규정이 삭제됐다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220708055400502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220708055400502?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 08 Jul 2022 04:01:41 GMT</pubDate>
-            <content:encoded><![CDATA[尹대통령 '외가 6촌' 부속실 근무 논란에 누리꾼 시끌
-이해충돌방지법 제정에 맞춰 유사·중복 규정 삭제된 건 사실
-가족 채용은 원칙적으로 ...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/07/08/PYH2022070802530001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
