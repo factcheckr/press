@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 22:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 23:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,13 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[김건희 여사 일정, 직전 영부인과 비교해보니‥ (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/newszoomin/newsinsight/6404379_29123.html</link>
+            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6404379_29123.html</guid>
+            <pubDate>Fri, 02 Sep 2022 23:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-09-03</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[월 27만 원 노인일자리, 용돈벌이 허드렛일? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6403914_35744.html</link>
             <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6403914_35744.html</guid>
@@ -334,13 +341,6 @@
             <pubDate>Tue, 14 Jun 2022 12:41:14 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-06-14</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/06/14/desk_20220614_201239_1_13_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["과거에는 민변 도배" 주장 따져보니‥ (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6377943_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6377943_29123.html</guid>
-            <pubDate>Mon, 13 Jun 2022 03:59:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-06-13</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[고가 장신구 착용하고 출국할 땐 신고해야 한다? (연합뉴스 ─ 팩트체크)]]></title>
