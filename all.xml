@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 23:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 02:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/06/14/desk_20220614_201239_1_13_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[尹정부 첫 복지예산안은 다정한 예산? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220904000800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220904000800502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 04 Sep 2022 02:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[전체 보건복지고용예산 4.1% 증가…예년 평균 절반에 못 미쳐
+취약계층 대상 핵심복지지출은 11.7% 늘어 예년과 비슷
+(서울=연...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/09/01/PYH2022090107810001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[고가 장신구 착용하고 출국할 땐 신고해야 한다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220902038200502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220902038200502?section=theme-list/factcheck</guid>
@@ -573,16 +583,6 @@ DJ, 20년전 美하원의장 청와대 초청 오찬…朴, 청와대서 펠로�
             <content:encoded><![CDATA[국민의힘 성일종, 한미 통화스와프 종료 이유를 한미관계 악화로 돌려
 2008년·2020년 두 차례 체결…두 번 모두 연장 끝에 유인 사라져...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2021/12/16/PYH2021121613180001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 전기·물 전세계에서 제일 펑펑 쓴다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220710003300502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220710003300502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 10 Jul 2022 03:53:20 GMT</pubDate>
-            <content:encoded><![CDATA[안철수, 경제위기 극복 위한 국민단합 강조하며 언급
-1인당 가정용 전력 소비량은 OECD 38개국중 25번째
-1인당 가정용수 사용량은 29개...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/etc/inner/KR/2022/07/10/AKR20220710003300502_03_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
