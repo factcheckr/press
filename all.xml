@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 07:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 08:32:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/06/14/desk_20220614_201239_1_13_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[내년 공공임대주택 공급물량 줄지 않는다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220907134100502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220907134100502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 07 Sep 2022 08:31:44 GMT</pubDate>
+            <content:encoded><![CDATA[관련 예산 삭감해 서민주거 외면했다는 지적에 원희룡 "물량 감소 없다"
+국회 제출 자료 분석 결과 공공임대주택 올해 17만호→내년 10만5천...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2022/09/01/PYH2022090111520001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[尹정부 첫 복지예산안은 다정한 예산?(종합) (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220904000851502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220904000851502?section=theme-list/factcheck</guid>
@@ -574,16 +583,6 @@ DJ, 20년전 美하원의장 청와대 초청 오찬…朴, 청와대서 펠로�
 연착 원인인 '예견하지 못한 정비 문제'는 항공사 면책 사유
 대한항공 ...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/07/10/PYH2022071000170010800_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['튀르키예발 비행기 연착' 보상으로 24만원 할인권은 적정? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220712153100502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220712153100502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 06 Sep 2022 10:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[대한항공 보상 이후 일각에서 '겪은 공포에 비하면 적다' 지적
-연착 원인인 '예견하지 못한 정비 문제'는 항공사 면책 사유
-대한항공, 내부 ...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/07/11/PYH2022071105620001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
