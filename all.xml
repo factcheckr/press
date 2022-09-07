@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 09:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 10:28:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -735,6 +735,14 @@ DJ, 20년전 美하원의장 청와대 초청 오찬…朴, 청와대서 펠로�
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/03/l_2020093001003491300281111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["차례상 전 빠져도 되고 '홍동백서' 근거 없다" 주장은 '사실' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002863241</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002863241</guid>
+            <pubDate>Wed, 07 Sep 2022 10:28:54 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 성균관, 차례상 표준안 발표... "조선시대 문헌에 과일 종류 명시 안 해"]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/090618452181.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["론스타에 95% 승소" 법무부 주장은 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002862261</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002862261</guid>
@@ -762,14 +770,6 @@ DJ, 20년전 美하원의장 청와대 초청 오찬…朴, 청와대서 펠로�
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002859334</guid>
             <pubDate>Tue, 06 Sep 2022 10:27:29 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 경찰 신고 건수는 줄었지만 2021년 이후 가정폭력 상담 늘고 아동학대도 증가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["수방예산 삭감, 민주당 시의회 탓" 서울시 주장은 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002856892</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002856892</guid>
-            <pubDate>Tue, 06 Sep 2022 10:27:29 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 서울시 먼저 700억 삭감안 제출... 시의회, '안전 소홀' 비판하고 '오세훈 예산' 삭감]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/081119442989.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
