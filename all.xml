@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 04:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 06:05:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/06/14/desk_20220614_201239_1_13_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[경관 지키려 마린시티에 차수벽 설치 안했다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220908097400051?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220908097400051?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 08 Sep 2022 06:04:46 GMT</pubDate>
+            <content:encoded><![CDATA[마산항과 비교하며 "방제시설 설치 미뤄 피해 컸다" 비난
+'바다 뷰' 욕심보다는 사업비·효율성 따지다 설치 늦어져
+부산시 '이안제'로 추진 ...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2022/09/06/PYH2022090612840005100_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[내년 공공임대주택 공급물량 줄지 않는다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220907134100502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220907134100502?section=theme-list/factcheck</guid>
@@ -573,16 +583,6 @@ DJ, 20년전 美하원의장 청와대 초청 오찬…朴, 청와대서 펠로�
             <content:encoded><![CDATA[국민의 힘 하태경, 귀순 진정성 없다고 판단하기 위해 은폐했다고 주장
 김연철 통일장관, 북송 8일 뒤 외통위 보고때 "서면으로 보호 요청한 ...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2022/07/15/AKR20220715073500502_01_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['튀르키예발 비행기 연착' 보상으로 24만원 할인권이 적정?(종합) (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220712153151502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220712153151502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 06 Sep 2022 10:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[대한항공 보상 이후 일각에서 '승객이 겪은 공포에 비하면 적다' 지적
-연착 원인인 '예견하지 못한 정비 문제'는 항공사 면책 사유
-대한항공 ...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/07/10/PYH2022071000170010800_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
