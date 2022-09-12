@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 23:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 02:36:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국회 통과한 특검법안은 모두 여야 합의였다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220911008900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220911008900502?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 12 Sep 2022 02:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[지금까지 모두 15차례 특검 도입…'BBK 특검'은 한나라당 불참한 채 통과
+'안기부 X파일 특검법안' 등은 여야합의 실패로 끝내 무산
+...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/etc/inner/KR/2022/09/11/AKR20220911008900502_02_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경관 지키려 마린시티에 차수벽 설치 안했다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220908097400051?section=theme-list/factcheck</link>
@@ -239,15 +249,6 @@ DJ, 20년전 美하원의장 청와대 초청 오찬…朴, 청와대서 펠로�
 사이트 이용자가 가격정보 직접 입력하는 방식…신뢰성 의문
 머서 등 3개 기관 ...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/07/12/PYH2022071209940001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['북송 어민 자필 귀순의사 표명' 정부가 숨겼다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220715073500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220715073500502?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 15 Jul 2022 05:43:26 GMT</pubDate>
-            <content:encoded><![CDATA[국민의 힘 하태경, 귀순 진정성 없다고 판단하기 위해 은폐했다고 주장
-김연철 통일장관, 북송 8일 뒤 외통위 보고때 "서면으로 보호 요청한 ...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2022/07/15/AKR20220715073500502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
