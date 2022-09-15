@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 23:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 02:38:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[판사 1명이 국민의힘 가처분 재판 결정한다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20220915030100502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20220915030100502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 15 Sep 2022 02:37:26 GMT</pubDate>
+            <content:encoded><![CDATA[국민의힘 김종혁 비대위원, 재판부에 신중한 결정 주문하며 주장
+담당 재판부는 서울남부지법 민사51부…수석부장판사에 배석판사 2명으로 구성
+...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/09/14/PYH2022091406960001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국회 통과한 특검법안은 모두 여야 합의였다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20220911008900502?section=theme-list/factcheck</link>
@@ -239,16 +249,6 @@ DJ, 20년전 美하원의장 청와대 초청 오찬…朴, 청와대서 펠로�
             <content:encoded><![CDATA[권성동, 대통령실 사적 채용 해명하다 '9급 공무원 비하'에 휘말려
 초임 9급 월급, 기본급에 일괄 지급 수당만 포함해도 최저임금보다 33...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2021/10/13/PYH2021101312520001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 생활비가 홍콩보다 비싸다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220715085800502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220715085800502?section=theme-list/factcheck</guid>
-            <pubDate>Sat, 16 Jul 2022 03:51:23 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 사이트 넘베오 생활비 통계에서 서울 44위 홍콩 49위
-사이트 이용자가 가격정보 직접 입력하는 방식…신뢰성 의문
-머서 등 3개 기관 ...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/07/12/PYH2022071209940001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

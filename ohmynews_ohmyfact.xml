@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 23:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 02:38:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["민주당이 지류·지천 계획 반대해 참극" 권성동 주장 '거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002864836</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002864836</guid>
+            <pubDate>Thu, 15 Sep 2022 02:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 민주당과 시민사회, 이미 지류·지천 정비 요구...MB식 하천정비, 범람 원인 지목]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/091417495122.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["차례상 전 빠져도 되고 '홍동백서' 근거 없다" 주장은 '사실']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002863241</link>
@@ -36,13 +44,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002860010</guid>
             <pubDate>Thu, 25 Aug 2022 09:23:42 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 미국·유럽·일본 등 백신접종자 음성확인서 면제... 미접종자는 검사 받아야]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["코로나19에도 한국은 가정폭력 감소"? 통계 따져보니]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002859334</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002859334</guid>
-            <pubDate>Wed, 24 Aug 2022 07:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 경찰 신고 건수는 줄었지만 2021년 이후 가정폭력 상담 늘고 아동학대도 증가]]></content:encoded>
         </item>
     </channel>
 </rss>
