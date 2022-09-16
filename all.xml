@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 11:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 12:47:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[이전비 496억 원이라더니‥얼마까지 늘었나 (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6408516_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6408516_35744.html</guid>
+            <pubDate>Fri, 16 Sep 2022 12:46:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-09-16</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/09/16/desk_20220916_194742_1_3_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['세금 축내는 노인 알바'?‥"우리 쌀값인데요" (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/newszoomin/newsinsight/6406520_29123.html</link>
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6406520_29123.html</guid>
@@ -333,13 +341,6 @@
             <pubDate>Tue, 06 Sep 2022 10:26:36 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-06-22</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/06/22/desk_20220622_201816_1_15_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사저 앞 집회, 법으로 막는다? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6379408_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6379408_29123.html</guid>
-            <pubDate>Tue, 06 Sep 2022 10:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-06-17</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[판사 1명이 국민의힘 가처분 재판 결정한다? (연합뉴스 ─ 팩트체크)]]></title>
