@@ -1,8 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://news.sbs.co.kr/news/fact.do</id>
-    <title>SBS뉴스 ─ 사실은</title>
-    <updated>2022-10-13T19:30:04.922Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://news.sbs.co.kr/news/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SBS뉴스 ─ 사실은</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 13 Oct 2022 20:31:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] 국지성 호우, 최근 들어 정말 잦아졌나요?]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006930025&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006930025&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 13 Oct 2022 20:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 푸틴에 맞선 언론인, 노벨 평화상 메달 판 이유]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006925127&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006925127&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 13 Oct 2022 20:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] "선진국 파업 손해배상 제한 없다" 사실은?]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006916148&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006916148&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 13 Oct 2022 20:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 파업 이후 손해배상 소송…해외 사례는 어떨까]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006915424&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006915424&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 13 Oct 2022 20:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 군인들 옷 살 돈 깎았다? 누구 말이 맞을까]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006906717&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006906717&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 13 Oct 2022 20:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 윤석열 정부의 '첫' 성인지 예산안, 줄었을까요?]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006904329&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006904329&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 13 Oct 2022 20:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 여왕을 둘러싼 소문들, 전격 팩트체크!]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006896293&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006896293&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 13 Oct 2022 20:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 역대 '가을 태풍' 피해, 여름 태풍의 2.2배?]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006888156&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006888156&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 13 Oct 2022 20:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 한국의 법인세, OECD 평균보다 많이 높나요?]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006885273&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006885273&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 13 Oct 2022 20:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 군대 사진 SNS 올리면…군기 교육? 휴가 제한?]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006878758&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006878758&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 13 Oct 2022 20:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
