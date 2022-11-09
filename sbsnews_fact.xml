@@ -1,56 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>SBS뉴스 ─ 사실은</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 09 Nov 2022 15:26:49 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[0]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006954901&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006954901&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Wed, 09 Nov 2022 15:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="/news/endPage.do?news_id=N1006954901&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20221101/201716266_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20221101/201716266.jpg'" alt="섬네일 이미지:[사실은] '선제적 개입' 권한이 없다?" class="mfn_img lazy">
-									
-								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="/news/endPage.do?news_id=N1006954901&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>[사실은] '선제적 개입' 권한이 없다?</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								
-								<a class="reporter" href="reporterPage.do?reporterId=S9B1060&amp;plink=REPOTER&amp;cooper=SBSNEWSINFACT">
-									<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
-									이경원 기자
-								</a><!-- 기자 링크 -->
-								
-								
-								<span class="date">2022.11.01<i class="ir i_time"></i>21:28</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://news.sbs.co.kr/news/fact.do</id>
+    <title>SBS뉴스 ─ 사실은</title>
+    <updated>2022-11-09T16:33:05.416Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://news.sbs.co.kr/news/favicon.ico</icon>
+</feed>
