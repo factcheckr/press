@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 20:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 11:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과거 국정조사서 실질적으로 진상을 규명한 사례가 없다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20221117137800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20221117137800502?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 19 Nov 2022 11:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[가습기살균제 국조, 기업들이 인체 안전점검 안한 사실 밝혀내
+국정농단 국조선 블랙리스트 문서 확인…관련법 재·개정으로 이어진 사례도
+...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/11/10/PYH2022111013310001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대통령경호처에 군 지휘권 부여한 시행령 개정, 법적근거 없다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20221116143700502?section=theme-list/factcheck</link>
@@ -230,15 +240,6 @@
 과거 전력소비량 동향 보면 요금 인상 때도 소비량은 꾸준히 늘어
 전력소비...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2022/09/30/PYH2022093010560001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한일 정상회담, 이번엔 한국이 일본 찾아갈 차례였다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220928105600502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220928105600502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[역대 정상회담, 지금까지 74번…'방문국-주최국' 번갈아 맡아온 게 관행
-관행 따르면 이번은 한국 주최 차례…전·현 외교 관리 "관행이 철칙...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2022/09/22/PYH2022092200070001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
