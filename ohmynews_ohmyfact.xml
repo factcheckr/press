@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 02:59:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 04:28:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지난주 촛불집회, 경찰측 "2만5천"-주최측 "20만"... 검증해보니]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002882842</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002882842</guid>
+            <pubDate>Thu, 24 Nov 2022 04:28:56 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 경찰 "공식발표 안 해" - 촛불행동 "연인원"... 3.3㎡당 8명 계산해도 차이 커]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[나경원 "문재인 탈원전으로 석탄발전 늘었다" 발언 '대체로 거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002881184</link>
@@ -38,14 +45,6 @@
             <pubDate>Thu, 17 Nov 2022 11:22:12 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 구수영 민주택시노조 위원장과 만나... 민주노총 16개 산별 위원장에는 포함 안돼]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/101916280338.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 대통령 "2살 안 된 애들은 집에만 있는 줄"... 검증해보니]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002868756</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002868756</guid>
-            <pubDate>Thu, 17 Nov 2022 11:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 만 0~1세 어린이집 보육아동 37만 2163명... 대통령 발언, 현실과 동떨어져]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/093006570280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
