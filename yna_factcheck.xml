@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 23:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 02:59:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화물연대에 업무개시명령은 강제노동 금지한 ILO 협약 위반?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20221128118000502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20221128118000502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 29 Nov 2022 02:58:27 GMT</pubDate>
+            <content:encoded><![CDATA[ILO 105호 협약 "파업참가에 대한 제재로서 강제노동 금지"…국내선 비준 안돼
+국내 비준된 29호 협약은 "전쟁이나 화재·홍수·지진 등 ...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/11/25/PYH2022112515840001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리나라에도 '빈곤 포르노' 가이드라인이 있다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20221123136600502?section=theme-list/factcheck</link>
@@ -228,16 +237,6 @@
             <content:encoded><![CDATA[역대 발의된 총리·장관 해임건의안 총 160여건…통과된 것은 박진 장관 포함 7건
 대부분은 표결 못한 채 폐기…의장이 "사회 안 보겠다" 거...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2022/10/07/AKR20221007117200502_03_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감사원, 조사 거부한 문재인 前대통령 강제조사해야 한다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221006107800502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221006107800502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[감사원, 감사원법 50조 근거로 '자료 협조' 요청…민간인이라 강제조사는 못해
-비협조 때 처벌조항 있지만 전 대통령에 적용한 전례는 없어
-...]]></content:encoded>
-            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2022/10/04/PYH2022100402150001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
