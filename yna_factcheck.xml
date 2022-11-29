@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 05:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 07:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화물연대에 업무개시명령은 강제노동 금지한 ILO 협약 위반?(종합)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20221128118051502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20221128118051502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 29 Nov 2022 07:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[ILO 105호 협약 "파업참가에 대한 제재로서 강제노동 금지"…국내선 비준 안돼
+국내 비준된 29호 협약은 "전쟁이나 화재·홍수·지진 등 ...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/11/25/PYH2022112515840001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화물연대에 업무개시명령은 강제노동 금지한 ILO 협약 위반?]]></title>
             <link>https://www.yna.co.kr/view/AKR20221128118000502?section=theme-list/factcheck</link>
@@ -228,15 +237,6 @@
             <content:encoded><![CDATA[검찰은 형집행정지 기간별 현황 공개 안 하지만 과거 보도 사례 있어
 서청원 전 대표·박연차 전 회장도 신병 치료 이유로 '1개월 형집행정지'...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2022/10/12/AKR20221012047800502_03_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장관 해임건의안은 무조건 72시간 내 국회서 표결해야 한다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221007117200502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221007117200502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[역대 발의된 총리·장관 해임건의안 총 160여건…통과된 것은 박진 장관 포함 7건
-대부분은 표결 못한 채 폐기…의장이 "사회 안 보겠다" 거...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2022/10/07/AKR20221007117200502_03_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
