@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 23:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 03:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FIFA는 월드컵 경기서 욱일기 응원을 금지하고 있다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20221201044100502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20221201044100502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 01 Dec 2022 03:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[일본-코스타리카전서 안전요원이 욱일기 제지…FIFA, '욱일기 금지' 공식화한적 없어
+국내 축구계선 "우리가 항의 안했는데도 조치"…'FIF...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/11/27/PYH2022112710930001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화물연대에 업무개시명령은 강제노동 금지한 ILO 협약 위반?(종합)]]></title>
             <link>https://www.yna.co.kr/view/AKR20221128118051502?section=theme-list/factcheck</link>
@@ -228,15 +237,6 @@
             <content:encoded><![CDATA[친족상도례, 가족 간 도둑질에 처벌 면제 인정해…부모 재산 훔치는 친구 도왔다면 처벌받아
 전문가들 "박씨 가족, 처벌 면제 어려울듯…박씨 아...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2022/10/13/AKR20221013087700502_01_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정경심 전 교수에 내려진 '1개월 형집행정지'는 전례 없다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221012047800502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221012047800502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[검찰은 형집행정지 기간별 현황 공개 안 하지만 과거 보도 사례 있어
-서청원 전 대표·박연차 전 회장도 신병 치료 이유로 '1개월 형집행정지'...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2022/10/12/AKR20221012047800502_03_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
