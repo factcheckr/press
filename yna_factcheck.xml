@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 19:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 23:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['안전운임제 확대' 요구하는 화물노동자들, 이미 소득이 높다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20221202080500502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20221202080500502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 02 Dec 2022 23:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[원희룡 국토 "월임금 500만∼600만원 상회"…임이자 의원 "소득 굉장히 높아"
+곡물운송 화물운전자 월소득, 고용부 조사선 525만원…화물...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/11/30/PYH2022113015810001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[FIFA는 월드컵 경기서 욱일기 응원을 금지하고 있다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20221201044100502?section=theme-list/factcheck</link>
@@ -228,15 +237,6 @@
             <content:encoded><![CDATA[전현희 권익위원장 "감사원, 무소불위식 불법 포렌식…모든 파일 열어봐" 주장
 감사원 관련규정서 '자료 선별추출 원칙' 사라져…비공개 내부지침...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/10/05/PYH2022100513540001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박수홍씨 가족들, '친족상도례'로 재산범죄 처벌 피할 수 있다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221013087700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221013087700502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[친족상도례, 가족 간 도둑질에 처벌 면제 인정해…부모 재산 훔치는 친구 도왔다면 처벌받아
-전문가들 "박씨 가족, 처벌 면제 어려울듯…박씨 아...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2022/10/13/AKR20221013087700502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
