@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 06:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 07:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['국회선진화법' 이후엔 항상 정기국회 내 예산안 처리했다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20221205074800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20221205074800502?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 05 Dec 2022 07:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[2014년 이후론 정기국회 회기 내 예산안 통과…예산안의 본회의 '자동부의' 조항 덕
+그전엔 해 바뀌기 직전 처리가 관행화…아예 해 넘겨 처...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/12/04/PYH2022120406770001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['안전운임제 확대' 요구하는 화물노동자들, 이미 소득이 높다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20221202080500502?section=theme-list/factcheck</link>
@@ -228,15 +237,6 @@
             <content:encoded><![CDATA[국방백서상 9·19 합의 후 북측 침투·국지도발 1건 그쳐…2000년대 200여건서 줄어
 9·19 합의 위반 사례, 많게 잡아도 5건…국방부...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/photo/cms/2018/10/16/22/PCM20181016000022990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감사원, 권익위 상대로 '불법 디지털 포렌식' 벌였다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221013159000502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221013159000502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[전현희 권익위원장 "감사원, 무소불위식 불법 포렌식…모든 파일 열어봐" 주장
-감사원 관련규정서 '자료 선별추출 원칙' 사라져…비공개 내부지침...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/10/05/PYH2022100513540001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
