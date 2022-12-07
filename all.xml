@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 01:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 02:53:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -341,6 +341,15 @@
             <content:encoded><![CDATA[<span>2022-08-06</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[소주 맛, 제조공장에 따라 달거나 쓰다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20221207031800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20221207031800502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 07 Dec 2022 02:52:40 GMT</pubDate>
+            <content:encoded><![CDATA[인터넷·SNS에 "이천 공장서 만든 참이슬 달고, 청주서 만든 건 쓰다" 퍼져
+진로 "청주공장, 물 안 섞고 제조된 소주를 병에 주입만 해…...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/etc/inner/KR/2022/12/07/AKR20221207031800502_03_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['국회선진화법' 이후엔 항상 정기국회 내 예산안 처리했다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20221205074800502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20221205074800502?section=theme-list/factcheck</guid>
@@ -561,15 +570,6 @@
             <content:encoded><![CDATA[재난문자, 통신사서 비용 부담…'재난안전법'상 행안부 장관·시도지사가 발송 요청
 (서울=연합뉴스) 정성호 기자 이아미 인턴기자 =...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/etc/inner/KR/2022/10/18/AKR20221018107700502_04_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9·19 군사합의 체결 이후 접경 지역서 군사적 충돌 없었다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221017070900502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221017070900502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[국방백서상 9·19 합의 후 북측 침투·국지도발 1건 그쳐…2000년대 200여건서 줄어
-9·19 합의 위반 사례, 많게 잡아도 5건…국방부...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/photo/cms/2018/10/16/22/PCM20181016000022990_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
