@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 팩트체크K</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 03:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 08:27:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[​​​​[이슈체크K] 최대 2살 어려지는 ‘만 나이’ 통일, 내년 시행되면 뭐가 달라지나?]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5619757</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5619757</guid>
+            <pubDate>Thu, 08 Dec 2022 08:26:28 GMT</pubDate>
+            <content:encoded><![CDATA[내년 6월부터 민법과 행정 분야에서 나이를 따질 때 '만 나이'로 통일됩니다. 계산하는 방...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/12/08/310691670467086379.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크K] 파업 부른 안전운임제, 교통안전 개선 효과 있나? 없나?]]></title>
             <link>https://news.kbs.co.kr/news/view.do?ncd=5613849</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 17 Nov 2022 11:20:47 GMT</pubDate>
             <content:encoded><![CDATA[지난달 25일, '피겨여왕' 김연아의 열애 소식이 언론을 통해 알려지면서 큰 화제가 됐습니...]]></content:encoded>
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/08/05/kn104151659674852049.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크K] ‘고학력·고소득’ 민주, ‘저학력·저소득’ 국힘 지지?]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=5524453</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=5524453</guid>
-            <pubDate>Thu, 17 Nov 2022 11:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[“고학력·고소득자들 소위 부자라고 불리는 분들이 우리(민주당) 지지자가 더 많습...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/08/03/310691659346244564.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
