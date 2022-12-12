@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 11:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 13:32:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[유족 지원에 시민단체는 안돼? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6435605_35744.html</link>
+            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6435605_35744.html</guid>
+            <pubDate>Mon, 12 Dec 2022 13:31:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-12-12</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/12/12/desk_20221212_200529_1_10_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[화물차 '안전운임제' 효과 있다? 없다? 따져보니 (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6432873_35744.html</link>
             <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6432873_35744.html</guid>
@@ -332,13 +340,6 @@
             <pubDate>Thu, 17 Nov 2022 11:21:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-08-12</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/08/12/desk_20220812_202025_1_16_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['깜깜이' 대통령실 직원 명단, 우리만 비공개 왜? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6395659_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6395659_29123.html</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-08-06</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[대전, 실내마스크 의무화 먼저 푼다는데…마스크 언제 벗나 (연합뉴스 ─ 팩트체크)]]></title>
@@ -722,6 +723,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/03/l_2020093001003491300281111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[민주당 산업은행 이전 반대는 민주노총 탓? 정진석 발언은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002887685</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002887685</guid>
+            <pubDate>Mon, 12 Dec 2022 13:32:45 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 산은노조는 민주노총 아닌 한국노총 소속... 국힘 "민주당, 노조 영향 받는다는 취지"]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062117104358.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[지난주 촛불집회, 경찰측 "2만5천"-주최측 "20만"... 검증해보니 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002882842</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002882842</guid>
@@ -751,14 +760,6 @@
             <pubDate>Thu, 17 Nov 2022 11:22:12 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 경찰, 집회 대응에 70개 부대 운용... 보수단체 집회도 1만 명 이상 신고해 대응]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062117104358.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[김문수 "민주노총 산별위원장과 만났다" 대체로 거짓 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002873548</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002873548</guid>
-            <pubDate>Thu, 17 Nov 2022 11:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 구수영 민주택시노조 위원장과 만나... 민주노총 16개 산별 위원장에는 포함 안돼]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/101916280338.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
