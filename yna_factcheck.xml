@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 03:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 06:26:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화물연대 파업 때문에 11월 수출액이 감소했다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20221214046000502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20221214046000502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 14 Dec 2022 06:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[대통령·산업부, 11월 수출 부진 원인의 하나로 '화물연대 파업' 지목
+수출액 통계에 잡히는 건 수출품 운송 이전 단계인 '수출신고 수리'
+...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/12/09/PYH2022120912170005100_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대전, 실내마스크 의무화 먼저 푼다는데…마스크 언제 벗나]]></title>
             <link>https://www.yna.co.kr/view/AKR20221209041500502?section=theme-list/factcheck</link>
@@ -228,15 +238,6 @@
 인권침해 요소 있어 범죄수사에 쓰려면 새로운 법적 근거 마련해야
 ...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/etc/inner/KR/2022/10/25/AKR20221025078100502_03_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국회 시정연설에 야당이 추가조건 붙인 적은 헌정사상 없다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221025020600502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221025020600502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 대통령 "시정연설에 추가조건, 헌정사상 못 들어본 듯"
-2004년 이해찬 총리 연설때 한나라당 사과 요구…2019년 자유한국당도 국회...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2022/10/24/PYH2022102402200001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
