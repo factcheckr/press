@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 05:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 06:29:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/08/12/desk_20220812_202025_1_16_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 정부 건강보험 정책은 보장성 축소한 첫 사례다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20221215050900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20221215050900502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 15 Dec 2022 06:28:59 GMT</pubDate>
+            <content:encoded><![CDATA[보건의료단체연합 "건강보험 도입 이래 보장성 축소는 현 정부가 최초"
+복지부 대책, '재정적 지속가능성'에 방점…MRI·초음파 검사에 건보 ...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/12/14/PYH2022121405040001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[화물연대 파업 때문에 11월 수출액이 감소했다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20221214046000502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20221214046000502?section=theme-list/factcheck</guid>
@@ -562,16 +571,6 @@
             <content:encoded><![CDATA[당시 기자들이 몸으로 영장 집행 저지…검찰, 40여시간 대치 뒤 철수
 檢, 나중에 호텔서 자료 임의제출로 받아…실제 채널A 보도국 뒤지진 못...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2022/10/25/AKR20221025109900502_01_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안면인식 CCTV, 국내에도 곧 도입된다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221025078100502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221025078100502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[대통령실 청사 주변 설치 의혹에 논란…현재는 신변보호 요청자에만 사용
-인권침해 요소 있어 범죄수사에 쓰려면 새로운 법적 근거 마련해야
-...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/etc/inner/KR/2022/10/25/AKR20221025078100502_03_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
