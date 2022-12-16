@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 12:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 15:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 법인세, 다른 나라들보다 더 높다?…실효세율로 따져보니(종합)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20221215106551502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20221215106551502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 16 Dec 2022 15:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[한덕수 총리 "우리 법인세, OECD 평균보다 높은 수준"
+최고세율 비교는 기업 조세부담 파악에 한계…법인세 실효세율 비교가 더 적절
+조세재...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/photo/cms/2016/04/15/01/C0A8CA3D000001541790532E0007239E_P2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[한국 법인세, 다른 나라들보다 더 높다?…실효세율로 따져보니]]></title>
             <link>https://www.yna.co.kr/view/AKR20221215106500502?section=theme-list/factcheck</link>
@@ -229,15 +239,6 @@
             <content:encoded><![CDATA[여러 언론 "노태우 때 시작" 보도했지만 이승만 대통령도 48년 '시정방침 연설' 해
 이후 대통령들도 '국정연설', '연두교서' 등의 명칭으...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2022/10/31/AKR20221031037200502_03_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청소년 마약 범죄 증가한다는데…얼마나 늘고 있나]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221026144000502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221026144000502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[10대 마약사범, 5년 새 4.3배로 '껑충'…적발 안된 마약사범까지 치면 1만여명 추정
-(서울=연합뉴스) 구정모 기자 = 최근 국...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/photo/cms/2019/04/02/18/PCM20190402000018004_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
