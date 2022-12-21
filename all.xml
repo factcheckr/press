@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 22:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 23:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/08/12/desk_20220812_202025_1_16_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국민의힘서 전당대회 앞두고 룰 개정, 과거에도 있었다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20221221095900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20221221095900502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 21 Dec 2022 23:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[김행 국힘 비대위원 "전당대회 룰, 직전에 여러 번 바뀌어"
+작년 전대서도 '역선택 방지' 도입으로 내홍…전대 2주 앞두고 룰 변경한 적도
+...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2021/06/11/PYH2021061108460001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[축구협회가 선수들보다 월드컵 배당금 더 가져간다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20221216121500502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20221216121500502?section=theme-list/factcheck</guid>
@@ -563,16 +573,6 @@
             <content:encoded><![CDATA[핼러윈 축제, 과거에도 주최자 없었지만 매년 경찰 배치…성탄절·해수욕장도 매년 인파
 경찰관 직무집행법·경찰법선 '안전 관리', 경찰의 기본직...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2022/10/31/AKR20221031134300502_01_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여객기 비상착륙 때는 승무원의 '반말 지시'가 원칙이다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221101119000502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221101119000502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[대한항공 여객기 필리핀 활주로 이탈사고 때 승객들 "반말 지시에 놀랐다"
-항공사 '객실 운영교범' 따라 비상시 '반말·고함 지시'가 원칙
-'...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/etc/inner/KR/2022/11/01/AKR20221101119000502_15_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
