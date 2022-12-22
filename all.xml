@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 03:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 06:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -725,6 +725,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/03/l_2020093001003491300281111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정진석 "박근혜 때 정규직-비정규직 격차 10~20만원도 안나" 거짓 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002890058</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002890058</guid>
+            <pubDate>Thu, 22 Dec 2022 06:28:49 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 통계청 수치상 임금격차, 2013년 111만원... 국힘 홈페이지에 내용 수정 "착오"]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062117104358.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[민주당 산업은행 이전 반대는 민주노총 탓? 정진석 발언은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002887685</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002887685</guid>
@@ -754,14 +762,6 @@
             <pubDate>Thu, 17 Nov 2022 11:22:12 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 공공임대주택 예산 5.7조 삭감, 물량 5만 호 이상 줄어]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/120610245888.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정진석 "서울 시내 모든 기동대, 촛불집회 투입" 거짓 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002878814</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002878814</guid>
-            <pubDate>Thu, 17 Nov 2022 11:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 경찰, 집회 대응에 70개 부대 운용... 보수단체 집회도 1만 명 이상 신고해 대응]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062117104358.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
