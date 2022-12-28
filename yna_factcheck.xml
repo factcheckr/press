@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 04:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 07:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버가 클라우드에 저장한 내 사진을 들여다본다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20221227083600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20221227083600502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 28 Dec 2022 07:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[네이버 '2022 올해 보기'서 국내외 인기 포토존 선정하자 '개인정보 침해 아니냐' 논란
+네이버 "개인이 올린 사진 안 봐…누군지 식별 불...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2022/12/27/AKR20221227083600502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국민의힘서 전당대회 앞두고 룰 개정, 과거에도 있었다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20221221095900502?section=theme-list/factcheck</link>
@@ -230,15 +239,6 @@
             <content:encoded><![CDATA[국정감사·조사법 제정 후 10명 이상 숨진 대형참사 19건…국정조사 열린 건 2건뿐
 삼풍백화점 붕괴·세월호 침몰 사고 때 모두 검·경 수사와...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/etc/inner/KR/2022/11/08/AKR20221108075800502_01_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주최자 없는 행사는 거의 유례 없는 일…그래서 매뉴얼 없었다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221031134300502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221031134300502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[핼러윈 축제, 과거에도 주최자 없었지만 매년 경찰 배치…성탄절·해수욕장도 매년 인파
-경찰관 직무집행법·경찰법선 '안전 관리', 경찰의 기본직...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2022/10/31/AKR20221031134300502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
