@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 14:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 22:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/08/12/desk_20220812_202025_1_16_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[6월부터 '만 나이'로 통일되면 정년 더 늦춰진다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20221229131400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20221229131400502?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 31 Dec 2022 22:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[6월 28일부터 법률·행정상 연령, 모두 '만 나이'로 통일
+체감할 만한 생활상 변화 없을듯…지금도 정년·연금 수령개시 시점 등 만 나이
+초...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/etc/graphic/YH/2022/12/07/GYH2022120700070004400_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[네이버가 클라우드에 저장한 내 사진을 들여다본다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20221227083600502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20221227083600502?section=theme-list/factcheck</guid>
@@ -564,15 +574,6 @@
             <content:encoded><![CDATA[문민정부 때 영부인 관련 오보 낸 동아일보에 대통령 해외순방 동행취재 거부
 참여정부, 대통령·정부 비판 칼럼 실은 조선·동아에 "청와대 비서...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2007/12/03/PYH2007120308310001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과거 대형사고 발생 때 수사와 국회 국정조사 병행했다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221108075800502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221108075800502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[국정감사·조사법 제정 후 10명 이상 숨진 대형참사 19건…국정조사 열린 건 2건뿐
-삼풍백화점 붕괴·세월호 침몰 사고 때 모두 검·경 수사와...]]></content:encoded>
-            <enclosure url="https://img9.yna.co.kr/etc/inner/KR/2022/11/08/AKR20221108075800502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
