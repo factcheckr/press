@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 18:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 22:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이슈체크K] 6.1지방선거에서 실험한 중·대선거구제, 그 결과 보니 (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=6538874</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=6538874</guid>
+            <pubDate>Tue, 03 Jan 2023 22:17:44 GMT</pubDate>
+            <content:encoded><![CDATA["소선거구제는 전부 아니면 전무로 가다 보니 선거가 너무 치열해지고 진영이 양극...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2023/01/03/310691672735232763.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이슈체크K] 주휴수당 폐지되면 내 월급은 얼마나 줄어들까? (KBS뉴스 ─ 팩트체크K)]]></title>
             <link>https://news.kbs.co.kr/news/view.do?ncd=6106898</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 17 Nov 2022 11:20:47 GMT</pubDate>
             <content:encoded><![CDATA[어젯밤부터 인터넷 공간에서 논란이 된 사진이 있습니다. 최근 새로 단장한 광화문광장 버스정...]]></content:encoded>
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/08/30/310691661847202442.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크K] ‘대통령 취임식 초청자 명단’ 폐기해도 문제 없다? (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=5541109</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=5541109</guid>
-            <pubDate>Thu, 17 Nov 2022 11:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[“저희도 팩트가 궁금해서 취임준비위원회에 물어보니 (대통령 취임식 초청 명단이)...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/08/25/310691661330393057.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 윤 대통령 "국회가 무인기 예산 삭감" 따져 보니… (SBS뉴스 ─ 사실은)]]></title>
