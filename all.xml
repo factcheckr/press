@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 23:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 01:41:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/08/26/desk_20220826_201604_1_14_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[새로운 '소비기한 표시제'선 음식 먹고 탈나면 기업 책임 없다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230105071800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230105071800502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 06 Jan 2023 01:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[올해부터 종전 유통기한→소비기한으로 변경…식품 더 오래 팔 수 있어
+소비기한 내 식품 상하거나 먹고 탈나면 제조·유통사 책임…인과관계 입증은...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2023/01/01/PYH2023010110940001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[6월부터 '만 나이'로 통일되면 정년 더 늦춰진다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20221229131400502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20221229131400502?section=theme-list/factcheck</guid>
@@ -565,15 +574,6 @@
 직접 이사비용만 따지느냐, 각종 간접·부대비용도 넣느냐의 차이 탓
 정부·국회 합의해 비...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/05/09/PYH2022050917150001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령실의 언론사 전용기 탑승 거부, 처음 있는 일이다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221111061800502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221111061800502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[문민정부 때 영부인 관련 오보 낸 동아일보에 대통령 해외순방 동행취재 거부
-참여정부, 대통령·정부 비판 칼럼 실은 조선·동아에 "청와대 비서...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2007/12/03/PYH2007120308310001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
