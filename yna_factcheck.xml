@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 21:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 01:30:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국발 입국자보다 미국 코로나19 변이 유입이 더 큰 걱정거리?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230106126400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230106126400502?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 07 Jan 2023 01:29:22 GMT</pubDate>
+            <content:encoded><![CDATA[이재갑 한림대 교수 "면역회피 가장 강력한 XBB.1.5 유입을 더 걱정해야"
+전문가들 "중국서 환자 유입돼도 국내 폭발적 유행 없을 것…입...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2023/01/05/PYH2023010510190001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운 '소비기한 표시제'선 음식 먹고 탈나면 기업 책임 없다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230105071800502?section=theme-list/factcheck</link>
@@ -230,16 +239,6 @@
             <content:encoded><![CDATA[국민의힘 양금희 대변인 "현재도 풍산개 기르는 데 어떤 법적 문제도 없어"
 현행 관련법 시행령 동·식물 선물 규정은 대통령기록관의 '외부위탁...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2022/11/10/PYH2022111014310005300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령실 용산 이전 비용은 517억원? 1조806억원?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221114038200502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221114038200502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[대통령실과 민주당이 밝힌 이전 비용, 약 20배 격차
-직접 이사비용만 따지느냐, 각종 간접·부대비용도 넣느냐의 차이 탓
-정부·국회 합의해 비...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2022/05/09/PYH2022050917150001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
