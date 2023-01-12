@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 05:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 08:29:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -725,6 +725,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/03/l_2020093001003491300281111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["노조전임자 임금, 한국만 회사가 준다?" 전순옥 발언 '사실반 거짓반' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002894305</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002894305</guid>
+            <pubDate>Thu, 12 Jan 2023 08:29:11 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 산별노조서 전임자 임금 주는 미국·유럽도 기업 소속 전임자 임금은 회사 부담]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2023/011017521585.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[정진석 "박근혜 때 정규직-비정규직 격차 10~20만원도 안나" 거짓 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002890058</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002890058</guid>
@@ -754,14 +762,6 @@
             <pubDate>Thu, 17 Nov 2022 11:22:12 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 문 정부 5년간 석탄발전량·발전비중 모두 감소...원전 비중, 변화 없고 소폭 상승]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/111617015696.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["공공임대주택 예산, 삭감 아닌 정상화" 국힘 주장은 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002879964</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002879964</guid>
-            <pubDate>Thu, 17 Nov 2022 11:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 공공임대주택 예산 5.7조 삭감, 물량 5만 호 이상 줄어]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/120610245888.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
