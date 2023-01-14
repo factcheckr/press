@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 21:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 02:39:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[115석 불과한 국민의힘…헌정사상 최악의 '여소야대' 국면이다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230113107000502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230113107000502?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 14 Jan 2023 02:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[안철수 의원 "현재 여소야대, 사상 최악…내년 총선서 지면 아무것도 못 해"
+현 여당 의석 비율, 38.5%로 노무현 전 대통령 취임 때 3...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2023/01/13/PYH2023011305980001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중대선거구제, 지역주의 양당제 정치구도 해소할 대안 될까?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230109059300502?section=theme-list/factcheck</link>
@@ -229,16 +238,6 @@
 국정농단 국조선 블랙리스트 문서 확인…관련법 재·개정으로 이어진 사례도
 ...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/11/10/PYH2022111013310001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령경호처에 군 지휘권 부여한 시행령 개정, 법적근거 없다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221116143700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221116143700502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[경호처 "대통령경호법, 처장이 경호업무 총괄토록 했다"지만…
-같은 법 조항은 경호처장 지휘 대상을 '소속 공무원'으로 한정
-'유신시절 경호처...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2022/11/16/AKR20221116143700502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
