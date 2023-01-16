@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 08:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 15:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -724,6 +724,13 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/03/l_2020093001003491300281111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["짜게 먹어도 오래 산다" 언론 보도는 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002895191</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002895191</guid>
+            <pubDate>Mon, 16 Jan 2023 15:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 상반된 연구 결과 있는데 과장 보도... WHO "소금 줄이면 연 250만 사망 예방"]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["노조전임자 임금, 한국만 회사가 준다?" 전순옥 발언 '사실반 거짓반' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002894305</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002894305</guid>
@@ -753,14 +760,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002882842</guid>
             <pubDate>Thu, 24 Nov 2022 04:28:56 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 경찰 "공식발표 안 해" - 촛불행동 "연인원"... 3.3㎡당 8명 계산해도 차이 커]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나경원 "문재인 탈원전으로 석탄발전 늘었다" 발언 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002881184</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002881184</guid>
-            <pubDate>Thu, 17 Nov 2022 11:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 문 정부 5년간 석탄발전량·발전비중 모두 감소...원전 비중, 변화 없고 소폭 상승]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2022/111617015696.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
