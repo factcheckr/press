@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 06:27:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 11:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남는 쌀 정부 매입 의무화하면 쌀값 떨어진다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230119147100502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230119147100502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 20 Jan 2023 11:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[농식품 장관 "남는 쌀 의무매입하면 쌀값 외려 하락해 농민에 도움 안 돼"
+국책연구기관은 "의무매입 땐 정책개입 없을 때보다 쌀값 13.8%...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2022/09/26/PYH2022092607620006200_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대통령이 제1야당 대표와 이렇게 오래 안 만난 것은 처음이다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230113052300502?section=theme-list/factcheck</link>
@@ -228,15 +237,6 @@
             <content:encoded><![CDATA[국내 140개 NGO 연합체, 2014년 '아동보호 미디어 가이드라인' 만들어
 "아동 위험에 빠뜨리는 연출이나 작위적 설정, 지역·인종적 편...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2022/11/23/AKR20221123136600502_02_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명에 대한 검찰 수사상황 유출, 피의사실 공표죄 해당할까]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221121135300502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221121135300502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 22 Nov 2022 03:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[피의사실 공표, 외국선 찾기 힘든 독특한 죄…국민 알 권리와 본질적으로 충돌
-검찰, 법이 금지한 피의사실 공표를 '훈령' 통해 해오다 점진적...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/11/09/PYH2022110923270001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
