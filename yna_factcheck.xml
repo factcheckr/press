@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Jan 2023 19:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 01:32:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[후불결제 서비스는 연체해도 신용점수 안 떨어진다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230120097100502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230120097100502?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 23 Jan 2023 01:31:10 GMT</pubDate>
+            <content:encoded><![CDATA[해외서 대중화한 'BNPL', 국내선 네이버·카카오가 월 15만∼30만원 규모로 제공
+업체들, '대안신용평가' 거쳐 신용도 낮은 프리랜서·주...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2023/01/20/AKR20230120097100502_03_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남는 쌀 정부 매입 의무화하면 쌀값 떨어진다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230119147100502?section=theme-list/factcheck</link>
@@ -228,15 +237,6 @@
             <content:encoded><![CDATA[ILO 105호 협약 "파업참가에 대한 제재로서 강제노동 금지"…국내선 비준 안돼
 국내 비준된 29호 협약은 "전쟁이나 화재·홍수·지진 등 ...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/11/25/PYH2022112515840001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리나라에도 '빈곤 포르노' 가이드라인이 있다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221123136600502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221123136600502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 24 Nov 2022 02:58:34 GMT</pubDate>
-            <content:encoded><![CDATA[국내 140개 NGO 연합체, 2014년 '아동보호 미디어 가이드라인' 만들어
-"아동 위험에 빠뜨리는 연출이나 작위적 설정, 지역·인종적 편...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2022/11/23/AKR20221123136600502_02_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
