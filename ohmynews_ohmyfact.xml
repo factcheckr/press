@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 20:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 02:49:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["난방비 폭등은 문재인 정부 탓" 국힘 주장 '대체로 거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002897767</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002897767</guid>
+            <pubDate>Fri, 27 Jan 2023 02:49:57 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 성일종·김기현 의원 등 발언... 전문가 "2022년 하반기 수입가격 급등이 원인"]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062117061467.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA["짜게 먹어도 오래 산다" 언론 보도는 '대체로 거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002895191</link>
@@ -37,13 +45,6 @@
             <pubDate>Mon, 12 Dec 2022 13:32:45 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 산은노조는 민주노총 아닌 한국노총 소속... 국힘 "민주당, 노조 영향 받는다는 취지"]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062117104358.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[지난주 촛불집회, 경찰측 "2만5천"-주최측 "20만"... 검증해보니]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002882842</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002882842</guid>
-            <pubDate>Thu, 24 Nov 2022 04:28:56 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 경찰 "공식발표 안 해" - 촛불행동 "연인원"... 3.3㎡당 8명 계산해도 차이 커]]></content:encoded>
         </item>
     </channel>
 </rss>

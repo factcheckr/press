@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 20:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 02:49:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,24 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/09/01/desk_20220901_201312_1_12_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[경찰이 '성남FC 후원금 의혹' 불송치한 것은 무혐의 처분이다?(종합) (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230125124051502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230125124051502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 27 Jan 2023 02:49:07 GMT</pubDate>
+            <content:encoded><![CDATA[이재명 대표 "무혐의 처분된 사건"…한동훈 장관은 "한번도 무혐의 처분된 적 없어"
+경찰 불송치 권한, 검·경 수사권 조정의 산물…'1차적 ...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2023/01/10/PYH2023011008960001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경찰이 '성남FC 후원금 의혹' 불송치한 것은 무혐의 처분이다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230125124000502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230125124000502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 27 Jan 2023 02:49:07 GMT</pubDate>
+            <content:encoded><![CDATA[이재명 대표 "무혐의 처분된 사건"…한동훈 장관은 "한번도 무혐의 처분된 적 없어"
+경찰 불송치 권한, 검·경 수사권 조정의 산물…'1차적 ...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2023/01/10/PYH2023011008960001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[후불결제 서비스는 연체해도 신용점수 안 떨어진다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20230120097100502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20230120097100502?section=theme-list/factcheck</guid>
@@ -555,24 +573,6 @@
             <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/11/27/PYH2022112710930001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[화물연대에 업무개시명령은 강제노동 금지한 ILO 협약 위반?(종합) (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221128118051502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221128118051502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 29 Nov 2022 07:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[ILO 105호 협약 "파업참가에 대한 제재로서 강제노동 금지"…국내선 비준 안돼
-국내 비준된 29호 협약은 "전쟁이나 화재·홍수·지진 등 ...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/11/25/PYH2022112515840001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화물연대에 업무개시명령은 강제노동 금지한 ILO 협약 위반? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221128118000502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221128118000502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 29 Nov 2022 02:58:27 GMT</pubDate>
-            <content:encoded><![CDATA[ILO 105호 협약 "파업참가에 대한 제재로서 강제노동 금지"…국내선 비준 안돼
-국내 비준된 29호 협약은 "전쟁이나 화재·홍수·지진 등 ...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/11/25/PYH2022112515840001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
             <link>https://www.dongascience.com/news.php?idx=54018</link>
             <guid>https://www.dongascience.com/news.php?idx=54018</guid>
@@ -723,6 +723,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/03/l_2020093001003491300281111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["난방비 폭등은 문재인 정부 탓" 국힘 주장 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002897767</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002897767</guid>
+            <pubDate>Fri, 27 Jan 2023 02:49:57 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 성일종·김기현 의원 등 발언... 전문가 "2022년 하반기 수입가격 급등이 원인"]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062117061467.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA["짜게 먹어도 오래 산다" 언론 보도는 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002895191</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002895191</guid>
@@ -752,13 +760,6 @@
             <pubDate>Mon, 12 Dec 2022 13:32:45 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 산은노조는 민주노총 아닌 한국노총 소속... 국힘 "민주당, 노조 영향 받는다는 취지"]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062117104358.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[지난주 촛불집회, 경찰측 "2만5천"-주최측 "20만"... 검증해보니 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002882842</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002882842</guid>
-            <pubDate>Thu, 24 Nov 2022 04:28:56 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 경찰 "공식발표 안 해" - 촛불행동 "연인원"... 3.3㎡당 8명 계산해도 차이 커]]></content:encoded>
         </item>
     </channel>
 </rss>
