@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 21:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 22:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폭설로 항공기 결항돼 출근 못하면 연차 안 쓰고도 쉴수 있을까]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230126139800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230126139800502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 27 Jan 2023 22:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[설 연휴 막판 제주공항서 모든 항공편 결항…출근 못한 직장인들 연차 내
+직장인들에 적용되는 근로기준법, 천재지변을 결근 사유로 인정 안해
+공...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2023/01/24/PYH2023012403400001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경찰이 '성남FC 후원금 의혹' 불송치한 것은 무혐의 처분이다?(종합)]]></title>
             <link>https://www.yna.co.kr/view/AKR20230125124051502?section=theme-list/factcheck</link>
@@ -228,15 +238,6 @@
             <content:encoded><![CDATA[원희룡 국토 "월임금 500만∼600만원 상회"…임이자 의원 "소득 굉장히 높아"
 곡물운송 화물운전자 월소득, 고용부 조사선 525만원…화물...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/11/30/PYH2022113015810001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FIFA는 월드컵 경기서 욱일기 응원을 금지하고 있다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221201044100502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221201044100502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 01 Dec 2022 03:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[일본-코스타리카전서 안전요원이 욱일기 제지…FIFA, '욱일기 금지' 공식화한적 없어
-국내 축구계선 "우리가 항의 안했는데도 조치"…'FIF...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/11/27/PYH2022112710930001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
