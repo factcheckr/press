@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Jan 2023 10:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 11:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“청량리역 노숙인 동사” SNS 목격담···알아보니]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202301291005001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202301291005001</guid>
+            <pubDate>Sun, 29 Jan 2023 11:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 26일 오후 5시30분쯤 서울 동대문구 청량리역 3층 맞이방 맞은편 대기의자에서 한 남성이 숨진 채 발견됐다. “옆자리에 앉은 사람이 의자에서 움직이지 않는다”는 시민의 신고로 출동한 역무원이 남성의 상태를 처음 확인했다.남성의 죽음은 같은 날 오후 7시쯤 한 시민이 페이스북에 “청량리역에서 노숙인이 한파 속에서 동사했다”는 글과 함께 사진을 게시해 알려졌다. 사진에는 폴리스라인 너머에 파란 천이 덮인 시신 한 구와 주변을 오가는 시민들의 모습이 담...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/01/29/news-p.v1.20230127.6bb2e69ed5da46098a88b596ceff1c2f_P1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['30조 성인지감수성 예산' 떼어서 북핵 막는다? 윤석열표 '가짜뉴스']]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202202281312001</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 11 Oct 2020 07:52:00 GMT</pubDate>
             <content:encoded><![CDATA[[주목! 이 사람] 추석 연휴 후 전화벨이 울렸다. 연휴 시작 전 그를 소개한 인터뷰를 마친 상태였다.  “한 보수 유튜버가 자신을 공격했고, 조선일보가 그걸 받아 보도했는데 어떻게 하면 좋겠냐”며 조언을 요청했다.포털사이트를 살펴보니 그를 공격하는 기사가 막 포털 실시간 뉴스 1위를 찍고 있는 참이었다.‘이런 강사에게 강연 맡긴 보훈처’ 조선일보다운 선정적인 제목이다. 그에게 연락해 반론을 들어보는 ‘팩트체크’ 과정은 없었다. 역사강사 황현필(48). ‘1타...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/11/l_2020101101000909100075101.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산사태 주범? 중금속 범벅? 태양광발전에 대해 우리가 잘못 알고 있는 것들]]></title>
-            <link>https://www.khan.co.kr/economy/industry-trade/article/202010031543001</link>
-            <guid>https://www.khan.co.kr/economy/industry-trade/article/202010031543001</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[사상 최장 기간 동안 계속된 장마와 초강력 태풍이 이어졌던 지난 여름, 태양광 발전이 갑자기 ‘수해의 주요 원인’으로 지목받았다. “탈원전으로 태양광 발전시설이 전국을 뒤덮었고 산림의 홍수조절기능을 마비시켜 수해를 일으켰다”는 주장이 보수야당을 중심으로 나왔다. 친환경이라는 태양광 발전시설에서 오히려 중금속과 화학물질이 유출돼 환경을 파괴한다거나 태양광이 한국 상황과는 맞지 않다는 해묵은 주장도 다시 수면 위로 떠올랐다.태양광발전은 날씨에 따른 간헐...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/03/l_2020093001003491300281111.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
