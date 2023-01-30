@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 11:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 13:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[난방비 폭탄, 횡재세가 해법?]]></title>
+            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6450213_36199.html</link>
+            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6450213_36199.html</guid>
+            <pubDate>Mon, 30 Jan 2023 13:28:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2023-01-30</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/01/30/desk_20230130_195822_1_8_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[난방비 폭등 네탓 공방‥확인해보니]]></title>
             <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6449523_36199.html</link>
@@ -115,13 +123,6 @@
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6406520_29123.html</guid>
             <pubDate>Thu, 17 Nov 2022 11:21:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-09-10</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김건희 여사 일정, 직전 영부인과 비교해보니‥]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6404379_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6404379_29123.html</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-09-03</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
