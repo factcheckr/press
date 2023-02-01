@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 22:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 01:48:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,15 @@
             <content:encoded><![CDATA[<span>2022-09-10</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[일회용 마스크 착용하면 미세플라스틱 때문에 폐가 손상된다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230131100500502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230131100500502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 01 Feb 2023 01:47:36 GMT</pubDate>
+            <content:encoded><![CDATA['마스크 원료가 성분인 미세플라스틱 마시면 폐 손상' 연구 결과에 사람들 불안감
+연구진 "마스크가 미세플라스틱 되려면 최대 수십년…일상적 착...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2023/01/31/AKR20230131100500502_04_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[폭설로 항공기 결항돼 출근 못하면 연차 안 쓰고도 쉴수 있을까 (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20230126139800502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20230126139800502?section=theme-list/factcheck</guid>
@@ -564,15 +573,6 @@
             <content:encoded><![CDATA[2014년 이후론 정기국회 회기 내 예산안 통과…예산안의 본회의 '자동부의' 조항 덕
 그전엔 해 바뀌기 직전 처리가 관행화…아예 해 넘겨 처...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/12/04/PYH2022120406770001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['안전운임제 확대' 요구하는 화물노동자들, 이미 소득이 높다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221202080500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221202080500502?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 02 Dec 2022 23:23:22 GMT</pubDate>
-            <content:encoded><![CDATA[원희룡 국토 "월임금 500만∼600만원 상회"…임이자 의원 "소득 굉장히 높아"
-곡물운송 화물운전자 월소득, 고용부 조사선 525만원…화물...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/11/30/PYH2022113015810001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
