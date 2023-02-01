@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 04:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 06:25:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -730,7 +730,7 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002897767</guid>
             <pubDate>Fri, 27 Jan 2023 02:49:57 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 성일종·김기현 의원 등 발언... 전문가 "2022년 하반기 수입가격 급등이 원인"]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062117061467.JPG" length="0" type="image/JPG"/>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/062117061467.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA["짜게 먹어도 오래 산다" 언론 보도는 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
@@ -745,7 +745,7 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002894305</guid>
             <pubDate>Thu, 12 Jan 2023 08:29:11 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 산별노조서 전임자 임금 주는 미국·유럽도 기업 소속 전임자 임금은 회사 부담]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2023/011017521585.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/011017521585.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정진석 "박근혜 때 정규직-비정규직 격차 10~20만원도 안나" 거짓 (오마이뉴스 ─ 오마이팩트)]]></title>
@@ -753,7 +753,7 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002890058</guid>
             <pubDate>Thu, 22 Dec 2022 06:28:49 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 통계청 수치상 임금격차, 2013년 111만원... 국힘 홈페이지에 내용 수정 "착오"]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062117104358.JPG" length="0" type="image/JPG"/>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/062117104358.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[민주당 산업은행 이전 반대는 민주노총 탓? 정진석 발언은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
@@ -761,7 +761,7 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002887685</guid>
             <pubDate>Mon, 12 Dec 2022 13:32:45 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 산은노조는 민주노총 아닌 한국노총 소속... 국힘 "민주당, 노조 영향 받는다는 취지"]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/FCHK/2021/062117104358.JPG" length="0" type="image/JPG"/>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/062117104358.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
