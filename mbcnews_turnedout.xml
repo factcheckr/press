@@ -4,9 +4,16 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 01:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 02:59:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["난방비 대란 2025년까지 지속될 것"]]></title>
+            <link>https://imnews.imbc.com/newszoomin/newsinsight/6450805_29123.html</link>
+            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6450805_29123.html</guid>
+            <pubDate>Wed, 01 Feb 2023 02:58:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2023-02-01</span>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[난방비 폭탄, 횡재세가 해법?]]></title>
             <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6450213_36199.html</link>
@@ -116,13 +123,6 @@
             <pubDate>Thu, 17 Nov 2022 11:21:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-09-16</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/09/16/desk_20220916_194742_1_3_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['세금 축내는 노인 알바'?‥"우리 쌀값인데요"]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6406520_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6406520_29123.html</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-09-10</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
