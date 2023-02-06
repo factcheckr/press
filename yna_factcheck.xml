@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 05:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 06:28:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비동의 강간죄 도입되면 '동의 없었다' 피해자 진술만으로 유죄?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230206026800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230206026800502?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 06 Feb 2023 06:27:46 GMT</pubDate>
+            <content:encoded><![CDATA[여가부, 도입 시사했다가 법무부 반대하자 철회…'동의 여부 어떻게 확인하나'가 쟁점
+현행 형법은 '폭행·협박' 없으면 강간 인정 안해…해외선...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/photo/cms/2019/02/11/35/PCM20190211000035990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일회용 마스크 착용하면 미세플라스틱 때문에 폐가 손상된다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230131100500502?section=theme-list/factcheck</link>
@@ -229,15 +238,6 @@
             <content:encoded><![CDATA[인터넷·SNS에 "이천 공장서 만든 참이슬 달고, 청주서 만든 건 쓰다" 퍼져
 진로 "청주공장, 물 안 섞고 제조된 소주를 병에 주입만 해…...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/etc/inner/KR/2022/12/07/AKR20221207031800502_03_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['국회선진화법' 이후엔 항상 정기국회 내 예산안 처리했다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221205074800502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221205074800502?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 05 Dec 2022 07:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[2014년 이후론 정기국회 회기 내 예산안 통과…예산안의 본회의 '자동부의' 조항 덕
-그전엔 해 바뀌기 직전 처리가 관행화…아예 해 넘겨 처...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/12/04/PYH2022120406770001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
