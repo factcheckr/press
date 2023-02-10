@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 05:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 10:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리나라 정당 국고보조금은 세계적으로 드문 제도다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230209131100502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230209131100502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 10 Feb 2023 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[이상돈 교수 "유례없이 세금으로 선거·정당운영 지원"…조경태 의원 "국고보조금 폐지해야"
+OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/photo/cms/2020/10/28/81/PCM20201028000181990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지하철 노인 무임승차 비용부담, 정부 책임이냐 지자체 책임이냐]]></title>
             <link>https://www.yna.co.kr/view/AKR20230206131500502?section=theme-list/factcheck</link>
@@ -229,15 +238,6 @@
 '공공복리 위해 긴급했는지' 관건…법적 다툼 가능성
 (세종=연합뉴스)...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2022/12/07/AKR20221207164800003_01_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소주 맛, 제조공장에 따라 달거나 쓰다?(종합)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221207031851502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221207031851502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 07 Dec 2022 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[인터넷·SNS에 "이천 공장서 만든 참이슬 달고, 청주서 만든 건 쓰다" 퍼져
-진로 "청주공장, 똑같은 반제품에 물 섞어…지하수 아닌 상수도...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/etc/inner/KR/2022/12/07/AKR20221207031851502_05_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
