@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 05:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 07:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[챗GPT가 쓴 추리소설을 책으로 출판하면 저작권법 위반일까?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230210089700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230210089700502?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 13 Feb 2023 07:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[저작권법, '인간의 사상·감정' 다룬 것만 저작물로 봐…인간 아닌 AI는 저작권 인정 안돼
+앞으로 AI 저작권 인정 논쟁 거세질 듯…인정해도...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/etc/inner/KR/2023/02/10/AKR20230210089700502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리나라 정당 국고보조금은 세계적으로 드문 제도다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230209131100502?section=theme-list/factcheck</link>
@@ -228,16 +237,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <content:encoded><![CDATA[국내 복지체계선 주소 없거나 거주지-등록주소 다르면 복지혜택 누리기 어려워
 영·미선 지인·직업안내소 주소 등록해도 수당·복지혜택 받을 수 있...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2022/08/29/PYH2022082905060001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나가 들여온 '문자·카톡 행정'…문자 업무개시명령도 효력?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221207164800003?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221207164800003?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 08 Dec 2022 01:35:44 GMT</pubDate>
-            <content:encoded><![CDATA[올해 7월 개정 행정절차법에 명시…정부 "적법한 절차"
-'공공복리 위해 긴급했는지' 관건…법적 다툼 가능성
-(세종=연합뉴스)...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2022/12/07/AKR20221207164800003_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
