@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 04:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 10:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/09/16/desk_20220916_194742_1_3_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[탄핵소추하려면 형사상 수사·기소가 먼저 있어야 한다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230214031600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230214031600502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 14 Feb 2023 10:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[법조계 "탄핵, 권력 가져 일반 사법절차로 책임묻기 힘든 고위공직자 견제장치"
+헌재, 과거 탄핵결정문서 "탄핵 사유, 형소법상 공소사실처럼 ...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/12/22/PYH2022122212220001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[챗GPT가 쓴 추리소설을 책으로 출판하면 저작권법 위반일까? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20230210089700502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20230210089700502?section=theme-list/factcheck</guid>
@@ -563,15 +572,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <content:encoded><![CDATA[대전·충남도 "감염병예방법상 시·도지사, 자율적으로 마스크 의무화 해제 가능"
 질병청은 "재난안전법상 방역조치에 대해 중앙정부가 지방정부에 ...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2022/12/09/AKR20221209041500502_04_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국·영국선 주소지 없어도 사회보장급여 신청할 수 있다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221207140700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221207140700502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 08 Dec 2022 02:48:04 GMT</pubDate>
-            <content:encoded><![CDATA[국내 복지체계선 주소 없거나 거주지-등록주소 다르면 복지혜택 누리기 어려워
-영·미선 지인·직업안내소 주소 등록해도 수당·복지혜택 받을 수 있...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2022/08/29/PYH2022082905060001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
