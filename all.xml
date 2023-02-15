@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 03:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 05:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -722,6 +722,44 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <pubDate>Sun, 11 Oct 2020 07:52:00 GMT</pubDate>
             <content:encoded><![CDATA[[주목! 이 사람] 추석 연휴 후 전화벨이 울렸다. 연휴 시작 전 그를 소개한 인터뷰를 마친 상태였다.  “한 보수 유튜버가 자신을 공격했고, 조선일보가 그걸 받아 보도했는데 어떻게 하면 좋겠냐”며 조언을 요청했다.포털사이트를 살펴보니 그를 공격하는 기사가 막 포털 실시간 뉴스 1위를 찍고 있는 참이었다.‘이런 강사에게 강연 맡긴 보훈처’ 조선일보다운 선정적인 제목이다. 그에게 연락해 반론을 들어보는 ‘팩트체크’ 과정은 없었다. 역사강사 황현필(48). ‘1타...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/11/l_2020101101000909100075101.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["집값 폭등은 저금리 아닌 문재인 탓" 언론보도는 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002899432</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002899432</guid>
+            <pubDate>Wed, 15 Feb 2023 05:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 집값 하락하자 '금리 탓'... 전문가 "집값 폭등도 기준금리 인하 탓"]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["난방비 폭등은 문재인 정부 탓" 국힘 주장 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002897767</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002897767</guid>
+            <pubDate>Wed, 15 Feb 2023 05:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 성일종·김기현 의원 등 발언... 전문가 "2022년 하반기 수입가격 급등이 원인"]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/062117061467.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA["짜게 먹어도 오래 산다" 언론 보도는 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002895191</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002895191</guid>
+            <pubDate>Wed, 15 Feb 2023 05:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 상반된 연구 결과 있는데 과장 보도... WHO "소금 줄이면 연 250만 사망 예방"]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["노조전임자 임금, 한국만 회사가 준다?" 전순옥 발언 '사실반 거짓반' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002894305</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002894305</guid>
+            <pubDate>Wed, 15 Feb 2023 05:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 산별노조서 전임자 임금 주는 미국·유럽도 기업 소속 전임자 임금은 회사 부담]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/011017521585.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정진석 "박근혜 때 정규직-비정규직 격차 10~20만원도 안나" 거짓 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002890058</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002890058</guid>
+            <pubDate>Wed, 15 Feb 2023 05:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 통계청 수치상 임금격차, 2013년 111만원... 국힘 홈페이지에 내용 수정 "착오"]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/062117104358.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
