@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 10:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 11:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아동학대로 잇단 사망···인천은 정말 ‘범죄도시’인가]]></title>
+            <link>https://www.khan.co.kr/national/education/article/202302160700011</link>
+            <guid>https://www.khan.co.kr/national/education/article/202302160700011</guid>
+            <pubDate>Thu, 16 Feb 2023 11:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[인천에서 올해 들어 아동 2명이 부모 학대로 숨졌다. 2살 아이가 사흘간 집에 홀로 방치됐다가 사망했으며 홈스쿨링을 한다며 학교에 가지 않은 초등학교 5학년이 온몸에 멍이 든 채 숨졌다.이는 올해 ‘아동학대 ZERO, 어린이가 안전한 인천 만들기’를 선언한 인천시의 아동정책 비전을 무색하게 하고 있다. 이로 인해 사회관계망서비스(SNS)에는 “또 인천이냐” “범죄도시 인천”이라는 말까지 나오고 있다.인천은 진정 아동학대가 많은 도시일까.16일 경찰청과 인천시 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/02/16/news-p.v1.20230214.3b211b1e77184bc28c669e870e984239_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“청량리역 노숙인 동사” SNS 목격담···알아보니]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202301291005001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 28 Oct 2020 06:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이건희 삼성그룹 회장의 별세 이후 보수 정치권과 재계 일각에서 한국의 상속세율이 지나치게 높아 기업의 지배구조까지 흔들릴 수 있다며 세율 인하를 주장하고 있다. 대주주가 보유한 주식을 상속·증여할 때 적용되는 상속세 할증률에 대해서도 반발한다.       하지만 한국은 공제 혜택이 많은 데다 소득세율도 상대적으로 낮다고 전문가들은 지적한다. 상속세를 둘러싼 오해와 진실을 정리했다.■ 한국 상속세율, 선진국보다 높다?한국의 상속세 최고세율은 50%다. 국민...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/28/l_2020102801002965700246281.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보수언론 공격받은 ‘1타강사’ 유튜버 황현필]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202010110752011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202010110752011</guid>
-            <pubDate>Sun, 11 Oct 2020 07:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주목! 이 사람] 추석 연휴 후 전화벨이 울렸다. 연휴 시작 전 그를 소개한 인터뷰를 마친 상태였다.  “한 보수 유튜버가 자신을 공격했고, 조선일보가 그걸 받아 보도했는데 어떻게 하면 좋겠냐”며 조언을 요청했다.포털사이트를 살펴보니 그를 공격하는 기사가 막 포털 실시간 뉴스 1위를 찍고 있는 참이었다.‘이런 강사에게 강연 맡긴 보훈처’ 조선일보다운 선정적인 제목이다. 그에게 연락해 반론을 들어보는 ‘팩트체크’ 과정은 없었다. 역사강사 황현필(48). ‘1타...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/11/l_2020101101000909100075101.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
