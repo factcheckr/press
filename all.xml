@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 08:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 13:31:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -723,6 +723,14 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/28/l_2020102801002965700246281.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["자살률 낮추려고 번개탄 생산 금지" 정부 발표는 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002903988</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002903988</guid>
+            <pubDate>Tue, 21 Feb 2023 13:31:30 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 복지부 "착화제 기준 강화가 와전돼"... 산림청 "자살예방목적 아냐"]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/022115181312.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA["김재철 사장 시절 MBC 파업=불법" 김기현 발언은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002904010</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002904010</guid>
@@ -751,14 +759,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002895191</guid>
             <pubDate>Sat, 18 Feb 2023 02:49:57 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 상반된 연구 결과 있는데 과장 보도... WHO "소금 줄이면 연 250만 사망 예방"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["노조전임자 임금, 한국만 회사가 준다?" 전순옥 발언 '사실반 거짓반' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002894305</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002894305</guid>
-            <pubDate>Sat, 18 Feb 2023 02:49:57 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 산별노조서 전임자 임금 주는 미국·유럽도 기업 소속 전임자 임금은 회사 부담]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/011017521585.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
