@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 17:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 06:30:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/09/16/desk_20220916_194742_1_3_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[북한 유튜버 동영상을 공유하면 국가보안법 위반이다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230220092700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230220092700502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 21 Feb 2023 06:30:10 GMT</pubDate>
+            <content:encoded><![CDATA[평양 주민이 나와 영어로 北 일상생활·문화 소개하는 채널 등장
+보안 당국 "시청은 큰 문제 없지만 댓글·구독·공유·후원 등은 국보법 위반 소...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2023/02/20/AKR20230220092700502_02_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['노인은 65세 이상' 기준은 독일 비스마르크 수상 때 시작됐다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20230216104400502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20230216104400502?section=theme-list/factcheck</guid>
@@ -562,16 +571,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <content:encoded><![CDATA[보건의료단체연합 "건강보험 도입 이래 보장성 축소는 현 정부가 최초"
 복지부 대책, '재정적 지속가능성'에 방점…MRI·초음파 검사에 건보 ...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/12/14/PYH2022121405040001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화물연대 파업 때문에 11월 수출액이 감소했다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221214046000502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221214046000502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 14 Dec 2022 06:25:14 GMT</pubDate>
-            <content:encoded><![CDATA[대통령·산업부, 11월 수출 부진 원인의 하나로 '화물연대 파업' 지목
-수출액 통계에 잡히는 건 수출품 운송 이전 단계인 '수출신고 수리'
-...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2022/12/09/PYH2022120912170005100_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
