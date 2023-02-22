@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 15:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 23:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/09/16/desk_20220916_194742_1_3_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[그 많던 대중목욕탕은 다 어디로 갔을까…수치로 본 목욕탕史 (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230222100500502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230222100500502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 22 Feb 2023 23:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 거리두기로 개점휴업 겪은 목욕탕업계, 최근엔 '난방비 폭탄'에 타격
+목욕탕 2004년 9천970개로 정점 뒤 하락세…전통적 목욕탕...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2023/02/14/PYH2023021406470001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[북한 유튜버 동영상을 공유하면 국가보안법 위반이다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20230220092700502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20230220092700502?section=theme-list/factcheck</guid>
@@ -562,15 +571,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
 최고세율 비교는 기업 조세부담 파악에 한계…법인세 실효세율 비교가 더 적절
 조세재...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/photo/cms/2016/04/15/01/C0A8CA3D000001541790532E0007239E_P2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부 건강보험 정책은 보장성 축소한 첫 사례다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221215050900502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221215050900502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 15 Dec 2022 06:28:59 GMT</pubDate>
-            <content:encoded><![CDATA[보건의료단체연합 "건강보험 도입 이래 보장성 축소는 현 정부가 최초"
-복지부 대책, '재정적 지속가능성'에 방점…MRI·초음파 검사에 건보 ...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/12/14/PYH2022121405040001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
