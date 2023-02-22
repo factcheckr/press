@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 09:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 12:44:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,7 +136,7 @@
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/09/22/310691663809960707.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이재명 '불체포 특권' 포기는 가능할까요 [사실은] (SBS뉴스 ─ 사실은)]]></title>
+            <title><![CDATA[[사실은] 이재명 '불체포 특권' 포기는 가능할까요 (SBS뉴스 ─ 사실은)]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007088835&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007088835&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Wed, 22 Feb 2023 01:41:00 GMT</pubDate>
