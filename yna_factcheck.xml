@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 21:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 02:55:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[의사-간호사 다투는 '간호법', 다른 나라도 많이 제정한 법이다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230222145100502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230222145100502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 24 Feb 2023 02:54:48 GMT</pubDate>
+            <content:encoded><![CDATA[의협 "OECD 11개 회원국만 간호법 보유"-간협 "33개국서 법 제정" 맞서
+분석 결과 양 단체가 쓴 분류기준 달라…통상 보유국으로 보는...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2023/02/13/PYH2023021301800001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그 많던 대중목욕탕은 다 어디로 갔을까…수치로 본 목욕탕史]]></title>
             <link>https://www.yna.co.kr/view/AKR20230222100500502?section=theme-list/factcheck</link>
@@ -222,16 +231,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <link>https://www.yna.co.kr/view/AKR20221215106551502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20221215106551502?section=theme-list/factcheck</guid>
             <pubDate>Fri, 16 Dec 2022 15:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[한덕수 총리 "우리 법인세, OECD 평균보다 높은 수준"
-최고세율 비교는 기업 조세부담 파악에 한계…법인세 실효세율 비교가 더 적절
-조세재...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/cms/2016/04/15/01/C0A8CA3D000001541790532E0007239E_P2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 법인세, 다른 나라들보다 더 높다?…실효세율로 따져보니]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221215106500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221215106500502?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 16 Dec 2022 12:35:18 GMT</pubDate>
             <content:encoded><![CDATA[한덕수 총리 "우리 법인세, OECD 평균보다 높은 수준"
 최고세율 비교는 기업 조세부담 파악에 한계…법인세 실효세율 비교가 더 적절
 조세재...]]></content:encoded>
