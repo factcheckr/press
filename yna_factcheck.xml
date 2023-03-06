@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 01:46:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 02:55:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[튀르키예 교과서에 "한국은 형제국가"라고 쓰여 있다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230306034600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230306034600502?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 06 Mar 2023 02:54:21 GMT</pubDate>
+            <content:encoded><![CDATA[2002 월드컵 거치면서 국내서 '튀르키예=형제국' 인식 본격화
+튀르키예선 한국전 파병으로 형제국 싹터…'일본 속국→콘텐츠 강국' 인식 변화...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2023/03/06/AKR20230306034600502_14_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[의사-간호사 다투는 '간호법', 다른 나라도 많이 제정한 법이다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230222145100502?section=theme-list/factcheck</link>
@@ -225,16 +234,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <content:encoded><![CDATA[윤 대통령 "고생은 선수들이 했는데 왜 협회가 배당금 더 가져가나"
 대한축구협회 "FIFA 상금 172억원 중 55%인 95억원, 선수들에 ...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2022/12/07/PYH2022120719630001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 법인세, 다른 나라들보다 더 높다?…실효세율로 따져보니(종합)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221215106551502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221215106551502?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 16 Dec 2022 15:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[한덕수 총리 "우리 법인세, OECD 평균보다 높은 수준"
-최고세율 비교는 기업 조세부담 파악에 한계…법인세 실효세율 비교가 더 적절
-조세재...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/cms/2016/04/15/01/C0A8CA3D000001541790532E0007239E_P2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
