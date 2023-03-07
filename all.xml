@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 23:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 01:48:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/09/16/desk_20220916_194742_1_3_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세계 최초로 동성결혼 합법화한 나라는 네덜란드다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230306109300502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230306109300502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 07 Mar 2023 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[네덜란드, 2001년 전 세계서 처음으로 동성결혼을 이성결혼과 똑같이 인정
+덴마크는 1989년 동성부부에 이성부부와 비슷한 권리 주는 동반자...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2023/02/21/PYH2023022111880001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[튀르키예 교과서에 "한국은 형제국가"라고 쓰여 있다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20230306034600502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20230306034600502?section=theme-list/factcheck</guid>
@@ -562,15 +571,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2021/06/11/PYH2021061108460001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[축구협회가 선수들보다 월드컵 배당금 더 가져간다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221216121500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221216121500502?section=theme-list/factcheck</guid>
-            <pubDate>Sat, 17 Dec 2022 05:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[윤 대통령 "고생은 선수들이 했는데 왜 협회가 배당금 더 가져가나"
-대한축구협회 "FIFA 상금 172억원 중 55%인 95억원, 선수들에 ...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2022/12/07/PYH2022120719630001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
             <link>https://www.dongascience.com/news.php?idx=54018</link>
             <guid>https://www.dongascience.com/news.php?idx=54018</guid>
@@ -719,45 +719,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <pubDate>Wed, 28 Oct 2020 06:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이건희 삼성그룹 회장의 별세 이후 보수 정치권과 재계 일각에서 한국의 상속세율이 지나치게 높아 기업의 지배구조까지 흔들릴 수 있다며 세율 인하를 주장하고 있다. 대주주가 보유한 주식을 상속·증여할 때 적용되는 상속세 할증률에 대해서도 반발한다.       하지만 한국은 공제 혜택이 많은 데다 소득세율도 상대적으로 낮다고 전문가들은 지적한다. 상속세를 둘러싼 오해와 진실을 정리했다.■ 한국 상속세율, 선진국보다 높다?한국의 상속세 최고세율은 50%다. 국민...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/28/l_2020102801002965700246281.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["정부가 노조 회계장부 볼 근거 없다" 우원식 발언은 '사실' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002905012</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002905012</guid>
-            <pubDate>Mon, 27 Feb 2023 05:25:01 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] '노조 장부 검사' 1997년 폐지... 대법도 조합원 열람권만 인정, 외부공개 의무 없어]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/022421195642.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["자살률 낮추려고 번개탄 생산 금지" 정부 발표는 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002903988</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002903988</guid>
-            <pubDate>Tue, 21 Feb 2023 13:31:30 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 복지부 "착화제 기준 강화가 와전돼"... 산림청 "자살예방목적 아냐"]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/022115181312.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA["김재철 사장 시절 MBC 파업=불법" 김기현 발언은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002904010</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002904010</guid>
-            <pubDate>Tue, 21 Feb 2023 08:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 대법, 2012년 언론노조 MBC본부 파업 "정당" 인정... 캠프 "판결 숙지 못해"]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/062117061467.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA["집값 폭등은 저금리 아닌 문재인 탓" 언론보도는 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002899432</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002899432</guid>
-            <pubDate>Sat, 18 Feb 2023 02:49:57 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 집값 하락하자 '금리 탓'... 전문가 "집값 폭등도 기준금리 인하 탓"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["난방비 폭등은 문재인 정부 탓" 국힘 주장 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002897767</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002897767</guid>
-            <pubDate>Sat, 18 Feb 2023 02:49:57 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 성일종·김기현 의원 등 발언... 전문가 "2022년 하반기 수입가격 급등이 원인"]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/062117061467.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>

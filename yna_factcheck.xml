@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 23:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 01:48:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계 최초로 동성결혼 합법화한 나라는 네덜란드다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230306109300502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230306109300502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 07 Mar 2023 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[네덜란드, 2001년 전 세계서 처음으로 동성결혼을 이성결혼과 똑같이 인정
+덴마크는 1989년 동성부부에 이성부부와 비슷한 권리 주는 동반자...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2023/02/21/PYH2023022111880001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[튀르키예 교과서에 "한국은 형제국가"라고 쓰여 있다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230306034600502?section=theme-list/factcheck</link>
@@ -225,15 +234,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
 작년 전대서도 '역선택 방지' 도입으로 내홍…전대 2주 앞두고 룰 변경한 적도
 ...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2021/06/11/PYH2021061108460001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[축구협회가 선수들보다 월드컵 배당금 더 가져간다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221216121500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221216121500502?section=theme-list/factcheck</guid>
-            <pubDate>Sat, 17 Dec 2022 05:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[윤 대통령 "고생은 선수들이 했는데 왜 협회가 배당금 더 가져가나"
-대한축구협회 "FIFA 상금 172억원 중 55%인 95억원, 선수들에 ...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2022/12/07/PYH2022120719630001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
