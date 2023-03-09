@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 05:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 08:33:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -721,6 +721,14 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/28/l_2020102801002965700246281.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["강제동원 피해자 싫다는데 '제3자 변제'?" 민법학자 "비정상적" (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002908475</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002908475</guid>
+            <pubDate>Thu, 09 Mar 2023 08:33:40 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 민법에는 '제3자 변제 거부권' 명시... '채권자 의사표시' 해석은 엇갈려]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/030911554518.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA["정부가 노조 회계장부 볼 근거 없다" 우원식 발언은 '사실' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002905012</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002905012</guid>
@@ -750,14 +758,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002899432</guid>
             <pubDate>Tue, 07 Mar 2023 03:36:23 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 집값 하락하자 '금리 탓'... 전문가 "집값 폭등도 기준금리 인하 탓"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["난방비 폭등은 문재인 정부 탓" 국힘 주장 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002897767</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002897767</guid>
-            <pubDate>Tue, 07 Mar 2023 03:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 성일종·김기현 의원 등 발언... 전문가 "2022년 하반기 수입가격 급등이 원인"]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/062117061467.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
