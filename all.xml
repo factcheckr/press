@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 09:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 10:26:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -721,6 +721,14 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/28/l_2020102801002965700246281.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["한국·호주전 기미가요는 개최국 재량?" WBC의 '이상한 관행' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002908654</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002908654</guid>
+            <pubDate>Thu, 09 Mar 2023 10:26:15 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 2009년 한일 결승전·예선전 때 '개최국' 미국국가 연주돼... "미국 중심사고" 비판도]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/030918135026.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["강제동원 피해자 싫다는데 '제3자 변제'?" 민법학자 "비정상적" (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002908475</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002908475</guid>
@@ -751,13 +759,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <pubDate>Tue, 07 Mar 2023 03:36:23 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 대법, 2012년 언론노조 MBC본부 파업 "정당" 인정... 캠프 "판결 숙지 못해"]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/062117061467.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA["집값 폭등은 저금리 아닌 문재인 탓" 언론보도는 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002899432</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002899432</guid>
-            <pubDate>Tue, 07 Mar 2023 03:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 집값 하락하자 '금리 탓'... 전문가 "집값 폭등도 기준금리 인하 탓"]]></content:encoded>
         </item>
     </channel>
 </rss>
