@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 05:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 06:29:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[응급피임약, 가톨릭계 병원에서는 처방 안 한다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230317071500502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230317071500502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 21 Mar 2023 06:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[인터넷 커뮤니티에 '응급피임약 필요할 때 가톨릭병원 응급실 가지 말라' 게시물
+실제 가톨릭의료협회 회원 산부인과 22곳 중 19곳이 응급피임...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/photo/cms/2019/03/26/90/PCM20190326000190990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대통령과 여당 대표 간 정례회담은 항상 있었다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230316029000502?section=theme-list/factcheck</link>
@@ -224,16 +233,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <content:encoded><![CDATA[올해부터 종전 유통기한→소비기한으로 변경…식품 더 오래 팔 수 있어
 소비기한 내 식품 상하거나 먹고 탈나면 제조·유통사 책임…인과관계 입증은...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2023/01/01/PYH2023010110940001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6월부터 '만 나이'로 통일되면 정년 더 늦춰진다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221229131400502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221229131400502?section=theme-list/factcheck</guid>
-            <pubDate>Sat, 31 Dec 2022 22:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[6월 28일부터 법률·행정상 연령, 모두 '만 나이'로 통일
-체감할 만한 생활상 변화 없을듯…지금도 정년·연금 수령개시 시점 등 만 나이
-초...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/etc/graphic/YH/2022/12/07/GYH2022120700070004400_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
