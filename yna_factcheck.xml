@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 22:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 23:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['비자금 있다' 손자폭로 나온 전두환 미납추징금, 환수 가능할까]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230322031300502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230322031300502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 22 Mar 2023 23:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[손자 전우원씨 "비자금으로 사업체 운영하고 호화생활 해왔다" 폭탄선언
+전씨 사망 뒤 대법원 "추징 집행 끝났다" 판결…미납추징금 867억원 ...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2023/03/22/AKR20230322031300502_07_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[응급피임약, 가톨릭계 병원에서는 처방 안 한다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230317071500502?section=theme-list/factcheck</link>
@@ -224,15 +233,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <content:encoded><![CDATA[이재갑 한림대 교수 "면역회피 가장 강력한 XBB.1.5 유입을 더 걱정해야"
 전문가들 "중국서 환자 유입돼도 국내 폭발적 유행 없을 것…입...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2023/01/05/PYH2023010510190001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 '소비기한 표시제'선 음식 먹고 탈나면 기업 책임 없다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230105071800502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230105071800502?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 06 Jan 2023 01:40:34 GMT</pubDate>
-            <content:encoded><![CDATA[올해부터 종전 유통기한→소비기한으로 변경…식품 더 오래 팔 수 있어
-소비기한 내 식품 상하거나 먹고 탈나면 제조·유통사 책임…인과관계 입증은...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2023/01/01/PYH2023010110940001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
