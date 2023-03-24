@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 05:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 06:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타워크레인 조종사, 강풍 불 때 임의로 조종석 벗어나면 위법?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230323153400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230323153400502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 24 Mar 2023 06:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[국토부, 타워크레인 조종사들 준법투쟁에 "불성실 조종사들에 최대 1년 면허정지"
+"강풍 불 때 도급사 승인없이 조종석 벗어나거나 크레인 너무...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/photo/cms/2016/04/10/01/C0A8CA3C00000153FF98280800036B7C_P2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA['비자금 있다' 손자폭로 나온 전두환 미납추징금, 환수 가능할까]]></title>
             <link>https://www.yna.co.kr/view/AKR20230322031300502?section=theme-list/factcheck</link>
@@ -224,15 +233,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <content:encoded><![CDATA[윤 대통령 "소선거구제, 진영 양극화·갈등 심화시켜…중대선거구제 검토 필요"
 국내서도 9∼12대 총선, 중선거구제로 치러져…13대 이후 소선...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2023/01/09/AKR20230109059300502_01_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국발 입국자보다 미국 코로나19 변이 유입이 더 큰 걱정거리?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230106126400502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230106126400502?section=theme-list/factcheck</guid>
-            <pubDate>Sat, 07 Jan 2023 01:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[이재갑 한림대 교수 "면역회피 가장 강력한 XBB.1.5 유입을 더 걱정해야"
-전문가들 "중국서 환자 유입돼도 국내 폭발적 유행 없을 것…입...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2023/01/05/PYH2023010510190001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
