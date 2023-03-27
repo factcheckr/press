@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 23:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 01:28:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,15 +343,6 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/09/16/desk_20220916_194742_1_3_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[튀르키예 교과서에 "한국은 형제국가"라고 쓰여 있다?(종합) (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230306034651502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230306034651502?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 24 Mar 2023 23:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[2002 월드컵 거치면서 국내서 '튀르키예=형제국' 인식 본격화
-튀르키예선 한국전 파병으로 형제국 싹터…'일본 속국→콘텐츠 강국' 인식 변화...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2023/03/06/AKR20230306034651502_14_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[타워크레인 조종사, 강풍 불 때 임의로 조종석 벗어나면 위법? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20230323153400502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20230323153400502?section=theme-list/factcheck</guid>
@@ -568,6 +559,15 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <content:encoded><![CDATA[안철수 의원 "현재 여소야대, 사상 최악…내년 총선서 지면 아무것도 못 해"
 현 여당 의석 비율, 38.5%로 노무현 전 대통령 취임 때 3...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2023/01/13/PYH2023011305980001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중대선거구제, 지역주의 양당제 정치구도 해소할 대안 될까? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230109059300502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230109059300502?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 27 Mar 2023 01:27:24 GMT</pubDate>
+            <content:encoded><![CDATA[윤 대통령 "소선거구제, 진영 양극화·갈등 심화시켜…중대선거구제 검토 필요"
+국내서도 9∼12대 총선, 중선거구제로 치러져…13대 이후 소선...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2023/01/09/AKR20230109059300502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
