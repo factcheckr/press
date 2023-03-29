@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 23:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 02:48:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헌재, 과거에도 '검찰 수사권은 헌법상 권한 아니다' 결정했다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230328151400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230328151400502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 29 Mar 2023 02:47:40 GMT</pubDate>
+            <content:encoded><![CDATA[민주당 박주민 의원 "헌재, 이미 네 번이나 '수사권은 국회서 정하는 것' 판단"
+법무부가 검찰의 수사권 근거로 지목한 '검사의 영장신청권'...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2023/03/23/PYH2023032304530001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[타워크레인 조종사, 강풍 불 때 임의로 조종석 벗어나면 위법?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230323153400502?section=theme-list/factcheck</link>
@@ -224,15 +233,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <content:encoded><![CDATA[안철수 의원 "현재 여소야대, 사상 최악…내년 총선서 지면 아무것도 못 해"
 현 여당 의석 비율, 38.5%로 노무현 전 대통령 취임 때 3...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2023/01/13/PYH2023011305980001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중대선거구제, 지역주의 양당제 정치구도 해소할 대안 될까?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230109059300502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230109059300502?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 27 Mar 2023 01:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[윤 대통령 "소선거구제, 진영 양극화·갈등 심화시켜…중대선거구제 검토 필요"
-국내서도 9∼12대 총선, 중선거구제로 치러져…13대 이후 소선...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2023/01/09/AKR20230109059300502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
