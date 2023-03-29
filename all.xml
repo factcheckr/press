@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 11:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 12:45:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[MBC 뉴스데스크 '알고보니' 제6회 한국팩트체크대상 우수상 (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6468875_36199.html</link>
+            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6468875_36199.html</guid>
+            <pubDate>Wed, 29 Mar 2023 12:44:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2023-03-29</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/03/29/desk_20230329_204447_1_23_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["난방비 대란 2025년까지 지속될 것" (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/newszoomin/newsinsight/6450805_29123.html</link>
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6450805_29123.html</guid>
@@ -333,14 +341,6 @@
             <pubDate>Thu, 17 Nov 2022 11:21:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-09-22</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/09/22/desk_20220922_201110_1_8_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이전비 496억 원이라더니‥얼마까지 늘었나 (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6408516_35744.html</link>
-            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6408516_35744.html</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-09-16</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/09/16/desk_20220916_194742_1_3_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헌재, 과거에도 '검찰 수사권은 헌법상 권한 아니다' 결정했다? (연합뉴스 ─ 팩트체크)]]></title>
