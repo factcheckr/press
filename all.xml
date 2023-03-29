@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 03:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 05:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -145,7 +145,7 @@
             <enclosure url="https://img.sbs.co.kr/newimg/news/20230323/201764843_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[사실은] "일본 수십 차례 사과" 전수 분석해보니…따져봐야 할 점은? (SBS뉴스 ─ 사실은)]]></title>
+            <title><![CDATA[[사실은] "일본의 과거사 사과" 전수 분석해보니… '사과'와 '망언'의 쳇바퀴 (SBS뉴스 ─ 사실은)]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007125070&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007125070&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Thu, 23 Mar 2023 06:25:04 GMT</pubDate>
