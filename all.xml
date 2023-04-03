@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 07:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 10:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,15 @@
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/09/22/310691663809960707.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[사실은] 4월이면 어김없이 "4·3은 공산 폭동"…사실은? (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007139996&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007139996&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Mon, 03 Apr 2023 10:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20230322/201764475_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[사실은] "한국도 방사능 오염수 방류" 일본 주장, 따져봤습니다 (SBS뉴스 ─ 사실은)]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007137286&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007137286&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
@@ -176,7 +185,7 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007113910&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007113910&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Wed, 15 Mar 2023 02:44:16 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://img.sbs.co.kr/newimg/news/20190325/201295301_300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -187,7 +196,7 @@
             <pubDate>Wed, 08 Mar 2023 14:18:53 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20230308/201759317_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] "노조 회계자료 공개는 국제 기준" 따져보니… (SBS뉴스 ─ 사실은)]]></title>
@@ -212,15 +221,6 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007093346&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007093346&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Sat, 25 Feb 2023 01:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
-									이경원 기자]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 이재명 '불체포 특권' 포기는 가능할까요 (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007088835&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007088835&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Wed, 22 Feb 2023 01:41:00 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
