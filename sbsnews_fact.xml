@@ -4,9 +4,18 @@
         <title>SBS뉴스 ─ 사실은</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 11:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 12:36:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] "제주 4·3 사건은 공산 폭동" 또 꿈틀…사실은?]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007140015&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007140015&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Mon, 03 Apr 2023 12:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20230403/201768801_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사실은] 4월이면 어김없이 "4·3은 공산 폭동"…사실은?]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007139996&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -48,7 +57,7 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007123516&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007123516&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Tue, 21 Mar 2023 11:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://img.sbs.co.kr/newimg/news/20230321/201764077_300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -59,7 +68,7 @@
             <pubDate>Wed, 15 Mar 2023 02:44:16 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20190325/201295301_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] "한국만 사죄 악쓴다" 주장이 망언인 이유]]></title>
@@ -84,15 +93,6 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007097808&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007097808&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Wed, 01 Mar 2023 10:27:36 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
-									이경원 기자]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 푸틴 "에델바이스는 히틀러의 흔적", 팩트체크 해보니…]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007093346&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007093346&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Sat, 25 Feb 2023 01:44:04 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>

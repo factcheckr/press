@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 11:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 12:36:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[후쿠시마산 수산물, 국내로 결코 못들어온다?]]></title>
+            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6470392_36199.html</link>
+            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6470392_36199.html</guid>
+            <pubDate>Mon, 03 Apr 2023 12:35:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2023-04-03</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/04/03/desk_20230403_202209_1_17_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MBC 뉴스데스크 '알고보니' 제6회 한국팩트체크대상 우수상]]></title>
             <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6468875_36199.html</link>
@@ -115,14 +123,6 @@
             <pubDate>Thu, 17 Nov 2022 11:21:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-09-30</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/09/30/desk_20220930_201636_1_15_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한일 정상 만남, '약식회담', '간담' 맞는 용어는?]]></title>
-            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6410362_35744.html</link>
-            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6410362_35744.html</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-09-22</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/09/22/desk_20220922_201110_1_8_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

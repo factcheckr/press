@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 11:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 12:36:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,15 @@
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/09/22/310691663809960707.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[사실은] "제주 4·3 사건은 공산 폭동" 또 꿈틀…사실은? (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007140015&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007140015&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Mon, 03 Apr 2023 12:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20230403/201768801_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[사실은] 4월이면 어김없이 "4·3은 공산 폭동"…사실은? (SBS뉴스 ─ 사실은)]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007139996&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007139996&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
@@ -176,7 +185,7 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007123516&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007123516&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Tue, 21 Mar 2023 11:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://img.sbs.co.kr/newimg/news/20230321/201764077_300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -187,7 +196,7 @@
             <pubDate>Wed, 15 Mar 2023 02:44:16 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20190325/201295301_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] "한국만 사죄 악쓴다" 주장이 망언인 이유 (SBS뉴스 ─ 사실은)]]></title>
@@ -217,13 +226,12 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[사실은] 푸틴 "에델바이스는 히틀러의 흔적", 팩트체크 해보니… (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007093346&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007093346&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Sat, 25 Feb 2023 01:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
-									이경원 기자]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+            <title><![CDATA[후쿠시마산 수산물, 국내로 결코 못들어온다? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6470392_36199.html</link>
+            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6470392_36199.html</guid>
+            <pubDate>Mon, 03 Apr 2023 12:35:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2023-04-03</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/04/03/desk_20230403_202209_1_17_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MBC 뉴스데스크 '알고보니' 제6회 한국팩트체크대상 우수상 (MBC뉴스 ─ 알고보니)]]></title>
@@ -333,14 +341,6 @@
             <pubDate>Thu, 17 Nov 2022 11:21:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-09-30</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/09/30/desk_20220930_201636_1_15_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한일 정상 만남, '약식회담', '간담' 맞는 용어는? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6410362_35744.html</link>
-            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6410362_35744.html</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-09-22</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/09/22/desk_20220922_201110_1_8_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헌재, 과거에도 '검찰 수사권은 헌법상 권한 아니다' 결정했다? (연합뉴스 ─ 팩트체크)]]></title>
