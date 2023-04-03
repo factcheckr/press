@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 02:32:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 05:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["거부권 행사하면 대통령 지지율 상승", 사실반 거짓반]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002915087</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002915087</guid>
+            <pubDate>Mon, 03 Apr 2023 05:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 역대 대통령 거부권 전후 여론조사 분석… 박근혜는 '반등'했지만 '하락' 사례도]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["노무현도 징용피해 보상금 대위 지급" 김기현 주장은 '거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002911911</link>
@@ -38,14 +45,6 @@
             <pubDate>Thu, 09 Mar 2023 08:33:40 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 민법에는 '제3자 변제 거부권' 명시... '채권자 의사표시' 해석은 엇갈려]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/030911554518.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA["정부가 노조 회계장부 볼 근거 없다" 우원식 발언은 '사실']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002905012</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002905012</guid>
-            <pubDate>Tue, 07 Mar 2023 03:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] '노조 장부 검사' 1997년 폐지... 대법도 조합원 열람권만 인정, 외부공개 의무 없어]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/022421195642.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
