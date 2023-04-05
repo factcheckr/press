@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 11:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 14:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[쌀 소비 촉진 대책, 효과 있나? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6471169_36199.html</link>
+            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6471169_36199.html</guid>
+            <pubDate>Wed, 05 Apr 2023 14:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2023-04-05</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/04/05/desk_20230405_200830_1_12_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[후쿠시마산 수산물, 국내로 결코 못들어온다? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6470392_36199.html</link>
             <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6470392_36199.html</guid>
@@ -333,14 +341,6 @@
             <pubDate>Thu, 17 Nov 2022 11:21:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-10-07</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/10/07/desk_20221007_202125_1_15_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령 앞에서 문제제기?‥성평등 지표 어떻길래 (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6412986_35744.html</link>
-            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6412986_35744.html</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-09-30</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/09/30/desk_20220930_201636_1_15_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헌재, 과거에도 '검찰 수사권은 헌법상 권한 아니다' 결정했다? (연합뉴스 ─ 팩트체크)]]></title>
