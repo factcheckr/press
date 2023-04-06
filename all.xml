@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 20:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 21:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/10/07/desk_20221007_202125_1_15_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후쿠시마 오염수 방류, 국제적·과학적으로 문제없다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230406048900518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230406048900518?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 06 Apr 2023 21:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[구로다 산케이신문 객원논설위원 "오염수 방류, 국제사회는 과학적으로 문제없다는 방향"
+해외 과학자들 "일본 측 데이터 신뢰할 수 없어…잠재적...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/cms/2020/10/23/62/PCM20201023000162990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[헌재, 과거에도 '검찰 수사권은 헌법상 권한 아니다' 결정했다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20230328151400502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20230328151400502?section=theme-list/factcheck</guid>
@@ -559,15 +568,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <content:encoded><![CDATA[문희상 전 국회의장 "대통령 중 이렇게 야당과 대화 안하는 대통령 처음 봐"
 대통령실, 야당과 회동 추진·이재명 대표는 수차례 영수회담 제안...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/photo/cms/2022/08/30/46/PCM20220830000146990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[115석 불과한 국민의힘…헌정사상 최악의 '여소야대' 국면이다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230113107000502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230113107000502?section=theme-list/factcheck</guid>
-            <pubDate>Sat, 14 Jan 2023 02:39:10 GMT</pubDate>
-            <content:encoded><![CDATA[안철수 의원 "현재 여소야대, 사상 최악…내년 총선서 지면 아무것도 못 해"
-현 여당 의석 비율, 38.5%로 노무현 전 대통령 취임 때 3...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2023/01/13/PYH2023011305980001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
