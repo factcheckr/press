@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 02:35:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 06:29:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민주당 양곡관리법 개정 입장, 여당일때 야당일때 달랐나?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230411086700518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230411086700518?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 11 Apr 2023 06:28:35 GMT</pubDate>
+            <content:encoded><![CDATA[민주당, 2020년 개정 때 시장격리 의무화 주장…작년에도 의무화 법제화 주도
+주무부서 농식품부는 문재인·윤석열 정부서 모두 의무화에 반대 ...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2023/04/04/PYH2023040412410001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[후쿠시마 오염수 방류, 국제적·과학적으로 문제없다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230406048900518?section=theme-list/factcheck</link>
@@ -224,15 +233,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <content:encoded><![CDATA[농식품 장관 "남는 쌀 의무매입하면 쌀값 외려 하락해 농민에 도움 안 돼"
 국책연구기관은 "의무매입 땐 정책개입 없을 때보다 쌀값 13.8%...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2022/09/26/PYH2022092607620006200_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령이 제1야당 대표와 이렇게 오래 안 만난 것은 처음이다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230113052300502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230113052300502?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 16 Jan 2023 23:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[문희상 전 국회의장 "대통령 중 이렇게 야당과 대화 안하는 대통령 처음 봐"
-대통령실, 야당과 회동 추진·이재명 대표는 수차례 영수회담 제안...]]></content:encoded>
-            <enclosure url="https://img9.yna.co.kr/photo/cms/2022/08/30/46/PCM20220830000146990_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
