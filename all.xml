@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 21:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 01:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/10/07/desk_20221007_202125_1_15_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[학폭 피해자가 원치 않으면 부모가 고소 못한다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230412028900518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230412028900518?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 12 Apr 2023 01:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[형소법에 '법정대리인의 고소권' 규정…대법원 판례 "피해자 반대해도 행사 가능"
+경찰청 "피해학생·부모 모두 고소 가능…매뉴얼상 학생 의견 ...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/photo/cms/2023/04/12/69/PCM20230412000069990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[민주당 양곡관리법 개정 입장, 여당일때 야당일때 달랐나? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20230411086700518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20230411086700518?section=theme-list/factcheck</guid>
@@ -559,15 +568,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <content:encoded><![CDATA[해외서 대중화한 'BNPL', 국내선 네이버·카카오가 월 15만∼30만원 규모로 제공
 업체들, '대안신용평가' 거쳐 신용도 낮은 프리랜서·주...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2023/01/20/AKR20230120097100502_03_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남는 쌀 정부 매입 의무화하면 쌀값 떨어진다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230119147100502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230119147100502?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 20 Jan 2023 11:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[농식품 장관 "남는 쌀 의무매입하면 쌀값 외려 하락해 농민에 도움 안 돼"
-국책연구기관은 "의무매입 땐 정책개입 없을 때보다 쌀값 13.8%...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2022/09/26/PYH2022092607620006200_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
