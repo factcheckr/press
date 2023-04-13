@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 10:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 11:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,6 +42,15 @@
             <content:encoded><![CDATA[민주당 박주민 의원 "헌재, 이미 네 번이나 '수사권은 국회서 정하는 것' 판단"
 법무부가 검찰의 수사권 근거로 지목한 '검사의 영장신청권'...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2023/03/23/PYH2023032304530001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[튀르키예 교과서에 "한국은 형제국가"라고 쓰여 있다?(종합)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230306034651502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230306034651502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 13 Apr 2023 11:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2002 월드컵 거치면서 국내서 '튀르키예=형제국' 인식 본격화
+튀르키예선 한국전 파병으로 형제국 싹터…'일본 속국→콘텐츠 강국' 인식 변화...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2023/03/06/AKR20230306034651502_14_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타워크레인 조종사, 강풍 불 때 임의로 조종석 벗어나면 위법?]]></title>
@@ -224,15 +233,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <content:encoded><![CDATA[이재명 대표 "무혐의 처분된 사건"…한동훈 장관은 "한번도 무혐의 처분된 적 없어"
 경찰 불송치 권한, 검·경 수사권 조정의 산물…'1차적 ...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2023/01/10/PYH2023011008960001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후불결제 서비스는 연체해도 신용점수 안 떨어진다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230120097100502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230120097100502?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 23 Jan 2023 01:31:10 GMT</pubDate>
-            <content:encoded><![CDATA[해외서 대중화한 'BNPL', 국내선 네이버·카카오가 월 15만∼30만원 규모로 제공
-업체들, '대안신용평가' 거쳐 신용도 낮은 프리랜서·주...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2023/01/20/AKR20230120097100502_03_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
