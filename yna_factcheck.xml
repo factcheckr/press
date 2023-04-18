@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 22:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 04:26:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이한열·박종철 열사는 현행법상 국가유공자가 아니다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230418045100518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230418045100518?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 18 Apr 2023 04:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[현행법상 민주유공자는 4·19와 5·18만 인정…나머지는 '민주화운동 관련자'
+이한열·박종철 열사 유공자로 인정하는 '민주유공자법', 20년...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2020/06/10/PYH2020061003230005400_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[학폭 피해자가 원치 않으면 부모가 고소 못한다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230412028900518?section=theme-list/factcheck</link>
@@ -220,15 +229,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <title><![CDATA[경찰이 '성남FC 후원금 의혹' 불송치한 것은 무혐의 처분이다?(종합)]]></title>
             <link>https://www.yna.co.kr/view/AKR20230125124051502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20230125124051502?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 27 Jan 2023 02:49:07 GMT</pubDate>
-            <content:encoded><![CDATA[이재명 대표 "무혐의 처분된 사건"…한동훈 장관은 "한번도 무혐의 처분된 적 없어"
-경찰 불송치 권한, 검·경 수사권 조정의 산물…'1차적 ...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2023/01/10/PYH2023011008960001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰이 '성남FC 후원금 의혹' 불송치한 것은 무혐의 처분이다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230125124000502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230125124000502?section=theme-list/factcheck</guid>
             <pubDate>Fri, 27 Jan 2023 02:49:07 GMT</pubDate>
             <content:encoded><![CDATA[이재명 대표 "무혐의 처분된 사건"…한동훈 장관은 "한번도 무혐의 처분된 적 없어"
 경찰 불송치 권한, 검·경 수사권 조정의 산물…'1차적 ...]]></content:encoded>
