@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 11:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 12:35:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[활주로에서 고추 말린 지방공항‥사실일까?]]></title>
+            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6476483_36199.html</link>
+            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6476483_36199.html</guid>
+            <pubDate>Fri, 21 Apr 2023 12:34:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2023-04-21</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/04/21/desk_20230421_201337_1_12_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세월호 피해자 의료지원 연장은 혈세낭비?]]></title>
             <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6474206_36199.html</link>
@@ -115,14 +123,6 @@
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6421834_29123.html</guid>
             <pubDate>Thu, 17 Nov 2022 11:21:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-10-29</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[새 대통령 관저, 촬영하면 처벌?]]></title>
-            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6420938_35744.html</link>
-            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6420938_35744.html</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-10-26</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/10/26/desk_20221026_202352_1_16_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
