@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 06:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 07:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -720,6 +720,13 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/28/l_2020102801002965700246281.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["윤 대통령은 '순방 효과' 없었다" 보도 '대체로 사실' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002921624</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002921624</guid>
+            <pubDate>Mon, 24 Apr 2023 07:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 역대 대통령 취임 첫 해 외국순방 전후 지지도 비교... 윤석열, 지지율 상승 사례 없어]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["4.3은 격 낮아 대통령 참석 의무 없다" 김재원 발언 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002916470</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002916470</guid>
@@ -749,14 +756,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <pubDate>Thu, 16 Mar 2023 01:38:46 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 전경련은 '주69시간' 빼고 조사... 포함하니 20·30대 60% 이상 '반대' 조사도]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2022/061711024054.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["한국·호주전 기미가요는 개최국 재량?" WBC의 '이상한 관행' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002908654</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002908654</guid>
-            <pubDate>Thu, 09 Mar 2023 10:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 2009년 한일 결승전·예선전 때 '개최국' 미국국가 연주돼... "미국 중심사고" 비판도]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/030918135026.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
