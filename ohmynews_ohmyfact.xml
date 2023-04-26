@@ -4,9 +4,30 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 02:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 03:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["비례대표 많을수록 여성·청년 의원도 많다" '대체로 사실']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002920878</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002920878</guid>
+            <pubDate>Wed, 26 Apr 2023 03:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[[대한민국 국회의원 팩트체크③] 비례성과 다양성 상관관계... 한국은 OECD 최하위권]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["원내 정당 많으면 정치 불안정" '대체로 거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002920539</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002920539</guid>
+            <pubDate>Wed, 26 Apr 2023 03:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[[대한민국 국회의원 팩트체크②] 민주주의 지수 높은 국가, 원내 정당 수 많아]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["한국 국회의원 100명이면 충분" '대체로 거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002918757</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002918757</guid>
+            <pubDate>Wed, 26 Apr 2023 03:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[[대한민국 국회의원 팩트체크①] OECD 평균 맞추면 600명대..."한국 보수 세계적으로 과도" 대체로 사실]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["윤 대통령은 '순방 효과' 없었다" 보도 '대체로 사실']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002921624</link>
@@ -21,29 +42,6 @@
             <pubDate>Thu, 06 Apr 2023 03:20:24 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 국경일·기념일 모두 '참석 의무' 없어... 5.18, 6.10 대통령 참석률 '진보'가 높아]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/040519232832.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["거부권 행사하면 대통령 지지율 상승", 사실반 거짓반]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002915087</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002915087</guid>
-            <pubDate>Mon, 03 Apr 2023 05:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 역대 대통령 거부권 전후 여론조사 분석… 박근혜는 '반등'했지만 '하락' 사례도]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["노무현도 징용피해 보상금 대위 지급" 김기현 주장은 '거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002911911</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002911911</guid>
-            <pubDate>Tue, 21 Mar 2023 12:37:55 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 2007년 '도의적 차원' 위로금 지원... 법학자 "일본기업 대신 배상한 것 아냐"]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/062117061467.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA["MZ세대는 주69시간 선호" 국힘 주장은 '대체로 거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002910341</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002910341</guid>
-            <pubDate>Thu, 16 Mar 2023 01:38:46 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 전경련은 '주69시간' 빼고 조사... 포함하니 20·30대 60% 이상 '반대' 조사도]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2022/061711024054.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
