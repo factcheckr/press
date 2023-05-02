@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 20:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 22:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리나라 판결문 공개 비율은 0.3%에 불과하다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230502081400518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230502081400518?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 02 May 2023 22:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[2019년부터 민형사·행정 확정 판결문 대부분 공개…전체 판결의 30%
+검색 제한 등 접근성은 떨어져…기계 판독 안돼 AI 인프라 구축 제약...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/cms/2016/10/31/01/C0A8CA3C000001581ADB56D8000015B0_P2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[4대강 사업 과거 정부서 어떤 평가를 받았나]]></title>
             <link>https://www.yna.co.kr/view/AKR20230428163800518?section=theme-list/factcheck</link>
@@ -223,15 +232,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <content:encoded><![CDATA[여가부, 도입 시사했다가 법무부 반대하자 철회…'동의 여부 어떻게 확인하나'가 쟁점
 현행 형법은 '폭행·협박' 없으면 강간 인정 안해…해외선...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/photo/cms/2019/02/11/35/PCM20190211000035990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일회용 마스크 착용하면 미세플라스틱 때문에 폐가 손상된다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230131100500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230131100500502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 01 Feb 2023 01:47:36 GMT</pubDate>
-            <content:encoded><![CDATA['마스크 원료가 성분인 미세플라스틱 마시면 폐 손상' 연구 결과에 사람들 불안감
-연구진 "마스크가 미세플라스틱 되려면 최대 수십년…일상적 착...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2023/01/31/AKR20230131100500502_04_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
