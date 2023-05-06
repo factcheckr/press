@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 21:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 23:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <content:encoded><![CDATA[<span>2022-10-29</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[가루쌀은 겉은 쌀인데 밀과 똑같다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230506039000518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230506039000518?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 06 May 2023 23:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[전분 구조가 밀과 유사해 제분에 적합…가격은 비싸고 글루텐 없어
+정부, 2026년까지 생산량 420배 늘려 수입 밀가루 10% 대체 목표
+"...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/etc/inner/KR/2023/05/06/AKR20230506039000518_02_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리나라 판결문 공개 비율은 0.3%에 불과하다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20230502081400518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20230502081400518?section=theme-list/factcheck</guid>
@@ -558,15 +568,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <content:encoded><![CDATA[무임승차 근거 법조항 놓고 정부 "서울시에 할인 결정권 있어" vs 서울시 "사실상 강제규정"
 '표 잃을라' 정치적 계산도 제도 방치에 한몫...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2023/02/06/AKR20230206131500502_02_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비동의 강간죄 도입되면 '동의 없었다' 피해자 진술만으로 유죄? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230206026800502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230206026800502?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 06 Feb 2023 06:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[여가부, 도입 시사했다가 법무부 반대하자 철회…'동의 여부 어떻게 확인하나'가 쟁점
-현행 형법은 '폭행·협박' 없으면 강간 인정 안해…해외선...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/photo/cms/2019/02/11/35/PCM20190211000035990_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
