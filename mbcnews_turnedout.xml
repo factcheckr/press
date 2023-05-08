@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 11:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 12:35:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[의사면허 취소법은 의사 압박용이다?]]></title>
+            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6481629_36199.html</link>
+            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6481629_36199.html</guid>
+            <pubDate>Mon, 08 May 2023 12:34:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2023-05-08</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/05/08/desk_20230508_202021_1_15_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[활주로에서 고추 말린 지방공항‥사실일까?]]></title>
             <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6476483_36199.html</link>
@@ -116,13 +124,6 @@
             <pubDate>Thu, 17 Nov 2022 11:21:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-11-01</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/11/01/desk_20221101_204000_1_21_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남산 촬영 명소인데‥대통령 관저 찍으면 처벌?]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6421834_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6421834_29123.html</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-10-29</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
