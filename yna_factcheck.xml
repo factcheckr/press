@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 23:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 01:25:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['간호법 제정'이 尹대통령 대선공약?…진실 공방]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230509040800518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230509040800518?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 09 May 2023 01:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[간호법 가결 주도 민주당 대선공약 주장…국민의힘은 '가짜뉴스'라고 반박
+대선 당시 정책공약집엔 없어…윤 대통령 "입법화 노력하겠다"고 말...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/mpic/2023/05/09/MCM20230509000006023_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가루쌀은 겉은 쌀인데 밀과 똑같다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230506039000518?section=theme-list/factcheck</link>
@@ -224,15 +233,6 @@
             <content:encoded><![CDATA[이상돈 교수 "유례없이 세금으로 선거·정당운영 지원"…조경태 의원 "국고보조금 폐지해야"
 OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/photo/cms/2020/10/28/81/PCM20201028000181990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지하철 노인 무임승차 비용부담, 정부 책임이냐 지자체 책임이냐]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230206131500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230206131500502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 07 Feb 2023 01:35:35 GMT</pubDate>
-            <content:encoded><![CDATA[무임승차 근거 법조항 놓고 정부 "서울시에 할인 결정권 있어" vs 서울시 "사실상 강제규정"
-'표 잃을라' 정치적 계산도 제도 방치에 한몫...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2023/02/06/AKR20230206131500502_02_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
