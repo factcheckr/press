@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 05:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 06:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -721,6 +721,14 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/28/l_2020102801002965700246281.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["문 정부 임대차3법, 전세 사기 원인" 국힘 주장 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002926675</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002926675</guid>
+            <pubDate>Fri, 12 May 2023 06:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 민간임대사업자 혜택-HUG 전세금 반환보증 제도가 직접적인 영향]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/120610245888.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["비례대표 많을수록 여성·청년 의원도 많다" '대체로 사실' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002920878</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002920878</guid>
@@ -747,14 +755,6 @@ OECD 37개 회원국 중 36개국이 정당 국고보조...]]></content:encoded>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002921624</guid>
             <pubDate>Mon, 24 Apr 2023 07:18:29 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 역대 대통령 취임 첫 해 외국순방 전후 지지도 비교... 윤석열, 지지율 상승 사례 없어]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["4.3은 격 낮아 대통령 참석 의무 없다" 김재원 발언 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002916470</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002916470</guid>
-            <pubDate>Thu, 06 Apr 2023 03:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 국경일·기념일 모두 '참석 의무' 없어... 5.18, 6.10 대통령 참석률 '진보'가 높아]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/040519232832.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
