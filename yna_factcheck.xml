@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 19:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 22:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[업무방해죄로 노조 처벌하는 나라는 한국과 일본뿐이다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230516028100518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230516028100518?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 16 May 2023 22:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[노동운동 탄압용 일본 형법 '업무방해죄' 본떠…파업권 제약 근거로 이용
+서구국가는 쟁위행위 자체로는 형사처벌 안해…ILO "결사의 자유 침해...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2023/05/11/PYH2023051118640006100_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[용산공원 시범개방 때 이용시간 제한한 적 없다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230515096800518?section=theme-list/factcheck</link>
@@ -224,15 +233,6 @@
             <content:encoded><![CDATA[법조계 "탄핵, 권력 가져 일반 사법절차로 책임묻기 힘든 고위공직자 견제장치"
 헌재, 과거 탄핵결정문서 "탄핵 사유, 형소법상 공소사실처럼 ...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/12/22/PYH2022122212220001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[챗GPT가 쓴 추리소설을 책으로 출판하면 저작권법 위반일까?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230210089700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230210089700502?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 13 Feb 2023 07:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[저작권법, '인간의 사상·감정' 다룬 것만 저작물로 봐…인간 아닌 AI는 저작권 인정 안돼
-앞으로 AI 저작권 인정 논쟁 거세질 듯…인정해도...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/etc/inner/KR/2023/02/10/AKR20230210089700502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
