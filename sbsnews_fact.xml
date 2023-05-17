@@ -4,9 +4,18 @@
         <title>SBS뉴스 ─ 사실은</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 10:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 11:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["매달 420만 원 받는 유공자"…5·18 소문의 진실 [사실은]]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007195584&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007195584&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Wed, 17 May 2023 11:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20230517/201785201_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사실은] "문 정부 때 이미 오염수 처리 장치 검증" 따져보니…]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007191478&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -48,7 +57,7 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007167822&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007167822&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Tue, 25 Apr 2023 08:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://img.sbs.co.kr/newimg/news/20230425/201777071_300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -59,7 +68,7 @@
             <pubDate>Mon, 24 Apr 2023 18:21:54 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20191209/201382244_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 후쿠시마산 일본 수입 멍게 국내 팔리고 있다?]]></title>
@@ -83,15 +92,6 @@
             <title><![CDATA[[사실은] 동해안의 지독한 봄철 산불…"피해 규모 13배"]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007151270&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007151270&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Mon, 24 Apr 2023 18:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
-									이경원 기자]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] "후쿠시마서 기준치 14배 우럭"…피폭량 얼마나?]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007148209&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007148209&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Mon, 24 Apr 2023 18:21:54 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>

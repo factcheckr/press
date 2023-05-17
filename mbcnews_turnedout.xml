@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 10:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 11:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전두환, 여러 차례 5·18 피해자 위로했다?]]></title>
+            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6484729_36199.html</link>
+            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6484729_36199.html</guid>
+            <pubDate>Wed, 17 May 2023 11:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2023-05-17</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/05/17/desk_20230517_195045_1_4_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[의사면허 취소법은 의사 압박용이다?]]></title>
             <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6481629_36199.html</link>
@@ -116,14 +124,6 @@
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6425566_29123.html</guid>
             <pubDate>Thu, 17 Nov 2022 11:21:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-11-10</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["경찰 미리 배치했어도 못 막았다"?‥과거 핼로윈 보니]]></title>
-            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6422891_35744.html</link>
-            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6422891_35744.html</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-11-01</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/11/01/desk_20221101_204000_1_21_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
