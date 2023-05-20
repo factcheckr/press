@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 01:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 03:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["진보가 가짜뉴스 더 믿는다" <중앙> 보도 '대체로 거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002929013</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002929013</guid>
+            <pubDate>Sat, 20 May 2023 03:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 문항에 사용한 뉴스별 신뢰도 편차 반영 안돼... 조사기관 "설계상 어려운 문제"]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["문 정부 임대차3법, 전세 사기 원인" 국힘 주장 '거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002926675</link>
@@ -35,13 +42,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002918757</guid>
             <pubDate>Wed, 26 Apr 2023 03:20:14 GMT</pubDate>
             <content:encoded><![CDATA[[대한민국 국회의원 팩트체크①] OECD 평균 맞추면 600명대..."한국 보수 세계적으로 과도" 대체로 사실]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["윤 대통령은 '순방 효과' 없었다" 보도 '대체로 사실']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002921624</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002921624</guid>
-            <pubDate>Mon, 24 Apr 2023 07:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 역대 대통령 취임 첫 해 외국순방 전후 지지도 비교... 윤석열, 지지율 상승 사례 없어]]></content:encoded>
         </item>
     </channel>
 </rss>
