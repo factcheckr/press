@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 21:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 03:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["월소득 1천만원 가구 학자금 무이자 대출" 보도는 '거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002929932</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002929932</guid>
+            <pubDate>Wed, 24 May 2023 03:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 부동산 등 재산 포함한 '소득인정액' 최댓값... 8구간 월 평균 소득은 530만  원]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["진보가 가짜뉴스 더 믿는다" <중앙> 보도 '대체로 거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002929013</link>
@@ -35,13 +42,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002920539</guid>
             <pubDate>Wed, 26 Apr 2023 03:20:14 GMT</pubDate>
             <content:encoded><![CDATA[[대한민국 국회의원 팩트체크②] 민주주의 지수 높은 국가, 원내 정당 수 많아]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["한국 국회의원 100명이면 충분" 검증해보니]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002918757</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002918757</guid>
-            <pubDate>Wed, 26 Apr 2023 03:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[[대한민국 국회의원 팩트체크①] OECD 평균 맞추면 600명대..."한국 보수 세계적으로 과도" 대체로 사실]]></content:encoded>
         </item>
     </channel>
 </rss>
