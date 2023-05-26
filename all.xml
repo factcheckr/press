@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 10:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 17:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -516,6 +516,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[노란봉투법이 불법행위에 면죄부? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6487842_36199.html</link>
+            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6487842_36199.html</guid>
+            <pubDate>Fri, 26 May 2023 17:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2023-05-26</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/05/26/desk_20230526_200919_1_13_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전두환, 여러 차례 5·18 피해자 위로했다? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6484729_36199.html</link>
             <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6484729_36199.html</guid>
@@ -625,13 +633,6 @@
             <pubDate>Fri, 02 Dec 2022 12:37:40 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-12-02</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/12/02/desk_20221202_195009_1_4_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상민 장관, 발언 잘못 왜 인정했을까 (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6425566_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6425566_29123.html</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-11-10</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[대통령이 거부한 간호법안 국회서 수정 재의결 가능할까 (연합뉴스 ─ 팩트체크)]]></title>
