@@ -4,9 +4,47 @@
         <title>SBS뉴스 ─ 사실은</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 01:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 04:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] 후쿠시마 방사능 측정값 사용 설명서]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007205514&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007205514&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Fri, 26 May 2023 04:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="/news/endPage.do?news_id=N1007205514&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20190926/201358454_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20190926/201358454.jpg'" alt="섬네일 이미지:[사실은] 후쿠시마 방사능 측정값 사용 설명서" class="mfn_img lazy" style="display: inline;">
+									
+								
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="/news/endPage.do?news_id=N1007205514&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>[사실은] 후쿠시마 방사능 측정값 사용 설명서</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2023.05.26<i class="ir i_time"></i>11:06</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20190926/201358454_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사실은] 오염수 보관 'K4 탱크' IAEA 평가는?]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007202827&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -205,7 +243,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="/news/endPage.do?news_id=N1007180548&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20230502/201779779_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230502/201779779.jpg'" alt="섬네일 이미지:[사실은] 윤 대통령 지지율 내렸다? 올랐다? 확인해보니…" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230502/201779779_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230502/201779779.jpg'" alt="섬네일 이미지:[사실은] 윤 대통령 지지율 내렸다? 올랐다? 확인해보니…" class="mfn_img lazy">
 									
 								
 							</span>
@@ -233,7 +271,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20230502/201779779_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 민형배 "탈당에 대한 헌재 판단 없었다", 따져 보니…]]></title>
@@ -334,44 +372,6 @@
 							<!-- 기사 정보 -->	
 							<span class="info">
 								<span class="date">2023.04.21<i class="ir i_time"></i>13:57</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 후쿠시마산 일본 수입 멍게 국내 팔리고 있다?]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007162360&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007162360&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Mon, 24 Apr 2023 18:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="/news/endPage.do?news_id=N1007162360&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230420/201775529_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230420/201775529.jpg'" alt="섬네일 이미지:[사실은] 후쿠시마산 일본 수입 멍게 국내 팔리고 있다?" class="mfn_img lazy">
-									
-								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="/news/endPage.do?news_id=N1007162360&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>[사실은] 후쿠시마산 일본 수입 멍게 국내 팔리고 있다?</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2023.04.20<i class="ir i_time"></i>21:17</span>
 							</span>
 						</p>
 						<!--// 텍스트 영역 -->
