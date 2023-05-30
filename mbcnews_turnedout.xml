@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 08:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 13:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[욱일기와 자위함기는 다르다?]]></title>
+            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6488816_36199.html</link>
+            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6488816_36199.html</guid>
+            <pubDate>Tue, 30 May 2023 13:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2023-05-30</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/05/30/desk_20230530_202254_1_18_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노란봉투법이 불법행위에 면죄부?]]></title>
             <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6487842_36199.html</link>
@@ -117,14 +125,6 @@
             <pubDate>Mon, 12 Dec 2022 13:31:53 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-12-12</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/12/12/desk_20221212_200529_1_10_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화물차 '안전운임제' 효과 있다? 없다? 따져보니]]></title>
-            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6432873_35744.html</link>
-            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6432873_35744.html</guid>
-            <pubDate>Fri, 02 Dec 2022 12:37:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-12-02</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/12/02/desk_20221202_195009_1_4_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
