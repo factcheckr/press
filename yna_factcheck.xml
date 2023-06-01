@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 23:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 14:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울시 자체로 경계경보 발령할 수 있나]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230601072800004?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230601072800004?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 01 Jun 2023 14:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[법규상 군 거쳐 지자체 발령…이번 북 발사체 경보는 군→행안부→서울시
+자치단체장, 군사적 긴급상황 임의 판단해 경보 발령 못해
+...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2023/05/31/PYH2023053100520001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[천문학적인 한전 적자 원인은…탈원전? 유가 급등?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230531089800518?section=theme-list/factcheck</link>
@@ -226,15 +236,6 @@
             <content:encoded><![CDATA[코로나19 거리두기로 개점휴업 겪은 목욕탕업계, 최근엔 '난방비 폭탄'에 타격
 목욕탕 2004년 9천970개로 정점 뒤 하락세…전통적 목욕탕...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2023/02/14/PYH2023021406470001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한 유튜버 동영상을 공유하면 국가보안법 위반이다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230220092700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230220092700502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 21 Feb 2023 06:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[평양 주민이 나와 영어로 北 일상생활·문화 소개하는 채널 등장
-보안 당국 "시청은 큰 문제 없지만 댓글·구독·공유·후원 등은 국보법 위반 소...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2023/02/20/AKR20230220092700502_02_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
