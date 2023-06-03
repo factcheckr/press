@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 13:28:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 16:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[외국인 노동자가 내국인 일자리를 빼앗고 있나 [팩트체크K] (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=7691013</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=7691013</guid>
+            <pubDate>Sat, 03 Jun 2023 16:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[① [팩트체크K]외국인 노동자가 내국인 일자리를 빼앗고 있나소위 ‘외국인 노동자가 내국인 ...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2023/06/02/316031685688155616.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[이슈체크K] 튀르키예 지진 기부 전 ‘이것’ 유의하세요 (KBS뉴스 ─ 팩트체크K)]]></title>
             <link>https://news.kbs.co.kr/news/view.do?ncd=7607434</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 16 Mar 2023 11:16:02 GMT</pubDate>
             <content:encoded><![CDATA["민주당이 단독 상정한 양곡관리법 개정안이 시행되면 (오히려) 벼 재배면적이 증...]]></content:encoded>
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/09/30/310691664526088306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이슈체크K] ‘스토킹 살인’ 전주환 전과, 채용 때 못 걸러낸 이유는? (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=5561757</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=5561757</guid>
-            <pubDate>Thu, 16 Mar 2023 11:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[김미애 국민의힘 의원:"(신당동 스토킹 살인사건 피의자가) 이미 범죄전력이 있었...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/09/22/310691663809960707.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사실은] '도쿄전력 자료'를 철저히 검증해야 하는 이유 (SBS뉴스 ─ 사실은)]]></title>
