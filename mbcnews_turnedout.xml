@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 10:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 12:42:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사회서비스 시장화하면 질 좋아진다?]]></title>
+            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6490705_36199.html</link>
+            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6490705_36199.html</guid>
+            <pubDate>Mon, 05 Jun 2023 12:41:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2023-06-05</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/06/05/desk_20230605_201654_1_14_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[욱일기와 자위함기는 다르다?]]></title>
             <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6488816_36199.html</link>
@@ -117,14 +125,6 @@
             <pubDate>Wed, 04 Jan 2023 12:35:45 GMT</pubDate>
             <content:encoded><![CDATA[<span>2023-01-04</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/01/04/desk_20230104_201827_1_16_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유족 지원에 시민단체는 안돼?]]></title>
-            <link>https://imnews.imbc.com/replay/2022/nwdesk/article/6435605_35744.html</link>
-            <guid>https://imnews.imbc.com/replay/2022/nwdesk/article/6435605_35744.html</guid>
-            <pubDate>Mon, 12 Dec 2022 13:31:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-12-12</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/12/12/desk_20221212_200529_1_10_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
