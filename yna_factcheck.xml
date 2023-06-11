@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Jun 2023 13:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 06:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['후쿠시마 원전사고' 넷플릭스 드라마 한국 공개 일부러 늦췄다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230610042800518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230610042800518?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 11 Jun 2023 06:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 공개일 넘기면서 일부 네티즌 '정치적 압력 의혹' 제기
+넷플릭스 "이달 자체등급분류 시행으로 작품 공개 지연…빠른 시일내 공개"
+(서울=연합뉴스) 이웅 기자 = 후쿠시마 ...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2023/06/10/AKR20230610042800518_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공공임대주택 늘리면 출생률도 오를까?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230601039100518?section=theme-list/factcheck</link>
@@ -247,16 +257,6 @@
 튀르키예선 한국전 파병으로 형제국 싹터…'일본 속국→콘텐츠 강국' 인식 변화
 주튀르키예 한국문화원 "중·고교 교과서 8권 ...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2023/03/06/AKR20230306034600502_14_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의사-간호사 다투는 '간호법', 다른 나라도 많이 제정한 법이다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230222145100502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230222145100502?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 24 Feb 2023 02:54:48 GMT</pubDate>
-            <content:encoded><![CDATA[의협 "OECD 11개 회원국만 간호법 보유"-간협 "33개국서 법 제정" 맞서
-분석 결과 양 단체가 쓴 분류기준 달라…통상 보유국으로 보는 美·英도 의협은 제외
-학계선 간호법 입법, 세...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2023/02/13/PYH2023021301800001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
