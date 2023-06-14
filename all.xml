@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 06:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 13:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,44 @@
             <pubDate>Thu, 16 Mar 2023 11:16:02 GMT</pubDate>
             <content:encoded><![CDATA["문 전 대통령 재임 시절 전직 대통령 예우보조금이 2억 6,000만 원에서 2...]]></content:encoded>
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/11/14/310691668413562852.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 소금값 급등…후쿠시마 오염수발 사재기 때문? (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007229256&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007229256&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Wed, 14 Jun 2023 13:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="/news/endPage.do?news_id=N1007229256&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20230614/201795753_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230614/201795753.jpg'" alt="섬네일 이미지:[사실은] 소금값 급등…후쿠시마 오염수발 사재기 때문?" class="mfn_img lazy" style="display: inline;">
+									
+								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="/news/endPage.do?news_id=N1007229256&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>[사실은] 소금값 급등…후쿠시마 오염수발 사재기 때문?</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2023.06.14<i class="ir i_time"></i>20:41</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20230614/201795753_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사실은] "文 정부도" "다른 나라도"…삼중수소 논란의 모든 것 (SBS뉴스 ─ 사실은)]]></title>
@@ -333,7 +371,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="/news/endPage.do?news_id=N1007195584&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20230517/201785201_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230517/201785201.jpg'" alt="섬네일 이미지:[사실은] &quot;매달 420만 원 받는 유공자?&quot; 5·18 소문의 진실" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230517/201785201_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230517/201785201.jpg'" alt="섬네일 이미지:[사실은] &quot;매달 420만 원 받는 유공자?&quot; 5·18 소문의 진실" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -361,7 +399,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20230517/201785201_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] "문 정부 때 이미 오염수 처리 장치 검증" 따져보니… (SBS뉴스 ─ 사실은)]]></title>
@@ -462,44 +500,6 @@
 							<!-- 기사 정보 -->	
 							<span class="info">
 								<span class="date">2023.05.05<i class="ir i_time"></i>13:55</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 민형배 "탈당에 대한 헌재 판단 없었다", 따져 보니… (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007174716&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007174716&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Tue, 02 May 2023 01:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="/news/endPage.do?news_id=N1007174716&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230426/201777687_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230426/201777687.jpg'" alt="섬네일 이미지:[사실은] 민형배 &quot;탈당에 대한 헌재 판단 없었다&quot;, 따져 보니…" class="mfn_img lazy">
-									
-								
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="/news/endPage.do?news_id=N1007174716&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>[사실은] 민형배 "탈당에 대한 헌재 판단 없었다", 따져 보니…</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2023.05.02<i class="ir i_time"></i>09:12</span>
 							</span>
 						</p>
 						<!--// 텍스트 영역 -->
