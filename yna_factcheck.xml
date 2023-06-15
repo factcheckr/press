@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 19:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 05:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민사소송 중 개인정보 노출 막을 방법이 없다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230614115200518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230614115200518?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 15 Jun 2023 05:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[소장 신청부터 주소·주민번호 노출…"민사 절차상 개인정보 보호조치 규정 없어"
+범죄피해자들 보복 두려움에 민사소송 포기…형사 배상명령 제도도 사실상 무력
+소송 중 피해자 신원보호 민사소송...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/cms/2016/04/17/01/C0A8CA3D0000015423ED9481000A6AF0_P2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA['후쿠시마 원전사고' 넷플릭스 드라마 한국 공개 일부러 늦췄다?(종합)]]></title>
             <link>https://www.yna.co.kr/view/AKR20230610042851518?section=theme-list/factcheck</link>
@@ -247,16 +257,6 @@
 대법원, 2012년 판결서 "'강제징용=합법'이란 일본 법원 판단은 우리 헌법과 정면충돌"
 당시 대법관 ...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/etc/inner/KR/2023/03/14/AKR20230314029000502_02_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 최초로 동성결혼 합법화한 나라는 네덜란드다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230306109300502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230306109300502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 07 Mar 2023 01:47:50 GMT</pubDate>
-            <content:encoded><![CDATA[네덜란드, 2001년 전 세계서 처음으로 동성결혼을 이성결혼과 똑같이 인정
-덴마크는 1989년 동성부부에 이성부부와 비슷한 권리 주는 동반자관계 등록제 시행
-미국·프랑스·영국·독일·캐나다...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2023/02/21/PYH2023022111880001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
