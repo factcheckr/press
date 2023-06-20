@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 02:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 01:34:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1036,6 +1036,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/28/l_2020102801002965700246281.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["대구퀴어축제, 도로점용허가 받아야" 홍준표 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002937921</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002937921</guid>
+            <pubDate>Tue, 20 Jun 2023 01:34:08 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 헌법은 '집회 허가제' 금지... "집시법에 도로점용허가 규정 없어" 판례도]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/111916364680.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["장애인 집회 참여가 일자리 예산 전용" 하태경 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002934899</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002934899</guid>
@@ -1063,14 +1071,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002929013</guid>
             <pubDate>Sat, 20 May 2023 03:23:52 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 문항에 사용한 뉴스별 신뢰도 편차 반영 안돼... 조사기관 "설계상 어려운 문제"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["문 정부 임대차3법, 전세 사기 원인" 국힘 주장 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002926675</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002926675</guid>
-            <pubDate>Fri, 12 May 2023 06:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 민간임대사업자 혜택-HUG 전세금 반환보증 제도가 직접적인 영향]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/120610245888.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
