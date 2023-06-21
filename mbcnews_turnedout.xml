@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 07:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 12:35:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[건강보험, 외국인에게 줄줄 샌다?]]></title>
+            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6495841_36199.html</link>
+            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6495841_36199.html</guid>
+            <pubDate>Wed, 21 Jun 2023 12:34:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2023-06-21</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/06/21/desk_20230621_195440_1_6_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[처리된 오염수, 음용수 기준에 맞다?]]></title>
             <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6494328_36199.html</link>
@@ -117,14 +125,6 @@
             <pubDate>Fri, 27 Jan 2023 12:34:50 GMT</pubDate>
             <content:encoded><![CDATA[<span>2023-01-27</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/01/27/desk_20230127_200540_1_11_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연봉 3억 6천에도 지원자 0명‥지역 공공의료 해법은?]]></title>
-            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6446919_36199.html</link>
-            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6446919_36199.html</guid>
-            <pubDate>Wed, 18 Jan 2023 14:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2023-01-18</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/01/18/desk_20230118_201311_1_13_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
