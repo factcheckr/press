@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 12:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 19:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,82 @@
             <pubDate>Thu, 16 Mar 2023 11:16:02 GMT</pubDate>
             <content:encoded><![CDATA[내년 6월부터 민법과 행정 분야에서 나이를 따질 때 '만 나이'로 통일됩니다. 계산하는 방...]]></content:encoded>
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/12/08/310691670467086379.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 불수능일수록 사교육 몰린다?…관련성 따져보니 (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007239664&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007239664&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 22 Jun 2023 19:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="/news/endPage.do?news_id=N1007239664&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20230622/201798938_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230622/201798938.jpg'" alt="섬네일 이미지:[사실은] 불수능일수록 사교육 몰린다?…관련성 따져보니" class="mfn_img lazy" style="display: inline;">
+									
+								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="/news/endPage.do?news_id=N1007239664&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>[사실은] 불수능일수록 사교육 몰린다?…관련성 따져보니</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2023.06.22<i class="ir i_time"></i>20:27</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20230622/201798938_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 수능 난이도와 사교육비 증가율 상관 관계는? (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007239399&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007239399&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 22 Jun 2023 19:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="/news/endPage.do?news_id=N1007239399&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20230620/201797606_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230620/201797606.jpg'" alt="섬네일 이미지:[사실은] 수능 난이도와 사교육비 증가율 상관 관계는?" class="mfn_img lazy" style="display: inline;">
+									
+								
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="/news/endPage.do?news_id=N1007239399&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>[사실은] 수능 난이도와 사교육비 증가율 상관 관계는?</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2023.06.22<i class="ir i_time"></i>18:00</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20230620/201797606_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 소금값 급등…후쿠시마 오염수발 사재기 때문? (SBS뉴스 ─ 사실은)]]></title>
@@ -295,7 +371,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="/news/endPage.do?news_id=N1007202827&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20230523/201787514_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230523/201787514.jpg'" alt="섬네일 이미지:[사실은] 오염수 보관 'K4 탱크' IAEA 평가는?" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230523/201787514_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230523/201787514.jpg'" alt="섬네일 이미지:[사실은] 오염수 보관 'K4 탱크' IAEA 평가는?" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -323,7 +399,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20230523/201787514_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 오염수? 처리수? 다른 나라는 어떻게 부를까 (SBS뉴스 ─ 사실은)]]></title>
@@ -333,7 +409,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="/news/endPage.do?news_id=N1007195758&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20230512/201783628_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230512/201783628.jpg'" alt="섬네일 이미지:[사실은] 오염수? 처리수? 다른 나라는 어떻게 부를까" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230512/201783628_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230512/201783628.jpg'" alt="섬네일 이미지:[사실은] 오염수? 처리수? 다른 나라는 어떻게 부를까" class="mfn_img lazy">
 									
 								
 							</span>
@@ -361,7 +437,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20230512/201783628_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] "매달 420만 원 받는 유공자?" 5·18 소문의 진실 (SBS뉴스 ─ 사실은)]]></title>
@@ -424,82 +500,6 @@
 							<!-- 기사 정보 -->	
 							<span class="info">
 								<span class="date">2023.05.15<i class="ir i_time"></i>12:22</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 많아졌다는 '검사 출신' · '서오남'…지금은 얼마나? (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007186731&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007186731&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Wed, 10 May 2023 12:33:12 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="/news/endPage.do?news_id=N1007186731&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230510/201782637_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230510/201782637.jpg'" alt="섬네일 이미지:[사실은] 많아졌다는 '검사 출신' · '서오남'…지금은 얼마나?" class="mfn_img lazy">
-									
-								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="/news/endPage.do?news_id=N1007186731&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>[사실은] 많아졌다는 '검사 출신' · '서오남'…지금은 얼마나?</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2023.05.10<i class="ir i_time"></i>20:33</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 윤 대통령 지지율 내렸다? 올랐다? 확인해보니… (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007180548&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007180548&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Fri, 05 May 2023 08:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="/news/endPage.do?news_id=N1007180548&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230502/201779779_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230502/201779779.jpg'" alt="섬네일 이미지:[사실은] 윤 대통령 지지율 내렸다? 올랐다? 확인해보니…" class="mfn_img lazy">
-									
-								
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="/news/endPage.do?news_id=N1007180548&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>[사실은] 윤 대통령 지지율 내렸다? 올랐다? 확인해보니…</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2023.05.05<i class="ir i_time"></i>13:55</span>
 							</span>
 						</p>
 						<!--// 텍스트 영역 -->
@@ -1036,6 +1036,13 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/28/l_2020102801002965700246281.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["이재명이 꺼낸 '핵폐수'가 중국계 용어?" <중앙> 보도 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002938722</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002938722</guid>
+            <pubDate>Thu, 22 Jun 2023 19:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 국내 원자력학계 기피 단어지만 중국뿐 아니라 한국, 일본 학자도 사용]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["대구퀴어축제, 도로점용허가 받아야" 홍준표 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002937921</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002937921</guid>
@@ -1064,13 +1071,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002929932</guid>
             <pubDate>Wed, 24 May 2023 03:22:14 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 부동산 등 재산 포함한 '소득인정액' 최댓값... 8구간 월 평균 소득은 530만  원]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["진보가 가짜뉴스 더 믿는다" <중앙> 보도 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002929013</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002929013</guid>
-            <pubDate>Sat, 20 May 2023 03:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 문항에 사용한 뉴스별 신뢰도 편차 반영 안돼... 조사기관 "설계상 어려운 문제"]]></content:encoded>
         </item>
     </channel>
 </rss>
