@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Jun 2023 15:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 05:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,44 @@
             <pubDate>Thu, 16 Mar 2023 11:16:02 GMT</pubDate>
             <content:encoded><![CDATA[내년 6월부터 민법과 행정 분야에서 나이를 따질 때 '만 나이'로 통일됩니다. 계산하는 방...]]></content:encoded>
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/12/08/310691670467086379.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 한덕수 "바다 방사능, 후쿠시마 사고 전과 동일" 따져 보니 (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007240822&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007240822&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Sun, 25 Jun 2023 05:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="/news/endPage.do?news_id=N1007240822&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20230530/201789800_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230530/201789800.jpg'" alt="섬네일 이미지:[사실은] 한덕수 &quot;바다 방사능, 후쿠시마 사고 전과 동일&quot; 따져 보니" class="mfn_img lazy" style="display: inline;">
+									
+								
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="/news/endPage.do?news_id=N1007240822&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>[사실은] 한덕수 "바다 방사능, 후쿠시마 사고 전과 동일" 따져 보니</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2023.06.25<i class="ir i_time"></i>09:00</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20230530/201789800_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 불수능일수록 사교육 몰린다?…관련성 따져보니 (SBS뉴스 ─ 사실은)]]></title>
@@ -333,7 +371,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="/news/endPage.do?news_id=N1007205514&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20190926/201358454_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20190926/201358454.jpg'" alt="섬네일 이미지:[사실은] 후쿠시마 방사능 측정값 사용 설명서" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20190926/201358454_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20190926/201358454.jpg'" alt="섬네일 이미지:[사실은] 후쿠시마 방사능 측정값 사용 설명서" class="mfn_img lazy">
 									
 								
 							</span>
@@ -361,7 +399,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20190926/201358454_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 오염수 보관 'K4 탱크' IAEA 평가는? (SBS뉴스 ─ 사실은)]]></title>
@@ -462,44 +500,6 @@
 							<!-- 기사 정보 -->	
 							<span class="info">
 								<span class="date">2023.05.17<i class="ir i_time"></i>20:13</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] "문 정부 때 이미 오염수 처리 장치 검증" 따져보니… (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007191478&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007191478&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Mon, 15 May 2023 06:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="/news/endPage.do?news_id=N1007191478&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230511/201782988_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230511/201782988.jpg'" alt="섬네일 이미지:[사실은] &quot;문 정부 때 이미 오염수 처리 장치 검증&quot; 따져보니…" class="mfn_img lazy">
-									
-								
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="/news/endPage.do?news_id=N1007191478&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>[사실은] "문 정부 때 이미 오염수 처리 장치 검증" 따져보니…</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2023.05.15<i class="ir i_time"></i>12:22</span>
 							</span>
 						</p>
 						<!--// 텍스트 영역 -->
@@ -1036,6 +1036,13 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/28/l_2020102801002965700246281.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["모기는 세상에 불필요한 생명체" 주장 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002939361</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002939361</guid>
+            <pubDate>Sun, 25 Jun 2023 05:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 카카오 꽃가루 옮기고 의학 연구 활용... 모기 박멸시 수중 생태계에 악영향]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["이재명이 꺼낸 '핵폐수'가 중국계 용어?" <중앙> 보도 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002938722</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002938722</guid>
@@ -1064,13 +1071,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002932385</guid>
             <pubDate>Thu, 01 Jun 2023 14:22:19 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 영어 설정 아이폰 '긴급재난문자', '대통령 경보'로 표기... 미국 경보체계와 혼동]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["월소득 1천만원 가구 학자금 무이자 대출" 보도는 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002929932</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002929932</guid>
-            <pubDate>Wed, 24 May 2023 03:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 부동산 등 재산 포함한 '소득인정액' 최댓값... 8구간 월 평균 소득은 530만  원]]></content:encoded>
         </item>
     </channel>
 </rss>

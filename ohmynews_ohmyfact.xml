@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Jun 2023 15:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 05:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["모기는 세상에 불필요한 생명체" 주장 '대체로 거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002939361</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002939361</guid>
+            <pubDate>Sun, 25 Jun 2023 05:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 카카오 꽃가루 옮기고 의학 연구 활용... 모기 박멸시 수중 생태계에 악영향]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["이재명이 꺼낸 '핵폐수'가 중국계 용어?" <중앙> 보도 '대체로 거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002938722</link>
@@ -36,13 +43,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002932385</guid>
             <pubDate>Thu, 01 Jun 2023 14:22:19 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 영어 설정 아이폰 '긴급재난문자', '대통령 경보'로 표기... 미국 경보체계와 혼동]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["월소득 1천만원 가구 학자금 무이자 대출" 보도는 '거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002929932</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002929932</guid>
-            <pubDate>Wed, 24 May 2023 03:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 부동산 등 재산 포함한 '소득인정액' 최댓값... 8구간 월 평균 소득은 530만  원]]></content:encoded>
         </item>
     </channel>
 </rss>
