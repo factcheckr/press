@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 15:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 08:28:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[건강보험 나라마다 다른데…상호주의 가능할까?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230703062700518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230703062700518?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 04 Jul 2023 08:27:24 GMT</pubDate>
+            <content:encoded><![CDATA[김기현 국민의힘 대표 "외국인 건강보험도 상호주의 따라야" 국회 발언
+사회보장기본법에 상호주의…외국인 보험혜택 축소하려면 법령 고쳐야
+건보 악화의 주범? 외국인 전체 건보 수지 해마다 ...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/etc/inner/KR/2023/07/03/AKR20230703062700518_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[택배노조를 허용하는 나라는 없다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230627108300518?section=theme-list/factcheck</link>
@@ -247,16 +257,6 @@
 실제 가톨릭의료협회 회원 산부인과 22곳 중 19곳이 응급피임약 처방 안 해
 국내선 응급피임약 먹으려면 의사...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/photo/cms/2019/03/26/90/PCM20190326000190990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령과 여당 대표 간 정례회담은 항상 있었다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230316029000502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230316029000502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 16 Mar 2023 07:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘 김기현 대표 당선 계기로 대통령-당대표 회동 정례화
-대통령-당대표 회동, 대통령이 당총재 하던 시절 '당무보고'가 기원
-김대중 때 당총재직 폐지되면서 당무보고도 사라져…이명박 정...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2023/03/13/PYH2023031317860001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
