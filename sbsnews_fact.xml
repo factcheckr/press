@@ -4,9 +4,47 @@
         <title>SBS뉴스 ─ 사실은</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 09:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 01:56:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] IAEA 종합보고서에 '알프스 성능'은 빠져있다?]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007258080&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007258080&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Fri, 07 Jul 2023 01:54:18 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="/news/endPage.do?news_id=N1007258080&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20230706/201804682_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230706/201804682.jpg'" alt="섬네일 이미지:[사실은] IAEA 종합보고서에 '알프스 성능'은 빠져있다?" class="mfn_img lazy" style="display: inline;">
+									
+								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="/news/endPage.do?news_id=N1007258080&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>[사실은] IAEA 종합보고서에 '알프스 성능'은 빠져있다?</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2023.07.06<i class="ir i_time"></i>20:16</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20230706/201804682_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원전 오염수 팩트체크…SBS '사실은팀'에서 설명합니다]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007252685&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -205,7 +243,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="/news/endPage.do?news_id=N1007217974&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20190825/201347826_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20190825/201347826.jpg'" alt="섬네일 이미지:[사실은] &quot;文 정부도&quot; &quot;다른 나라도&quot;…삼중수소 논란의 모든 것" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20190825/201347826_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20190825/201347826.jpg'" alt="섬네일 이미지:[사실은] &quot;文 정부도&quot; &quot;다른 나라도&quot;…삼중수소 논란의 모든 것" class="mfn_img lazy">
 									
 								
 							</span>
@@ -233,7 +271,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20190825/201347826_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] '도쿄전력 자료'를 철저히 검증해야 하는 이유]]></title>
@@ -334,44 +372,6 @@
 							<!-- 기사 정보 -->	
 							<span class="info">
 								<span class="date">2023.05.23<i class="ir i_time"></i>20:22</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 오염수? 처리수? 다른 나라는 어떻게 부를까]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007195758&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007195758&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Fri, 19 May 2023 02:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="/news/endPage.do?news_id=N1007195758&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230512/201783628_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230512/201783628.jpg'" alt="섬네일 이미지:[사실은] 오염수? 처리수? 다른 나라는 어떻게 부를까" class="mfn_img lazy">
-									
-								
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="/news/endPage.do?news_id=N1007195758&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>[사실은] 오염수? 처리수? 다른 나라는 어떻게 부를까</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2023.05.19<i class="ir i_time"></i>10:41</span>
 							</span>
 						</p>
 						<!--// 텍스트 영역 -->
