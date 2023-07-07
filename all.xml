@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 11:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 14:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -516,6 +516,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[법원이 월례비를 임금으로 판단하지 않았다? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6501253_36199.html</link>
+            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6501253_36199.html</guid>
+            <pubDate>Fri, 07 Jul 2023 14:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2023-07-07</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/07/07/desk_20230707_201812_1_17_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[건강보험, 외국인에게 줄줄 샌다? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6495841_36199.html</link>
             <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6495841_36199.html</guid>
@@ -625,14 +633,6 @@
             <pubDate>Mon, 30 Jan 2023 13:28:10 GMT</pubDate>
             <content:encoded><![CDATA[<span>2023-01-30</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/01/30/desk_20230130_195822_1_8_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난방비 폭등 네탓 공방‥확인해보니 (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6449523_36199.html</link>
-            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6449523_36199.html</guid>
-            <pubDate>Fri, 27 Jan 2023 12:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2023-01-27</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/01/27/desk_20230127_200540_1_11_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[건강보험 나라마다 다른데…상호주의 가능할까? (연합뉴스 ─ 팩트체크)]]></title>
