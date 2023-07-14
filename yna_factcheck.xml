@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 01:54:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 01:53:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베이비박스로 오는 아기, 한국이 유독 많다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230713126500518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230713126500518?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 14 Jul 2023 01:52:25 GMT</pubDate>
+            <content:encoded><![CDATA[전국 두 곳의 베이비박스에 12년간 1천990명…연 150~180명
+유럽 국가들은 '익명출산제'도 운영…프랑스 매년 800~900명 익명출산
+베이비박스·익명출산은 대부분 취약계층 여성…익...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2023/07/13/AKR20230713126500518_07_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[건강보험 나라마다 다른데…상호주의 가능할까?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230703062700518?section=theme-list/factcheck</link>
@@ -247,16 +257,6 @@
 전씨 사망 뒤 대법원 "추징 집행 끝났다" 판결…미납추징금 867억원 남아
 국회, 범인 사망때 상속재산에 추징하는 법...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2023/03/22/AKR20230322031300502_07_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[응급피임약, 가톨릭계 병원에서는 처방 안 한다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230317071500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230317071500502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 21 Mar 2023 06:28:30 GMT</pubDate>
-            <content:encoded><![CDATA[인터넷 커뮤니티에 '응급피임약 필요할 때 가톨릭병원 응급실 가지 말라' 게시물
-실제 가톨릭의료협회 회원 산부인과 22곳 중 19곳이 응급피임약 처방 안 해
-국내선 응급피임약 먹으려면 의사...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/photo/cms/2019/03/26/90/PCM20190326000190990_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 01:54:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 01:53:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,82 @@
             <pubDate>Thu, 16 Mar 2023 11:16:02 GMT</pubDate>
             <content:encoded><![CDATA[내년 6월부터 민법과 행정 분야에서 나이를 따질 때 '만 나이'로 통일됩니다. 계산하는 방...]]></content:encoded>
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/12/08/310691670467086379.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] "메시, 이강인 무시한 중국 기자에 일침"…알고 보니 (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007265455&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007265455&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Fri, 14 Jul 2023 01:51:52 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="/news/endPage.do?news_id=N1007265455&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20230712/201806916_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230712/201806916.jpg'" alt="섬네일 이미지:[사실은] &quot;메시, 이강인 무시한 중국 기자에 일침&quot;…알고 보니" class="mfn_img lazy" style="display: inline;">
+									
+								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="/news/endPage.do?news_id=N1007265455&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>[사실은] "메시, 이강인 무시한 중국 기자에 일침"…알고 보니</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2023.07.12<i class="ir i_time"></i>21:18</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20230712/201806916_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 이강인 · 손흥민 무시한 중국, 일본 기자? 사실은… (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007265359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007265359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Fri, 14 Jul 2023 01:51:52 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="/news/endPage.do?news_id=N1007265359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20230710/201805762_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230710/201805762.jpg'" alt="섬네일 이미지:[사실은] 이강인 · 손흥민 무시한 중국, 일본 기자? 사실은…" class="mfn_img lazy" style="display: inline;">
+									
+								
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="/news/endPage.do?news_id=N1007265359&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>[사실은] 이강인 · 손흥민 무시한 중국, 일본 기자? 사실은…</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2023.07.12<i class="ir i_time"></i>17:39</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20230710/201805762_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 민주당 "IAEA, 이미 2015년 해양 방류 권고" 따져 보니… (SBS뉴스 ─ 사실은)]]></title>
@@ -295,7 +371,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="/news/endPage.do?news_id=N1007239664&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20230622/201798938_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230622/201798938.jpg'" alt="섬네일 이미지:[사실은] 불수능일수록 사교육 몰린다?…관련성 따져보니" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230622/201798938_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230622/201798938.jpg'" alt="섬네일 이미지:[사실은] 불수능일수록 사교육 몰린다?…관련성 따져보니" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -323,7 +399,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20230622/201798938_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 수능 난이도와 사교육비 증가율 상관 관계는? (SBS뉴스 ─ 사실은)]]></title>
@@ -333,7 +409,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="/news/endPage.do?news_id=N1007239399&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20230620/201797606_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230620/201797606.jpg'" alt="섬네일 이미지:[사실은] 수능 난이도와 사교육비 증가율 상관 관계는?" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230620/201797606_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230620/201797606.jpg'" alt="섬네일 이미지:[사실은] 수능 난이도와 사교육비 증가율 상관 관계는?" class="mfn_img lazy">
 									
 								
 							</span>
@@ -361,7 +437,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20230620/201797606_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 소금값 급등…후쿠시마 오염수발 사재기 때문? (SBS뉴스 ─ 사실은)]]></title>
@@ -424,82 +500,6 @@
 							<!-- 기사 정보 -->	
 							<span class="info">
 								<span class="date">2023.06.06<i class="ir i_time"></i>09:05</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] '도쿄전력 자료'를 철저히 검증해야 하는 이유 (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007215684&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007215684&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Fri, 02 Jun 2023 13:26:22 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="/news/endPage.do?news_id=N1007215684&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230602/201791574_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230602/201791574.jpg'" alt="섬네일 이미지:[사실은] '도쿄전력 자료'를 철저히 검증해야 하는 이유" class="mfn_img lazy">
-									
-								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="/news/endPage.do?news_id=N1007215684&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>[사실은] '도쿄전력 자료'를 철저히 검증해야 하는 이유</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2023.06.02<i class="ir i_time"></i>21:02</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 후쿠시마 방사능 측정값 사용 설명서 (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007205514&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007205514&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Fri, 26 May 2023 04:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="/news/endPage.do?news_id=N1007205514&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20190926/201358454_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20190926/201358454.jpg'" alt="섬네일 이미지:[사실은] 후쿠시마 방사능 측정값 사용 설명서" class="mfn_img lazy">
-									
-								
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="/news/endPage.do?news_id=N1007205514&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>[사실은] 후쿠시마 방사능 측정값 사용 설명서</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2023.05.26<i class="ir i_time"></i>11:06</span>
 							</span>
 						</p>
 						<!--// 텍스트 영역 -->
@@ -633,6 +633,16 @@
             <pubDate>Mon, 30 Jan 2023 13:28:10 GMT</pubDate>
             <content:encoded><![CDATA[<span>2023-01-30</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/01/30/desk_20230130_195822_1_8_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베이비박스로 오는 아기, 한국이 유독 많다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230713126500518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230713126500518?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 14 Jul 2023 01:52:25 GMT</pubDate>
+            <content:encoded><![CDATA[전국 두 곳의 베이비박스에 12년간 1천990명…연 150~180명
+유럽 국가들은 '익명출산제'도 운영…프랑스 매년 800~900명 익명출산
+베이비박스·익명출산은 대부분 취약계층 여성…익...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2023/07/13/AKR20230713126500518_07_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[건강보험 나라마다 다른데…상호주의 가능할까? (연합뉴스 ─ 팩트체크)]]></title>
@@ -876,16 +886,6 @@
             <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2023/03/22/AKR20230322031300502_07_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[응급피임약, 가톨릭계 병원에서는 처방 안 한다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230317071500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230317071500502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 21 Mar 2023 06:28:30 GMT</pubDate>
-            <content:encoded><![CDATA[인터넷 커뮤니티에 '응급피임약 필요할 때 가톨릭병원 응급실 가지 말라' 게시물
-실제 가톨릭의료협회 회원 산부인과 22곳 중 19곳이 응급피임약 처방 안 해
-국내선 응급피임약 먹으려면 의사...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/photo/cms/2019/03/26/90/PCM20190326000190990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
             <link>https://www.dongascience.com/news.php?idx=54018</link>
             <guid>https://www.dongascience.com/news.php?idx=54018</guid>
@@ -1036,6 +1036,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/28/l_2020102801002965700246281.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["인민군복 입고 윤석열 퇴진 촛불?" <조선> 보도 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002944190</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002944190</guid>
+            <pubDate>Fri, 14 Jul 2023 01:53:23 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 노래극 속 독립군 사진, 인민군으로 왜곡... "과거 독립군 복장 고증해 제작"]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/062117362513.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA["모기는 세상에 불필요한 생명체" 주장 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002939361</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002939361</guid>
@@ -1064,13 +1072,6 @@
             <pubDate>Sat, 10 Jun 2023 04:21:10 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 서울시 '권리중심 일자리'에 '캠페인'도 포함... "법적으로 캠페인-집회 구분 안돼"]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/083012352284.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["대통령실이 서울시 경계경보 발령" 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002932385</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002932385</guid>
-            <pubDate>Thu, 01 Jun 2023 14:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 영어 설정 아이폰 '긴급재난문자', '대통령 경보'로 표기... 미국 경보체계와 혼동]]></content:encoded>
         </item>
     </channel>
 </rss>
