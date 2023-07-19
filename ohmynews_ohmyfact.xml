@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 07:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 22:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["너희 나라로 돌아가!" 인종차별 광고, 금지 규정 없다?]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946177</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946177</guid>
+            <pubDate>Wed, 19 Jul 2023 22:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 인스타그램 '인종차별 광고' 금지... 우리나라는 방송·옥외광고 금지]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["인민군복 입고 윤석열 퇴진 촛불?" <조선> 보도 '거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002944190</link>
@@ -36,14 +43,6 @@
             <pubDate>Tue, 20 Jun 2023 01:34:08 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 헌법은 '집회 허가제' 금지... "집시법에 도로점용허가 규정 없어" 판례도]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/111916364680.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["장애인 집회 참여가 일자리 예산 전용" 하태경 주장은 '거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002934899</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002934899</guid>
-            <pubDate>Sat, 10 Jun 2023 04:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 서울시 '권리중심 일자리'에 '캠페인'도 포함... "법적으로 캠페인-집회 구분 안돼"]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/083012352284.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

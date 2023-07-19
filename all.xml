@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 07:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 22:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -516,6 +516,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[오염수 양식 광어로 '안전 인증'? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6505480_36199.html</link>
+            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6505480_36199.html</guid>
+            <pubDate>Wed, 19 Jul 2023 22:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2023-07-19</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/07/19/desk_20230719_201821_1_16_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[법원이 월례비를 임금으로 판단하지 않았다? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6501253_36199.html</link>
             <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6501253_36199.html</guid>
@@ -627,12 +635,14 @@
             <content:encoded><![CDATA[<span>2023-02-01</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[난방비 폭탄, 횡재세가 해법? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6450213_36199.html</link>
-            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6450213_36199.html</guid>
-            <pubDate>Mon, 30 Jan 2023 13:28:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2023-01-30</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/01/30/desk_20230130_195822_1_8_Large.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[의대 정원 확대하면 의료비가 늘어난다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230718058700518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230718058700518?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 19 Jul 2023 22:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[의협, 의사 수 의료비 견인 주장…'공급자유인수요 가설' 근거
+의료비 감소 예상 '경쟁 가설' 각축…환경·제도 따라 상반된 연구결과
+경제논리로 과잉진료 정당화 안돼…제도개선·규제·직업윤리...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2023/06/07/PYH2023060709280001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베이비박스로 오는 아기, 한국이 유독 많다? (연합뉴스 ─ 팩트체크)]]></title>
@@ -876,16 +886,6 @@
             <enclosure url="https://img8.yna.co.kr/photo/cms/2016/04/10/01/C0A8CA3C00000153FF98280800036B7C_P2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA['비자금 있다' 손자폭로 나온 전두환 미납추징금, 환수 가능할까 (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230322031300502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230322031300502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 22 Mar 2023 23:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[손자 전우원씨 "비자금으로 사업체 운영하고 호화생활 해왔다" 폭탄선언
-전씨 사망 뒤 대법원 "추징 집행 끝났다" 판결…미납추징금 867억원 남아
-국회, 범인 사망때 상속재산에 추징하는 법...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2023/03/22/AKR20230322031300502_07_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
             <link>https://www.dongascience.com/news.php?idx=54018</link>
             <guid>https://www.dongascience.com/news.php?idx=54018</guid>
@@ -954,6 +954,14 @@
             <guid>https://www.dongascience.com/news.php?idx=47204</guid>
             <pubDate>Mon, 09 Jan 2023 07:20:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ellip">국내에서 신종 코로나바이러스 감염증(COVID-19·코로나19) 백신을 한 번 이상 맞은 사람이 1000만을 넘어섰다. <span class="ellip-line">코로나19 예방접종대응추진단(추진단)은 이날 오전 11시 기준 1006만705명이 백신 1차 접종을 마친 것으로 잠정 집계됐다고 밝혔다. 이는 전체 인구(지난해 12월 기준 5134만9116명) 약 19.6%에 해당한다. 접종 예약자 외에도 잔여백신을 맞은 30~50대들이 늘면서 코로나19로 제한됐던 일상생활 복귀에 대한 기대감도 커지고 있다. 지금도 하루 400~600명씩... </span></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“그나마 피해 덜한 것”···홍수 때마다 ‘4대강 논란’, 사실은 (경향신문 ─ 연재 ─ 팩트체크)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202307171630001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202307171630001</guid>
+            <pubDate>Wed, 19 Jul 2023 22:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[이번에 내린 역대급 폭우로 피해가 속출하자 ‘4대강’이 또 다시 소환됐다. 지난 주말 포털 기사 댓글과 사회관계망서비스(SNS)에선 “4대강 보를 해체한 지역에 피해가 심하게 일어나고 있다”는 주장과 “보가 홍수위를 높였다” 등 상반된 주장이 충돌했다.정진석 국민의힘 의원은 17일 충남 공주시 수해 피해지역을 찾은 자리에서 취재진에게 “4대강 사업으로 강바닥 준설해 물그릇을 만들었고, 4대강(사업) 안 했으면 금강이 범람했을 수 있다고 다들 얘기한다”며 “포...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/17/news-p.v1.20230717.80a481c030634668a62f40699cc1f174_P1.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[아동학대로 잇단 사망···인천은 정말 ‘범죄도시’인가 (경향신문 ─ 연재 ─ 팩트체크)]]></title>
@@ -1028,12 +1036,11 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/04/06/l_2021040701000691800054111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성으로 본 ‘상속세 논란’ 팩트체크…이건희 회장만 60% 떼간다? (경향신문 ─ 연재 ─ 팩트체크)]]></title>
-            <link>https://www.khan.co.kr/economy/industry-trade/article/202010280600015</link>
-            <guid>https://www.khan.co.kr/economy/industry-trade/article/202010280600015</guid>
-            <pubDate>Wed, 28 Oct 2020 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이건희 삼성그룹 회장의 별세 이후 보수 정치권과 재계 일각에서 한국의 상속세율이 지나치게 높아 기업의 지배구조까지 흔들릴 수 있다며 세율 인하를 주장하고 있다. 대주주가 보유한 주식을 상속·증여할 때 적용되는 상속세 할증률에 대해서도 반발한다.       하지만 한국은 공제 혜택이 많은 데다 소득세율도 상대적으로 낮다고 전문가들은 지적한다. 상속세를 둘러싼 오해와 진실을 정리했다.■ 한국 상속세율, 선진국보다 높다?한국의 상속세 최고세율은 50%다. 국민...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2020/10/28/l_2020102801002965700246281.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["너희 나라로 돌아가!" 인종차별 광고, 금지 규정 없다? (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946177</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946177</guid>
+            <pubDate>Wed, 19 Jul 2023 22:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 인스타그램 '인종차별 광고' 금지... 우리나라는 방송·옥외광고 금지]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["인민군복 입고 윤석열 퇴진 촛불?" <조선> 보도 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
@@ -1064,14 +1071,6 @@
             <pubDate>Tue, 20 Jun 2023 01:34:08 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 헌법은 '집회 허가제' 금지... "집시법에 도로점용허가 규정 없어" 판례도]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/111916364680.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["장애인 집회 참여가 일자리 예산 전용" 하태경 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002934899</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002934899</guid>
-            <pubDate>Sat, 10 Jun 2023 04:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 서울시 '권리중심 일자리'에 '캠페인'도 포함... "법적으로 캠페인-집회 구분 안돼"]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/083012352284.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
