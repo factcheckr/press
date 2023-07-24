@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 13:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 08:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["문 정부가 4대강 보 해체해 충남·전라 물난리" 주장 '새빨간 거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946826</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946826</guid>
+            <pubDate>Mon, 24 Jul 2023 08:25:36 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 금강·영산강 보 아직 해체 안 돼... 전문가 "4대강 보, 홍수조절능력도 없어"]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["너희 나라로 돌아가!" 인종차별 광고, 금지 규정 없다?]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946177</link>
@@ -35,14 +42,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002938722</guid>
             <pubDate>Thu, 22 Jun 2023 19:21:40 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 국내 원자력학계 기피 단어지만 중국뿐 아니라 한국, 일본 학자도 사용]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["대구퀴어축제, 도로점용허가 받아야" 홍준표 주장은 '거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002937921</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002937921</guid>
-            <pubDate>Tue, 20 Jun 2023 01:34:08 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 헌법은 '집회 허가제' 금지... "집시법에 도로점용허가 규정 없어" 판례도]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/111916364680.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
