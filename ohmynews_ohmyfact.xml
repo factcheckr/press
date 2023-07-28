@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 06:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 16:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["새마을금고 왜곡된 조직 구조" 한국경제 보도 따져보니]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946553</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946553</guid>
+            <pubDate>Fri, 28 Jul 2023 16:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 새마을금고 임원 비율 47% 단순 비교…'편향된 접근']]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["문 정부가 4대강 보 해체해 충남·전라 물난리" 주장 '새빨간 거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946826</link>
@@ -35,13 +42,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002939361</guid>
             <pubDate>Sun, 25 Jun 2023 05:20:06 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 카카오 꽃가루 옮기고 의학 연구 활용... 모기 박멸시 수중 생태계에 악영향]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["이재명이 꺼낸 '핵폐수'가 중국계 용어?" <중앙> 보도 '대체로 거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002938722</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002938722</guid>
-            <pubDate>Thu, 22 Jun 2023 19:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 국내 원자력학계 기피 단어지만 중국뿐 아니라 한국, 일본 학자도 사용]]></content:encoded>
         </item>
     </channel>
 </rss>

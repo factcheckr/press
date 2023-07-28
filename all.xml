@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 06:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 16:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -516,6 +516,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[학생인권조례 때문에 교권침해 늘었다? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6508808_36199.html</link>
+            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6508808_36199.html</guid>
+            <pubDate>Fri, 28 Jul 2023 16:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2023-07-28</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/07/28/desk_20230728_201818_1_11_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오염수 양식 광어로 '안전 인증'? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6505480_36199.html</link>
             <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6505480_36199.html</guid>
@@ -626,13 +634,6 @@
             <pubDate>Wed, 29 Mar 2023 12:44:37 GMT</pubDate>
             <content:encoded><![CDATA[<span>2023-03-29</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/03/29/desk_20230329_204447_1_23_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["난방비 대란 2025년까지 지속될 것" (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6450805_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6450805_29123.html</guid>
-            <pubDate>Wed, 01 Feb 2023 02:58:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2023-02-01</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[의대 정원 확대하면 의료비가 늘어난다? (연합뉴스 ─ 팩트체크)]]></title>
@@ -1036,6 +1037,13 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/04/06/l_2021040701000691800054111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["새마을금고 왜곡된 조직 구조" 한국경제 보도 따져보니 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946553</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946553</guid>
+            <pubDate>Fri, 28 Jul 2023 16:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 새마을금고 임원 비율 47% 단순 비교…'편향된 접근']]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["문 정부가 4대강 보 해체해 충남·전라 물난리" 주장 '새빨간 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946826</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946826</guid>
@@ -1063,13 +1071,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002939361</guid>
             <pubDate>Sun, 25 Jun 2023 05:20:06 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 카카오 꽃가루 옮기고 의학 연구 활용... 모기 박멸시 수중 생태계에 악영향]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["이재명이 꺼낸 '핵폐수'가 중국계 용어?" <중앙> 보도 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002938722</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002938722</guid>
-            <pubDate>Thu, 22 Jun 2023 19:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 국내 원자력학계 기피 단어지만 중국뿐 아니라 한국, 일본 학자도 사용]]></content:encoded>
         </item>
     </channel>
 </rss>
