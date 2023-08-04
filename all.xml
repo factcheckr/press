@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 11:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 14:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -516,6 +516,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[잼버리 온열환자 속출, 어디서나 있는 일? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6511095_36199.html</link>
+            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6511095_36199.html</guid>
+            <pubDate>Fri, 04 Aug 2023 14:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2023-08-04</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/08/04/desk_20230804_195858_1_9_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[학생인권조례 때문에 교권침해 늘었다? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6508808_36199.html</link>
             <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6508808_36199.html</guid>
@@ -626,14 +634,6 @@
             <pubDate>Mon, 03 Apr 2023 12:35:43 GMT</pubDate>
             <content:encoded><![CDATA[<span>2023-04-03</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/04/03/desk_20230403_202209_1_17_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBC 뉴스데스크 '알고보니' 제6회 한국팩트체크대상 우수상 (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6468875_36199.html</link>
-            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6468875_36199.html</guid>
-            <pubDate>Wed, 29 Mar 2023 12:44:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2023-03-29</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/03/29/desk_20230329_204447_1_23_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[학생인권조례 때문에 교권침해가 늘어났다? (연합뉴스 ─ 팩트체크)]]></title>
