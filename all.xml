@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 10:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 19:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1037,6 +1037,13 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/04/06/l_2021040701000691800054111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["7만원짜리 잼버리 텐트, 25만원에 납품?" 의혹은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002951713</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002951713</guid>
+            <pubDate>Thu, 10 Aug 2023 19:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 실제 조직위 납품가격은 10만원대... 납품업체 "자외선 차단 강화된 고사양제품"]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["새마을금고 왜곡된 조직 구조" 한국경제 보도 따져보니 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946553</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946553</guid>
@@ -1064,13 +1071,6 @@
             <pubDate>Fri, 14 Jul 2023 01:53:23 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 노래극 속 독립군 사진, 인민군으로 왜곡... "과거 독립군 복장 고증해 제작"]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/062117362513.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA["모기는 세상에 불필요한 생명체" 주장 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002939361</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002939361</guid>
-            <pubDate>Sun, 25 Jun 2023 05:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 카카오 꽃가루 옮기고 의학 연구 활용... 모기 박멸시 수중 생태계에 악영향]]></content:encoded>
         </item>
     </channel>
 </rss>
