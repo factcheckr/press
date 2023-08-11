@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 19:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 05:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -636,6 +636,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/04/03/desk_20230403_202209_1_17_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[외국에선 폭염에도 이름을 붙인다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230810053800518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230810053800518?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 11 Aug 2023 05:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 위협하는 재난 된 '폭염' 인명피해 크지만 위험의식은 낮아
+스페인·그리스 폭염에 이름 붙여…LA 등 미국서도 논의 "경각심 제고"
+(서울=연합뉴스) 우혜림 인턴 기자 =...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/photo/cms/2018/08/03/15/C0A8CA3C00000164FDB6CFDF00047E5C_P2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[학생인권조례 때문에 교권침해가 늘어났다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20230801034200518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20230801034200518?section=theme-list/factcheck</guid>
@@ -875,16 +885,6 @@
 법무부가 검찰의 수사권 근거로 지목한 '검사의 영장신청권'은 5차 개헌 때 도입
 헌재, 삼청교육대·이명박...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2023/03/23/PYH2023032304530001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[튀르키예 교과서에 "한국은 형제국가"라고 쓰여 있다?(종합) (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230306034651502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230306034651502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 13 Apr 2023 11:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2002 월드컵 거치면서 국내서 '튀르키예=형제국' 인식 본격화
-튀르키예선 한국전 파병으로 형제국 싹터…'일본 속국→콘텐츠 강국' 인식 변화
-주한튀르키예대사관 "우리 교육부 조사 결과 교...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2023/03/06/AKR20230306034651502_14_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
