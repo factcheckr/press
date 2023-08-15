@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 09:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 11:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["반값등록금 때문에 서울시립대 경쟁력 하락" 국힘 주장 '대체로 거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002951984</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002951984</guid>
+            <pubDate>Tue, 15 Aug 2023 11:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 평가 대학 수 증가 탓... '순위 백분율'은 제자리거나 순위 오른 사례도]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/120610245888.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["7만원짜리 잼버리 텐트, 25만원에 납품?" 의혹은 '거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002951713</link>
@@ -34,14 +42,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946177</guid>
             <pubDate>Wed, 19 Jul 2023 22:17:03 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 인스타그램 '인종차별 광고' 금지... 우리나라는 방송·옥외광고 금지]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["인민군복 입고 윤석열 퇴진 촛불?" <조선> 보도 '거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002944190</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002944190</guid>
-            <pubDate>Fri, 14 Jul 2023 01:53:23 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 노래극 속 독립군 사진, 인민군으로 왜곡... "과거 독립군 복장 고증해 제작"]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/062117362513.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
