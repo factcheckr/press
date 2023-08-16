@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 14:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 17:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["극우뇌 아이는 천재과?" 좌·우뇌인 구분법은 '거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002953204</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002953204</guid>
+            <pubDate>Wed, 16 Aug 2023 17:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 좌뇌-우뇌 기능 차이를 과장... 뇌과학에서 '두뇌 유형 분류' 인정 안 해]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["반값등록금 때문에 서울시립대 경쟁력 하락" 국힘 주장 '대체로 거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002951984</link>
@@ -35,13 +42,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946826</guid>
             <pubDate>Mon, 24 Jul 2023 08:25:36 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 금강·영산강 보 아직 해체 안 돼... 전문가 "4대강 보, 홍수조절능력도 없어"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["너희 나라로 돌아가!" 인종차별 광고, 금지 규정 없다?]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946177</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946177</guid>
-            <pubDate>Wed, 19 Jul 2023 22:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 인스타그램 '인종차별 광고' 금지... 우리나라는 방송·옥외광고 금지]]></content:encoded>
         </item>
     </channel>
 </rss>
