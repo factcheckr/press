@@ -4,9 +4,47 @@
         <title>SBS뉴스 ─ 사실은</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 20:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 06:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] 야스쿠니 신사 논란, 한일 모두 수위 낮췄다?]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007310138&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007310138&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 17 Aug 2023 06:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="/news/endPage.do?news_id=N1007310138&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20230815/201821106_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230815/201821106.jpg'" alt="섬네일 이미지:[사실은] 야스쿠니 신사 논란, 한일 모두 수위 낮췄다?" class="mfn_img lazy" style="display: inline;">
+									
+								
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="/news/endPage.do?news_id=N1007310138&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>[사실은] 야스쿠니 신사 논란, 한일 모두 수위 낮췄다?</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2023.08.17<i class="ir i_time"></i>13:42</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20230815/201821106_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사실은] 20~30년 걸리던 게 1년 만에…우리 바다 더 심각]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007294919&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -205,7 +243,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="/news/endPage.do?news_id=N1007268403&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20230215/201751927_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230215/201751927.jpg'" alt="섬네일 이미지:[사실은] &quot;헝가리 의대, 국시 합격률이 85%&quot; 따져 보니…" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230215/201751927_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230215/201751927.jpg'" alt="섬네일 이미지:[사실은] &quot;헝가리 의대, 국시 합격률이 85%&quot; 따져 보니…" class="mfn_img lazy">
 									
 								
 							</span>
@@ -233,7 +271,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20230215/201751927_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] "메시, 이강인 무시한 중국 기자에 일침"…알고 보니]]></title>
@@ -334,44 +372,6 @@
 							<!-- 기사 정보 -->	
 							<span class="info">
 								<span class="date">2023.07.09<i class="ir i_time"></i>09:02</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] IAEA 종합보고서에 '알프스 성능'은 빠져있다?]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007258080&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007258080&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Fri, 07 Jul 2023 01:54:18 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="/news/endPage.do?news_id=N1007258080&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230706/201804682_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230706/201804682.jpg'" alt="섬네일 이미지:[사실은] IAEA 종합보고서에 '알프스 성능'은 빠져있다?" class="mfn_img lazy">
-									
-								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="/news/endPage.do?news_id=N1007258080&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>[사실은] IAEA 종합보고서에 '알프스 성능'은 빠져있다?</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2023.07.06<i class="ir i_time"></i>20:16</span>
 							</span>
 						</p>
 						<!--// 텍스트 영역 -->
