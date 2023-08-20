@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Aug 2023 06:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 11:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“선진국 중 공영방송이 이렇게 많은 나라가 없다”는 이동관, 따져보니]]></title>
+            <link>https://www.khan.co.kr/national/media/article/202308201642001</link>
+            <guid>https://www.khan.co.kr/national/media/article/202308201642001</guid>
+            <pubDate>Sun, 20 Aug 2023 11:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[이동관 방송통신위원장 후보자는 지난 18일 국회에서 열린 청문회에서 “선진국 어느 나라도 공영방송이 이렇게 많은 나라가 없다”라며 “자유로운 정보 소통을 위해서는 공영방송은 최소화하고, 경쟁체제 속에서 소비자가 선택하도록 하는 게 올바르다”라고 말했다. 자유로운 소통을 위해서는 공영방송 ‘축소’와 민영화가 필요하다는 말이다. 경향신문은 이 후보자의 주장대로 선진국 중 한국보다 공영방송이 많은 나라는 없는지, 또 ‘언론 자유’를 위해서는 공영방송이 축소...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/20/news-p.v1.20230818.54cc7f8a3b674c1690073e21b6a4c806_P1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[“그나마 피해 덜한 것”···홍수 때마다 ‘4대강 논란’, 사실은]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202307171630001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 17 Nov 2022 11:21:53 GMT</pubDate>
             <content:encoded><![CDATA[국민의힘 등 야권을 중심으로 정부가 ‘정치 방역’을 하고 있다는 비판이 이어지고 있다. 코로나19 4차 대유행 국면에서 민주노총이 지난 3일 서울 여의도와 종로 등지에서 조합원 8000여명이 참가한 대규모 집회를 열었는데, 이 집회에 대한 경찰 대응이 지난해 보수단체가 주최한 광복절 집회 때와 달리 미온적이라는 게 비판의 골자이다. “보수단체 집회에는 ‘쇠방망이’를 들고, 민주노총 집회에는 ‘솜방망이’를 들고 있다”는 것이다. 경찰은 야권의 주장에 “동의할...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/07/19/l_2021071901002535000212291.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12억 아파트가 공시가격 15억이라고?]]></title>
-            <link>https://www.khan.co.kr/economy/real_estate/article/202104062118025</link>
-            <guid>https://www.khan.co.kr/economy/real_estate/article/202104062118025</guid>
-            <pubDate>Thu, 17 Nov 2022 11:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[올해 공동주택 공시가격(안)이 2007년 이후 가장 높은 인상폭을 기록한 뒤 공시가격이 적절하게 산정됐는지를 놓고 정부와 일부 지자체 간 논쟁이 벌어졌다. 지난 5일 조은희 서울 서초구청장과 원희룡 제주도지사가 공동기자회견을 열어 몇몇 사례를 제시하며 “공시가격 산정에 오류가 많다”고 주장하고 나선 뒤부터다.국토교통부는 같은 날 해명자료를 배포한 데 이어 6일 긴급 브리핑에서 이들의 주장이 대부분 사실과 다르다고 반박했다. 양측 중 누구 말이 맞는지 여부...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/04/06/l_2021040701000691800054111.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
