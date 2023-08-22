@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 09:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 05:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여운형 선생·홍범도 장군만 건국훈장 두번 받았다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230822022800518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230822022800518?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 22 Aug 2023 05:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[박민식 보훈부 장관 "상훈법서 중복서훈 금지"…여·홍, 서로 다른 공적으로 훈장 받아
+유관순 열사도 두번 추서돼…역사적 평가 달라지면 서훈 등급 조정 고려할 필요도
+(서울=연합뉴...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2019/07/19/PYH2019071909290001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파행 잼버리 영지 배수는 과연 문제가 없었을까?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230817042200055?section=theme-list/factcheck</link>
@@ -247,16 +257,6 @@
 주무부서 농식품부는 문재인·윤석열 정부서 모두 의무화에 반대 고수
 (서울=연합뉴스) 구정모 기자 ...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2023/04/04/PYH2023040412410001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후쿠시마 오염수 방류, 국제적·과학적으로 문제없다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230406048900518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230406048900518?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 06 Apr 2023 21:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[구로다 산케이신문 객원논설위원 "오염수 방류, 국제사회는 과학적으로 문제없다는 방향"
-해외 과학자들 "일본 측 데이터 신뢰할 수 없어…잠재적 위험 충분히 고려될 필요"
-日 "IAEA를 통...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/cms/2020/10/23/62/PCM20201023000162990_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
