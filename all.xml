@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 04:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 10:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -137,11 +137,11 @@
         </item>
         <item>
             <title><![CDATA[[사실은] 야스쿠니 신사 논란, 한일 모두 수위 낮췄다? (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007310138&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007310138&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Thu, 17 Aug 2023 06:21:17 GMT</pubDate>
+            <link>http://news.sbs.co.kr/news/endPage.do?news_id=N1007310138&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>http://news.sbs.co.kr/news/endPage.do?news_id=N1007310138&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 24 Aug 2023 10:22:56 GMT</pubDate>
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="/news/endPage.do?news_id=N1007310138&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+						<a href="http://news.sbs.co.kr/news/endPage.do?news_id=N1007310138&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
 									<img src="//img.sbs.co.kr/newimg/news/20230815/201821106_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230815/201821106.jpg'" alt="섬네일 이미지:[사실은] 야스쿠니 신사 논란, 한일 모두 수위 낮췄다?" class="mfn_img lazy" style="display: inline;">
 									
@@ -152,7 +152,7 @@
 						<!-- 텍스트 영역 -->
 						<p class="desc">
 							<!-- 기사 제목 -->						
-							<a href="/news/endPage.do?news_id=N1007310138&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+							<a href="http://news.sbs.co.kr/news/endPage.do?news_id=N1007310138&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
 								<strong>[사실은] 야스쿠니 신사 논란, 한일 모두 수위 낮췄다?</strong>
 							</a>
 							<!-- 기사 정보 -->	
@@ -174,14 +174,14 @@
             <enclosure url="https://img.sbs.co.kr/newimg/news/20230815/201821106_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[사실은] 20~30년 걸리던 게 1년 만에…우리 바다 더 심각 (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007294919&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007294919&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Thu, 03 Aug 2023 15:17:59 GMT</pubDate>
+            <title><![CDATA[[사실은] 20∼30년 걸리던 게 1년 만에…우리 바다 더 심각 (SBS뉴스 ─ 사실은)]]></title>
+            <link>http://news.sbs.co.kr/news/endPage.do?news_id=N1007294919&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>http://news.sbs.co.kr/news/endPage.do?news_id=N1007294919&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 24 Aug 2023 10:22:56 GMT</pubDate>
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="/news/endPage.do?news_id=N1007294919&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+						<a href="http://news.sbs.co.kr/news/endPage.do?news_id=N1007294919&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20230803/201816389_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230803/201816389.jpg'" alt="섬네일 이미지:[사실은] 20~30년 걸리던 게 1년 만에…우리 바다 더 심각" class="mfn_img lazy" style="display: inline;">
+									<img src="//img.sbs.co.kr/newimg/news/20230803/201816389_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230803/201816389.jpg'" alt="섬네일 이미지:[사실은] 20∼30년 걸리던 게 1년 만에…우리 바다 더 심각" class="mfn_img lazy" style="display: inline;">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -190,8 +190,8 @@
 						<!-- 텍스트 영역 -->
 						<p class="desc">
 							<!-- 기사 제목 -->						
-							<a href="/news/endPage.do?news_id=N1007294919&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>[사실은] 20~30년 걸리던 게 1년 만에…우리 바다 더 심각</strong>
+							<a href="http://news.sbs.co.kr/news/endPage.do?news_id=N1007294919&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>[사실은] 20∼30년 걸리던 게 1년 만에…우리 바다 더 심각</strong>
 							</a>
 							<!-- 기사 정보 -->	
 							<span class="info">
@@ -213,11 +213,11 @@
         </item>
         <item>
             <title><![CDATA[[사실은] "학생인권조례 때문에 교권 침해 늘었다" 따져 보니… (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007286466&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007286466&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Fri, 28 Jul 2023 03:21:02 GMT</pubDate>
+            <link>http://news.sbs.co.kr/news/endPage.do?news_id=N1007286466&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>http://news.sbs.co.kr/news/endPage.do?news_id=N1007286466&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 24 Aug 2023 10:22:56 GMT</pubDate>
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="/news/endPage.do?news_id=N1007286466&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+						<a href="http://news.sbs.co.kr/news/endPage.do?news_id=N1007286466&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
 									<img src="//img.sbs.co.kr/newimg/news/20230721/201810651_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230721/201810651.jpg'" alt="섬네일 이미지:[사실은] &quot;학생인권조례 때문에 교권 침해 늘었다&quot; 따져 보니…" class="mfn_img lazy" style="display: inline;">
 									
@@ -228,7 +228,7 @@
 						<!-- 텍스트 영역 -->
 						<p class="desc">
 							<!-- 기사 제목 -->						
-							<a href="/news/endPage.do?news_id=N1007286466&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+							<a href="http://news.sbs.co.kr/news/endPage.do?news_id=N1007286466&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
 								<strong>[사실은] "학생인권조례 때문에 교권 침해 늘었다" 따져 보니…</strong>
 							</a>
 							<!-- 기사 정보 -->	
@@ -251,11 +251,11 @@
         </item>
         <item>
             <title><![CDATA[[사실은] "교사-가해 학생 '즉시 분리'"…외국은 '교사 사생활 보호' 초점 (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007282860&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007282860&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Tue, 25 Jul 2023 14:16:05 GMT</pubDate>
+            <link>http://news.sbs.co.kr/news/endPage.do?news_id=N1007282860&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>http://news.sbs.co.kr/news/endPage.do?news_id=N1007282860&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 24 Aug 2023 10:22:56 GMT</pubDate>
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="/news/endPage.do?news_id=N1007282860&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+						<a href="http://news.sbs.co.kr/news/endPage.do?news_id=N1007282860&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
 									<img src="//img.sbs.co.kr/newimg/news/20230725/201812286_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230725/201812286.jpg'" alt="섬네일 이미지:[사실은] &quot;교사-가해 학생 '즉시 분리'&quot;…외국은 '교사 사생활 보호' 초점" class="mfn_img lazy" style="display: inline;">
 									
@@ -266,7 +266,7 @@
 						<!-- 텍스트 영역 -->
 						<p class="desc">
 							<!-- 기사 제목 -->						
-							<a href="/news/endPage.do?news_id=N1007282860&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+							<a href="http://news.sbs.co.kr/news/endPage.do?news_id=N1007282860&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
 								<strong>[사실은] "교사-가해 학생 '즉시 분리'"…외국은 '교사 사생활 보호' 초점</strong>
 							</a>
 							<!-- 기사 정보 -->	
@@ -289,11 +289,11 @@
         </item>
         <item>
             <title><![CDATA[[사실은] 가해 학생과 피해 교사 '즉시 분리', 외국은 어떻게? (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007282901&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007282901&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Tue, 25 Jul 2023 14:16:05 GMT</pubDate>
+            <link>http://news.sbs.co.kr/news/endPage.do?news_id=N1007282901&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>http://news.sbs.co.kr/news/endPage.do?news_id=N1007282901&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 24 Aug 2023 10:22:56 GMT</pubDate>
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="/news/endPage.do?news_id=N1007282901&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+						<a href="http://news.sbs.co.kr/news/endPage.do?news_id=N1007282901&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
 									<img src="//img.sbs.co.kr/newimg/news/20230724/201811668_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230724/201811668.jpg'" alt="섬네일 이미지:[사실은] 가해 학생과 피해 교사 '즉시 분리', 외국은 어떻게?" class="mfn_img lazy" style="display: inline;">
 									
@@ -304,7 +304,7 @@
 						<!-- 텍스트 영역 -->
 						<p class="desc">
 							<!-- 기사 제목 -->						
-							<a href="/news/endPage.do?news_id=N1007282901&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+							<a href="http://news.sbs.co.kr/news/endPage.do?news_id=N1007282901&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
 								<strong>[사실은] 가해 학생과 피해 교사 '즉시 분리', 외국은 어떻게?</strong>
 							</a>
 							<!-- 기사 정보 -->	
@@ -327,11 +327,11 @@
         </item>
         <item>
             <title><![CDATA[[사실은] 한반도 '극한 호우', 50년 동안 ○배 늘었다 (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007275147&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007275147&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Thu, 20 Jul 2023 13:22:45 GMT</pubDate>
+            <link>http://news.sbs.co.kr/news/endPage.do?news_id=N1007275147&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>http://news.sbs.co.kr/news/endPage.do?news_id=N1007275147&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 24 Aug 2023 10:22:56 GMT</pubDate>
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="/news/endPage.do?news_id=N1007275147&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+						<a href="http://news.sbs.co.kr/news/endPage.do?news_id=N1007275147&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
 									<img src="//img.sbs.co.kr/newimg/news/20230718/201809457_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230718/201809457.jpg'" alt="섬네일 이미지:[사실은] 한반도 '극한 호우', 50년 동안 ○배 늘었다" class="mfn_img lazy" style="display: inline;">
 									
@@ -342,7 +342,7 @@
 						<!-- 텍스트 영역 -->
 						<p class="desc">
 							<!-- 기사 제목 -->						
-							<a href="/news/endPage.do?news_id=N1007275147&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+							<a href="http://news.sbs.co.kr/news/endPage.do?news_id=N1007275147&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
 								<strong>[사실은] 한반도 '극한 호우', 50년 동안 ○배 늘었다</strong>
 							</a>
 							<!-- 기사 정보 -->	
@@ -365,11 +365,11 @@
         </item>
         <item>
             <title><![CDATA[[사실은] "헝가리 의대, 국시 합격률이 85%" 따져 보니… (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007268403&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007268403&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Sun, 16 Jul 2023 08:25:40 GMT</pubDate>
+            <link>http://news.sbs.co.kr/news/endPage.do?news_id=N1007268403&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>http://news.sbs.co.kr/news/endPage.do?news_id=N1007268403&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 24 Aug 2023 10:22:56 GMT</pubDate>
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="/news/endPage.do?news_id=N1007268403&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+						<a href="http://news.sbs.co.kr/news/endPage.do?news_id=N1007268403&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
 									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230215/201751927_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230215/201751927.jpg'" alt="섬네일 이미지:[사실은] &quot;헝가리 의대, 국시 합격률이 85%&quot; 따져 보니…" class="mfn_img lazy">
 									
@@ -380,7 +380,7 @@
 						<!-- 텍스트 영역 -->
 						<p class="desc">
 							<!-- 기사 제목 -->						
-							<a href="/news/endPage.do?news_id=N1007268403&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+							<a href="http://news.sbs.co.kr/news/endPage.do?news_id=N1007268403&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
 								<strong>[사실은] "헝가리 의대, 국시 합격률이 85%" 따져 보니…</strong>
 							</a>
 							<!-- 기사 정보 -->	
@@ -403,11 +403,11 @@
         </item>
         <item>
             <title><![CDATA[[사실은] "메시, 이강인 무시한 중국 기자에 일침"…알고 보니 (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007265455&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007265455&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Fri, 14 Jul 2023 01:51:52 GMT</pubDate>
+            <link>http://news.sbs.co.kr/news/endPage.do?news_id=N1007265455&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>http://news.sbs.co.kr/news/endPage.do?news_id=N1007265455&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 24 Aug 2023 10:22:56 GMT</pubDate>
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="/news/endPage.do?news_id=N1007265455&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+						<a href="http://news.sbs.co.kr/news/endPage.do?news_id=N1007265455&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
 									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230712/201806916_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230712/201806916.jpg'" alt="섬네일 이미지:[사실은] &quot;메시, 이강인 무시한 중국 기자에 일침&quot;…알고 보니" class="mfn_img lazy">
 									
@@ -418,7 +418,7 @@
 						<!-- 텍스트 영역 -->
 						<p class="desc">
 							<!-- 기사 제목 -->						
-							<a href="/news/endPage.do?news_id=N1007265455&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+							<a href="http://news.sbs.co.kr/news/endPage.do?news_id=N1007265455&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
 								<strong>[사실은] "메시, 이강인 무시한 중국 기자에 일침"…알고 보니</strong>
 							</a>
 							<!-- 기사 정보 -->	
@@ -441,11 +441,11 @@
         </item>
         <item>
             <title><![CDATA[[사실은] 이강인 · 손흥민 무시한 중국, 일본 기자? 사실은… (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007265359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007265359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Fri, 14 Jul 2023 01:51:52 GMT</pubDate>
+            <link>http://news.sbs.co.kr/news/endPage.do?news_id=N1007265359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>http://news.sbs.co.kr/news/endPage.do?news_id=N1007265359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 24 Aug 2023 10:22:56 GMT</pubDate>
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="/news/endPage.do?news_id=N1007265359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+						<a href="http://news.sbs.co.kr/news/endPage.do?news_id=N1007265359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
 									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230710/201805762_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230710/201805762.jpg'" alt="섬네일 이미지:[사실은] 이강인 · 손흥민 무시한 중국, 일본 기자? 사실은…" class="mfn_img lazy">
 									
@@ -456,7 +456,7 @@
 						<!-- 텍스트 영역 -->
 						<p class="desc">
 							<!-- 기사 제목 -->						
-							<a href="/news/endPage.do?news_id=N1007265359&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+							<a href="http://news.sbs.co.kr/news/endPage.do?news_id=N1007265359&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
 								<strong>[사실은] 이강인 · 손흥민 무시한 중국, 일본 기자? 사실은…</strong>
 							</a>
 							<!-- 기사 정보 -->	
@@ -479,11 +479,11 @@
         </item>
         <item>
             <title><![CDATA[[사실은] 민주당 "IAEA, 이미 2015년 해양 방류 권고" 따져 보니… (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007259350&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007259350&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Sun, 09 Jul 2023 15:18:18 GMT</pubDate>
+            <link>http://news.sbs.co.kr/news/endPage.do?news_id=N1007259350&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>http://news.sbs.co.kr/news/endPage.do?news_id=N1007259350&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 24 Aug 2023 10:22:56 GMT</pubDate>
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="/news/endPage.do?news_id=N1007259350&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+						<a href="http://news.sbs.co.kr/news/endPage.do?news_id=N1007259350&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
 									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230705/201804146_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230705/201804146.jpg'" alt="섬네일 이미지:[사실은] 민주당 &quot;IAEA, 이미 2015년 해양 방류 권고&quot; 따져 보니…" class="mfn_img lazy">
 									
@@ -494,7 +494,7 @@
 						<!-- 텍스트 영역 -->
 						<p class="desc">
 							<!-- 기사 제목 -->						
-							<a href="/news/endPage.do?news_id=N1007259350&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+							<a href="http://news.sbs.co.kr/news/endPage.do?news_id=N1007259350&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
 								<strong>[사실은] 민주당 "IAEA, 이미 2015년 해양 방류 권고" 따져 보니…</strong>
 							</a>
 							<!-- 기사 정보 -->	
