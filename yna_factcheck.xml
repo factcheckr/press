@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 09:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 02:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[범죄자 중 정신질환자는 얼마나 될까?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230823048400518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230823048400518?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 24 Aug 2023 02:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[범죄자 중 정신장애 0.3~0.7%…범죄확률 일반인보다 훨씬 낮아
+무차별범죄 원인 정신질환으로 단정 어려워…일반인 우발범죄도 많아
+정신질환 범죄 위험성 과장…"격리보다 지역사회로 편입해...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/cms/2016/05/24/01/C0A8CA3D00000154E01D5AA3000254FE_P2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[여운형 선생·홍범도 장군만 건국훈장 두번 받았다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230822022800518?section=theme-list/factcheck</link>
@@ -247,16 +257,6 @@
 경찰청 "피해학생·부모 모두 고소 가능…매뉴얼상 학생 의견 우선 고려"
 (서울=연합뉴스) 이웅 기...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/photo/cms/2023/04/12/69/PCM20230412000069990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주당 양곡관리법 개정 입장, 여당일때 야당일때 달랐나?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230411086700518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230411086700518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 11 Apr 2023 06:28:35 GMT</pubDate>
-            <content:encoded><![CDATA[민주당, 2020년 개정 때 시장격리 의무화 주장…작년에도 의무화 법제화 주도
-주무부서 농식품부는 문재인·윤석열 정부서 모두 의무화에 반대 고수
-(서울=연합뉴스) 구정모 기자 ...]]></content:encoded>
-            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2023/04/04/PYH2023040412410001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
