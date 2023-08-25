@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 01:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 07:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["검수완박 때문에 지구대 인력 부족" 국힘 주장은 '거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002955284</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002955284</guid>
+            <pubDate>Fri, 25 Aug 2023 07:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 수사권 조정 후에도 서울 지구대 경찰은 증가... 기동대, 수사인력 차출도 별개]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/120610245888.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["극우뇌 아이는 천재과?" 좌·우뇌인 구분법은 '거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002953204</link>
@@ -35,13 +43,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946553</guid>
             <pubDate>Fri, 28 Jul 2023 16:23:24 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 새마을금고 임원 비율 47% 단순 비교…'편향된 접근']]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["문 정부가 4대강 보 해체해 충남·전라 물난리" 주장 '새빨간 거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946826</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946826</guid>
-            <pubDate>Mon, 24 Jul 2023 08:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 금강·영산강 보 아직 해체 안 돼... 전문가 "4대강 보, 홍수조절능력도 없어"]]></content:encoded>
         </item>
     </channel>
 </rss>
