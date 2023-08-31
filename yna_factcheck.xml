@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 06:28:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 23:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과거 어느 정부 때 언론 압박 심했나?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230831079800518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230831079800518?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 31 Aug 2023 23:17:05 GMT</pubDate>
+            <content:encoded><![CDATA['언론 신뢰도' 시기별 차이 크지 않아… 편향적 뉴스 소비로 세계 최하위권
+RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓ 문재인 정부↑
+(서울=연합뉴스) 이웅 기...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/cms/2023/08/31/50/PCM20230831000050990_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[범죄자 중 정신질환자는 얼마나 될까?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230823048400518?section=theme-list/factcheck</link>
@@ -247,16 +257,6 @@
 이한열·박종철 열사 유공자로 인정하는 '민주유공자법', 20년 넘게 자동 폐기만 반복
 민주당 "공정 논란 불...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2020/06/10/PYH2020061003230005400_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[학폭 피해자가 원치 않으면 부모가 고소 못한다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230412028900518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230412028900518?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 12 Apr 2023 01:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[형소법에 '법정대리인의 고소권' 규정…대법원 판례 "피해자 반대해도 행사 가능"
-경찰청 "피해학생·부모 모두 고소 가능…매뉴얼상 학생 의견 우선 고려"
-(서울=연합뉴스) 이웅 기...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/photo/cms/2023/04/12/69/PCM20230412000069990_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

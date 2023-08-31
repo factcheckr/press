@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 06:28:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 23:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["홍범도, 자유시 사변 '독립군 몰살' 가담" 주장은 '거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002957390</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002957390</guid>
+            <pubDate>Thu, 31 Aug 2023 23:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 자유시 참변은 러시아 인민혁명군이 주력부대... '빨치산'은 '의병'이라는 뜻]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/083019390729.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["검수완박 때문에 지구대 인력 부족" 국힘 주장은 '거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002955284</link>
@@ -36,13 +44,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002951713</guid>
             <pubDate>Thu, 10 Aug 2023 19:16:53 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 실제 조직위 납품가격은 10만원대... 납품업체 "자외선 차단 강화된 고사양제품"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["새마을금고 왜곡된 조직 구조" 한국경제 보도 따져보니]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946553</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002946553</guid>
-            <pubDate>Fri, 28 Jul 2023 16:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 새마을금고 임원 비율 47% 단순 비교…'편향된 접근']]></content:encoded>
         </item>
     </channel>
 </rss>
