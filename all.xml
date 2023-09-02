@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 23:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 09:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,44 @@
             <pubDate>Sat, 26 Aug 2023 23:19:52 GMT</pubDate>
             <content:encoded><![CDATA[내년 6월부터 민법과 행정 분야에서 나이를 따질 때 '만 나이'로 통일됩니다. 계산하는 방...]]></content:encoded>
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/12/08/310691670467086379.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] "홍범도 논란의 핵심, 역사의 소급 적용" (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007329873&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007329873&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Sat, 02 Sep 2023 09:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007329873&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20230831/201827863_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230831/201827863.jpg'" alt="섬네일 이미지:[사실은] &quot;홍범도 논란의 핵심, 역사의 소급 적용&quot;" class="mfn_img lazy" style="display: inline;">
+									
+								
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007329873&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>[사실은] "홍범도 논란의 핵심, 역사의 소급 적용"</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2023.09.02<i class="ir i_time"></i>07:55</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20230831/201827863_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 후쿠시마 오염수 '30년' 방류 계획, 따져 보니… (SBS뉴스 ─ 사실은)]]></title>
@@ -333,7 +371,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007282901&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20230724/201811668_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230724/201811668.jpg'" alt="섬네일 이미지:[사실은] 가해 학생과 피해 교사 '즉시 분리', 외국은 어떻게?" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230724/201811668_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230724/201811668.jpg'" alt="섬네일 이미지:[사실은] 가해 학생과 피해 교사 '즉시 분리', 외국은 어떻게?" class="mfn_img lazy">
 									
 								
 							</span>
@@ -361,7 +399,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20230724/201811668_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 한반도 '극한 호우', 50년 동안 ○배 늘었다 (SBS뉴스 ─ 사실은)]]></title>
@@ -478,42 +516,12 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[사실은] 이강인 · 손흥민 무시한 중국, 일본 기자? 사실은… (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007265359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007265359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Thu, 31 Aug 2023 23:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007265359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230710/201805762_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230710/201805762.jpg'" alt="섬네일 이미지:[사실은] 이강인 · 손흥민 무시한 중국, 일본 기자? 사실은…" class="mfn_img lazy">
-									
-								
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007265359&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>[사실은] 이강인 · 손흥민 무시한 중국, 일본 기자? 사실은…</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2023.07.12<i class="ir i_time"></i>17:39</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+            <title><![CDATA[일본 정부, 이 와중에 과거사 왜곡‥관동대학살 기록 없다? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6520640_36199.html</link>
+            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6520640_36199.html</guid>
+            <pubDate>Sat, 02 Sep 2023 09:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2023-09-01</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/09/01/desk_20230901_194616_1_2_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여성안심귀갓길, 문구만 써놔 효과 없다? (MBC뉴스 ─ 알고보니)]]></title>
@@ -628,14 +636,6 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/04/21/desk_20230421_201337_1_12_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세월호 피해자 의료지원 연장은 혈세낭비? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6474206_36199.html</link>
-            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6474206_36199.html</guid>
-            <pubDate>Fri, 14 Apr 2023 12:34:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2023-04-14</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/04/14/desk_20230414_200703_1_11_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[과거 어느 정부 때 언론 압박 심했나? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20230831079800518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20230831079800518?section=theme-list/factcheck</guid>
@@ -643,7 +643,7 @@
             <content:encoded><![CDATA['언론 신뢰도' 시기별 차이 크지 않아… 편향적 뉴스 소비로 세계 최하위권
 RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓ 문재인 정부↑
 (서울=연합뉴스) 이웅 기...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/cms/2023/08/31/50/PCM20230831000050990_T2.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img5.yna.co.kr/photo/cms/2023/09/01/15/PCM20230901000515990_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[범죄자 중 정신질환자는 얼마나 될까? (연합뉴스 ─ 팩트체크)]]></title>
@@ -1037,12 +1037,28 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/07/19/l_2021071901002535000212291.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["윤, 현직 대통령 노량진수산시장 첫방문" 대통령실 브리핑은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002957968</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002957968</guid>
+            <pubDate>Sat, 02 Sep 2023 09:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 1980년 9월 27일, 전두환 방문... 과거 언론보도로 쉽게 확인 가능]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/090115353852.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["홍범도, 자유시 사변 '독립군 몰살' 가담" 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002957390</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002957390</guid>
             <pubDate>Thu, 31 Aug 2023 23:17:56 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 자유시 참변은 러시아 인민혁명군이 주력부대... '빨치산'은 '의병'이라는 뜻]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/083019390729.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["홍범도·여운형만 중복 서훈 받았다"는 박민식, 사실일까 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002957448</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002957448</guid>
+            <pubDate>Sat, 02 Sep 2023 09:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 동일 공적 아니면 두 차례 서훈 가능... 유관순 열사도 서훈 두 번 받았다]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/090208190782.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["검수완박 때문에 지구대 인력 부족" 국힘 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
@@ -1058,21 +1074,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002953204</guid>
             <pubDate>Wed, 16 Aug 2023 17:20:20 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 좌뇌-우뇌 기능 차이를 과장... 뇌과학에서 '두뇌 유형 분류' 인정 안 해]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["반값등록금 때문에 서울시립대 경쟁력 하락" 국힘 주장 '대체로 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002951984</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002951984</guid>
-            <pubDate>Tue, 15 Aug 2023 11:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 평가 대학 수 증가 탓... '순위 백분율'은 제자리거나 순위 오른 사례도]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/120610245888.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["7만원짜리 잼버리 텐트, 25만원에 납품?" 의혹은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002951713</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002951713</guid>
-            <pubDate>Thu, 10 Aug 2023 19:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 실제 조직위 납품가격은 10만원대... 납품업체 "자외선 차단 강화된 고사양제품"]]></content:encoded>
         </item>
     </channel>
 </rss>

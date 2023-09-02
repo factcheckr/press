@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 23:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 09:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["윤, 현직 대통령 노량진수산시장 첫방문" 대통령실 브리핑은 '거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002957968</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002957968</guid>
+            <pubDate>Sat, 02 Sep 2023 09:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 1980년 9월 27일, 전두환 방문... 과거 언론보도로 쉽게 확인 가능]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/090115353852.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["홍범도, 자유시 사변 '독립군 몰살' 가담" 주장은 '거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002957390</link>
@@ -14,6 +22,14 @@
             <pubDate>Thu, 31 Aug 2023 23:17:56 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 자유시 참변은 러시아 인민혁명군이 주력부대... '빨치산'은 '의병'이라는 뜻]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/083019390729.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["홍범도·여운형만 중복 서훈 받았다"는 박민식, 사실일까]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002957448</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002957448</guid>
+            <pubDate>Sat, 02 Sep 2023 09:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 동일 공적 아니면 두 차례 서훈 가능... 유관순 열사도 서훈 두 번 받았다]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/090208190782.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["검수완박 때문에 지구대 인력 부족" 국힘 주장은 '거짓']]></title>
@@ -29,21 +45,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002953204</guid>
             <pubDate>Wed, 16 Aug 2023 17:20:20 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 좌뇌-우뇌 기능 차이를 과장... 뇌과학에서 '두뇌 유형 분류' 인정 안 해]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["반값등록금 때문에 서울시립대 경쟁력 하락" 국힘 주장 '대체로 거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002951984</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002951984</guid>
-            <pubDate>Tue, 15 Aug 2023 11:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 평가 대학 수 증가 탓... '순위 백분율'은 제자리거나 순위 오른 사례도]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/120610245888.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["7만원짜리 잼버리 텐트, 25만원에 납품?" 의혹은 '거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002951713</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002951713</guid>
-            <pubDate>Thu, 10 Aug 2023 19:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 실제 조직위 납품가격은 10만원대... 납품업체 "자외선 차단 강화된 고사양제품"]]></content:encoded>
         </item>
     </channel>
 </rss>

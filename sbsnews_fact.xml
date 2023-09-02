@@ -4,9 +4,47 @@
         <title>SBS뉴스 ─ 사실은</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 23:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 09:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] "홍범도 논란의 핵심, 역사의 소급 적용"]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007329873&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007329873&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Sat, 02 Sep 2023 09:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007329873&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20230831/201827863_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230831/201827863.jpg'" alt="섬네일 이미지:[사실은] &quot;홍범도 논란의 핵심, 역사의 소급 적용&quot;" class="mfn_img lazy" style="display: inline;">
+									
+								
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007329873&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>[사실은] "홍범도 논란의 핵심, 역사의 소급 적용"</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2023.09.02<i class="ir i_time"></i>07:55</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20230831/201827863_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사실은] 후쿠시마 오염수 '30년' 방류 계획, 따져 보니…]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007322019&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -205,7 +243,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007282901&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20230724/201811668_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230724/201811668.jpg'" alt="섬네일 이미지:[사실은] 가해 학생과 피해 교사 '즉시 분리', 외국은 어떻게?" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230724/201811668_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230724/201811668.jpg'" alt="섬네일 이미지:[사실은] 가해 학생과 피해 교사 '즉시 분리', 외국은 어떻게?" class="mfn_img lazy">
 									
 								
 							</span>
@@ -233,7 +271,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20230724/201811668_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 한반도 '극한 호우', 50년 동안 ○배 늘었다]]></title>
@@ -334,44 +372,6 @@
 							<!-- 기사 정보 -->	
 							<span class="info">
 								<span class="date">2023.07.12<i class="ir i_time"></i>21:18</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 이강인 · 손흥민 무시한 중국, 일본 기자? 사실은…]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007265359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007265359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Thu, 31 Aug 2023 23:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007265359&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230710/201805762_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230710/201805762.jpg'" alt="섬네일 이미지:[사실은] 이강인 · 손흥민 무시한 중국, 일본 기자? 사실은…" class="mfn_img lazy">
-									
-								
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007265359&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>[사실은] 이강인 · 손흥민 무시한 중국, 일본 기자? 사실은…</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2023.07.12<i class="ir i_time"></i>17:39</span>
 							</span>
 						</p>
 						<!--// 텍스트 영역 -->
