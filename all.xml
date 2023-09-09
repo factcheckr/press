@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 19:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 03:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -636,6 +636,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/04/21/desk_20230421_201337_1_12_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['자유시 참변'은 일본의 사주로 일어났다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230908138900518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230908138900518?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 09 Sep 2023 03:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[상해임시정부, 소비에트러시아 지원 속 항일무장부대 통합 추진
+한인 사회주의 양대 세력 갈등…통합부대 주도권 다툼 유혈 사태로
+"홍범도 장군은 중립 지켰으나 높은 명성 때문에 파쟁에 이용"...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2023/08/28/PYH2023082810830001300_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[과거 어느 정부 때 언론 압박 심했나? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20230831079800518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20230831079800518?section=theme-list/factcheck</guid>
@@ -875,16 +885,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
 과거 집계 안된 학교장 자체해결 사안까지 포함해 '통계적 착시' 지적
 경찰청 학폭 검거자수 2000년 3만...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/photo/cms/2023/04/12/69/PCM20230412000069990_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이한열·박종철 열사는 현행법상 국가유공자가 아니다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230418045100518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230418045100518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 18 Apr 2023 04:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[현행법상 민주유공자는 4·19와 5·18만 인정…나머지는 '민주화운동 관련자'
-이한열·박종철 열사 유공자로 인정하는 '민주유공자법', 20년 넘게 자동 폐기만 반복
-민주당 "공정 논란 불...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2020/06/10/PYH2020061003230005400_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
