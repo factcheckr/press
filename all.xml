@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 19:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 22:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -875,16 +875,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
 검색 제한 등 접근성은 떨어져…기계 판독 안돼 AI 인프라 구축 제약
 (서울=연합뉴스) 이웅 기자 ...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/photo/cms/2016/10/31/01/C0A8CA3C000001581ADB56D8000015B0_T2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4대강 사업 과거 정부서 어떤 평가를 받았나 (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230428163800518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230428163800518?section=theme-list/factcheck</guid>
-            <pubDate>Sat, 29 Apr 2023 23:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[MB정부∼문재인 정부 감사원 4번 감사 진행…별도 조사위도 꾸려져
-1차 감사 제외하고 3차례 감사서 부정 평가…문재인 정부선 '재자연화 정책' 추진
-(서울=연합뉴스) 구정모 기자...]]></content:encoded>
-            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2023/04/10/PYH2023041007870001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
