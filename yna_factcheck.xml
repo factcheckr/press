@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 13:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 21:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -247,16 +247,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
 정부, 2026년까지 생산량 420배 늘려 수입 밀가루 10% 대체 목표
 "국산 밀도 경쟁이 안되는데 가루쌀로?…현실성 떨...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2023/05/06/AKR20230506039000518_02_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리나라 판결문 공개 비율은 0.3%에 불과하다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230502081400518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230502081400518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 02 May 2023 22:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[2019년부터 민형사·행정 확정 판결문 대부분 공개…전체 판결의 30%
-검색 제한 등 접근성은 떨어져…기계 판독 안돼 AI 인프라 구축 제약
-(서울=연합뉴스) 이웅 기자 ...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/photo/cms/2016/10/31/01/C0A8CA3C000001581ADB56D8000015B0_T2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
