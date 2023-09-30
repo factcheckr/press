@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 21:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 04:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -634,6 +634,16 @@
             <pubDate>Mon, 08 May 2023 12:34:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2023-05-08</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/05/08/desk_20230508_202021_1_15_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[약국에 약이 부족해 약사들끼리 품앗이를 한다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230926117700518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230926117700518?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 30 Sep 2023 04:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[약사 1천300명 참여하는 '오픈 채팅방' 개설돼 의약품 직거래
+팬데믹 이후 지역 약사회서 채팅방 만들어 의약품 교환하기도
+수급난은 일부 의약품 국한…"수급 불안정 의약품은 20종 정도"...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2022/12/27/PYH2022122714030001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본군 장교 친일행위 판정기준은 독립군 토벌이다? (연합뉴스 ─ 팩트체크)]]></title>
