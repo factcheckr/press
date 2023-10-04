@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 19:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 01:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -247,16 +247,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
 대선 당시 정책공약집엔 없어…윤 대통령 "입법화 노력하겠다"고 말해
 (서울=연합뉴스) 구정모 기자 = ...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/mpic/2023/05/09/MCM20230509000006023_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가루쌀은 겉은 쌀인데 밀과 똑같다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230506039000518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230506039000518?section=theme-list/factcheck</guid>
-            <pubDate>Sat, 06 May 2023 23:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[전분 구조가 밀과 유사해 제분에 적합…가격은 비싸고 글루텐 없어
-정부, 2026년까지 생산량 420배 늘려 수입 밀가루 10% 대체 목표
-"국산 밀도 경쟁이 안되는데 가루쌀로?…현실성 떨...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2023/05/06/AKR20230506039000518_02_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
