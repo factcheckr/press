@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 17:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 02:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -237,16 +237,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
 국토부, 시범개방 때 "2시간 관람은 수용인원 때문…종료시간까지 관람" 발표
 "용산어린이정원 일반공원만큼...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2023/05/04/PYH2023050415250001300_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['간호법 제정'이 尹대통령 대선공약?…진실 공방]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230509040800518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230509040800518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 09 May 2023 01:25:02 GMT</pubDate>
-            <content:encoded><![CDATA[간호법 가결 주도 민주당 대선공약 주장…국민의힘은 '가짜뉴스'라고 반박
-대선 당시 정책공약집엔 없어…윤 대통령 "입법화 노력하겠다"고 말해
-(서울=연합뉴스) 구정모 기자 = ...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/mpic/2023/05/09/MCM20230509000006023_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
