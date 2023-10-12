@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 01:09:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 09:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -227,16 +227,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
 서구국가는 쟁위행위 자체로는 형사처벌 안해…ILO "결사의 자유 침해" 수차례 개선 권고
 (서울=연합뉴스)...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2023/05/11/PYH2023051118640006100_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[용산공원 시범개방 때 이용시간 제한한 적 없다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230515096800518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230515096800518?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 11 Oct 2023 09:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[정부, 작년 5월 임시개방 반대여론 일자 토양오염 대책으로 '체류시간 관리' 제시
-국토부, 시범개방 때 "2시간 관람은 수용인원 때문…종료시간까지 관람" 발표
-"용산어린이정원 일반공원만큼...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2023/05/04/PYH2023050415250001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
