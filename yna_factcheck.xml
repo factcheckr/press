@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 18:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 22:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,16 +217,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
 민주화 이후 재의결 문턱 넘은 법안은 1건에 불과
 (서울=연합뉴스) 구정모 기자 = 윤석열 대통령이 재의요구권(거부권)을 행...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2023/05/19/PYH2023051912190001300_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업무방해죄로 노조 처벌하는 나라는 한국과 일본뿐이다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230516028100518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230516028100518?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 11 Oct 2023 09:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[노동운동 탄압용 일본 형법 '업무방해죄' 본떠…파업권 제약 근거로 이용
-서구국가는 쟁위행위 자체로는 형사처벌 안해…ILO "결사의 자유 침해" 수차례 개선 권고
-(서울=연합뉴스)...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2023/05/11/PYH2023051118640006100_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
