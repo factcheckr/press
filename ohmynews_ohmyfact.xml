@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 01:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 02:31:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[닭장에 갇힌 이스라엘 어린이? "전쟁 전 촬영, 거짓 영상"]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002968334</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002968334</guid>
+            <pubDate>Fri, 13 Oct 2023 02:31:15 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 하마스 공격 전 이미 틱톡에 올라와... BBC 기자 사칭 등 전세계에 허위정보 범람]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["개식용금지법=김건희법, 동물보호단체 먼저 사용", 거짓]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002962874</link>
@@ -38,14 +45,6 @@
             <pubDate>Wed, 11 Oct 2023 09:19:23 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 동일 공적 아니면 두 차례 서훈 가능... 유관순 열사도 서훈 두 번 받았다]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/090208190782.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["검수완박 때문에 지구대 인력 부족" 국힘 주장은 '거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002955284</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002955284</guid>
-            <pubDate>Wed, 11 Oct 2023 09:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 수사권 조정 후에도 서울 지구대 경찰은 증가... 기동대, 수사인력 차출도 별개]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/120610245888.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
