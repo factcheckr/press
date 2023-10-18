@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 07:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 12:40:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[의대 정원 확대, <조선> 3년 전과 이렇게 달라졌다]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002970019</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002970019</guid>
+            <pubDate>Wed, 18 Oct 2023 12:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크- 2020년 의사파업 보도] 정부 원인제공 프레임 강화... "문재인 정부 인기 꺾으려" 지적도]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[닭장에 갇힌 이스라엘 어린이? "전쟁 전 촬영, 거짓 영상"]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002968334</link>
@@ -37,14 +44,6 @@
             <pubDate>Wed, 11 Oct 2023 09:19:23 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 자유시 참변은 러시아 인민혁명군이 주력부대... '빨치산'은 '의병'이라는 뜻]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/083019390729.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["홍범도·여운형만 중복 서훈 받았다"는 박민식, 사실일까]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002957448</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002957448</guid>
-            <pubDate>Wed, 11 Oct 2023 09:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 동일 공적 아니면 두 차례 서훈 가능... 유관순 열사도 서훈 두 번 받았다]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/090208190782.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

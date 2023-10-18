@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 07:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 12:40:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -516,6 +516,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[의대 증원 안해도 의사 남아돌게 된다? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6534770_36199.html</link>
+            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6534770_36199.html</guid>
+            <pubDate>Wed, 18 Oct 2023 12:38:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2023-10-18</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/10/18/desk_20231018_200219_1_9_Large_u.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[해외도 언론사 상대로 가짜뉴스 단속 강화 중? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6526855_36199.html</link>
             <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6526855_36199.html</guid>
@@ -626,14 +634,6 @@
             <pubDate>Wed, 11 Oct 2023 09:18:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2023-05-17</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/05/17/desk_20230517_195045_1_4_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의사면허 취소법은 의사 압박용이다? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6481629_36199.html</link>
-            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6481629_36199.html</guid>
-            <pubDate>Wed, 11 Oct 2023 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2023-05-08</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/05/08/desk_20230508_202021_1_15_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[약국에 약이 부족해 약사들끼리 품앗이를 한다? (연합뉴스 ─ 팩트체크)]]></title>
@@ -987,6 +987,13 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/07/19/l_2021071901002535000212291.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[의대 정원 확대, <조선> 3년 전과 이렇게 달라졌다 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002970019</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002970019</guid>
+            <pubDate>Wed, 18 Oct 2023 12:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크- 2020년 의사파업 보도] 정부 원인제공 프레임 강화... "문재인 정부 인기 꺾으려" 지적도]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[닭장에 갇힌 이스라엘 어린이? "전쟁 전 촬영, 거짓 영상" (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002968334</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002968334</guid>
@@ -1016,14 +1023,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
             <pubDate>Wed, 11 Oct 2023 09:19:23 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 자유시 참변은 러시아 인민혁명군이 주력부대... '빨치산'은 '의병'이라는 뜻]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/083019390729.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["홍범도·여운형만 중복 서훈 받았다"는 박민식, 사실일까 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002957448</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002957448</guid>
-            <pubDate>Wed, 11 Oct 2023 09:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 동일 공적 아니면 두 차례 서훈 가능... 유관순 열사도 서훈 두 번 받았다]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/090208190782.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
