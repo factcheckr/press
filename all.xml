@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 03:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 04:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -987,6 +987,14 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/07/19/l_2021071901002535000212291.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["개원 의사가 7급 공무원보다 못 번다?" 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002972074</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002972074</guid>
+            <pubDate>Fri, 27 Oct 2023 04:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 의협 의정연, '전체 의사 평균' 1억 6500만 원으로 비교... 실제 개원의 연봉은 2억 5천만 원]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/102517264491.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[의대 정원 확대, <조선> 3년 전과 이렇게 달라졌다 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002970019</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002970019</guid>
@@ -1015,14 +1023,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
             <pubDate>Wed, 11 Oct 2023 09:19:23 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 1980년 9월 27일, 전두환 방문... 과거 언론보도로 쉽게 확인 가능]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/090115353852.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["홍범도, 자유시 사변 '독립군 몰살' 가담" 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002957390</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002957390</guid>
-            <pubDate>Wed, 11 Oct 2023 09:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 자유시 참변은 러시아 인민혁명군이 주력부대... '빨치산'은 '의병'이라는 뜻]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/083019390729.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
