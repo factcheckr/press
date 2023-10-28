@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Oct 2023 02:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Oct 2023 07:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,16 +197,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
 자치단체장, 군사적 긴급상황 임의 판단해 경보 발령 못해
 (서울=연합뉴스) 김준태 계승현 기자 = 지난...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2023/05/31/PYH2023053100520001300_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천문학적인 한전 적자 원인은…탈원전? 유가 급등?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230531089800518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230531089800518?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 11 Oct 2023 09:18:30 GMT</pubDate>
-            <content:encoded><![CDATA["탈원전 정책으로 원전건설 지연·원전이용률 저하…한전 적자 키워"
-한전 실적은 국제유가에 연동…"원전과 통계학적 상관관계 찾기 어려워"
-안전 우려로 '원전 수용성' 갈수록 저하…준공 지...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/etc/inner/KR/2023/05/31/AKR20230531089800518_01_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
