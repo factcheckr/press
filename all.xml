@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 11:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 14:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -516,6 +516,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[중대재해처벌법이 기업 위협한다? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6540836_36199.html</link>
+            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6540836_36199.html</guid>
+            <pubDate>Mon, 06 Nov 2023 14:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2023-11-06</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/11/06/desk_20231106_202316_1_17_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이태원 참사의 진상, 대부분 규명됐다? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6538069_36199.html</link>
             <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6538069_36199.html</guid>
@@ -626,14 +634,6 @@
             <pubDate>Wed, 11 Oct 2023 09:18:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2023-05-30</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/05/30/desk_20230530_202254_1_18_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노란봉투법이 불법행위에 면죄부? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6487842_36199.html</link>
-            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6487842_36199.html</guid>
-            <pubDate>Wed, 11 Oct 2023 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2023-05-26</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/05/26/desk_20230526_200919_1_13_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[약국에 약이 부족해 약사들끼리 품앗이를 한다? (연합뉴스 ─ 팩트체크)]]></title>
