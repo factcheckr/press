@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 22:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 23:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,16 +166,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
 이달 시행된 '자체등급분류' 혼선 탓…영등위 "일본 콘텐츠는 미포함"
 종전대로 '영등위 심사' 뒤 공개 가능…넷플릭스 "최대...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2023/06/10/AKR20230610042851518_03_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['후쿠시마 원전사고' 넷플릭스 드라마 한국 공개 일부러 늦췄다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230610042800518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230610042800518?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 11 Oct 2023 09:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 공개일 넘기면서 일부 네티즌 '정치적 압력 의혹' 제기
-넷플릭스 "이달 자체등급분류 시행으로 작품 공개 지연…빠른 시일내 공개"
-(서울=연합뉴스) 이웅 기자 = 후쿠시마 ...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2023/06/10/AKR20230610042800518_03_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
