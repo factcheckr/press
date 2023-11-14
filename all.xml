@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 01:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 02:28:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -926,6 +926,14 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/07/19/l_2021071901002535000212291.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["서울 편입, 김포가 3000억원 손해" 주장은 '대체로 사실' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002976787</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002976787</guid>
+            <pubDate>Tue, 14 Nov 2023 02:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[[김포 서울 편입 팩트체크 ②] 지방세 대부분 서울시세 전환... "조정교부금 받아도 자체 재원 축소 불가피"]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/120610151812.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA["서울 출퇴근 80% 넘어서 '김포구' 편입?" MB 정부도 반대했는데 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002976585</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002976585</guid>
@@ -954,14 +962,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002968334</guid>
             <pubDate>Fri, 13 Oct 2023 02:31:15 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 하마스 공격 전 이미 틱톡에 올라와... BBC 기자 사칭 등 전세계에 허위정보 범람]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["개식용금지법=김건희법, 동물보호단체 먼저 사용", 거짓 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002962874</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002962874</guid>
-            <pubDate>Wed, 11 Oct 2023 09:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 국힘 주장과 달리 정치권에서 먼저 사용, 언론 통해 확산...동물보호단체 "특정 정치색 오히려 도움 안돼"]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/091912183320.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
