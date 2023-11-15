@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 19:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 21:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -634,6 +634,15 @@
             <pubDate>Wed, 11 Oct 2023 09:18:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2023-06-05</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/06/05/desk_20230605_201654_1_14_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['노00존'은 합법? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20231113122900505?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20231113122900505?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 15 Nov 2023 21:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김수지 조서연 인턴기자 = "고객님 매장 이용 시간이 너무 깁니다. 젊은 고객님들은 아예 이쪽으로 안 오고 있어요."
+지난 9월 서울의 한 프랜차이즈 카...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2023/11/13/AKR20231113122900505_03_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[약국에 약이 부족해 약사들끼리 품앗이를 한다? (연합뉴스 ─ 팩트체크)]]></title>
