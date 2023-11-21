@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 10:28:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 11:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,44 @@
             <pubDate>Mon, 16 Oct 2023 23:16:17 GMT</pubDate>
             <content:encoded><![CDATA["국민 건강을 지키는 최후 보루인 건강보험에 대한 정상화가 시급합니다. 지난 5...]]></content:encoded>
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/12/16/310691671170871797.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] "사이렌 오더는 취소 안 돼요"…문제 없나 보니 (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007432566&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007432566&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Tue, 21 Nov 2023 11:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007432566&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20231121/201860026_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231121/201860026.jpg'" alt="섬네일 이미지:[사실은] &quot;사이렌 오더는 취소 안 돼요&quot;…문제 없나 보니" class="mfn_img lazy" style="display: inline;">
+									
+								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007432566&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>[사실은] "사이렌 오더는 취소 안 돼요"…문제 없나 보니</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2023.11.21<i class="ir i_time"></i>20:10</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20231121/201860026_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 스타벅스 "주문 취소 안 된다"…규정 알아보니 (SBS뉴스 ─ 사실은)]]></title>
@@ -333,7 +371,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007380798&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20231012/201843660_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231012/201843660.jpg'" alt="섬네일 이미지:[사실은] '압도적 군사력' 이스라엘…전쟁의 향방은?" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20231012/201843660_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231012/201843660.jpg'" alt="섬네일 이미지:[사실은] '압도적 군사력' 이스라엘…전쟁의 향방은?" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -361,7 +399,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20231012/201843660_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] "후쿠시마산 수산물 659톤 수입"…확인해보니 (SBS뉴스 ─ 사실은)]]></title>
@@ -462,44 +500,6 @@
 							<!-- 기사 정보 -->	
 							<span class="info">
 								<span class="date">2023.09.18<i class="ir i_time"></i>20:39</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] "홍범도 논란의 핵심, 역사의 소급 적용" (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007329873&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007329873&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Wed, 11 Oct 2023 09:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007329873&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230831/201827863_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230831/201827863.jpg'" alt="섬네일 이미지:[사실은] &quot;홍범도 논란의 핵심, 역사의 소급 적용&quot;" class="mfn_img lazy">
-									
-								
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007329873&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>[사실은] "홍범도 논란의 핵심, 역사의 소급 적용"</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2023.09.02<i class="ir i_time"></i>07:55</span>
 							</span>
 						</p>
 						<!--// 텍스트 영역 -->
@@ -935,6 +935,14 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/07/19/l_2021071901002535000212291.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["서울 편입 찬성 2배 늘었다?" 김포시 여론조사의 함정 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002979446</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002979446</guid>
+            <pubDate>Tue, 21 Nov 2023 11:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 보수층 표집 유리한 '유선 100%' 조사 '한계'... 경기도는 '도민 전체 대상' 조사]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/112112261974.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA["서울 편입, 김포가 3000억원 손해" 주장은 '대체로 사실' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002976787</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002976787</guid>
@@ -964,13 +972,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002970019</guid>
             <pubDate>Wed, 18 Oct 2023 12:40:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크- 2020년 의사파업 보도] 정부 원인제공 프레임 강화... "문재인 정부 인기 꺾으려" 지적도]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[닭장에 갇힌 이스라엘 어린이? "전쟁 전 촬영, 거짓 영상" (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002968334</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002968334</guid>
-            <pubDate>Fri, 13 Oct 2023 02:31:15 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 하마스 공격 전 이미 틱톡에 올라와... BBC 기자 사칭 등 전세계에 허위정보 범람]]></content:encoded>
         </item>
     </channel>
 </rss>
