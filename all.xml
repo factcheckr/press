@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 11:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 12:34:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,44 @@
             <pubDate>Mon, 16 Oct 2023 23:16:17 GMT</pubDate>
             <content:encoded><![CDATA["국민 건강을 지키는 최후 보루인 건강보험에 대한 정상화가 시급합니다. 지난 5...]]></content:encoded>
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/12/16/310691671170871797.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] '가짜 의사·약사' 등장 광고, 유튜브에선 가능했던 이유 (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007445087&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007445087&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 30 Nov 2023 12:32:43 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007445087&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20231130/201864551_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231130/201864551.jpg'" alt="섬네일 이미지:[사실은] '가짜 의사·약사' 등장 광고, 유튜브에선 가능했던 이유" class="mfn_img lazy" style="display: inline;">
+									
+								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007445087&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>[사실은] '가짜 의사·약사' 등장 광고, 유튜브에선 가능했던 이유</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2023.11.30<i class="ir i_time"></i>21:02</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20231130/201864551_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독] "마법 같은 다이어트 알약"…광고 속 의사·약사, 정체는? (사실은) (SBS뉴스 ─ 사실은)]]></title>
@@ -333,7 +371,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007408801&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20231102/201852354_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231102/201852354.jpg'" alt="섬네일 이미지:[사실은] 후쿠시마 오염수 3차 방류 시작…생선회 매출은" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20231102/201852354_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231102/201852354.jpg'" alt="섬네일 이미지:[사실은] 후쿠시마 오염수 3차 방류 시작…생선회 매출은" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -361,7 +399,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20231102/201852354_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 한국형 아우토반 논쟁…속도 무제한, 안전할까 (SBS뉴스 ─ 사실은)]]></title>
@@ -462,44 +500,6 @@
 							<!-- 기사 정보 -->	
 							<span class="info">
 								<span class="date">2023.10.06<i class="ir i_time"></i>19:53</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] "망고 없네" 65억 소송…한국 스타벅스 어떨까 (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007358479&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007358479&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Mon, 27 Nov 2023 20:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007358479&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230922/201837034_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230922/201837034.jpg'" alt="섬네일 이미지:[사실은] &quot;망고 없네&quot; 65억 소송…한국 스타벅스 어떨까" class="mfn_img lazy">
-									
-								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007358479&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>[사실은] "망고 없네" 65억 소송…한국 스타벅스 어떨까</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2023.09.22<i class="ir i_time"></i>20:44</span>
 							</span>
 						</p>
 						<!--// 텍스트 영역 -->
