@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 10:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 14:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메이플 ‘남혐 집게손가락’의 끊이지 않는 음모론]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202312051853001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202312051853001</guid>
+            <pubDate>Tue, 05 Dec 2023 14:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[메이플스토리 ‘집게손가락’ 의혹을 제기하는 남초 커뮤니티 유저들의 주장은 간단했다. 페미니즘 사상을 지지하는 여성 애니메이터가 엔젤릭버스터(엔버) MV에 ‘남성혐오’ 표현인 집게손가락을 몰래 집어넣었다는 것이었다. 커뮤니티 유저들은 뿌리의 다른 작업물을 0.1초 프레임 단위로 분석하며 “집게손가락이 한두 개가 아니다”라고 주장했다.그러나 스튜디오 뿌리가 만든 모든 작업물을 남성이 연출한다는 사실이 알려지면서 음모론의 가장 중요한 근거가 깨졌다. 그림을 그...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/12/05/news-p.v1.20231205.c245a63b449a40b4a899c1b55495057a_P1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[“선진국 중 공영방송이 이렇게 많은 나라가 없다”는 이동관, 따져보니]]></title>
             <link>https://www.khan.co.kr/national/media/article/202308201642001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 11 Oct 2023 09:19:11 GMT</pubDate>
             <content:encoded><![CDATA[①민주노총 집회 봐줬다?213개 부대 동원한 경찰 “장소 급변경 탓 대응 늦어…최대한 봉쇄”②처벌 수위 달랐다?광복절 집회 과격 행위 있어 체포…민주노총은 2시간 뒤 자진 해산 ③자영업자 시위 단속 과했다?집회 주최자 내사 착수한 경찰“대상 따라 법 집행 달리하지 않아”국민의힘 등 야권을 중심으로 정부가 ‘정치 방역’을 하고 있다는 비판이 이어지고 있다. 코로나19 4차 대유행 국면에서 민주노총이 지난 3일 서울 여의도와 종로 등지에서 조합원 8000여명이 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/07/19/l_2021072001002540200216061.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보수단체엔 강경, 진보단체엔 관대? 코로나19 정치방역 논란 진실은]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202107191704001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202107191704001</guid>
-            <pubDate>Wed, 11 Oct 2023 09:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘 등 야권을 중심으로 정부가 ‘정치 방역’을 하고 있다는 비판이 이어지고 있다. 코로나19 4차 대유행 국면에서 민주노총이 지난 3일 서울 여의도와 종로 등지에서 조합원 8000여명이 참가한 대규모 집회를 열었는데, 이 집회에 대한 경찰 대응이 지난해 보수단체가 주최한 광복절 집회 때와 달리 미온적이라는 게 비판의 골자이다. “보수단체 집회에는 ‘쇠방망이’를 들고, 민주노총 집회에는 ‘솜방망이’를 들고 있다”는 것이다. 경찰은 야권의 주장에 “동의할...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/07/19/l_2021071901002535000212291.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
