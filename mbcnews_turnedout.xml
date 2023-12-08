@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 11:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 12:35:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['서울의 봄' 반역자들, 죗값 치렀나?]]></title>
+            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6551387_36199.html</link>
+            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6551387_36199.html</guid>
+            <pubDate>Fri, 08 Dec 2023 12:34:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2023-12-08</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/12/08/desk_20231208_200335_1_10_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[용산참사는 전문 시위꾼들의 도심테러?]]></title>
             <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6548463_36199.html</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 11 Oct 2023 09:18:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2023-06-21</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/06/21/desk_20230621_195440_1_6_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[처리된 오염수, 음용수 기준에 맞다?]]></title>
-            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6494328_36199.html</link>
-            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6494328_36199.html</guid>
-            <pubDate>Wed, 11 Oct 2023 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2023-06-16</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/06/16/desk_20230616_201052_1_14_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
