@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 20:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 22:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -634,6 +634,15 @@
             <pubDate>Wed, 11 Oct 2023 09:18:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2023-07-07</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/07/07/desk_20230707_201812_1_17_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포장마차는 왜 신용카드를 안 받을까? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20231221105800505?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20231221105800505?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 22 Dec 2023 22:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김수지 이다빈 조서연 인턴기자 = "우리도 벌금 말고 합법적으로 세금을 내고 싶어요. 그렇지만, 우리는 사업자 등록을 못 하는걸요."
+최근 커뮤니티 ...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2023/12/21/AKR20231221105800505_04_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['노00존'은 합법? (연합뉴스 ─ 팩트체크)]]></title>
