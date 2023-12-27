@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 11:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 12:31:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['장병 교재' 이승만 기술, 기존 교재도 마찬가지?]]></title>
+            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6557056_36199.html</link>
+            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6557056_36199.html</guid>
+            <pubDate>Wed, 27 Dec 2023 12:30:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2023-12-27</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/12/27/desk_20231227_202852_1_17_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['서울의 봄' 그 후‥반란에 맞선 대가는?]]></title>
             <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6552467_36199.html</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 11 Oct 2023 09:18:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2023-07-19</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/07/19/desk_20230719_201821_1_16_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법원이 월례비를 임금으로 판단하지 않았다?]]></title>
-            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6501253_36199.html</link>
-            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6501253_36199.html</guid>
-            <pubDate>Wed, 11 Oct 2023 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2023-07-07</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/07/07/desk_20230707_201812_1_17_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
