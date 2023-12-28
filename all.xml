@@ -4,146 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 06:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 09:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[통근자가 많아 김포를 서울로? 경기도에서 10위권 [팩트체크K] (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=7806324</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=7806324</guid>
-            <pubDate>Tue, 31 Oct 2023 12:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘 김기현 대표가 갑작스럽게 밝힌 '김포의 서울 편입'이 계속 화제입니다.김기현 대표...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2023/10/31/306621698727052482.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상] “이주민은 문제 아닌 해결책”…독일이 이주민 통합에 나선 이유는 (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=7702565</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=7702565</guid>
-            <pubDate>Mon, 16 Oct 2023 23:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[KBS는 지난 3주간 연속기획 팩트체크 &amp;lt;'외노자'를 말하다&amp;gt; 기사를 통해 우리...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/vod/2023/06/16/310691686897859609.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[외국인이 내국인보다 범죄를 많이 저지를까? [팩트체크K] (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=7701977</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=7701977</guid>
-            <pubDate>Mon, 16 Oct 2023 23:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[지난 4월 서울 구로구 가리봉동 일대에서 중국 동포(조선족) 출신 9명으로 구성된 범죄단체...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2023/06/14/310691686550521640.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[선진국은 외국인 최저임금을 내국인과 달리 지급할까 [팩트체크K] (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=7701726</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=7701726</guid>
-            <pubDate>Mon, 16 Oct 2023 23:16:17 GMT</pubDate>
-            <content:encoded><![CDATA["우리나라가 지금 내국인이든 외국인이든 최저임금을 동등하게 일괄적용하고 있잖아요...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2023/06/12/310691686298082182.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[외국인 노동자 처우가 열악하다는 건 과장된 사실일까 [팩트체크K] (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=7696344</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=7696344</guid>
-            <pubDate>Mon, 16 Oct 2023 23:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[국내에서 일하고 있는 외국인 노동자의 근무 환경이 열악하다는 지적이 많습니다. 지금까지 수...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2023/06/09/310691686190155567.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[외국인력 알선 정책이 되레 불법체류자를 양산하나 [팩트체크K] (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=7696182</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=7696182</guid>
-            <pubDate>Mon, 16 Oct 2023 23:16:17 GMT</pubDate>
-            <content:encoded><![CDATA["고용허가제가 오히려 불법체류 외국인을 양산하고 있다."   기업과 외국인 노동...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2023/06/08/310691686123384844.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[건설현장은 이미 외국인 노동자가 장악? [팩트체크K] (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=7692794</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=7692794</guid>
-            <pubDate>Mon, 16 Oct 2023 23:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[아파트 건설현장에서 일을 마치고 퇴근하는 외국인 노동자들의 모습은 언젠가부터 낯설지 않은 ...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2023/06/01/310691685426024840.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[외국인력 없이는 정말 ‘뿌리산업’ 지탱이 힘든가 [팩트체크K] (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=7691186</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=7691186</guid>
-            <pubDate>Mon, 16 Oct 2023 23:16:17 GMT</pubDate>
-            <content:encoded><![CDATA['뿌리산업'주조, 금형, 용접, 표면처리 등 기초 공정 기술을 활용해 사업을 영위하는 업종...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2023/06/01/310691685425938157.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[외국인 노동자가 내국인 일자리를 빼앗고 있나 [팩트체크K] (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=7691013</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=7691013</guid>
-            <pubDate>Mon, 16 Oct 2023 23:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[① [팩트체크K]외국인 노동자가 내국인 일자리를 빼앗고 있나소위 ‘외국인 노동자가 내국인 ...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2023/06/02/316031685688155616.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이슈체크K] 튀르키예 지진 기부 전 ‘이것’ 유의하세요 (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=7607434</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=7607434</guid>
-            <pubDate>Mon, 16 Oct 2023 23:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[튀르키예 대지진 사망자가 4만 명을 훌쩍 넘어선 가운데 세계 곳곳에서 피해자 구조와 생존자...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2023/02/16/310691676545823110.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크K] 2055년 국민연금 고갈되면, 한 푼도 못 받게 되나? (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=7602853</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=7602853</guid>
-            <pubDate>Mon, 16 Oct 2023 23:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[보건복지부 산하 국민연금 재정추계위원회가 최근 2055년이 되면 국민연금 기금이 바닥날 것...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2023/02/10/310691676005204656.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이슈체크K] ‘엉터리 구직자’ 막겠다는 정부, 얼마나 되길래? (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=7597491</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=7597491</guid>
-            <pubDate>Mon, 16 Oct 2023 23:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 최근 실업급여 제도를 대폭 손보겠다고 밝혔습니다. 실업급여 수급 기준을 강화하고 현...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2023/02/03/310691675409912906.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이슈체크K] 식품 영양정보, 믿고 먹어도 될까 (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=7257657</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=7257657</guid>
-            <pubDate>Mon, 16 Oct 2023 23:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[최근 유명 사이트에서 1천만 개 넘게 팔렸다고 홍보한 닭가슴살 소시지의 영양성분이 제품에 ...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2023/01/10/310691673345244427.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이슈체크K] 6.1지방선거에서 실험한 중·대선거구제, 그 결과 보니 (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=6538874</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=6538874</guid>
-            <pubDate>Mon, 16 Oct 2023 23:16:17 GMT</pubDate>
-            <content:encoded><![CDATA["소선거구제는 전부 아니면 전무로 가다 보니 선거가 너무 치열해지고 진영이 양극...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2023/01/03/310691672735232763.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이슈체크K] 주휴수당 폐지되면 내 월급은 얼마나 줄어들까? (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=6106898</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=6106898</guid>
-            <pubDate>Mon, 16 Oct 2023 23:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[정부 자문기구인 '미래노동시장연구회'(이하 미노연)가 최근 주 52시간제 연장근로 기준을 ...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/12/26/310691671784832898.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크K] 한국의 건강보험 보장률이 OECD 최저 수준이라고? (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=5628567</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=5628567</guid>
-            <pubDate>Mon, 16 Oct 2023 23:16:17 GMT</pubDate>
-            <content:encoded><![CDATA["국민 건강을 지키는 최후 보루인 건강보험에 대한 정상화가 시급합니다. 지난 5...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/12/16/310691671170871797.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['조인성·송혜교' 영상 보고 투자했는데…실체는? [사실은] (SBS뉴스 ─ 사실은)]]></title>
+            <title><![CDATA[[사실은] '조인성·송혜교' 영상 보고 투자했는데…실체는? (SBS뉴스 ─ 사실은)]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007478196&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007478196&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Wed, 27 Dec 2023 12:30:32 GMT</pubDate>
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007478196&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20231227/201875466_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231227/201875466.jpg'" alt="섬네일 이미지:'조인성·송혜교' 영상 보고 투자했는데…실체는? [사실은]" class="mfn_img lazy" style="display: inline;">
+									<img src="//img.sbs.co.kr/newimg/news/20231227/201875466_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231227/201875466.jpg'" alt="섬네일 이미지:[사실은] '조인성·송혜교' 영상 보고 투자했는데…실체는?" class="mfn_img lazy" style="display: inline;">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -153,7 +25,7 @@
 						<p class="desc">
 							<!-- 기사 제목 -->						
 							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007478196&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>'조인성·송혜교' 영상 보고 투자했는데…실체는? [사실은]</strong>
+								<strong>[사실은] '조인성·송혜교' 영상 보고 투자했는데…실체는?</strong>
 							</a>
 							<!-- 기사 정보 -->	
 							<span class="info">
