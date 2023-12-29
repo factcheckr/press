@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 04:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 06:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -114,16 +114,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
 스페인·그리스 폭염에 이름 붙여…LA 등 미국서도 논의 "경각심 제고"
 (서울=연합뉴스) 우혜림 인턴 기자 =...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/cms/2018/08/03/15/C0A8CA3C00000164FDB6CFDF00047E5C_T2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[학생인권조례 때문에 교권침해가 늘어났다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230801034200518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230801034200518?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 11 Oct 2023 09:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[학계, 1995년 '수요자 중심' 5·31 교육개혁 후 교권위기 가속화 분석
-해외서도 교권침해 심각…학부모 등 악성 민원 시달려
-'인권교육 받은 학생일수록 교사 권위·교육권 존중' 실증...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2023/07/27/PYH2023072705530001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
