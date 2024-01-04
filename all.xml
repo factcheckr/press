@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 07:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 13:25:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -513,7 +513,7 @@
             <guid>https://www.yna.co.kr/view/AKR20231221105800505?section=theme-list/factcheck</guid>
             <pubDate>Fri, 22 Dec 2023 22:16:02 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 김수지 이다빈 조서연 인턴기자 = "우리도 벌금 말고 합법적으로 세금을 내고 싶어요. 그렇지만, 우리는 사업자 등록을 못 하는걸요."
-최근 커뮤니티 ...]]></content:encoded>
+최근 커뮤니티 '...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2023/12/21/AKR20231221105800505_04_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
