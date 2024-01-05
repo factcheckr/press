@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 23:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 10:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -766,6 +766,14 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/07/19/l_2021072001002540200216061.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["전장연 지하철 시위는 불법?" 서울교통공사 주장 따져보니 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002990906</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002990906</guid>
+            <pubDate>Fri, 05 Jan 2024 10:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 집시법 대상 아니고 '불법' 판례 없어... '장애인 기본권 침해' 주장도]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/010510550087.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA["서울 편입 찬성 2배 늘었다?" 김포시 여론조사의 함정 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002979446</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002979446</guid>
@@ -796,13 +804,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
             <pubDate>Fri, 27 Oct 2023 04:25:17 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 의협 의정연, '전체 의사 평균' 1억 6500만 원으로 비교... 실제 개원의 연봉은 2억 5천만 원]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/102517264491.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의대 정원 확대, <조선> 3년 전과 이렇게 달라졌다 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002970019</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002970019</guid>
-            <pubDate>Wed, 18 Oct 2023 12:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크- 2020년 의사파업 보도] 정부 원인제공 프레임 강화... "문재인 정부 인기 꺾으려" 지적도]]></content:encoded>
         </item>
     </channel>
 </rss>
