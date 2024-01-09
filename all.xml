@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 06:28:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 08:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -756,6 +756,14 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/07/19/l_2021072001002540200216061.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이낙연 사과한 "민주당 국회의원 전과자 44%" 발언 검증해보니 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002992094</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002992094</guid>
+            <pubDate>Tue, 09 Jan 2024 08:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 민주화·노동운동 전과 제외하면 16.4%...국힘 비율이 더 높아]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/010913390568.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["전장연 지하철 시위는 불법?" 서울교통공사 주장 따져보니 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002990906</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002990906</guid>
@@ -786,14 +794,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
             <pubDate>Mon, 13 Nov 2023 05:22:45 GMT</pubDate>
             <content:encoded><![CDATA[[김포 서울 편입 팩트체크 ①] 김포에서 서울 통근 29.3%... 12개 접경 도시 중 9위]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/120610245888.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["개원 의사가 7급 공무원보다 못 번다?" 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002972074</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002972074</guid>
-            <pubDate>Fri, 27 Oct 2023 04:25:17 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 의협 의정연, '전체 의사 평균' 1억 6500만 원으로 비교... 실제 개원의 연봉은 2억 5천만 원]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/102517264491.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
