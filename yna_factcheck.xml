@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jan 2024 23:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 01:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,16 +94,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
 유관순 열사도 두번 추서돼…역사적 평가 달라지면 서훈 등급 조정 고려할 필요도
 (서울=연합뉴...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2019/07/19/PYH2019071909290001300_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파행 잼버리 영지 배수는 과연 문제가 없었을까?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230817042200055?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230817042200055?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 11 Oct 2023 09:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[영지 델타구역 상당 부분 침수…외신, 숙영지 상황 전해
-배수펌프 설치에도 침수 목격…파행 직접원인으로 보기엔 무리
-(부안=연합뉴스) 정경재 기자 = "잼버리 배수 대책...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2023/08/01/PYH2023080115030005500_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
