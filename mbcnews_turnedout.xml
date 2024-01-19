@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 04:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 15:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[15년째 외치는 "책임자 처벌"‥이유는?]]></title>
+            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6564151_36515.html</link>
+            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6564151_36515.html</guid>
+            <pubDate>Fri, 19 Jan 2024 15:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2024-01-19</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/01/19/desk_20240119_201001_1_13_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이태원참사 특별법, 야당과 유족 맘대로?]]></title>
             <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6561281_36515.html</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 11 Oct 2023 09:18:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2023-08-04</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/08/04/desk_20230804_195858_1_9_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[학생인권조례 때문에 교권침해 늘었다?]]></title>
-            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6508808_36199.html</link>
-            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6508808_36199.html</guid>
-            <pubDate>Wed, 11 Oct 2023 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2023-07-28</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/07/28/desk_20230728_201818_1_11_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

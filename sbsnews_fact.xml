@@ -4,7 +4,7 @@
         <title>SBS뉴스 ─ 사실은</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 04:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 15:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,7 +15,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007499882&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20240115/201882687_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240115/201882687.jpg'" alt="섬네일 이미지:[사실은] '인천 랜드마크'가 중국 광저우 타워?…확인해 보니" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20240115/201882687_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240115/201882687.jpg'" alt="섬네일 이미지:[사실은] '인천 랜드마크'가 중국 광저우 타워?…확인해 보니" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -43,7 +43,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20240115/201882687_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['지방이 너덜너덜' 화제 영상…레몬 주사 효과, 진짜일까 [사실은]]]></title>
@@ -53,7 +53,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007494459&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20240110/201880814_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240110/201880814.jpg'" alt="섬네일 이미지:'지방이 너덜너덜' 화제 영상…레몬 주사 효과, 진짜일까 [사실은]" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20240110/201880814_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240110/201880814.jpg'" alt="섬네일 이미지:'지방이 너덜너덜' 화제 영상…레몬 주사 효과, 진짜일까 [사실은]" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -81,7 +81,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20240110/201880814_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] '조인성·송혜교' 영상 보고 투자했는데…실체는?]]></title>
@@ -91,7 +91,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007478196&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20231227/201875466_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231227/201875466.jpg'" alt="섬네일 이미지:[사실은] '조인성·송혜교' 영상 보고 투자했는데…실체는?" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20231227/201875466_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231227/201875466.jpg'" alt="섬네일 이미지:[사실은] '조인성·송혜교' 영상 보고 투자했는데…실체는?" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -119,7 +119,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20231227/201875466_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[고발당한 글루타치온 필름 광고…논란 쟁점은? [사실은]]]></title>
@@ -129,7 +129,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007470514&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20231220/201872822_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231220/201872822.jpg'" alt="섬네일 이미지:고발당한 글루타치온 필름 광고…논란 쟁점은? [사실은]" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20231220/201872822_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231220/201872822.jpg'" alt="섬네일 이미지:고발당한 글루타치온 필름 광고…논란 쟁점은? [사실은]" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -157,7 +157,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20231220/201872822_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["신뢰감 있는 인상 찾습니다"…실제 약국 빌려 약사 사칭 [사실은]]]></title>
@@ -167,7 +167,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007454072&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20231207/201867499_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231207/201867499.jpg'" alt="섬네일 이미지:&quot;신뢰감 있는 인상 찾습니다&quot;…실제 약국 빌려 약사 사칭 [사실은]" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20231207/201867499_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231207/201867499.jpg'" alt="섬네일 이미지:&quot;신뢰감 있는 인상 찾습니다&quot;…실제 약국 빌려 약사 사칭 [사실은]" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -195,7 +195,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20231207/201867499_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] '가짜 의사·약사' 등장 광고, 유튜브에선 가능했던 이유]]></title>
@@ -205,7 +205,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007445087&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20231130/201864551_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231130/201864551.jpg'" alt="섬네일 이미지:[사실은] '가짜 의사·약사' 등장 광고, 유튜브에선 가능했던 이유" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20231130/201864551_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231130/201864551.jpg'" alt="섬네일 이미지:[사실은] '가짜 의사·약사' 등장 광고, 유튜브에선 가능했던 이유" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -233,7 +233,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20231130/201864551_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[단독] "마법 같은 다이어트 알약"…광고 속 의사·약사, 정체는? (사실은)]]></title>
