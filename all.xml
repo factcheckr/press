@@ -4,9 +4,47 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 11:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 12:38:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] '82년생 김지영 연금' 제안…여성만 혜택받나 (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007513563&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007513563&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 25 Jan 2024 12:36:43 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007513563&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20240125/201887121_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240125/201887121.jpg'" alt="섬네일 이미지:[사실은] '82년생 김지영 연금' 제안…여성만 혜택받나" class="mfn_img lazy" style="display: inline;">
+									
+								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007513563&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>[사실은] '82년생 김지영 연금' 제안…여성만 혜택받나</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2024.01.25<i class="ir i_time"></i>21:06</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20240125/201887121_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[체력시험, 남녀 동일 기준 적용…여성 소방관 줄어든다? [사실은] (SBS뉴스 ─ 사실은)]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007508699&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -205,7 +243,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007454072&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20231207/201867499_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231207/201867499.jpg'" alt="섬네일 이미지:&quot;신뢰감 있는 인상 찾습니다&quot;…실제 약국 빌려 약사 사칭 [사실은]" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20231207/201867499_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231207/201867499.jpg'" alt="섬네일 이미지:&quot;신뢰감 있는 인상 찾습니다&quot;…실제 약국 빌려 약사 사칭 [사실은]" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -233,7 +271,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20231207/201867499_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] '가짜 의사·약사' 등장 광고, 유튜브에선 가능했던 이유 (SBS뉴스 ─ 사실은)]]></title>
@@ -350,42 +388,12 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[사실은] 스타벅스 "주문 취소 안 된다"…규정 알아보니 (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007432555&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007432555&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Mon, 27 Nov 2023 20:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007432555&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230713/201807445_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230713/201807445.jpg'" alt="섬네일 이미지:[사실은] 스타벅스 &quot;주문 취소 안 된다&quot;…규정 알아보니" class="mfn_img lazy">
-									
-								
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007432555&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>[사실은] 스타벅스 "주문 취소 안 된다"…규정 알아보니</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2023.11.21<i class="ir i_time"></i>18:30</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+            <title><![CDATA[중대재해처벌법 확대로 골목 식당·카페 타격? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6565844_36515.html</link>
+            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6565844_36515.html</guid>
+            <pubDate>Thu, 25 Jan 2024 12:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2024-01-25</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/01/25/desk_20240125_195222_1_3_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[15년째 외치는 "책임자 처벌"‥이유는? (MBC뉴스 ─ 알고보니)]]></title>
@@ -498,14 +506,6 @@
             <pubDate>Wed, 11 Oct 2023 09:18:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2023-08-11</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/08/11/desk_20230811_195955_1_8_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잼버리 온열환자 속출, 어디서나 있는 일? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6511095_36199.html</link>
-            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6511095_36199.html</guid>
-            <pubDate>Wed, 11 Oct 2023 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2023-08-04</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/08/04/desk_20230804_195858_1_9_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포장마차는 왜 신용카드를 안 받을까? (연합뉴스 ─ 팩트체크)]]></title>

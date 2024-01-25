@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 11:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 12:38:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중대재해처벌법 확대로 골목 식당·카페 타격?]]></title>
+            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6565844_36515.html</link>
+            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6565844_36515.html</guid>
+            <pubDate>Thu, 25 Jan 2024 12:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2024-01-25</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/01/25/desk_20240125_195222_1_3_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[15년째 외치는 "책임자 처벌"‥이유는?]]></title>
             <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6564151_36515.html</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 11 Oct 2023 09:18:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2023-08-11</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/08/11/desk_20230811_195955_1_8_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잼버리 온열환자 속출, 어디서나 있는 일?]]></title>
-            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6511095_36199.html</link>
-            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6511095_36199.html</guid>
-            <pubDate>Wed, 11 Oct 2023 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2023-08-04</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/08/04/desk_20230804_195858_1_9_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
