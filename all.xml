@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 11:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 13:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -388,6 +388,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA['이태원참사 특별법'이 헌법 훼손·기본권 침해? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6567160_36515.html</link>
+            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6567160_36515.html</guid>
+            <pubDate>Tue, 30 Jan 2024 13:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2024-01-30</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/01/30/desk_20240130_195316_1_5_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[중대재해처벌법 확대로 골목 식당·카페 타격? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6565844_36515.html</link>
             <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6565844_36515.html</guid>
@@ -498,14 +506,6 @@
             <pubDate>Wed, 11 Oct 2023 09:18:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2023-08-22</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/08/22/desk_20230822_201106_1_13_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야영 대신 '관광' 잼버리‥정말 태풍 때문이었나? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6513531_36199.html</link>
-            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6513531_36199.html</guid>
-            <pubDate>Wed, 11 Oct 2023 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2023-08-11</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/08/11/desk_20230811_195955_1_8_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포장마차는 왜 신용카드를 안 받을까? (연합뉴스 ─ 팩트체크)]]></title>
