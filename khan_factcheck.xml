@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 10:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 11:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘혼합진료 금지’가 의료민영화? 사실은…]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202402061542001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202402061542001</guid>
+            <pubDate>Tue, 06 Feb 2024 11:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 최근 내놓은 ‘혼합진료 금지’ 정책을 두고 사회관계망서비스(SNS) 등을 중심으로 ‘의료민영화’라는 주장이 나오고 있다. “(의료)민영화 하면 내야할 금액”이라며 자신의 진료 계산서를 인증하는 이들도 등장했다. 그러나 6일 경향신문 취재 결과 ‘혼합진료 금지’ 정책은 의료민영화와 무관하다.혼합진료란 건강보험 급여 진료와 비급여 진료를 함께 하는 진료 형태이다. 일부 누리꾼들은 “혼합진료를 금지하면 비급여·급여 항목 모든 진료비를 환자가 내야 한다”며...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/02/06/news-p.v1.20240206.4a55ea3d64434bb480d422dbe931752b_P1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메이플 ‘남혐 집게손가락’의 끊이지 않는 음모론]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202312051853001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 28 Sep 2021 11:12:00 GMT</pubDate>
             <content:encoded><![CDATA[곽상도 의원의 아들 곽모씨가 ‘화천대유자산관리(화천대유)’로부터 받은 50억원을 둘러싸고 논란이 계속되고 있다. 이중 상당 부분이 산업재해에 따른 위로금에 해당한다고 화천대유측이 주장하면서다. 그러나 전문가들은 이같은 산재 위로금은 현실적으로 불가능하다고 입을 모았다.28일 경향신문이 산재 사건을 처리하거나 연구해온 전문가들에게 곽씨의 산재 위로금 수령에 관해 문의한 결과, 이들은 실무적으로 경험해본 적 없는 액수라고 공통적으로 말했다.화천대유는 지난 26...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/09/28/l_2021092801003244800279501.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘정치 방역’ 논란···솜방망이? 쇠방망이?]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202107192129005</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202107192129005</guid>
-            <pubDate>Wed, 11 Oct 2023 09:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[①민주노총 집회 봐줬다?213개 부대 동원한 경찰 “장소 급변경 탓 대응 늦어…최대한 봉쇄”②처벌 수위 달랐다?광복절 집회 과격 행위 있어 체포…민주노총은 2시간 뒤 자진 해산 ③자영업자 시위 단속 과했다?집회 주최자 내사 착수한 경찰“대상 따라 법 집행 달리하지 않아”국민의힘 등 야권을 중심으로 정부가 ‘정치 방역’을 하고 있다는 비판이 이어지고 있다. 코로나19 4차 대유행 국면에서 민주노총이 지난 3일 서울 여의도와 종로 등지에서 조합원 8000여명이 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/07/19/l_2021072001002540200216061.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
