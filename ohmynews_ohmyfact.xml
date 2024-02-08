@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 05:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 06:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤 대통령 "중처법, 긍정적 결과 없었다"?... 수치는 다른 말을 한다]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003000924</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003000924</guid>
+            <pubDate>Thu, 08 Feb 2024 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 'KBS 9시뉴스 시청률' '강제동원' 관련 발언 따져 보니]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2022/093006570280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이낙연 사과한 "민주당 국회의원 전과자 44%" 발언 검증해보니]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002992094</link>
@@ -38,14 +46,6 @@
             <pubDate>Tue, 14 Nov 2023 02:28:22 GMT</pubDate>
             <content:encoded><![CDATA[[김포 서울 편입 팩트체크 ②] 지방세 대부분 서울시세 전환... "조정교부금 받아도 자체 재원 축소 불가피"]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/120610151812.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA["서울 출퇴근 80% 넘어서 '김포구' 편입?" MB 정부도 반대했는데]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002976585</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002976585</guid>
-            <pubDate>Mon, 13 Nov 2023 05:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[[김포 서울 편입 팩트체크 ①] 김포에서 서울 통근 29.3%... 12개 접경 도시 중 9위]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/120610245888.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
