@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 11:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 12:30:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[출산하면 1억 주는 부영, 6년 전엔 이런 '흑역사'가...]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003000799</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003000799</guid>
+            <pubDate>Thu, 08 Feb 2024 12:30:48 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 육아휴직 2013년 1명-2017년 5명, 30대 기업 최하위... 부영 "최근 4년 59명, 남성도 쓴다"]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[윤 대통령 "중처법, 긍정적 결과 없었다"?... 수치는 다른 말을 한다]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003000924</link>
@@ -38,14 +45,6 @@
             <pubDate>Tue, 21 Nov 2023 11:18:55 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 보수층 표집 유리한 '유선 100%' 조사 '한계'... 경기도는 '도민 전체 대상' 조사]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/112112261974.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["서울 편입, 김포가 3000억원 손해" 주장은 '대체로 사실']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002976787</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002976787</guid>
-            <pubDate>Tue, 14 Nov 2023 02:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[[김포 서울 편입 팩트체크 ②] 지방세 대부분 서울시세 전환... "조정교부금 받아도 자체 재원 축소 불가피"]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/120610151812.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>

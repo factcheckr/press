@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 11:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 12:30:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -388,6 +388,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[윤 대통령 "영수회담은 없어진 방식"‥사실? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6569925_36515.html</link>
+            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6569925_36515.html</guid>
+            <pubDate>Thu, 08 Feb 2024 12:29:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2024-02-08</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/02/08/desk_20240208_200029_1_5_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['이태원참사 특별법'이 헌법 훼손·기본권 침해? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6567160_36515.html</link>
             <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6567160_36515.html</guid>
@@ -498,14 +506,6 @@
             <pubDate>Wed, 11 Oct 2023 09:18:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2023-09-01</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/09/01/desk_20230901_194616_1_2_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성안심귀갓길, 문구만 써놔 효과 없다? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6516995_36199.html</link>
-            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6516995_36199.html</guid>
-            <pubDate>Wed, 11 Oct 2023 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2023-08-22</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/08/22/desk_20230822_201106_1_13_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
@@ -658,6 +658,13 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/09/28/l_2021092801003244800279501.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[출산하면 1억 주는 부영, 6년 전엔 이런 '흑역사'가... (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003000799</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003000799</guid>
+            <pubDate>Thu, 08 Feb 2024 12:30:48 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 육아휴직 2013년 1명-2017년 5명, 30대 기업 최하위... 부영 "최근 4년 59명, 남성도 쓴다"]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[윤 대통령 "중처법, 긍정적 결과 없었다"?... 수치는 다른 말을 한다 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003000924</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003000924</guid>
@@ -688,14 +695,6 @@
             <pubDate>Tue, 21 Nov 2023 11:18:55 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 보수층 표집 유리한 '유선 100%' 조사 '한계'... 경기도는 '도민 전체 대상' 조사]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/112112261974.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["서울 편입, 김포가 3000억원 손해" 주장은 '대체로 사실' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002976787</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002976787</guid>
-            <pubDate>Tue, 14 Nov 2023 02:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[[김포 서울 편입 팩트체크 ②] 지방세 대부분 서울시세 전환... "조정교부금 받아도 자체 재원 축소 불가피"]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2021/120610151812.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
