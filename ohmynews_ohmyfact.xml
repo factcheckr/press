@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 06:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 09:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["사직한 전공의, 사실상 출국금지" 의협 주장 따져보니]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003004210</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003004210</guid>
+            <pubDate>Fri, 23 Feb 2024 09:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 병무청 "업무개시명령 하달로 사직절차 완료 안돼"... 의협 "사문화된 제도로 겁박"]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/022215441165.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["조국, 병립형으론 국회의원 배지 못 단다" 한동훈 주장은 '거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003001878</link>
@@ -37,14 +45,6 @@
             <pubDate>Tue, 09 Jan 2024 08:23:26 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 민주화·노동운동 전과 제외하면 16.4%...국힘 비율이 더 높아]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/010913390568.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["전장연 지하철 시위는 불법?" 서울교통공사 주장 따져보니]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002990906</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002990906</guid>
-            <pubDate>Fri, 05 Jan 2024 10:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 집시법 대상 아니고 '불법' 판례 없어... '장애인 기본권 침해' 주장도]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/010510550087.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
