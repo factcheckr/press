@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 10:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 12:30:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["윤석열 가상연설 영상이 총선용 딥페이크" 보도는 '거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003004653</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003004653</guid>
+            <pubDate>Fri, 23 Feb 2024 12:30:29 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 기존영상 단순 짜깁기, 인공지능 기술 사용 안해... 선관위 "선거법 제재대상 아냐"]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["사직한 전공의, 사실상 출국금지" 의협 주장 따져보니]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003004210</link>
@@ -37,14 +44,6 @@
             <pubDate>Thu, 08 Feb 2024 06:23:20 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 'KBS 9시뉴스 시청률' '강제동원' 관련 발언 따져 보니]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2022/093006570280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이낙연 사과한 "민주당 국회의원 전과자 44%" 발언 검증해보니]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002992094</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0002992094</guid>
-            <pubDate>Tue, 09 Jan 2024 08:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 민주화·노동운동 전과 제외하면 16.4%...국힘 비율이 더 높아]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/010913390568.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
