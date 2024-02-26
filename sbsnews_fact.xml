@@ -4,9 +4,47 @@
         <title>SBS뉴스 ─ 사실은</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 11:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 12:31:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] "13만 원 돌려준다며?"…연말정산 결과에 '당혹']]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007550946&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007550946&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Mon, 26 Feb 2024 12:29:59 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007550946&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20240226/201899597_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240226/201899597.jpg'" alt="섬네일 이미지:[사실은] &quot;13만 원 돌려준다며?&quot;…연말정산 결과에 '당혹'" class="mfn_img lazy" style="display: inline;">
+									
+								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007550946&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>[사실은] "13만 원 돌려준다며?"…연말정산 결과에 '당혹'</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2024.02.26<i class="ir i_time"></i>20:43</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20240226/201899597_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[설연휴에 희뿌옇던 하늘…나사 위성에도 찍힌 먼지 정체 [사실은]]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007542126&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -205,7 +243,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007499882&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20240115/201882687_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240115/201882687.jpg'" alt="섬네일 이미지:[사실은] '인천 랜드마크'가 중국 광저우 타워?…확인해 보니" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20240115/201882687_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240115/201882687.jpg'" alt="섬네일 이미지:[사실은] '인천 랜드마크'가 중국 광저우 타워?…확인해 보니" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -233,7 +271,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20240115/201882687_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['지방이 너덜너덜' 화제 영상…레몬 주사 효과, 진짜일까 [사실은]]]></title>
@@ -334,44 +372,6 @@
 							<!-- 기사 정보 -->	
 							<span class="info">
 								<span class="date">2023.12.20<i class="ir i_time"></i>21:10</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["신뢰감 있는 인상 찾습니다"…실제 약국 빌려 약사 사칭 [사실은]]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007454072&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007454072&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Thu, 07 Dec 2023 12:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007454072&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20231207/201867499_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231207/201867499.jpg'" alt="섬네일 이미지:&quot;신뢰감 있는 인상 찾습니다&quot;…실제 약국 빌려 약사 사칭 [사실은]" class="mfn_img lazy">
-									
-								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007454072&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>"신뢰감 있는 인상 찾습니다"…실제 약국 빌려 약사 사칭 [사실은]</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2023.12.07<i class="ir i_time"></i>21:05</span>
 							</span>
 						</p>
 						<!--// 텍스트 영역 -->
