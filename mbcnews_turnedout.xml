@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 11:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 12:34:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대통령 민생토론 '총선 개입 논란' 따져보니]]></title>
+            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6578870_36515.html</link>
+            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6578870_36515.html</guid>
+            <pubDate>Mon, 11 Mar 2024 12:33:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2024-03-11</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/03/11/desk_20240311_202343_1_15_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[의사 수 많으면 의료비도 많이 든다?]]></title>
             <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6572086_36515.html</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 18 Oct 2023 12:38:54 GMT</pubDate>
             <content:encoded><![CDATA[<span>2023-10-18</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/10/18/desk_20231018_200219_1_9_Large_u.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해외도 언론사 상대로 가짜뉴스 단속 강화 중?]]></title>
-            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6526855_36199.html</link>
-            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6526855_36199.html</guid>
-            <pubDate>Wed, 11 Oct 2023 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2023-09-20</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/09/20/desk_20230920_195403_1_5_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
