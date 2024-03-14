@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 23:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 06:28:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["'윤석열 정권 심판' 현수막, 선거법 위반" 검증해보니]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003010257</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003010257</guid>
+            <pubDate>Thu, 14 Mar 2024 06:28:33 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 정당의 '특정 정당 비판' 제한, 후보자는 허용... 선관위 "지난 총선 때도 똑같이 적용"]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/031317265214.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA['삼일절 노래' 교과서대로 부른다? 역대 기념식은 '원곡' 우세]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003008001</link>
@@ -37,13 +45,6 @@
             <pubDate>Wed, 14 Feb 2024 01:11:38 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 병립형-준연동형 모두 3% 득표하면 가능... 국힘 "정당 공천 어렵다는 의미"]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709270694.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출산하면 1억 주는 부영, 6년 전 육아휴직자 수 따져보니...]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003000799</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003000799</guid>
-            <pubDate>Thu, 08 Feb 2024 12:30:48 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 육아휴직 2013년 1명-2017년 5명, 30대 기업 최하위... 부영 "2017년 11명"]]></content:encoded>
         </item>
     </channel>
 </rss>
