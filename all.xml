@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 23:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 02:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -658,6 +658,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/09/28/l_2021092801003244800279501.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["국힘 조국방지법, 위헌 소지" 조국 주장은 '사실' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003011059</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003011059</guid>
+            <pubDate>Sat, 16 Mar 2024 02:26:28 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 2009년 위헌 결정한 '당선무효시 비례대표 승계 금지' 조항과 위헌성 겹쳐]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/031519275913.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["'윤석열 정권 심판' 현수막, 선거법 위반" 검증해보니 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003010257</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003010257</guid>
@@ -687,14 +695,6 @@
             <pubDate>Fri, 23 Feb 2024 09:19:25 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 병무청 "업무개시명령 하달로 사직절차 완료 안돼"... 의협 "사문화된 제도로 겁박"]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/022215441165.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["조국, 병립형으론 국회의원 배지 못 단다" 한동훈 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003001878</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003001878</guid>
-            <pubDate>Wed, 14 Feb 2024 01:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 병립형-준연동형 모두 3% 득표하면 가능... 국힘 "정당 공천 어렵다는 의미"]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709270694.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
