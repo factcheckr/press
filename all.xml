@@ -4,9 +4,47 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 11:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 12:35:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] '일본 독성쇼크증후군' 국내도 긴장…제2의 코로나 사태? (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007583396&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007583396&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Fri, 22 Mar 2024 12:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007583396&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20240322/201910438_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240322/201910438.jpg'" alt="섬네일 이미지:[사실은] '일본 독성쇼크증후군' 국내도 긴장…제2의 코로나 사태?" class="mfn_img lazy" style="display: inline;">
+									
+								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007583396&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>[사실은] '일본 독성쇼크증후군' 국내도 긴장…제2의 코로나 사태?</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2024.03.22<i class="ir i_time"></i>20:33</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20240322/201910438_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사실은] "한국, 양육비 부담 세계 1위"…충격 준 연구 결과, 알고 보니 (SBS뉴스 ─ 사실은)]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007559248&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -205,7 +243,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007513563&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20240125/201887121_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240125/201887121.jpg'" alt="섬네일 이미지:[사실은] '82년생 김지영 연금' 제안…여성만 혜택받나" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20240125/201887121_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240125/201887121.jpg'" alt="섬네일 이미지:[사실은] '82년생 김지영 연금' 제안…여성만 혜택받나" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -233,7 +271,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20240125/201887121_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[체력시험, 남녀 동일 기준 적용…여성 소방관 줄어든다? [사실은] (SBS뉴스 ─ 사실은)]]></title>
@@ -334,44 +372,6 @@
 							<!-- 기사 정보 -->	
 							<span class="info">
 								<span class="date">2024.01.10<i class="ir i_time"></i>20:55</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] '조인성·송혜교' 영상 보고 투자했는데…실체는? (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007478196&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007478196&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Wed, 27 Dec 2023 12:30:32 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007478196&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20231227/201875466_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231227/201875466.jpg'" alt="섬네일 이미지:[사실은] '조인성·송혜교' 영상 보고 투자했는데…실체는?" class="mfn_img lazy">
-									
-								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007478196&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>[사실은] '조인성·송혜교' 영상 보고 투자했는데…실체는?</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2023.12.27<i class="ir i_time"></i>20:34</span>
 							</span>
 						</p>
 						<!--// 텍스트 영역 -->
