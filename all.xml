@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 11:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 14:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -388,6 +388,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA['일주일 새 급등-급락' 여론조사, 믿을 수 있나? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6583236_36515.html</link>
+            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6583236_36515.html</guid>
+            <pubDate>Mon, 25 Mar 2024 14:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2024-03-25</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/03/25/desk_20240325_200945_1_10_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[대통령 민생토론 '총선 개입 논란' 따져보니 (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6578870_36515.html</link>
             <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6578870_36515.html</guid>
@@ -498,14 +506,6 @@
             <pubDate>Sat, 28 Oct 2023 13:17:51 GMT</pubDate>
             <content:encoded><![CDATA[<span>2023-10-28</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/10/28/desk_20231028_201408_1_6_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의대 증원 안해도 의사 남아돌게 된다? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6534770_36199.html</link>
-            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6534770_36199.html</guid>
-            <pubDate>Wed, 18 Oct 2023 12:38:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2023-10-18</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/10/18/desk_20231018_200219_1_9_Large_u.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
