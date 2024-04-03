@@ -4,9 +4,47 @@
         <title>SBS뉴스 ─ 사실은</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 23:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 12:35:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] "대화가 안 될 정도"…선거 유세 소음 기준, 알고 보니]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007598670&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007598670&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Wed, 03 Apr 2024 12:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007598670&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20240403/201915452_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240403/201915452.jpg'" alt="섬네일 이미지:[사실은] &quot;대화가 안 될 정도&quot;…선거 유세 소음 기준, 알고 보니" class="mfn_img lazy" style="display: inline;">
+									
+								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007598670&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>[사실은] "대화가 안 될 정도"…선거 유세 소음 기준, 알고 보니</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2024.04.03<i class="ir i_time"></i>20:50</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20240403/201915452_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['일본 독성쇼크증후군' 국내도 긴장…제2의 코로나 사태? [사실은]]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007583396&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -205,7 +243,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007524320&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20240203/201890656_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240203/201890656.jpg'" alt="섬네일 이미지:&quot;한국, 중국 '폭죽 문화' 뺏으려 해&quot;…문화재청에 묻자 [사실은]" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20240203/201890656_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240203/201890656.jpg'" alt="섬네일 이미지:&quot;한국, 중국 '폭죽 문화' 뺏으려 해&quot;…문화재청에 묻자 [사실은]" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -233,7 +271,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20240203/201890656_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] '82년생 김지영 연금' 제안…여성만 혜택받나]]></title>
@@ -334,44 +372,6 @@
 							<!-- 기사 정보 -->	
 							<span class="info">
 								<span class="date">2024.01.15<i class="ir i_time"></i>20:41</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['지방이 너덜너덜' 화제 영상…레몬 주사 효과, 진짜일까 [사실은]]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007494459&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007494459&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Wed, 10 Jan 2024 12:36:54 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007494459&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20240110/201880814_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240110/201880814.jpg'" alt="섬네일 이미지:'지방이 너덜너덜' 화제 영상…레몬 주사 효과, 진짜일까 [사실은]" class="mfn_img lazy">
-									
-								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007494459&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>'지방이 너덜너덜' 화제 영상…레몬 주사 효과, 진짜일까 [사실은]</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2024.01.10<i class="ir i_time"></i>20:55</span>
 							</span>
 						</p>
 						<!--// 텍스트 영역 -->
