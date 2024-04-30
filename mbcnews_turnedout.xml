@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Apr 2024 09:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 17:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이태원 특별법, 조사위에 영장청구권 준다?]]></title>
+            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6594019_36515.html</link>
+            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6594019_36515.html</guid>
+            <pubDate>Tue, 30 Apr 2024 17:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2024-04-30</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/04/30/desk_20240430_202638_1_15_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세월호 가짜뉴스와 혐오의 10년‥사실은?]]></title>
             <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6589867_36515.html</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 10 Nov 2023 12:32:13 GMT</pubDate>
             <content:encoded><![CDATA[<span>2023-11-10</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/11/10/desk_20231110_201526_1_15_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중대재해처벌법이 기업 위협한다?]]></title>
-            <link>https://imnews.imbc.com/replay/2023/nwdesk/article/6540836_36199.html</link>
-            <guid>https://imnews.imbc.com/replay/2023/nwdesk/article/6540836_36199.html</guid>
-            <pubDate>Mon, 06 Nov 2023 14:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2023-11-06</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/11/06/desk_20231106_202316_1_17_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
