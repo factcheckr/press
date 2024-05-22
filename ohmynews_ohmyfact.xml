@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 08:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 10:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["선진국은 업종별로 최저임금 낮춘다?" 경영계 주장은 '거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003032036</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003032036</guid>
+            <pubDate>Wed, 22 May 2024 10:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 업종별 차등적용 가능하지만 더 많이 지불하는 방식... "독일은 2배 이상 높아"]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["원내교섭단체 20석, 박정희 유신 이후 변경" 조국 주장 '사실']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003026158</link>
@@ -38,14 +45,6 @@
             <pubDate>Sat, 16 Mar 2024 02:26:28 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 2009년 위헌 결정한 '당선무효시 비례대표 승계 금지' 조항과 위헌성 겹쳐]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/031519275913.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["'윤석열 정권 심판' 현수막, 선거법 위반" 검증해보니]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003010257</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003010257</guid>
-            <pubDate>Thu, 14 Mar 2024 06:28:33 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 정당의 '특정 정당 비판' 제한, 후보자는 허용... 선관위 "지난 총선 때도 똑같이 적용"]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/031317265214.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
