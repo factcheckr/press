@@ -1,8 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.ohmynews.com/NWS_Web/OhmyFact/index.aspx</id>
-    <title>오마이뉴스 ─ 오마이팩트</title>
-    <updated>2024-05-27T02:35:35.869Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.ohmynews.com/NWS_Web/OhmyFact/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오마이뉴스 ─ 오마이팩트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 27 May 2024 03:22:09 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["선진국은 업종별로 최저임금 낮춘다?" 경영계 주장은 '거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003032036</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003032036</guid>
+            <pubDate>Mon, 27 May 2024 03:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 업종별 차등적용 가능하지만 더 많이 지불하는 방식... "독일은 2배 이상 높아"]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["원내교섭단체 20석, 박정희 유신 이후 변경" 조국 주장 '사실']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003026158</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003026158</guid>
+            <pubDate>Mon, 27 May 2024 03:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 1973년 10석→ 20석으로 변경... OECD 국가, 5~10석이면 교섭단체 가능]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/031519275913.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원희룡 "절대 없다" 했는데... 이재명 말 사실이었다]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003016990</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003016990</guid>
+            <pubDate>Mon, 27 May 2024 03:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 이재명 "GTX노선 관련 국토부차관 등 만나 협의"... 당시 사진-증언 나왔다]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709230890.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조국혁신당 20대 지지율 "0%"... 조사한 갤럽도 "신뢰 어렵다"는 이유]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003012111</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003012111</guid>
+            <pubDate>Mon, 27 May 2024 03:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 한국갤럽 "표본 작아 이용시 주의 요망... 타 연령층 대비 호응낮다 정도로 봐야"]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/031917222342.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA["국힘 조국방지법, 위헌 소지" 조국 주장은 '사실']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003011059</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003011059</guid>
+            <pubDate>Mon, 27 May 2024 03:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 2009년 위헌 결정한 '당선무효시 비례대표 승계 금지' 조항과 위헌성 겹쳐]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/031519275913.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
