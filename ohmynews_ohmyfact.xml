@@ -4,9 +4,23 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 01:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 05:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카드주인 찾으려 300원 결제한 학생들, '범죄행위'라고?]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003033691</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003033691</guid>
+            <pubDate>Wed, 29 May 2024 05:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 부정사용 '고의' 없어 범죄요건 안돼... 경찰 "카드 습득시 경찰이나 카드사에 신고"]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 서울역 집회 뉴스에 4년 전 광화문 집회 영상이라니...]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003033485</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003033485</guid>
+            <pubDate>Wed, 29 May 2024 05:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[보수단체 집회 인파 담은 '허위 영상' 확산... 매불쇼 "삭제 조치"]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["선진국은 업종별로 최저임금 낮춘다?" 경영계 주장은 '거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003032036</link>
@@ -29,22 +43,6 @@
             <pubDate>Mon, 27 May 2024 03:22:08 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 이재명 "GTX노선 관련 국토부차관 등 만나 협의"... 당시 사진-증언 나왔다]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709230890.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조국혁신당 20대 지지율 "0%"... 조사한 갤럽도 "신뢰 어렵다"는 이유]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003012111</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003012111</guid>
-            <pubDate>Mon, 27 May 2024 03:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 한국갤럽 "표본 작아 이용시 주의 요망... 타 연령층 대비 호응낮다 정도로 봐야"]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/031917222342.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA["국힘 조국방지법, 위헌 소지" 조국 주장은 '사실']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003011059</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003011059</guid>
-            <pubDate>Mon, 27 May 2024 03:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 2009년 위헌 결정한 '당선무효시 비례대표 승계 금지' 조항과 위헌성 겹쳐]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/031519275913.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
