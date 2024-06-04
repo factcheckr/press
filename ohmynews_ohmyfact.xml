@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 04:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 12:35:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["지구당은 사회주의 국가에나 있다" 주장은 '거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003035524</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003035524</guid>
+            <pubDate>Tue, 04 Jun 2024 12:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 영국·독일 등 유럽도 '지구당' 기반... 미국은 선거 기간만 운영]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2023/040519232832.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카드주인 찾으려 300원 결제한 학생들, '범죄행위'라고?]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003033691</link>
@@ -35,14 +43,6 @@
             <pubDate>Mon, 27 May 2024 03:22:08 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 1973년 10석→ 20석으로 변경... OECD 국가, 5~10석이면 교섭단체 가능]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/031519275913.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원희룡 "절대 없다" 했는데... 이재명 말 사실이었다]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003016990</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003016990</guid>
-            <pubDate>Mon, 27 May 2024 03:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 이재명 "GTX노선 관련 국토부차관 등 만나 협의"... 당시 사진-증언 나왔다]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709230890.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
