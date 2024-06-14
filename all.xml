@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 04:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 12:35:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -658,6 +658,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/09/28/l_2021092801003244800279501.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["김건희 명품 백, 외국인 선물이라 신고 의무 없다" 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003038233</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003038233</guid>
+            <pubDate>Fri, 14 Jun 2024 12:35:58 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 정승윤 권익위 부위원장 주장... 대통령기록물도 신고 대상]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/061316495975.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["지구당은 사회주의 국가에나 있다" 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003035524</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003035524</guid>
@@ -685,14 +693,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003032036</guid>
             <pubDate>Mon, 27 May 2024 03:22:08 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 업종별 차등적용 가능하지만 더 많이 지불하는 방식... "독일은 2배 이상 높아"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["원내교섭단체 20석, 박정희 유신 이후 변경" 조국 주장 '사실' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003026158</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003026158</guid>
-            <pubDate>Mon, 27 May 2024 03:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 1973년 10석→ 20석으로 변경... OECD 국가, 5~10석이면 교섭단체 가능]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/031519275913.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
