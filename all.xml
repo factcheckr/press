@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 11:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 12:38:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -388,6 +388,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA['위험의 이주화' 어디까지 왔나? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6612423_36515.html</link>
+            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6612423_36515.html</guid>
+            <pubDate>Fri, 28 Jun 2024 12:37:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2024-06-28</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/06/28/desk_20240628_202237_1_16_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[고소득·고학력·자산가 '수혜' 저출생 대책? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6609853_36515.html</link>
             <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6609853_36515.html</guid>
@@ -498,14 +506,6 @@
             <pubDate>Fri, 19 Jan 2024 15:20:51 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-01-19</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/01/19/desk_20240119_201001_1_13_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이태원참사 특별법, 야당과 유족 맘대로? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6561281_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6561281_36515.html</guid>
-            <pubDate>Wed, 10 Jan 2024 12:37:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-01-10</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/01/10/desk_20240110_195827_1_8_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
