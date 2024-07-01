@@ -4,9 +4,47 @@
         <title>SBS뉴스 ─ 사실은</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jul 2024 11:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 14:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한강 대장균의 '100배'…"너무 더러워" 대표팀 출전 고심]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007705533&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007705533&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Mon, 01 Jul 2024 14:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007705533&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20240701/201952505_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240701/201952505.jpg'" alt="섬네일 이미지:한강 대장균의 '100배'…&quot;너무 더러워&quot; 대표팀 출전 고심" class="mfn_img lazy" style="display: inline;">
+									
+								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007705533&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>한강 대장균의 '100배'…"너무 더러워" 대표팀 출전 고심</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2024.07.01<i class="ir i_time"></i>20:43</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20240701/201952505_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['죽음의 과자'보다 맵다?…불닭볶음면 '이상한 리콜']]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007690494&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -205,7 +243,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007656713&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20240522/201935681_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240522/201935681.jpg'" alt="섬네일 이미지:'갈까 말까' 딜레마존…&quot;안 겪어보면 몰라&quot; 판결에 분통 [사실은]" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20240522/201935681_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240522/201935681.jpg'" alt="섬네일 이미지:'갈까 말까' 딜레마존…&quot;안 겪어보면 몰라&quot; 판결에 분통 [사실은]" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -233,7 +271,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20240522/201935681_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["사유지도 견인"…주차 테러 '사이다 결말' 어떻게 나왔나]]></title>
@@ -334,44 +372,6 @@
 							<!-- 기사 정보 -->	
 							<span class="info">
 								<span class="date">2024.05.15<i class="ir i_time"></i>20:40</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[담배·커피타임은 근로시간?…노동부에 물어보니 [사실은]]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007640185&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007640185&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Wed, 08 May 2024 14:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007640185&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20240508/201930025_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240508/201930025.jpg'" alt="섬네일 이미지:담배·커피타임은 근로시간?…노동부에 물어보니 [사실은]" class="mfn_img lazy">
-									
-								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007640185&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>담배·커피타임은 근로시간?…노동부에 물어보니 [사실은]</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2024.05.08<i class="ir i_time"></i>21:06</span>
 							</span>
 						</p>
 						<!--// 텍스트 영역 -->
