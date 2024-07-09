@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 08:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 17:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['실체적 진실' 드러나 특검 필요 없다?]]></title>
+            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6615569_36515.html</link>
+            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6615569_36515.html</guid>
+            <pubDate>Tue, 09 Jul 2024 17:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2024-07-09</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/07/09/desk_20240709_200345_1_7_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['위험의 이주화' 어디까지 왔나?]]></title>
             <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6612423_36515.html</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 25 Jan 2024 12:37:13 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-01-25</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/01/25/desk_20240125_195222_1_3_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[15년째 외치는 "책임자 처벌"‥이유는?]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6564151_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6564151_36515.html</guid>
-            <pubDate>Fri, 19 Jan 2024 15:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-01-19</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/01/19/desk_20240119_201001_1_13_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
