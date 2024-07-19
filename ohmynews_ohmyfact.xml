@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 22:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 02:00:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 정부 교통위반 과태료 역대 최대, 검증해보니]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003046920</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003046920</guid>
+            <pubDate>Fri, 19 Jul 2024 02:00:49 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 2022년 징수 결정액 2조 원 첫 돌파... 경찰청 "스쿨존 무인단속장비, 블랙박스 신고 증가 영향"]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/071909204325.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["김건희 명품 백, 외국인 선물이라 신고 의무 없다" 주장은 '거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003038233</link>
@@ -36,13 +44,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003033485</guid>
             <pubDate>Wed, 29 May 2024 05:21:16 GMT</pubDate>
             <content:encoded><![CDATA[보수단체 집회 인파 담은 '허위 영상' 확산... 매불쇼 "삭제 조치"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["선진국은 업종별로 최저임금 낮춘다?" 경영계 주장은 '거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003032036</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003032036</guid>
-            <pubDate>Mon, 27 May 2024 03:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 업종별 차등적용 가능하지만 더 많이 지불하는 방식... "독일은 2배 이상 높아"]]></content:encoded>
         </item>
     </channel>
 </rss>
