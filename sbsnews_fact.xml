@@ -4,9 +4,47 @@
         <title>SBS뉴스 ─ 사실은</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Aug 2024 02:45:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2024 04:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크 '사실은'] 전기차 틀어막는다고 주차장이 더 안전해질까?]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007759565&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007759565&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Mon, 12 Aug 2024 04:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007759565&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20240809/201970917_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240809/201970917.jpg'" alt="섬네일 이미지:[팩트체크 '사실은'] 전기차 틀어막는다고 주차장이 더 안전해질까?" class="mfn_img lazy" style="display: inline;">
+									
+								
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007759565&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>[팩트체크 '사실은'] 전기차 틀어막는다고 주차장이 더 안전해질까?</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2024.08.12<i class="ir i_time"></i>12:43</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20240809/201970917_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[억대 받는 선수도…메달리스트 포상에 세금 펑펑? [사실은]]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007757512&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -205,7 +243,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007705533&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20240701/201952505_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240701/201952505.jpg'" alt="섬네일 이미지:한강 대장균의 '100배'…&quot;너무 더러워&quot; 대표팀 출전 고심" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20240701/201952505_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240701/201952505.jpg'" alt="섬네일 이미지:한강 대장균의 '100배'…&quot;너무 더러워&quot; 대표팀 출전 고심" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -233,7 +271,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20240701/201952505_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['죽음의 과자'보다 맵다?…불닭볶음면 '이상한 리콜']]></title>
@@ -334,44 +372,6 @@
 							<!-- 기사 정보 -->	
 							<span class="info">
 								<span class="date">2024.06.07<i class="ir i_time"></i>20:20</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[3km 상공서 떨어져 차 유리 박살…'강속구 4배' 위험]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007672461&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007672461&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Tue, 04 Jun 2024 12:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007672461&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20240604/201941019_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240604/201941019.jpg'" alt="섬네일 이미지:3km 상공서 떨어져 차 유리 박살…'강속구 4배' 위험" class="mfn_img lazy">
-									
-								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007672461&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>3km 상공서 떨어져 차 유리 박살…'강속구 4배' 위험</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2024.06.04<i class="ir i_time"></i>20:42</span>
 							</span>
 						</p>
 						<!--// 텍스트 영역 -->
