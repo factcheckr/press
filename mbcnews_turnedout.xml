@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Aug 2024 07:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2024 17:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴라이트가 역사기관장 점령했다?]]></title>
+            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6626332_36515.html</link>
+            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6626332_36515.html</guid>
+            <pubDate>Mon, 12 Aug 2024 17:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2024-08-12</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/08/12/desk_20240812_200501_1_8_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영부인의 '청사 밖 조사' 특혜 아니다?]]></title>
             <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6619792_36515.html</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 08 Feb 2024 12:29:48 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-02-08</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/02/08/desk_20240208_200029_1_5_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이태원참사 특별법'이 헌법 훼손·기본권 침해?]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6567160_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6567160_36515.html</guid>
-            <pubDate>Tue, 30 Jan 2024 13:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-01-30</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/01/30/desk_20240130_195316_1_5_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
