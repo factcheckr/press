@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 07:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 13:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -658,6 +658,13 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/09/28/l_2021092801003244800279501.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["일산화탄소 물에 녹아 살았다" 잘못된 보도였다 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003057049</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003057049</guid>
+            <pubDate>Fri, 23 Aug 2024 13:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 일산화탄소 물에 거의 안 녹아... 부천 호텔 투숙객 "샤워기 수막이 유독가스 차단"]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[윤석열 정부 교통위반 과태료 역대 최대, 검증해보니 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003046920</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003046920</guid>
@@ -687,13 +694,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003033691</guid>
             <pubDate>Wed, 29 May 2024 05:21:16 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 부정사용 '고의' 없어 범죄요건 안돼... 경찰 "카드 습득시 경찰이나 카드사에 신고"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 서울역 집회 뉴스에 4년 전 광화문 집회 영상이라니... (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003033485</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003033485</guid>
-            <pubDate>Wed, 29 May 2024 05:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[보수단체 집회 인파 담은 '허위 영상' 확산... 매불쇼 "삭제 조치"]]></content:encoded>
         </item>
     </channel>
 </rss>
