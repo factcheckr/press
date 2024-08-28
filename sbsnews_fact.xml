@@ -4,9 +4,47 @@
         <title>SBS뉴스 ─ 사실은</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Aug 2024 22:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 16:26:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["비싼 영화 관람료, 배우 출연료 탓?"…따져 보니 [사실은]]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007779635&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007779635&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Wed, 28 Aug 2024 16:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007779635&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20240828/201978574_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240828/201978574.jpg'" alt="섬네일 이미지:&quot;비싼 영화 관람료, 배우 출연료 탓?&quot;…따져 보니 [사실은]" class="mfn_img lazy" style="display: inline;">
+									
+								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007779635&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>"비싼 영화 관람료, 배우 출연료 탓?"…따져 보니 [사실은]</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2024.08.28<i class="ir i_time"></i>20:45</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20240828/201978574_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['김호중 방지법'이 명예훼손?…"이름 빼라" 팬들 항의 [사실은]]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007770853&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -205,7 +243,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007730364&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20240720/201961180_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240720/201961180.jpg'" alt="섬네일 이미지:'과잉 경호' 법적 처벌 가능할까?…변우석-손흥민 사례 비교해 보니 [사실은]" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20240720/201961180_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240720/201961180.jpg'" alt="섬네일 이미지:'과잉 경호' 법적 처벌 가능할까?…변우석-손흥민 사례 비교해 보니 [사실은]" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -233,7 +271,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20240720/201961180_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[폭염에도 '노 에어컨'…"선수만 고생" 파리 무슨 일 [사실은]]]></title>
@@ -334,44 +372,6 @@
 							<!-- 기사 정보 -->	
 							<span class="info">
 								<span class="date">2024.06.19<i class="ir i_time"></i>20:44</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["밀양은 성범죄 도시" 낙인에 주민들 고통…통계 따져 보니 [사실은]]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007683202&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007683202&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Thu, 13 Jun 2024 13:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007683202&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20240613/201944980_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240613/201944980.jpg'" alt="섬네일 이미지:&quot;밀양은 성범죄 도시&quot; 낙인에 주민들 고통…통계 따져 보니 [사실은]" class="mfn_img lazy">
-									
-								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007683202&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>"밀양은 성범죄 도시" 낙인에 주민들 고통…통계 따져 보니 [사실은]</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2024.06.13<i class="ir i_time"></i>20:56</span>
 							</span>
 						</p>
 						<!--// 텍스트 영역 -->
