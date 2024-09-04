@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Sep 2024 10:25:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Sep 2024 12:45:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차별금지법이 공산주의 혁명 부른다?]]></title>
+            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6633734_36515.html</link>
+            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6633734_36515.html</guid>
+            <pubDate>Wed, 04 Sep 2024 12:44:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2024-09-04</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/09/04/desk_20240904_202355_1_15_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[채상병 청문회에서 외압 없음이 드러났다?]]></title>
             <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6631879_36515.html</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 11 Mar 2024 12:33:26 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-03-11</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/03/11/desk_20240311_202343_1_15_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의사 수 많으면 의료비도 많이 든다?]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6572086_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6572086_36515.html</guid>
-            <pubDate>Sat, 17 Feb 2024 12:29:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-02-17</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/02/17/desk_20240217_202004_1_9_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
