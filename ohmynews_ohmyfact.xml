@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Oct 2024 10:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 13:28:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤 대통령 '한강 노벨상 축전', 챗GPT로 썼다?  AI 검사기 돌려보니]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003069606</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003069606</guid>
+            <pubDate>Fri, 11 Oct 2024 13:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] AI 생성 글과 내용 39% 일치... AI 생성 확률은 3% vs. 100% 엇갈려]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["이민자가 개와 고양이 잡아먹는다" 트럼프 주장 '거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003062915</link>
@@ -37,14 +44,6 @@
             <pubDate>Fri, 14 Jun 2024 12:35:58 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 정승윤 권익위 부위원장 주장... 대통령기록물도 신고 대상]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/061316495975.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["지구당은 사회주의 국가에나 있다" 주장은 '거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003035524</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003035524</guid>
-            <pubDate>Tue, 04 Jun 2024 12:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 영국·독일 등 유럽도 '지구당' 기반... 미국은 선거 기간만 운영]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/061817122684.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
