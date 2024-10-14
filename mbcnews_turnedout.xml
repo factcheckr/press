@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Oct 2024 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 12:46:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한강 작가 소설이 역사 왜곡?]]></title>
+            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6646067_36515.html</link>
+            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6646067_36515.html</guid>
+            <pubDate>Mon, 14 Oct 2024 12:45:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2024-10-14</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/10/14/desk_20241014_200133_1_7_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰의 '수심위 결론 뒤집기' 과거사례 따져보니]]></title>
             <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6640289_36515.html</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 30 Apr 2024 17:17:28 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-04-30</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/04/30/desk_20240430_202638_1_15_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세월호 가짜뉴스와 혐오의 10년‥사실은?]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6589867_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6589867_36515.html</guid>
-            <pubDate>Tue, 16 Apr 2024 18:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-04-16</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/04/16/desk_20240416_202512_1_15_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
