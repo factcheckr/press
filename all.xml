@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Oct 2024 06:31:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 08:32:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -658,6 +658,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/09/28/l_2021092801003244800279501.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["고교 무상교육 예산 99% 삭감"이 '가짜뉴스'라는 국민의힘 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003071113</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003071113</guid>
+            <pubDate>Thu, 17 Oct 2024 08:32:09 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 민주당 의원 고발... 특례법 일몰로 정부 분담금 전액 삭감되는 건 사실]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/031917222342.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[윤 대통령 '한강 노벨상 축전', 챗GPT로 썼다?  AI 검사기 돌려보니 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003069606</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003069606</guid>
@@ -686,14 +694,6 @@
             <pubDate>Fri, 19 Jul 2024 02:00:49 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 2022년 징수 결정액 2조 원 첫 돌파... 경찰청 "스쿨존 무인단속장비, 블랙박스 신고 증가 영향"]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/071909204325.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["김건희 명품 백, 외국인 선물이라 신고 의무 없다" 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003038233</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003038233</guid>
-            <pubDate>Fri, 14 Jun 2024 12:35:58 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 정승윤 권익위 부위원장 주장... 대통령기록물도 신고 대상]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/061316495975.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
