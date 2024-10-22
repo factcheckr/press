@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 04:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 08:34:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["다이아 반지가 천 원" 검사장 재산 축소 신고 의혹  따져보니]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003072778</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003072778</guid>
+            <pubDate>Tue, 22 Oct 2024 08:34:06 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 박영진 전주지검장 "결혼예물이라 가격 몰라"... 실거래가 모르면 전문가 평가액 신고해야]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/102215131581.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["고교 무상교육 예산 99% 삭감"이 '가짜뉴스'라는 국민의힘]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003071113</link>
@@ -36,14 +44,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003057049</guid>
             <pubDate>Fri, 23 Aug 2024 13:26:45 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 일산화탄소 물에 거의 안 녹아... 부천 호텔 투숙객 "샤워기 수막이 유독가스 차단"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부 교통위반 과태료 역대 최대, 검증해보니]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003046920</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003046920</guid>
-            <pubDate>Fri, 19 Jul 2024 02:00:49 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 2022년 징수 결정액 2조 원 첫 돌파... 경찰청 "스쿨존 무인단속장비, 블랙박스 신고 증가 영향"]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/071909204325.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
