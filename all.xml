@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Oct 2024 07:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 09:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -658,6 +658,13 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/09/28/l_2021092801003244800279501.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["삐라 사진 올리면 국보법 위반?" 경찰 답변은 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003073528</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003073528</guid>
+            <pubDate>Thu, 24 Oct 2024 09:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 경찰청 "직접 규제하는 법 없어"... '신고·표창' 규정도 2007년 폐지]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["다이아 반지가 천 원" 검사장 재산 축소 신고 의혹  따져보니 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003072778</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003072778</guid>
@@ -687,13 +694,6 @@
             <pubDate>Wed, 11 Sep 2024 06:33:49 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 미 대선 TV토론에서 SNS 루머 언급... 스프링필드 시 대변인 "사실 무근"]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/091115194322.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["일산화탄소 물에 녹아 살았다" 잘못된 보도였다 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003057049</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003057049</guid>
-            <pubDate>Fri, 23 Aug 2024 13:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 일산화탄소 물에 거의 안 녹아... 부천 호텔 투숙객 "샤워기 수막이 유독가스 차단"]]></content:encoded>
         </item>
     </channel>
 </rss>
