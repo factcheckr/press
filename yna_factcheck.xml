@@ -4,9 +4,20 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Nov 2024 22:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 23:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['빼빼로데이'는 제과업체가 만들었다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241104142900518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241104142900518?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 05 Nov 2024 23:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[1990년대 초중반 부산·경남 학생들 사이서 시작 유력
+'소비자가 만들고 제과·유통업계가 키운' 독특한 기념일
+일본도 매년 11월 11일은 '포키와 프렛츠의 날'
+(서울=연합뉴...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2024/11/03/PYH2024110303790001300_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머스크 전망처럼 한국 인구 3분의 1토막 나나?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241104134400518?section=theme-list/factcheck</link>
@@ -239,16 +250,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
 "주택을 소유물·투자자산으로 여기는 문화도 출산에 부정적 영향"
 ...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/photo/cms/2018/08/17/08/PCM20180817000108990_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시 자체로 경계경보 발령할 수 있나]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230601072800004?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230601072800004?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 05 Nov 2024 08:29:12 GMT</pubDate>
-            <content:encoded><![CDATA[법규상 군 거쳐 지자체 발령…이번 북 발사체 경보는 군→행안부→서울시
-자치단체장, 군사적 긴급상황 임의 판단해 경보 발령 못해
-(서울=연합뉴스) 김준태 계승현 기자 = 지난...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2023/05/31/PYH2023053100520001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
