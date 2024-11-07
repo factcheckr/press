@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 11:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 14:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -388,6 +388,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[특검은 반헌법? 김 여사 활동 중단해왔다? 팩트체크 (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6654031_36515.html</link>
+            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6654031_36515.html</guid>
+            <pubDate>Thu, 07 Nov 2024 14:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2024-11-07</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/11/07/desk_20241107_201003_1_9_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국회 동의 없이 파병할 수 있다? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6651829_36515.html</link>
             <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6651829_36515.html</guid>
@@ -498,14 +506,6 @@
             <pubDate>Tue, 21 May 2024 14:19:19 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-05-21</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/05/21/desk_20240521_201829_1_13_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야당도 집권 시기 수사 중인 특검은 반대했다? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6596874_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6596874_36515.html</guid>
-            <pubDate>Thu, 09 May 2024 12:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-05-09</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/05/09/desk_20240509_200904_1_8_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['1천조' 넘은 나랏빚 괜찮은가?…재정 건전성 영향은 (연합뉴스 ─ 팩트체크)]]></title>
