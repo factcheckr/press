@@ -4,9 +4,20 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 22:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 02:51:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['1천조' 넘은 나랏빚 괜찮은가?…재정 건전성 영향은]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241105077200518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241105077200518?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 07 Nov 2024 02:51:09 GMT</pubDate>
+            <content:encoded><![CDATA[국가채무는 '실질적인 나랏빚'…국가부채는 광의 개념
+건전 재정 기조지만 국가채무 비율 계속 늘어나
+국가채무 비율, 타국보다 양호하지만 재정 여건 악화
+(서울=연합뉴스) 심재훈 기...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2024/10/23/PYH2024102300370001300_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['빼빼로데이'는 제과업체가 만들었다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241104142900518?section=theme-list/factcheck</link>
@@ -239,17 +250,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
 넷플릭스 "이달 자체등급분류 시행으로 작품 공개 지연…빠른 시일내 공개"
 (서울=연합뉴스) 이웅 기자 = 후쿠시마 ...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2023/06/10/AKR20230610042800518_03_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공공임대주택 늘리면 출생률도 오를까?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230601039100518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230601039100518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 05 Nov 2024 08:29:12 GMT</pubDate>
-            <content:encoded><![CDATA[LH토지주택연구원 등 "공공임대주택 공급이 결혼·출산에 영향"
-영구·장기임대 물량 적고 공간 협소…주거안정 효과 제한
-"주택을 소유물·투자자산으로 여기는 문화도 출산에 부정적 영향"
-...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/photo/cms/2018/08/17/08/PCM20180817000108990_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
