@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 21:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 23:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,17 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/05/21/desk_20240521_201829_1_13_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[중국의 '한국인 비자 면제'는 깜짝 발표였다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241107034000518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241107034000518?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 07 Nov 2024 23:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[중국 외교부 정례 브리핑에 없던 내용 갑자기 추가돼
+중국, 비자 면제 확대 추진…이번에 한국까지 포함
+무비자 입국해도 호텔 아니면 '주숙등기' 필수
+(서울=연합뉴스) 심재훈 기...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2024/11/03/PYH2024110307240001301_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['1천조' 넘은 나랏빚 괜찮은가?…재정 건전성 영향은 (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20241105077200518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20241105077200518?section=theme-list/factcheck</guid>
@@ -740,16 +751,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
 이달 시행된 '자체등급분류' 혼선 탓…영등위 "일본 콘텐츠는 미포함"
 종전대로 '영등위 심사' 뒤 공개 가능…넷플릭스 "최대...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2023/06/10/AKR20230610042851518_03_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['후쿠시마 원전사고' 넷플릭스 드라마 한국 공개 일부러 늦췄다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230610042800518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230610042800518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 05 Nov 2024 08:29:12 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 공개일 넘기면서 일부 네티즌 '정치적 압력 의혹' 제기
-넷플릭스 "이달 자체등급분류 시행으로 작품 공개 지연…빠른 시일내 공개"
-(서울=연합뉴스) 이웅 기자 = 후쿠시마 ...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2023/06/10/AKR20230610042800518_03_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
