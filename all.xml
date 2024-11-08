@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 23:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 02:53:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1023,6 +1023,14 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/09/28/l_2021092801003244800279501.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["대통령·여당 반대하는 특검은 위헌" 윤석열 주장은 거짓 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003078155</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003078155</guid>
+            <pubDate>Fri, 08 Nov 2024 02:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 대통령 관련된 특검 야당 추천 관행화... 헌재도 2019년 합헌 결정]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['무단횡단' 단속해도 보행자 사망 1위인 국가는? (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003075787</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003075787</guid>
@@ -1051,13 +1059,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
             <pubDate>Thu, 17 Oct 2024 08:32:09 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 민주당 의원 고발... 특례법 일몰로 정부 분담금 전액 삭감되는 건 사실]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/031917222342.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 대통령 '한강 노벨상 축전', 챗GPT로 썼다?  AI 검사기 돌려보니 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003069606</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003069606</guid>
-            <pubDate>Fri, 11 Oct 2024 13:28:34 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] AI 생성 글과 내용 39% 일치... AI 생성 확률은 3% vs. 100% 엇갈려]]></content:encoded>
         </item>
     </channel>
 </rss>
