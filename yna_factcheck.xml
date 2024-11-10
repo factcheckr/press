@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Nov 2024 22:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Nov 2024 23:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['저마다 제각각'…집회 산정 인원 누가 맞나?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241107160300518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241107160300518?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 10 Nov 2024 23:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[경찰은 특정 시점 최대 인원ㆍ주최 측은 누적 참가자 계산
+경찰ㆍ주최 측 모두 정확성 떨어져…디지털 추산방식 시도
+(서울=연합뉴스) 박형빈 기자 = 우리나라에서는 수만 명 이상...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2024/10/27/PYH2024102703550001300_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국의 '한국인 비자 면제'는 깜짝 발표였다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241107034000518?section=theme-list/factcheck</link>
@@ -241,16 +251,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
 범죄피해자들 보복 두려움에 민사소송 포기…형사 배상명령 제도도 사실상 무력
 소송 중 피해자 신원보호 민사소송...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/cms/2016/04/17/01/C0A8CA3D0000015423ED9481000A6AF0_T2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['후쿠시마 원전사고' 넷플릭스 드라마 한국 공개 일부러 늦췄다?(종합)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230610042851518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230610042851518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 05 Nov 2024 08:29:12 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 공개일 넘기면서 일부 네티즌 '정치적 압력 의혹' 제기
-이달 시행된 '자체등급분류' 혼선 탓…영등위 "일본 콘텐츠는 미포함"
-종전대로 '영등위 심사' 뒤 공개 가능…넷플릭스 "최대...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2023/06/10/AKR20230610042851518_03_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
