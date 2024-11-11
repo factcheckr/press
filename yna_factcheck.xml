@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Nov 2024 19:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 23:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한의 우크라이나 파병은 국제법 위반이다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241108133800518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241108133800518?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 11 Nov 2024 23:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[북러, 북한군 파병에 상호 조약 근거로 '집단 자위권' 주장
+러시아의 우크라이나 침공 자체가 국제법 위반…북한군 파병도 마찬가지
+한국 등 주요국들, 북한군 파병은 "명백한 유엔 대북 결의...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2024/10/21/PYH2024102101050001300_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['저마다 제각각'…집회 산정 인원 누가 맞나?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241107160300518?section=theme-list/factcheck</link>
@@ -241,16 +251,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
 해외선 직고용 사례 적지 않아…법적지위 상관없이 노조 설립·가입 허용
 (서울=연합뉴스) 우혜림 인턴기...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2023/06/27/AKR20230627108300518_09_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민사소송 중 개인정보 노출 막을 방법이 없다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230614115200518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230614115200518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 05 Nov 2024 08:29:12 GMT</pubDate>
-            <content:encoded><![CDATA[소장 신청부터 주소·주민번호 노출…"민사 절차상 개인정보 보호조치 규정 없어"
-범죄피해자들 보복 두려움에 민사소송 포기…형사 배상명령 제도도 사실상 무력
-소송 중 피해자 신원보호 민사소송...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/cms/2016/04/17/01/C0A8CA3D0000015423ED9481000A6AF0_T2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
