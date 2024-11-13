@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Nov 2024 14:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 08:32:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤 대통령 '팩폭'한 기자가 사라졌다? 허위 영상이었다]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003079431</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003079431</guid>
+            <pubDate>Wed, 13 Nov 2024 08:32:28 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 박석호 기자 "질책 없고 감사 인사만"... &lt;부산일보&gt;도 질문 영상 적극 활용]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["대통령·여당 반대하는 특검은 위헌" 윤석열 주장은 거짓]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003078155</link>
@@ -36,14 +43,6 @@
             <pubDate>Tue, 22 Oct 2024 08:34:06 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 박영진 전주지검장 "결혼예물이라 가격 몰라"... 실거래가 모르면 전문가 평가액 신고해야]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/102215131581.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["고교 무상교육 예산 99% 삭감"이 '가짜뉴스'라는 국민의힘]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003071113</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003071113</guid>
-            <pubDate>Thu, 17 Oct 2024 08:32:09 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 민주당 의원 고발... 특례법 일몰로 정부 분담금 전액 삭감되는 건 사실]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/031917222342.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>

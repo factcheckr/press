@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Nov 2024 14:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 08:32:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/05/21/desk_20240521_201829_1_13_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[수능일에 미역국 먹으면 안 되나? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241111062500518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241111062500518?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 13 Nov 2024 08:31:50 GMT</pubDate>
+            <content:encoded><![CDATA[미역국, 수험생에 부정적 인식…영양학적 좋은 음식
+평소 먹던 익숙한 식단 권장…초콜릿ㆍ사탕 도움
+(서울=연합뉴스) 박형빈 기자 = 매년 대학수학능력시험(수능)이 가까워지면 SN...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2024/11/11/AKR20241111062500518_02_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[북한의 우크라이나 파병은 국제법 위반이다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20241108133800518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20241108133800518?section=theme-list/factcheck</guid>
@@ -741,16 +751,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
 사회보장기본법에 상호주의…외국인 보험혜택 축소하려면 법령 고쳐야
 건보 악화의 주범? 외국인 전체 건보 수지 해마다 ...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/etc/inner/KR/2023/07/03/AKR20230703062700518_01_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[택배노조를 허용하는 나라는 없다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230627108300518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230627108300518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 05 Nov 2024 08:29:12 GMT</pubDate>
-            <content:encoded><![CDATA[택배기사 과거엔 '직고용 정규직'…외환위기 이후 '개인사업자'로 전환
-해외선 직고용 사례 적지 않아…법적지위 상관없이 노조 설립·가입 허용
-(서울=연합뉴스) 우혜림 인턴기...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2023/06/27/AKR20230627108300518_09_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
@@ -1023,6 +1023,13 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/09/28/l_2021092801003244800279501.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤 대통령 '팩폭'한 기자가 사라졌다? 허위 영상이었다 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003079431</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003079431</guid>
+            <pubDate>Wed, 13 Nov 2024 08:32:28 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 박석호 기자 "질책 없고 감사 인사만"... &lt;부산일보&gt;도 질문 영상 적극 활용]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["대통령·여당 반대하는 특검은 위헌" 윤석열 주장은 거짓 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003078155</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003078155</guid>
@@ -1051,14 +1058,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
             <pubDate>Tue, 22 Oct 2024 08:34:06 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 박영진 전주지검장 "결혼예물이라 가격 몰라"... 실거래가 모르면 전문가 평가액 신고해야]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/102215131581.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["고교 무상교육 예산 99% 삭감"이 '가짜뉴스'라는 국민의힘 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003071113</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003071113</guid>
-            <pubDate>Thu, 17 Oct 2024 08:32:09 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 민주당 의원 고발... 특례법 일몰로 정부 분담금 전액 삭감되는 건 사실]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/031917222342.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
