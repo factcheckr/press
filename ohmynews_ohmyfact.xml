@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Nov 2024 03:29:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 17:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["대법원 예산 증액이 야당의 회유책?" <조선> 주장 따져보니]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003079850</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003079850</guid>
+            <pubDate>Thu, 14 Nov 2024 17:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 법사위 증액 90%는 국선변호사 지원... 법관 초과근무수당은 '여당이 준 당근']]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[윤 대통령 '팩폭'한 기자가 사라졌다? 허위 영상이었다]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003079431</link>
@@ -35,14 +42,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003073528</guid>
             <pubDate>Thu, 24 Oct 2024 09:25:45 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 경찰청 "이적표현물이면 국보법 저촉 소지"... 대법원 "이적행위할 목적 있어야"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["다이아 반지가 천 원" 검사장 재산 축소 신고 의혹  따져보니]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003072778</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003072778</guid>
-            <pubDate>Tue, 22 Oct 2024 08:34:06 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 박영진 전주지검장 "결혼예물이라 가격 몰라"... 실거래가 모르면 전문가 평가액 신고해야]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/102215131581.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
