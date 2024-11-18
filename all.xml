@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Nov 2024 20:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2024 01:49:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/05/21/desk_20240521_201829_1_13_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[25년 후엔 젊은이 1명이 노인 1명을 부양한다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241107155400518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241107155400518?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 18 Nov 2024 01:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[대한노인회장, 노인 연령 기준 65세→75세로 상향 제안
+'노인은 65세' 기준 근거 없지만 연금 수령 시기ㆍ정년과 연동돼
+(서울=연합뉴스) 구정모 기자 = 우리나라에서 25년쯤...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2024/10/21/PYH2024102106400001301_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['성관계 합의' 앱 법적 효력 있나? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20241113131900518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20241113131900518?section=theme-list/factcheck</guid>
@@ -742,16 +752,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
 해외서도 교권침해 심각…학부모 등 악성 민원 시달려
 '인권교육 받은 학생일수록 교사 권위·교육권 존중' 실증...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2023/07/27/PYH2023072705530001300_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의대 정원 확대하면 의료비가 늘어난다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230718058700518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230718058700518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 05 Nov 2024 08:29:12 GMT</pubDate>
-            <content:encoded><![CDATA[의협, 의사 수 의료비 견인 주장…'공급자유인수요 가설' 근거
-의료비 감소 예상 '경쟁 가설' 각축…환경·제도 따라 상반된 연구결과
-경제논리로 과잉진료 정당화 안돼…제도개선·규제·직업윤리...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2023/06/07/PYH2023060709280001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
