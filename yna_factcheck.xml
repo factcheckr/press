@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 18:31:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 23:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전동 킥보드, 전면 금지할 수 있나?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241119094700518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241119094700518?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 19 Nov 2024 23:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[교통사고 6년새 20배로 급증…전동 킥보드에 불만 고조
+서울시 '킥보드 없는 거리' 선정…전면 금지는 불가능
+(서울=연합뉴스) 구정모 기자 = "그냥 전동 킥보드 전면 금지 해라...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2024/11/06/PYH2024110604520001300_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트럼프는 '한국 조선 실력' 예전부터 알고 있었다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241113151500518?section=theme-list/factcheck</link>
@@ -243,16 +253,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
 배수펌프 설치에도 침수 목격…파행 직접원인으로 보기엔 무리
 (부안=연합뉴스) 정경재 기자 = "잼버리 배수 대책...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2023/08/01/PYH2023080115030005500_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외국에선 폭염에도 이름을 붙인다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230810053800518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230810053800518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 05 Nov 2024 08:29:12 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 위협하는 재난 된 '폭염' 인명피해 크지만 위험의식은 낮아
-스페인·그리스 폭염에 이름 붙여…LA 등 미국서도 논의 "경각심 제고"
-(서울=연합뉴스) 우혜림 인턴 기자 =...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/cms/2018/08/03/15/C0A8CA3C00000164FDB6CFDF00047E5C_T2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

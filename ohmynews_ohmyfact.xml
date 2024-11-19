@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 18:31:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 23:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["영국은 태블릿에도 수신료 부과?" 박장범 발언 검증해보니]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003081125</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003081125</guid>
+            <pubDate>Tue, 19 Nov 2024 23:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 모바일로 BBC 실시간 시청때만 부과... 휴대전화 TV 수신 기능과 무관]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/111919381098.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["대법원 예산 증액이 야당의 회유책?" <조선> 주장 따져보니]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003079850</link>
@@ -35,13 +43,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003075787</guid>
             <pubDate>Sun, 03 Nov 2024 02:58:57 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 한국·일본, OECD 1·2위 다퉈... 유럽은 보행자 대신 자동차 속도 단속]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["삐라 사진 올리면 국보법 위반?" 경찰 답변은]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003073528</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003073528</guid>
-            <pubDate>Thu, 24 Oct 2024 09:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 경찰청 "이적표현물이면 국보법 저촉 소지"... 대법원 "이적행위할 목적 있어야"]]></content:encoded>
         </item>
     </channel>
 </rss>
