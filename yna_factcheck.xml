@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Nov 2024 18:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 23:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가짜 신분증으로 술·담배…고3도 처벌받나?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241118106400518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241118106400518?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 21 Nov 2024 23:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[미성년자도 형사처벌 대상…'신분증 도용·위변조' 불법
+신분증·본인 확인 허술하면 업주도 처벌 대상
+(서울=연합뉴스) 박형빈 기자 = 매년 대학수학능력시험(수능)이 끝나면 입시 ...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/etc/inner/KR/2024/11/18/AKR20241118106400518_01_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리나라 '시니어 아미' 도입 가능한가?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241115061100518?section=theme-list/factcheck</link>
@@ -244,16 +254,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
 무차별범죄 원인 정신질환으로 단정 어려워…일반인 우발범죄도 많아
 정신질환 범죄 위험성 과장…"격리보다 지역사회로 편입해...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/cms/2016/05/24/01/C0A8CA3D00000154E01D5AA3000254FE_T2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[여운형 선생·홍범도 장군만 건국훈장 두번 받았다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230822022800518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230822022800518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 05 Nov 2024 08:29:12 GMT</pubDate>
-            <content:encoded><![CDATA[박민식 보훈부 장관 "상훈법서 중복서훈 금지"…여·홍, 서로 다른 공적으로 훈장 받아
-유관순 열사도 두번 추서돼…역사적 평가 달라지면 서훈 등급 조정 고려할 필요도
-(서울=연합뉴...]]></content:encoded>
-            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2019/07/19/PYH2019071909290001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
