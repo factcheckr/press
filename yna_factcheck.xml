@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Nov 2024 17:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Nov 2024 23:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스 하니는 근로자가 아니다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241122142700518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241122142700518?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 24 Nov 2024 23:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[근로자성 판단은 '사용종속관계'…대법원 판례서 구체화
+뮤지컬 배우가 근로로 인정받기도…사회변화 수용 요구 늘어
+(서울=연합뉴스) 구정모 기자 = 한해 수십억 원을 버는 연예인들은...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2024/10/15/PYH2024101517450001300_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가짜 신분증으로 술·담배…고3도 처벌받나?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241118106400518?section=theme-list/factcheck</link>
@@ -244,16 +254,6 @@
 RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓ 문재인 정부↑
 (서울=연합뉴스) 이웅 기...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/photo/cms/2023/09/01/15/PCM20230901000515990_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[범죄자 중 정신질환자는 얼마나 될까?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230823048400518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230823048400518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 05 Nov 2024 08:29:12 GMT</pubDate>
-            <content:encoded><![CDATA[범죄자 중 정신장애 0.3~0.7%…범죄확률 일반인보다 훨씬 낮아
-무차별범죄 원인 정신질환으로 단정 어려워…일반인 우발범죄도 많아
-정신질환 범죄 위험성 과장…"격리보다 지역사회로 편입해...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/cms/2016/05/24/01/C0A8CA3D00000154E01D5AA3000254FE_T2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
