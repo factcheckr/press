@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Nov 2024 06:35:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 13:32:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한일관계 '물 반 컵' 채워졌나?]]></title>
+            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6659770_36515.html</link>
+            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6659770_36515.html</guid>
+            <pubDate>Mon, 25 Nov 2024 13:31:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2024-11-25</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/11/25/desk_20241125_202607_1_17_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[특검은 반헌법? 김 여사 활동 중단해왔다? 팩트체크]]></title>
             <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6654031_36515.html</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 12 Jun 2024 13:25:37 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-06-12</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/06/12/desk_20240612_201605_1_13_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KC인증이면 안전하다?]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6600429_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6600429_36515.html</guid>
-            <pubDate>Tue, 21 May 2024 14:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-05-21</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/05/21/desk_20240521_201829_1_13_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
