@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Nov 2024 19:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 23:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[흉악범들 신상 공개만이 정답이다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241127098100518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241127098100518?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 27 Nov 2024 23:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[잇단 강력범죄에 신원 공개 여론 고조…정부 제도 도입
+충분한 증거시 등 공개 한정에도 정당성 논란 여전
+(서울=연합뉴스) 구정모 기자 = 최근 한 현역 장교가 동료 여성 군무원을...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2024/11/27/AKR20241127098100518_01_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['SNS 바바리맨'은 처벌 못 하나?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241120124300518?section=theme-list/factcheck</link>
@@ -245,16 +255,6 @@
 백선엽 친일행위 판정근거는 '침략전쟁 협력'…한인 독립군 토벌여부가 기준 아냐
 일제 만주국군 장교들 해방후 한국군 요직…...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2023/09/27/AKR20230927157700518_01_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동물원이 '동물 감옥'인가…학대해도 처벌 규정 없다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230914105000518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230914105000518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 05 Nov 2024 08:29:12 GMT</pubDate>
-            <content:encoded><![CDATA[동물보호법·동물원수족관법 등에선 상해나 살생 등 주로 극단적인 상황만 제재
-동물원 동물, 반려동물과 비교해 서식환경을 비롯한 복지 보장 수준 미흡
-개정 동물원수족관법, 12월 14일부터 ...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2023/06/16/PYH2023061612980005200_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
