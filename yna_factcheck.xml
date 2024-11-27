@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Nov 2024 21:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 03:03:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['SNS 바바리맨'은 처벌 못 하나?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241120124300518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241120124300518?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 27 Nov 2024 03:02:57 GMT</pubDate>
+            <content:encoded><![CDATA[성적 불쾌감 일으킬 글·사진 전송만 해도 성폭력처벌법 대상
+검거율 높지만 구속·기소율은 낮아
+(서울=연합뉴스) 박형빈 기자 = 최근 한 걸그룹 출신 가수는 유튜브 방송에 출연해...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2024/11/20/AKR20241120124300518_03_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비트코인이 주요국 법정화폐 될 수 있다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241115089600518?section=theme-list/factcheck</link>
@@ -245,16 +255,6 @@
 동물원 동물, 반려동물과 비교해 서식환경을 비롯한 복지 보장 수준 미흡
 개정 동물원수족관법, 12월 14일부터 ...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2023/06/16/PYH2023061612980005200_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['자유시 참변'은 일본의 사주로 일어났다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230908138900518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230908138900518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 05 Nov 2024 08:29:12 GMT</pubDate>
-            <content:encoded><![CDATA[상해임시정부, 소비에트러시아 지원 속 항일무장부대 통합 추진
-한인 사회주의 양대 세력 갈등…통합부대 주도권 다툼 유혈 사태로
-"홍범도 장군은 중립 지켰으나 높은 명성 때문에 파쟁에 이용"...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2023/08/28/PYH2023082810830001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
