@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Nov 2024 01:50:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 09:29:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1027,6 +1027,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/01/l_2021120101000109900006001.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["한동훈 가족, 윤석열 비방 글 위법?" 법적 쟁점 따져보니 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003083458</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003083458</guid>
+            <pubDate>Thu, 28 Nov 2024 09:29:49 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 가족 명의 동원한 '여론조작' 처벌 어려워... 공무원·댓글팀·매크로 활용 위법 판례]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/112814245573.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["영국은 태블릿에도 수신료 부과?" 박장범 발언 검증해보니 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003081125</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003081125</guid>
@@ -1055,13 +1063,6 @@
             <pubDate>Fri, 08 Nov 2024 02:53:35 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 대통령 관련된 특검 야당 추천 관행화... 헌재도 2019년 합헌 결정]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['무단횡단' 단속해도 보행자 사망 1위인 국가는? (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003075787</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003075787</guid>
-            <pubDate>Sun, 03 Nov 2024 02:58:57 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 한국·일본, OECD 1·2위 다퉈... 유럽은 보행자 대신 자동차 속도 단속]]></content:encoded>
         </item>
     </channel>
 </rss>
