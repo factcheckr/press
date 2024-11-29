@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Nov 2024 21:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 05:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기록적인 폭설에도 겨울이 짧아진다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241122073500518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241122073500518?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 29 Nov 2024 05:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[100년 전보다 겨울 22일 줄고 여름 29일 늘어
+온실가스 배출 심하면 2100년에는 겨울 '단 24일'
+(서울=연합뉴스) 박형빈 기자 = 유난히도 길고도 무더웠던 올해 여름...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2024/11/28/PYH2024112802800001300_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[흉악범들 신상 공개만이 정답이다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241127098100518?section=theme-list/factcheck</link>
@@ -245,16 +255,6 @@
 팬데믹 이후 지역 약사회서 채팅방 만들어 의약품 교환하기도
 수급난은 일부 의약품 국한…"수급 불안정 의약품은 20종 정도"...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2022/12/27/PYH2022122714030001300_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본군 장교 친일행위 판정기준은 독립군 토벌이다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230927157700518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230927157700518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 05 Nov 2024 08:29:12 GMT</pubDate>
-            <content:encoded><![CDATA['반민족규명법'상 우리나라 아닌 제3국의 항일세력 탄압도 친일행위
-백선엽 친일행위 판정근거는 '침략전쟁 협력'…한인 독립군 토벌여부가 기준 아냐
-일제 만주국군 장교들 해방후 한국군 요직…...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2023/09/27/AKR20230927157700518_01_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
