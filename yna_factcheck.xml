@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Dec 2024 21:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 22:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리나라 쌍둥이 출생 정말 늘었나?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241128136100518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241128136100518?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 02 Dec 2024 22:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[2010년 중반까지 출생 쌍둥이↑…비중은 2022년 정점
+산모 고령화와 인공수정 확산 영향
+(서울=연합뉴스) 구정모 기자 = '쌍둥이 형제가 공군 학사장교로 임관', '쌍둥이 가...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/cms/2017/06/11/01/C0A8CAE20000015C96690D370000020E_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사망보험만 수십 개 가입할 수 있다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241118127900518?section=theme-list/factcheck</link>
@@ -247,15 +257,6 @@
             <pubDate>Tue, 05 Nov 2024 08:29:12 GMT</pubDate>
             <content:encoded><![CDATA[[※ 편집자 주 = 노점상이 현금을 선호하는 이유가 뭘까 확인해봤습니다. 원래는 이 기사로 끝낼 예정이었지만, 정부가 제공하는 각종 세금 관련 혜택에도 불구...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2023/12/21/AKR20231221105800505_05_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['노00존'은 합법?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20231113122900505?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20231113122900505?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 05 Nov 2024 08:29:12 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 김수지 조서연 인턴기자 = "고객님 매장 이용 시간이 너무 깁니다. 젊은 고객님들은 아예 이쪽으로 안 오고 있어요."
-지난 9월 서울의 한 프랜차이즈 카...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2023/11/13/AKR20231113122900505_03_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
