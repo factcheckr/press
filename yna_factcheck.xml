@@ -4,9 +4,20 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Dec 2024 05:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 01:52:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사망보험만 수십 개 가입할 수 있다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241118127900518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241118127900518?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 02 Dec 2024 01:51:34 GMT</pubDate>
+            <content:encoded><![CDATA[중복 가입ㆍ보상 가능하지만 고액ㆍ여러 건은 별도 심사받아야
+피보험자 자필서명도 필요해 수십개 사망보험 가입 어려워
+금융당국ㆍ보험사, 업계 합산 '30억원 이상' 사망 담보 특별 관리
+...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2024/11/18/AKR20241118127900518_02_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기록적인 폭설에도 겨울이 짧아진다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241122073500518?section=theme-list/factcheck</link>
@@ -245,16 +256,6 @@
             <content:encoded><![CDATA[(서울=연합뉴스) 김수지 조서연 인턴기자 = "고객님 매장 이용 시간이 너무 깁니다. 젊은 고객님들은 아예 이쪽으로 안 오고 있어요."
 지난 9월 서울의 한 프랜차이즈 카...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2023/11/13/AKR20231113122900505_03_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[약국에 약이 부족해 약사들끼리 품앗이를 한다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230926117700518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230926117700518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 05 Nov 2024 08:29:12 GMT</pubDate>
-            <content:encoded><![CDATA[약사 1천300명 참여하는 '오픈 채팅방' 개설돼 의약품 직거래
-팬데믹 이후 지역 약사회서 채팅방 만들어 의약품 교환하기도
-수급난은 일부 의약품 국한…"수급 불안정 의약품은 20종 정도"...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2022/12/27/PYH2022122714030001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
