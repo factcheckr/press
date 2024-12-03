@@ -4,9 +4,20 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 18:33:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 22:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리나라에만 '예체능 병역 특례' 있다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241126130900518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241126130900518?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 03 Dec 2024 22:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[1973년 엘리트 예체능 육성 차원에서 보충역 편입 도입
+대만 등 일부 국가, 병역 특례에 입상 기준 규정하기도
+끊이지 않는 공정성 시비…정치권도 존치 여부 오락가락
+(서울=연...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/etc/inner/KR/2024/11/26/AKR20241126130900518_09_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리나라 쌍둥이 출생 정말 늘었나?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241128136100518?section=theme-list/factcheck</link>
@@ -249,14 +260,6 @@
             <pubDate>Tue, 05 Nov 2024 08:29:12 GMT</pubDate>
             <content:encoded><![CDATA[[※ 편집자 주 = 노점상이 신용카드를 안 받는 이유는 사업자 등록이 어렵기 때문입니다. 당국은 세금을 낼 필요가 없다지만 정작 노점상인은 내고 싶다며 '노점상 특별법'...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2024/01/14/PYH2024011404830001300_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포장마차는 왜 신용카드를 안 받을까?-①]]></title>
-            <link>https://www.yna.co.kr/view/AKR20231221105800505?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20231221105800505?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 05 Nov 2024 08:29:12 GMT</pubDate>
-            <content:encoded><![CDATA[[※ 편집자 주 = 노점상이 현금을 선호하는 이유가 뭘까 확인해봤습니다. 원래는 이 기사로 끝낼 예정이었지만, 정부가 제공하는 각종 세금 관련 혜택에도 불구...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2023/12/21/AKR20231221105800505_05_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
