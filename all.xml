@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Dec 2024 19:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 22:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,17 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/06/12/desk_20240612_201605_1_13_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[내가 산 전자담배는 법상 '담배'가 아니다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241203146100518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241203146100518?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 04 Dec 2024 22:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[합성 니코틴 및 줄기·뿌리 추출 니코틴, 법상 담배 아냐
+흡연전용기구도 그냥 '도구'…청소년 유해 물건 지정
+정부, 합성 니코틴도 담배로 규제 입장…법 개정 주목
+(서울=연합뉴스...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2024/05/09/PYH2024050920400001300_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리나라에만 '예체능 병역 특례' 있다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20241126130900518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20241126130900518?section=theme-list/factcheck</guid>
@@ -752,14 +763,6 @@
             <pubDate>Tue, 05 Nov 2024 08:29:12 GMT</pubDate>
             <content:encoded><![CDATA[[※ 편집자 주 = 서울 중구청이 지난 2월 노점상의 사업자등록과 신용카드 단말기 설치를 추진한다고 밝혔습니다. 팩트체크 기사 1편 [팩트체크] 포장마차는 왜 신용카드를 안 받을...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/etc/inner/KR/2024/04/03/AKR20240403107100505_09_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정부는 세금 안 내도 된다는데, 노점상은 왜-② (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20240129099800505?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20240129099800505?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 05 Nov 2024 08:29:12 GMT</pubDate>
-            <content:encoded><![CDATA[[※ 편집자 주 = 노점상이 신용카드를 안 받는 이유는 사업자 등록이 어렵기 때문입니다. 당국은 세금을 낼 필요가 없다지만 정작 노점상인은 내고 싶다며 '노점상 특별법'...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2024/01/14/PYH2024011404830001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
