@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 17:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 18:32:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -243,7 +243,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007839637&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20241018/201997278_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241018/201997278.jpg'" alt="섬네일 이미지:[사실은] '채식주의자' 청소년에 유해?…성교육 전문가 답은" class="mfn_img lazy">
+									<img src="//img.sbs.co.kr/newimg/news/20241018/201997278.jpg" data-src="//img.sbs.co.kr/newimg/news/20241018/201997278_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241018/201997278.jpg'" alt="섬네일 이미지:[사실은] '채식주의자' 청소년에 유해?…성교육 전문가 답은" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -271,7 +271,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20241018/201997278.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 국산 김치 먹기 어려워지나…'금배추' 대책은? (SBS뉴스 ─ 사실은)]]></title>
@@ -281,7 +281,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007823159&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20241004/201992196_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241004/201992196.jpg'" alt="섬네일 이미지:[사실은] 국산 김치 먹기 어려워지나…'금배추' 대책은?" class="mfn_img lazy">
+									<img src="//img.sbs.co.kr/newimg/news/20241004/201992196.jpg" data-src="//img.sbs.co.kr/newimg/news/20241004/201992196_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241004/201992196.jpg'" alt="섬네일 이미지:[사실은] 국산 김치 먹기 어려워지나…'금배추' 대책은?" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -309,7 +309,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20241004/201992196.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 학교 안 '폰 금지'는 인권침해?…다른 나라는 (SBS뉴스 ─ 사실은)]]></title>
@@ -319,7 +319,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007812974&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20240925/201988959_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240925/201988959.jpg'" alt="섬네일 이미지:[사실은] 학교 안 '폰 금지'는 인권침해?…다른 나라는" class="mfn_img lazy">
+									<img src="//img.sbs.co.kr/newimg/news/20240925/201988959.jpg" data-src="//img.sbs.co.kr/newimg/news/20240925/201988959_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240925/201988959.jpg'" alt="섬네일 이미지:[사실은] 학교 안 '폰 금지'는 인권침해?…다른 나라는" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -347,7 +347,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20240925/201988959.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[관광 온 중국인이 운전?…전문가들 '부정적' 이유 [사실은] (SBS뉴스 ─ 사실은)]]></title>
@@ -357,7 +357,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007799799&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20240912/201985047_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240912/201985047.jpg'" alt="섬네일 이미지:관광 온 중국인이 운전?…전문가들 '부정적' 이유 [사실은]" class="mfn_img lazy">
+									<img src="//img.sbs.co.kr/newimg/news/20240912/201985047.jpg" data-src="//img.sbs.co.kr/newimg/news/20240912/201985047_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240912/201985047.jpg'" alt="섬네일 이미지:관광 온 중국인이 운전?…전문가들 '부정적' 이유 [사실은]" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -385,7 +385,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20240912/201985047.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한일관계 '물 반 컵' 채워졌나? (MBC뉴스 ─ 알고보니)]]></title>
