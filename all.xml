@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Dec 2024 11:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 22:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/06/12/desk_20240612_201605_1_13_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[교실까지 파고든 온라인 도박…어리면 처벌 안 받나? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241128158600518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241128158600518?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 08 Dec 2024 22:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[만 10세 이상은 보호처분 대상…14세 이상은 형사처벌도
+사이버도박으로 입건된 청소년 10년 새 5배 이상 늘어
+(서울=연합뉴스) 박형빈 기자 = 중독성이 강한 온라인 도박이 ...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/etc/inner/KR/2024/11/28/AKR20241128158600518_04_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[결혼 축의금 얼마 내면 적당할까? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20241120107900518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20241120107900518?section=theme-list/factcheck</guid>
@@ -757,15 +767,6 @@
 감소 시점 불분명하나 50년 후로 가정시 통계청 추계와 상당한 격차
 (서울=연합뉴스) 구정모 기자 = '괴짜 경영자...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2024/11/01/PYH2024110100080010800_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공공도서관은 장애인도서관의 대안일까? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20240510101200505?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20240510101200505?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 05 Nov 2024 08:29:12 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 이은도 김민수 인턴기자 = 장애인도서관이 줄고 있다. 그 대신 장애인은 공공도서관에서 원하는 정보를 얻을 수 있을까.
-서울점자도서관이 2023년 12월...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/etc/inner/KR/2024/05/10/AKR20240510101200505_22_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
