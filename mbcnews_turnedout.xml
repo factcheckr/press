@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 11:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 12:49:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['국정농단' 당시 민주당도 총리에게 맡기자고 했다?]]></title>
+            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6665352_36515.html</link>
+            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6665352_36515.html</guid>
+            <pubDate>Mon, 09 Dec 2024 12:47:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2024-12-09</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/12/09/desk_20241209_204946_1_31_Large_u.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한일관계 '물 반 컵' 채워졌나?]]></title>
             <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6659770_36515.html</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 20 Jun 2024 12:34:38 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-06-20</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/06/20/desk_20240620_201819_1_12_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[석유·가스 개발로 지진 날 수 있다?]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6607285_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6607285_36515.html</guid>
-            <pubDate>Wed, 12 Jun 2024 13:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-06-12</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/06/12/desk_20240612_201605_1_13_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
