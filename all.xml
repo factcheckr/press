@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Dec 2024 07:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Dec 2024 15:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -388,6 +388,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[대통령 탄핵이 헌정 중단·국가 혼란 부른다? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6666184_36515.html</link>
+            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6666184_36515.html</guid>
+            <pubDate>Wed, 11 Dec 2024 15:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2024-12-11</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/12/11/desk_20241211_202422_1_31_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['국정농단' 당시 민주당도 총리에게 맡기자고 했다? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6665352_36515.html</link>
             <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6665352_36515.html</guid>
@@ -498,14 +506,6 @@
             <pubDate>Fri, 28 Jun 2024 12:37:14 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-06-28</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/06/28/desk_20240628_202237_1_16_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고소득·고학력·자산가 '수혜' 저출생 대책? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6609853_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6609853_36515.html</guid>
-            <pubDate>Thu, 20 Jun 2024 12:34:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-06-20</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/06/20/desk_20240620_201819_1_12_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헷갈리는 상설 특검·일반 특검 뭐가 다른가? (연합뉴스 ─ 팩트체크)]]></title>
