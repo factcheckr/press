@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Dec 2024 17:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Dec 2024 03:05:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헷갈리는 상설 특검·일반 특검 뭐가 다른가?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241210157500518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241210157500518?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 11 Dec 2024 03:04:37 GMT</pubDate>
+            <content:encoded><![CDATA[본회의 통과 상설 특검은 '특별검사 임명 등에 관한 법률'상 특검
+일반 특검은 개별 특검법 제정 필요…대통령 거부권 행사할 수도
+(서울=연합뉴스) 구정모 기자 = 야당 주도로...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2024/12/10/PYH2024121013590001300_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유튜버는 세금 안 내도 괜찮다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241126120600518?section=theme-list/factcheck</link>
@@ -257,17 +267,6 @@
 국가채무 비율, 타국보다 양호하지만 재정 여건 악화
 (서울=연합뉴스) 심재훈 기...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2024/10/23/PYH2024102300370001300_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['빼빼로데이'는 제과업체가 만들었다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241104142900518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241104142900518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 05 Nov 2024 23:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[1990년대 초중반 부산·경남 학생들 사이서 시작 유력
-'소비자가 만들고 제과·유통업계가 키운' 독특한 기념일
-일본도 매년 11월 11일은 '포키와 프렛츠의 날'
-(서울=연합뉴...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2024/11/03/PYH2024110303790001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
