@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Dec 2024 01:52:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 04:28:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1038,6 +1038,30 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/01/l_2021120101000109900006001.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["국회 출입 안 막았다" 윤석열의 '새빨간 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088062</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088062</guid>
+            <pubDate>Thu, 12 Dec 2024 04:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[[12.12 대국민담화 팩트체크 ③] 계엄 포고령에 따라 국회 봉쇄, '국회의원 끌어내'라는 지시도]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["거대 야당, 국가보안법 폐지 시도" 윤석열 주장 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088064</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088064</guid>
+            <pubDate>Thu, 12 Dec 2024 04:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[[12·12 대국민담화 팩트체크 ②] 22대 국회 관련 법안 발의 '0건']]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["비상계엄, 사법심사 대상 아니다" 윤석열 주장 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088024</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088024</guid>
+            <pubDate>Thu, 12 Dec 2024 04:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[[12·12 대국민담화 팩트체크 ① ] 대법원  "위헌, 위법하거나 국정문란 목적 계엄 심사 가능"]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["한동훈 가족, 윤석열 비방 글 위법?" 법적 쟁점 따져보니 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003083458</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003083458</guid>
@@ -1052,28 +1076,6 @@
             <pubDate>Tue, 19 Nov 2024 23:23:50 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 모바일로 BBC 실시간 시청때만 부과... 휴대전화 TV 수신 기능과 무관]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/111919381098.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["대법원 예산 증액이 야당의 회유책?" <조선> 주장 따져보니 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003079850</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003079850</guid>
-            <pubDate>Thu, 14 Nov 2024 17:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 법사위 증액 90%는 국선변호사 지원... 법관 초과근무수당은 '여당이 준 당근']]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤 대통령 '팩폭'한 기자가 사라졌다? 허위 영상이었다 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003079431</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003079431</guid>
-            <pubDate>Wed, 13 Nov 2024 08:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 박석호 기자 "질책 없고 감사 인사만"... &lt;부산일보&gt;도 질문 영상 적극 활용]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["대통령·여당 반대하는 특검은 위헌" 윤석열 주장은 거짓 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003078155</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003078155</guid>
-            <pubDate>Fri, 08 Nov 2024 02:53:35 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 대통령 관련된 특검 야당 추천 관행화... 헌재도 2019년 합헌 결정]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
