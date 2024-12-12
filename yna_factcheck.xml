@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Dec 2024 21:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 01:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리나라 음주운전 처벌은 관대한 편이다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241210128300518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241210128300518?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 12 Dec 2024 01:52:01 GMT</pubDate>
+            <content:encoded><![CDATA[법률 형량 낮지 않지만…판결은 집유·벌금형 다수
+"음주운전 방지 장치·음주 차량 몰수 등 확대해야"
+(서울=연합뉴스) 박형빈 기자 = 연말연시를 맞아 송년회·신년회 등 술자리가...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2024/12/10/AKR20241210128300518_01_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헷갈리는 상설 특검·일반 특검 뭐가 다른가?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241210157500518?section=theme-list/factcheck</link>
@@ -256,17 +266,6 @@
 무비자 입국해도 호텔 아니면 '주숙등기' 필수
 (서울=연합뉴스) 심재훈 기...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2024/11/03/PYH2024110307240001301_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['1천조' 넘은 나랏빚 괜찮은가?…재정 건전성 영향은]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241105077200518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241105077200518?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 07 Nov 2024 02:51:09 GMT</pubDate>
-            <content:encoded><![CDATA[국가채무는 '실질적인 나랏빚'…국가부채는 광의 개념
-건전 재정 기조지만 국가채무 비율 계속 늘어나
-국가채무 비율, 타국보다 양호하지만 재정 여건 악화
-(서울=연합뉴스) 심재훈 기...]]></content:encoded>
-            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2024/10/23/PYH2024102300370001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
