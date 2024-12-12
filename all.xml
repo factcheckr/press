@@ -4,9 +4,47 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Dec 2024 04:28:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 11:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] "비상계엄=통치행위" 면죄부?…판례는 정반대 (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007910291&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007910291&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 12 Dec 2024 11:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007910291&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20241212/202018260_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241212/202018260.jpg'" alt="섬네일 이미지:[사실은] &quot;비상계엄=통치행위&quot; 면죄부?…판례는 정반대" class="mfn_img lazy" style="display: inline;">
+									
+								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007910291&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>[사실은] "비상계엄=통치행위" 면죄부?…판례는 정반대</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2024.12.12<i class="ir i_time"></i>19:51</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20241212/202018260_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사실은] 구글 어스, 북 군사위성보다 더 위험하다?…따져보니 (SBS뉴스 ─ 사실은)]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007893674&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -205,7 +243,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007846955&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20241024/201999457_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241024/201999457.jpg'" alt="섬네일 이미지:[사실은] '기적의 비만약' 위고비…'미용 목적' 처방 성행" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20241024/201999457_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241024/201999457.jpg'" alt="섬네일 이미지:[사실은] '기적의 비만약' 위고비…'미용 목적' 처방 성행" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -233,7 +271,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20241024/201999457_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] '채식주의자' 청소년에 유해?…성교육 전문가 답은 (SBS뉴스 ─ 사실은)]]></title>
@@ -334,44 +372,6 @@
 							<!-- 기사 정보 -->	
 							<span class="info">
 								<span class="date">2024.09.25<i class="ir i_time"></i>20:34</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[관광 온 중국인이 운전?…전문가들 '부정적' 이유 [사실은] (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007799799&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007799799&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Mon, 25 Nov 2024 20:25:13 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007799799&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20240912/201985047_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240912/201985047.jpg'" alt="섬네일 이미지:관광 온 중국인이 운전?…전문가들 '부정적' 이유 [사실은]" class="mfn_img lazy">
-									
-								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007799799&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>관광 온 중국인이 운전?…전문가들 '부정적' 이유 [사실은]</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2024.09.12<i class="ir i_time"></i>20:40</span>
 							</span>
 						</p>
 						<!--// 텍스트 영역 -->
@@ -838,6 +838,26 @@
             <content:encoded><![CDATA[<span class="ellip">국내에서 신종 코로나바이러스 감염증(COVID-19·코로나19) 백신을 한 번 이상 맞은 사람이 1000만을 넘어섰다. <span class="ellip-line">코로나19 예방접종대응추진단(추진단)은 이날 오전 11시 기준 1006만705명이 백신 1차 접종을 마친 것으로 잠정 집계됐다고 밝혔다. 이는 전체 인구(지난해 12월 기준 5134만9116명) 약 19.6%에 해당한다. 접종 예약자 외에도 잔여백신을 맞은 30~50대들이 늘면서 코로나19로 제한됐던 일상생활 복귀에 대한 기대감도 커지고 있다. 지금도 하루 400~600명씩... </span></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[“윤석열 계엄은 고도의 정치행위” 윤상현 주장…일부 대목 부풀려 전체 왜곡 (경향신문 ─ 연재 ─ 팩트체크)]]></title>
+            <link>https://www.khan.co.kr/article/202412121058001</link>
+            <guid>https://www.khan.co.kr/article/202412121058001</guid>
+            <pubDate>Thu, 12 Dec 2024 11:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="thumb">
+                                        <picture>
+                                            <source type="image/webp" srcset="https://img.khan.co.kr/news/c/190x140/2024/12/12/news-p.v1.20241211.816eee13372347928745f435079c0c6f_P1.webp" loading="lazy">
+                                            <img src="https://img.khan.co.kr/news/c/190x140/2024/12/12/news-p.v1.20241211.816eee13372347928745f435079c0c6f_P1.jpeg" alt="[팩트체크]“윤석열 계엄은 고도의 정치행위” 윤상현 주장…일부 대목 부풀려 전체 왜곡" loading="lazy">
+                                        </picture>
+                                    </div>
+                                    <div class="txt">
+                                        <h2 class="tit">
+                                            <a href="https://www.khan.co.kr/article/202412121058001" onclick="sendGAAttrEvent(event);" title="[팩트체크]“윤석열 계엄은 고도의 정치행위” 윤상현 주장…일부 대목 부풀려 전체 왜곡" ep_event_page="pc_list_common" ep_event_area="팩트체크_기사" ep_event_label="[팩트체크]“윤석열 계엄은 고도의 정치행위” 윤상현 주장…일부 대목 부풀려 전체 왜곡">“윤석열 계엄은 고도의 정치행위” 윤상현 주장…일부 대목 부풀려 전체 왜곡</a>
+                                        </h2>
+                                        <span class="byline">9시간 전</span>
+                                        <span class="lead line_clamp2">윤상현 국민의힘 의원은 지난 11일 윤석열 대통령의 12·3 비상계엄 사태에 대해 대법원 판례를 언급하며 옹호했다. 윤 의원은 대통령의 비상계엄 선포가 “사법심사를 자제해야 할 고도의 정치행위”라고 옹호했는데 이런 주장은 얼마나 사실일까. 12일 경향신문이 윤 의원이 언급한 대법원 판례들을 확인한 결과 윤 의원은 각 판례의 극히 일부 대목을 부풀려 전체를 왜곡했다. 대법원 판결 취지는 오히려 윤 의원의 주장과 정반대였다.윤 의원은 11일 국회 긴급 대정부질문에서 “1997년 대법원 판례를 보면 비상계엄은 고도의 정치행위, 통치행위로 보고 있다”며 윤 대통령의 비상계엄 선포를 옹호했다. 이어 “2010년 대법원 판례에 의하면 고도의 정치 행위에 대해선 대통령의 권한을 존중하면서 사법 심사를 자제하는 선에서 위헌성을 심판하라고 돼 있다”고 주장했다. 우원식 국회의장이 “말이 되는가”라고 비판하자 윤 의원은 “의장님도 대법원 판례를 공부해 달라”고 맞섰다.윤 의원이 언급한 19...</span>
+                                    </div>]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/12/12/news-p.v1.20241211.816eee13372347928745f435079c0c6f_P1.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[“이재명 법정구속 가능하다”는 여당 주장, 사실일까 (경향신문 ─ 연재 ─ 팩트체크)]]></title>
             <link>https://www.khan.co.kr/article/202411181644001</link>
             <guid>https://www.khan.co.kr/article/202411181644001</guid>
@@ -1018,24 +1038,20 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/20/l_2022022001002313900209021.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오세훈 서울시장이 '서울 대안교육기관' 지원예산 깎았다? (경향신문 ─ 연재 ─ 팩트체크)]]></title>
-            <link>https://www.khan.co.kr/article/202112011048001</link>
-            <guid>https://www.khan.co.kr/article/202112011048001</guid>
-            <pubDate>Wed, 01 Dec 2021 10:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="thumb">
-                                        <picture>
-                                            <source type="image/webp" srcset="//img.khan.co.kr/news/c/190x140/2021/12/01/l_2021120101000109900006001.webp" loading="lazy">
-                                            <img src="//img.khan.co.kr/news/c/190x140/2021/12/01/l_2021120101000109900006001.jpg" alt="[팩트체크]오세훈 서울시장이 '서울 대안교육기관' 지원예산 깎았다?" loading="lazy">
-                                        </picture>
-                                    </div>
-                                    <div class="txt">
-                                        <h2 class="tit">
-                                            <a href="https://www.khan.co.kr/article/202112011048001" onclick="sendGAAttrEvent(event);" title="[팩트체크]오세훈 서울시장이 '서울 대안교육기관' 지원예산 깎았다?" ep_event_page="pc_list_common" ep_event_area="팩트체크_기사" ep_event_label="[팩트체크]오세훈 서울시장이 '서울 대안교육기관' 지원예산 깎았다?">오세훈 서울시장이 '서울 대안교육기관' 지원예산 깎았다?</a>
-                                        </h2>
-                                        <span class="byline">2021.12.01 10:48</span>
-                                        <span class="lead line_clamp2">예산 15% 감액은 사실…서울시 “내년 일부 기관 ‘등록제’ 전환 가정한 것”교육청 등록조건 까다롭고 지원액 작으면 ‘서울형’ 잔류…결국 예산 문제로서울지역 대안학교 교사와 학생, 대안교육 관계자들이 지나달 23일 서울시청 앞에 섰다. 이들은 오세훈 서울시장 취임 이후 서울시가 2022년도 대안학교 지원 예산을 15% 삭감했으며, 서울형 신고제 예산을 ‘0’원으로 책정해 ‘서울형 대안교육기관’ 진입을 준비해온 나머지 대안교육기관의 ‘서울형’ 전환이 사실상 불가능하게 됐다고 주장했다. 시장이 바뀌면서 서울시가 해온 각종 ‘학교 밖 청소년’ 지원정책이 축소된 게 아니냐는 지적도 나왔다.1일 경향신문 취재결과 서울시가 올해 예산 대비 대안교육기관에 대한 지원예산을 15% 감액한 것은 사실이었다. 서울시 평생교육국 청소년정책과는 2022년 서울시 대안교육기관 지원예산을 121억2782만1000원으로 책정했다. 2021년도 예산(92억6829만9000원)보다 28억595...</span>
-                                    </div>]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/01/l_2021120101000109900006001.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[윤석열 "국회 병력 300명"도 거짓, "질서유지"도 거짓 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088144</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088144</guid>
+            <pubDate>Thu, 12 Dec 2024 11:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[[12.12 대국민담화 팩트체크 ⑤] 국방부 자료만 봐도 685명... "5.18 학살도 450명으로 시작"]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["12.3 계엄은 통치행위" 윤석열 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088077</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088077</guid>
+            <pubDate>Thu, 12 Dec 2024 11:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[[12.12 대국민담화 팩트체크 ④] "헌법 절차 준수돼야 통치 인정... 위헌 포고령에 군대까지 국회 보내, 폭동 성립"]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["국회 출입 안 막았다" 윤석열의 '새빨간 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
@@ -1060,22 +1076,6 @@
             <pubDate>Thu, 12 Dec 2024 04:28:28 GMT</pubDate>
             <content:encoded><![CDATA[[12·12 대국민담화 팩트체크 ① ] 대법원  "위헌, 위법하거나 국정문란 목적 계엄 심사 가능"]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["한동훈 가족, 윤석열 비방 글 위법?" 법적 쟁점 따져보니 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003083458</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003083458</guid>
-            <pubDate>Thu, 28 Nov 2024 09:29:49 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 가족 명의 동원한 '여론조작' 처벌 어려워... 공무원·댓글팀·매크로 활용 위법 판례]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/112814245573.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["영국은 태블릿에도 수신료 부과?" 박장범 발언 검증해보니 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003081125</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003081125</guid>
-            <pubDate>Tue, 19 Nov 2024 23:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 모바일로 BBC 실시간 시청때만 부과... 휴대전화 TV 수신 기능과 무관]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/111919381098.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Dec 2024 04:28:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 11:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 "국회 병력 300명"도 거짓, "질서유지"도 거짓]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088144</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088144</guid>
+            <pubDate>Thu, 12 Dec 2024 11:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[[12.12 대국민담화 팩트체크 ⑤] 국방부 자료만 봐도 685명... "5.18 학살도 450명으로 시작"]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["12.3 계엄은 통치행위" 윤석열 주장은 '거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088077</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088077</guid>
+            <pubDate>Thu, 12 Dec 2024 11:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[[12.12 대국민담화 팩트체크 ④] "헌법 절차 준수돼야 통치 인정... 위헌 포고령에 군대까지 국회 보내, 폭동 성립"]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["국회 출입 안 막았다" 윤석열의 '새빨간 거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088062</link>
@@ -30,22 +46,6 @@
             <pubDate>Thu, 12 Dec 2024 04:28:28 GMT</pubDate>
             <content:encoded><![CDATA[[12·12 대국민담화 팩트체크 ① ] 대법원  "위헌, 위법하거나 국정문란 목적 계엄 심사 가능"]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["한동훈 가족, 윤석열 비방 글 위법?" 법적 쟁점 따져보니]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003083458</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003083458</guid>
-            <pubDate>Thu, 28 Nov 2024 09:29:49 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 가족 명의 동원한 '여론조작' 처벌 어려워... 공무원·댓글팀·매크로 활용 위법 판례]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/112814245573.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["영국은 태블릿에도 수신료 부과?" 박장범 발언 검증해보니]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003081125</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003081125</guid>
-            <pubDate>Tue, 19 Nov 2024 23:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 모바일로 BBC 실시간 시청때만 부과... 휴대전화 TV 수신 기능과 무관]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/111919381098.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
