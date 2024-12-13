@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Dec 2024 20:29:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 01:50:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/06/28/desk_20240628_202237_1_16_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['한국행 이민자' 세계 최고 수준이다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241128105000518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241128105000518?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 13 Dec 2024 01:49:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 비교시 OECD 증가율 2위…2019년 대입하면 중위권
+영구 이민자 규모는 OECD 중위권…한국, 코로나 이후 증가 추세
+(서울=연합뉴스) 심재훈 기자 = 지난해 ...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/etc/inner/KR/2024/11/28/AKR20241128105000518_02_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리나라 음주운전 처벌은 관대한 편이다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20241210128300518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20241210128300518?section=theme-list/factcheck</guid>
@@ -757,17 +767,6 @@
             <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2024/10/27/PYH2024102703550001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[중국의 '한국인 비자 면제'는 깜짝 발표였다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241107034000518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241107034000518?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 07 Nov 2024 23:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[중국 외교부 정례 브리핑에 없던 내용 갑자기 추가돼
-중국, 비자 면제 확대 추진…이번에 한국까지 포함
-무비자 입국해도 호텔 아니면 '주숙등기' 필수
-(서울=연합뉴스) 심재훈 기...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2024/11/03/PYH2024110307240001301_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
             <link>https://www.dongascience.com/news.php?idx=54018</link>
             <guid>https://www.dongascience.com/news.php?idx=54018</guid>
@@ -852,7 +851,7 @@
                                         <h2 class="tit">
                                             <a href="https://www.khan.co.kr/article/202412121058001" onclick="sendGAAttrEvent(event);" title="[팩트체크]“윤석열 계엄은 고도의 정치행위” 윤상현 주장…일부 대목 부풀려 전체 왜곡" ep_event_page="pc_list_common" ep_event_area="팩트체크_기사" ep_event_label="[팩트체크]“윤석열 계엄은 고도의 정치행위” 윤상현 주장…일부 대목 부풀려 전체 왜곡">“윤석열 계엄은 고도의 정치행위” 윤상현 주장…일부 대목 부풀려 전체 왜곡</a>
                                         </h2>
-                                        <span class="byline">18시간 전</span>
+                                        <span class="byline">23시간 전</span>
                                         <span class="lead line_clamp2">윤상현 국민의힘 의원은 지난 11일 윤석열 대통령의 12·3 비상계엄 사태에 대해 대법원 판례를 언급하며 옹호했다. 윤 의원은 대통령의 비상계엄 선포가 “사법심사를 자제해야 할 고도의 정치행위”라고 옹호했는데 이런 주장은 얼마나 사실일까. 12일 경향신문이 윤 의원이 언급한 대법원 판례들을 확인한 결과 윤 의원은 각 판례의 극히 일부 대목을 부풀려 전체를 왜곡했다. 대법원 판결 취지는 오히려 윤 의원의 주장과 정반대였다.윤 의원은 11일 국회 긴급 대정부질문에서 “1997년 대법원 판례를 보면 비상계엄은 고도의 정치행위, 통치행위로 보고 있다”며 윤 대통령의 비상계엄 선포를 옹호했다. 이어 “2010년 대법원 판례에 의하면 고도의 정치 행위에 대해선 대통령의 권한을 존중하면서 사법 심사를 자제하는 선에서 위헌성을 심판하라고 돼 있다”고 주장했다. 우원식 국회의장이 “말이 되는가”라고 비판하자 윤 의원은 “의장님도 대법원 판례를 공부해 달라”고 맞섰다.윤 의원이 언급한 19...</span>
                                     </div>]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/12/12/news-p.v1.20241211.816eee13372347928745f435079c0c6f_P1.jpeg" length="0" type="image/jpeg"/>
@@ -1042,7 +1041,7 @@
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088144</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088144</guid>
             <pubDate>Thu, 12 Dec 2024 11:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[[12.12 대국민담화 팩트체크 ⑤] 국방부가 확인된 인원만 685명... "5.18 학살도 450명으로 시작"]]></content:encoded>
+            <content:encoded><![CDATA[[12.12 대국민담화 팩트체크 ⑤] 국방부가 확인한 인원만 685명... "5.18 학살도 450명으로 시작"]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
         </item>
         <item>

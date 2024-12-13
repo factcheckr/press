@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Dec 2024 20:29:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 01:50:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['한국행 이민자' 세계 최고 수준이다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241128105000518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241128105000518?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 13 Dec 2024 01:49:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 비교시 OECD 증가율 2위…2019년 대입하면 중위권
+영구 이민자 규모는 OECD 중위권…한국, 코로나 이후 증가 추세
+(서울=연합뉴스) 심재훈 기자 = 지난해 ...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/etc/inner/KR/2024/11/28/AKR20241128105000518_02_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리나라 음주운전 처벌은 관대한 편이다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241210128300518?section=theme-list/factcheck</link>
@@ -255,17 +265,6 @@
 경찰ㆍ주최 측 모두 정확성 떨어져…디지털 추산방식 시도
 (서울=연합뉴스) 박형빈 기자 = 우리나라에서는 수만 명 이상...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2024/10/27/PYH2024102703550001300_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국의 '한국인 비자 면제'는 깜짝 발표였다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241107034000518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241107034000518?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 07 Nov 2024 23:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[중국 외교부 정례 브리핑에 없던 내용 갑자기 추가돼
-중국, 비자 면제 확대 추진…이번에 한국까지 포함
-무비자 입국해도 호텔 아니면 '주숙등기' 필수
-(서울=연합뉴스) 심재훈 기...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2024/11/03/PYH2024110307240001301_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
