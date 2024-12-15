@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Dec 2024 22:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Dec 2024 23:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,17 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/06/28/desk_20240628_202237_1_16_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['로또복권 1등' 당첨 조작할 수 있다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241202129300518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241202129300518?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 15 Dec 2024 23:23:10 GMT</pubDate>
+            <content:encoded><![CDATA[1등 수십명씩 나오는 로또복권…복권위 "조작 불가능"
+로또복권 검증한 전문기관들도 "문제없다"
+'로또 당첨 번호 예측' 사기 속출…믿어선 안 돼
+(서울=연합뉴스) 심재훈 기...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2024/11/23/PYH2024112304440001300_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['한국행 이민자' 세계 최고 수준이다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20241128105000518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20241128105000518?section=theme-list/factcheck</guid>
@@ -755,16 +766,6 @@
 러시아의 우크라이나 침공 자체가 국제법 위반…북한군 파병도 마찬가지
 한국 등 주요국들, 북한군 파병은 "명백한 유엔 대북 결의...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2024/10/21/PYH2024102101050001300_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['저마다 제각각'…집회 산정 인원 누가 맞나? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241107160300518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241107160300518?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 10 Nov 2024 23:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[경찰은 특정 시점 최대 인원ㆍ주최 측은 누적 참가자 계산
-경찰ㆍ주최 측 모두 정확성 떨어져…디지털 추산방식 시도
-(서울=연합뉴스) 박형빈 기자 = 우리나라에서는 수만 명 이상...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2024/10/27/PYH2024102703550001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
