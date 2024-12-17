@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Dec 2024 20:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 23:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/07/09/desk_20240709_200345_1_7_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[저작권료 때문에 길거리에 캐럴 사라졌다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241210075300518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241210075300518?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 17 Dec 2024 23:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[저작권법 개정에 매장서 음악 사용비 증가도 요인
+한음저협 "캐럴 실종, 소음·에너지 규제 때문"
+(서울=연합뉴스) 구정모 기자 = 크리스마스가 가까워지는 12월, 길거리에서 캐럴...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2023/12/19/PYH2023121918660001300_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[바나나맛우유도 국가유산이 될 수 있다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20241212134300518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20241212134300518?section=theme-list/factcheck</guid>
@@ -756,16 +766,6 @@
 도지코인 투자 주의 필요…"가격 급변동 고려해야"
 (서울=연합뉴스) 심재훈 기자 =...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2024/11/12/AKR20241112127500518_02_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수능일에 미역국 먹으면 안 되나? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241111062500518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241111062500518?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 13 Nov 2024 08:31:50 GMT</pubDate>
-            <content:encoded><![CDATA[미역국, 수험생에 부정적 인식…영양학적 좋은 음식
-평소 먹던 익숙한 식단 권장…초콜릿ㆍ사탕 도움
-(서울=연합뉴스) 박형빈 기자 = 매년 대학수학능력시험(수능)이 가까워지면 SN...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2024/11/11/AKR20241111062500518_02_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
