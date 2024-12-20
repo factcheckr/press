@@ -4,9 +4,20 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Dec 2024 16:29:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 01:41:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여객기 비상구 강제로 열면 중형 받는다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241204067000518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241204067000518?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 20 Dec 2024 01:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[항공보안법에 따라 비상구 강제 개방시 '엄벌'
+비상구 좌석 탑승 조건 강화…경찰·군인에 우선 배려
+일부 여객기 비상구 강제 개방 가능…방지책 강화
+(서울=연합뉴스) 심재훈 기...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2024/12/04/AKR20241204067000518_02_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성탄절에 예수가 태어난 게 아니다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241218061400518?section=theme-list/factcheck</link>
@@ -255,16 +266,6 @@
 '노인은 65세' 기준 근거 없지만 연금 수령 시기ㆍ정년과 연동돼
 (서울=연합뉴스) 구정모 기자 = 우리나라에서 25년쯤...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2024/10/21/PYH2024102106400001301_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['성관계 합의' 앱 법적 효력 있나?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241113131900518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241113131900518?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 15 Nov 2024 06:34:31 GMT</pubDate>
-            <content:encoded><![CDATA['자발적 동의' 입증 어려워 효력 인정 여부 미지수
-성폭행 유무죄 따질 땐 '앱상 동의'도 참고 자료 가능
-(서울=연합뉴스) 박형빈 기자 = 최근 성폭력 무고 관련 처벌을 피하...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2024/11/13/AKR20241113131900518_02_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
