@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Dec 2024 19:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 01:42:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,17 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/07/09/desk_20240709_200345_1_7_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[겨울마다 쌓이는 눈, 누가 치워야 하나? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241206101000518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241206101000518?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 23 Dec 2024 01:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[고속도로·국도는 정부, 지방도는 지자체가 제설 관리
+주택 주변 보도에 쌓인 눈은 집주인이나 세입자가 치워야
+고속도로서 폭설 고립 사고시 정부에 손해배상 요구할수도
+(서울=연합뉴스...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2024/11/27/PYH2024112712000006100_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여객기 비상구 강제로 열면 중형 받는다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20241204067000518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20241204067000518?section=theme-list/factcheck</guid>
@@ -756,16 +767,6 @@
 미국, 한국 조선에 러브콜…군함 수리ㆍ건조 협력 추진
 (서울=연합뉴스...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2024/11/08/PYH2024110800940001300_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[25년 후엔 젊은이 1명이 노인 1명을 부양한다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241107155400518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241107155400518?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 18 Nov 2024 01:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[대한노인회장, 노인 연령 기준 65세→75세로 상향 제안
-'노인은 65세' 기준 근거 없지만 연금 수령 시기ㆍ정년과 연동돼
-(서울=연합뉴스) 구정모 기자 = 우리나라에서 25년쯤...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2024/10/21/PYH2024102106400001301_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
