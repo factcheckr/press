@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 22:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 02:52:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/07/09/desk_20240709_200345_1_7_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우리나라 커피값이 세계적으로 비싸다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241213104300518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241213104300518?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 24 Dec 2024 02:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[라테 가격 기준, 한국 중하위권…스위스 가장 비싸
+일평균 소득 대비 커피값 비중도 한국 높지 않아
+(서울=연합뉴스) 구정모 기자 = 최근 커피 원두 가격이 가파르게 오른다는 보...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2024/06/30/PYH2024063005190001300_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[겨울마다 쌓이는 눈, 누가 치워야 하나? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20241206101000518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20241206101000518?section=theme-list/factcheck</guid>
@@ -756,17 +766,6 @@
 서울시 '킥보드 없는 거리' 선정…전면 금지는 불가능
 (서울=연합뉴스) 구정모 기자 = "그냥 전동 킥보드 전면 금지 해라...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2024/11/06/PYH2024110604520001300_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트럼프는 '한국 조선 실력' 예전부터 알고 있었다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241113151500518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241113151500518?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 18 Nov 2024 22:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[1998년 옥포조선소 방문…당선 통화에 '한국 조선' 언급
-중국에 위협받는 미국 해군력…군함 수 이미 밀려
-미국, 한국 조선에 러브콜…군함 수리ㆍ건조 협력 추진
-(서울=연합뉴스...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2024/11/08/PYH2024110800940001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
