@@ -4,9 +4,20 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Dec 2024 20:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 02:55:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리나라 30대 결혼이 대세다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241205157900518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241205157900518?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 26 Dec 2024 02:54:35 GMT</pubDate>
+            <content:encoded><![CDATA[갈수록 줄어드는 혼인…30대 절반이 미혼
+결혼한다면…남녀 평균 초혼 연령 34세·32.5세
+남녀 결혼시 '경제적 여건' 비중있게 고려해
+(서울=연합뉴스) 심재훈 기자 = ...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2024/04/07/PYH2024040703070000500_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리나라 커피값이 세계적으로 비싸다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241213104300518?section=theme-list/factcheck</link>
@@ -256,16 +267,6 @@
 군에 민간 인력 확충·직업군인 안정성 확대도 대안
 (서울=연합뉴스) 박형...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2024/11/05/PYH2024110516490006400_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전동 킥보드, 전면 금지할 수 있나?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241119094700518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241119094700518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 19 Nov 2024 23:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[교통사고 6년새 20배로 급증…전동 킥보드에 불만 고조
-서울시 '킥보드 없는 거리' 선정…전면 금지는 불가능
-(서울=연합뉴스) 구정모 기자 = "그냥 전동 킥보드 전면 금지 해라...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2024/11/06/PYH2024110604520001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
