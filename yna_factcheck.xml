@@ -4,9 +4,20 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Dec 2024 21:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 22:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넘쳐나는 '지라시', 단순 유포는 괜찮다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241216087800518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241216087800518?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 26 Dec 2024 22:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[1980년대 증권가서 시작…인터넷 발달과 함께 성행
+일대일 전달도 명예훼손…민사 배상 책임질수도
+모든 단순 유포자 처벌, 현실적으로 한계 직면
+(서울=연합뉴스) 박형빈 기자 =...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/etc/inner/KR/2024/12/16/AKR20241216087800518_03_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리나라 30대 결혼이 대세다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241205157900518?section=theme-list/factcheck</link>
@@ -256,17 +267,6 @@
 신분증·본인 확인 허술하면 업주도 처벌 대상
 (서울=연합뉴스) 박형빈 기자 = 매년 대학수학능력시험(수능)이 끝나면 입시 ...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/etc/inner/KR/2024/11/18/AKR20241118106400518_01_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리나라 '시니어 아미' 도입 가능한가?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241115061100518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241115061100518?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 21 Nov 2024 10:26:28 GMT</pubDate>
-            <content:encoded><![CDATA[출산율 급감에 상비군 '50만 대군'도 무너져
-고령자 상비 병력 운용 쉽지 않아…일부 지원 업무는 가능
-군에 민간 인력 확충·직업군인 안정성 확대도 대안
-(서울=연합뉴스) 박형...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2024/11/05/PYH2024110516490006400_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
