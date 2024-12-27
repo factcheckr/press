@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Dec 2024 07:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 12:42:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경제 불안은 탄핵 때문?]]></title>
+            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6671445_36515.html</link>
+            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6671445_36515.html</guid>
+            <pubDate>Fri, 27 Dec 2024 12:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2024-12-27</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/12/27/desk_20241227_200536_1_21_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[권성동, 권한대행은 재판관 임명 못한다?]]></title>
             <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6668304_36515.html</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 22 Jul 2024 12:37:06 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-07-22</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/07/22/desk_20240722_195759_1_5_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['실체적 진실' 드러나 특검 필요 없다?]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6615569_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6615569_36515.html</guid>
-            <pubDate>Tue, 09 Jul 2024 17:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-07-09</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/07/09/desk_20240709_200345_1_7_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
