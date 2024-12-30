@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Dec 2024 22:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Dec 2024 23:25:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/07/22/desk_20240722_195759_1_5_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[폭설로 지각·결근하면 면책된다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241220132700518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241220132700518?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 30 Dec 2024 23:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[현행법에 관련 규정 없어…사기업은 사업주 재량
+공무원은 공가 규정…기관장 재량에 달려
+(서울=연합뉴스) 박형빈 기자 = 겨울철 도심을 하얗게 뒤덮는 함박눈은 직장인에게 마냥 반...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2024/11/28/PYH2024112806550006100_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['한국 최고층' 롯데월드타워 얼마나 비쌀까? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20241210128400518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20241210128400518?section=theme-list/factcheck</guid>
@@ -758,16 +768,6 @@
 국제기구ㆍ한국도 비트코인 주목하지만…법정화폐엔 부정적
 (서울=연합뉴스) 심재...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/photo/cms/2024/03/07/03/PCM20240307000003990_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 하니는 근로자가 아니다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241122142700518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241122142700518?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 24 Nov 2024 23:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[근로자성 판단은 '사용종속관계'…대법원 판례서 구체화
-뮤지컬 배우가 근로로 인정받기도…사회변화 수용 요구 늘어
-(서울=연합뉴스) 구정모 기자 = 한해 수십억 원을 버는 연예인들은...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2024/10/15/PYH2024101517450001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
