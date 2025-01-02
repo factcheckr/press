@@ -4,9 +4,20 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jan 2025 22:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 23:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[외국인이 국내 주택 대거 사들였다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241212157900518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241212157900518?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 02 Jan 2025 23:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[외국인 소유 주택 10만호 육박…전체의 0.49%
+외국인 보유 토지, 전체 국토의 0.26% 수준
+내국인 역차별 문제…외국인 부동산 투기 의혹 부각
+(서울=연합뉴스) 심재훈 기...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2024/12/12/AKR20241212157900518_07_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연말연시 술자리…소주 2병을 마셔도 덜 취한다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241218093900518?section=theme-list/factcheck</link>
@@ -257,16 +268,6 @@
 충분한 증거시 등 공개 한정에도 정당성 논란 여전
 (서울=연합뉴스) 구정모 기자 = 최근 한 현역 장교가 동료 여성 군무원을...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2024/11/27/AKR20241127098100518_01_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['SNS 바바리맨'은 처벌 못 하나?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241120124300518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241120124300518?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 27 Nov 2024 03:02:57 GMT</pubDate>
-            <content:encoded><![CDATA[성적 불쾌감 일으킬 글·사진 전송만 해도 성폭력처벌법 대상
-검거율 높지만 구속·기소율은 낮아
-(서울=연합뉴스) 박형빈 기자 = 최근 한 걸그룹 출신 가수는 유튜브 방송에 출연해...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2024/11/20/AKR20241120124300518_03_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
