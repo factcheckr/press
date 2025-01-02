@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jan 2025 14:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 02:51:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연말연시 술자리…소주 2병을 마셔도 덜 취한다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241218093900518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241218093900518?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 02 Jan 2025 02:50:43 GMT</pubDate>
+            <content:encoded><![CDATA['순한 소주' 선호에 도수 하락…25년 새 25도→16도
+알코올 함량, 과거 소주 2병이 현재 소주 3병과 비슷
+(서울=연합뉴스) 구정모 기자 = 연말연시가 되면 저녁 약속을 피...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2017/02/15/PYH2017021522750001300_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폭설로 지각·결근하면 면책된다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241220132700518?section=theme-list/factcheck</link>
@@ -257,17 +267,6 @@
 검거율 높지만 구속·기소율은 낮아
 (서울=연합뉴스) 박형빈 기자 = 최근 한 걸그룹 출신 가수는 유튜브 방송에 출연해...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2024/11/20/AKR20241120124300518_03_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비트코인이 주요국 법정화폐 될 수 있다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241115089600518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241115089600518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 26 Nov 2024 03:01:15 GMT</pubDate>
-            <content:encoded><![CDATA[엘살바도르의 비트코인 법정화폐 도입은 '특수 사례'
-다른 국가들, 비트코인 합법화 통한 이용에 방점
-국제기구ㆍ한국도 비트코인 주목하지만…법정화폐엔 부정적
-(서울=연합뉴스) 심재...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/photo/cms/2024/03/07/03/PCM20240307000003990_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
