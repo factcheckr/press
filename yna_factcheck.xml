@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jan 2025 23:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jan 2025 02:57:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제주항공 참사 구조 도중 소방관 순직했다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250103034500054?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250103034500054?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 03 Jan 2025 02:56:33 GMT</pubDate>
+            <content:encoded><![CDATA[소방청 "사실 아냐"…AI 제작 영상으로 허위사실 유포
+(무안=연합뉴스) 장지현 이성민 기자 = 제주항공 참사를 수습하던 소방관이 순직했다는 내용의 영상이 소셜네트워크서비스(...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/etc/inner/KR/2025/01/03/AKR20250103034500054_01_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[외국인이 국내 주택 대거 사들였다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241212157900518?section=theme-list/factcheck</link>
@@ -258,16 +267,6 @@
 온실가스 배출 심하면 2100년에는 겨울 '단 24일'
 (서울=연합뉴스) 박형빈 기자 = 유난히도 길고도 무더웠던 올해 여름...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2024/11/28/PYH2024112802800001300_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흉악범들 신상 공개만이 정답이다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241127098100518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241127098100518?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 27 Nov 2024 23:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[잇단 강력범죄에 신원 공개 여론 고조…정부 제도 도입
-충분한 증거시 등 공개 한정에도 정당성 논란 여전
-(서울=연합뉴스) 구정모 기자 = 최근 한 현역 장교가 동료 여성 군무원을...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2024/11/27/AKR20241127098100518_01_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
