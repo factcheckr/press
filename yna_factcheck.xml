@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jan 2025 21:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 01:46:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[항공기 블랙박스는 검은색이 아니다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250103144600518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250103144600518?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 06 Jan 2025 01:45:19 GMT</pubDate>
+            <content:encoded><![CDATA[원래부터 주황색 제작…비행사고시 충격 견뎌
+정식명칭은 비행기록장치…비행자료·조종실 음성 기록
+(서울=연합뉴스) 구정모 기자 = 최근 제주항공 참사의 원인 규명에 있어 핵심 역할을...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2025/01/01/PYH2025010112520000300_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제주항공 참사 구조 도중 소방관 순직했다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20250103034500054?section=theme-list/factcheck</link>
@@ -257,16 +267,6 @@
 금융당국ㆍ보험사, 업계 합산 '30억원 이상' 사망 담보 특별 관리
 ...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2024/11/18/AKR20241118127900518_02_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기록적인 폭설에도 겨울이 짧아진다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241122073500518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241122073500518?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 29 Nov 2024 05:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[100년 전보다 겨울 22일 줄고 여름 29일 늘어
-온실가스 배출 심하면 2100년에는 겨울 '단 24일'
-(서울=연합뉴스) 박형빈 기자 = 유난히도 길고도 무더웠던 올해 여름...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2024/11/28/PYH2024112802800001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
