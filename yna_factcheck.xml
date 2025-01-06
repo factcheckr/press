@@ -4,9 +4,20 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jan 2025 13:28:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 23:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국은 정말 부동산의 나라인가?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241223099200518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241223099200518?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 06 Jan 2025 23:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[가구 평균 자산 3분의 2가 부동산에 집중
+부자에게도 부동산은 '자산 1순위'
+한국 가계 자산, 선진국보다 부동산에 편중
+(서울=연합뉴스) 심재훈 기자 = 우리나라 사람들은 전...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2024/11/26/PYH2024112610330001300_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[항공기 블랙박스는 검은색이 아니다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20250103144600518?section=theme-list/factcheck</link>
@@ -256,17 +267,6 @@
 산모 고령화와 인공수정 확산 영향
 (서울=연합뉴스) 구정모 기자 = '쌍둥이 형제가 공군 학사장교로 임관', '쌍둥이 가...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/cms/2017/06/11/01/C0A8CAE20000015C96690D370000020E_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사망보험만 수십 개 가입할 수 있다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241118127900518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241118127900518?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 02 Dec 2024 01:51:34 GMT</pubDate>
-            <content:encoded><![CDATA[중복 가입ㆍ보상 가능하지만 고액ㆍ여러 건은 별도 심사받아야
-피보험자 자필서명도 필요해 수십개 사망보험 가입 어려워
-금융당국ㆍ보험사, 업계 합산 '30억원 이상' 사망 담보 특별 관리
-...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2024/11/18/AKR20241118127900518_02_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
