@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 18:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 02:54:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/07/22/desk_20240722_195759_1_5_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연말정산은 정말 '13월의 월급'일까? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241227148000518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241227148000518?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 08 Jan 2025 02:53:31 GMT</pubDate>
+            <content:encoded><![CDATA[10명 중 7명은 세금 환급…2명은 '추가 납부
+월급 같아도 '공제액' 따라 환급액 달라져
+(서울=연합뉴스) 박형빈 기자 = 2025년 새해가 밝은지도 일주일이 지났지만 직장인...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2024/12/27/AKR20241227148000518_03_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한국은 정말 부동산의 나라인가? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20241223099200518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20241223099200518?section=theme-list/factcheck</guid>
@@ -757,16 +767,6 @@
 끊이지 않는 공정성 시비…정치권도 존치 여부 오락가락
 (서울=연...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/etc/inner/KR/2024/11/26/AKR20241126130900518_09_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리나라 쌍둥이 출생 정말 늘었나? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241128136100518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241128136100518?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 02 Dec 2024 22:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[2010년 중반까지 출생 쌍둥이↑…비중은 2022년 정점
-산모 고령화와 인공수정 확산 영향
-(서울=연합뉴스) 구정모 기자 = '쌍둥이 형제가 공군 학사장교로 임관', '쌍둥이 가...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/cms/2017/06/11/01/C0A8CAE20000015C96690D370000020E_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
@@ -1039,6 +1039,13 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/20/l_2022022001002313900209021.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["비상계엄, 신의 한 수"는 김형석 명예교수 사칭 글 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003094513</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003094513</guid>
+            <pubDate>Wed, 08 Jan 2025 02:54:08 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 보수매체 기고글 주요 내용, 김 교수 글로 둔갑...극우 유튜브들 유명인 사칭해 '계엄 옹호' 퍼뜨려]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["권한대행은 헌법재판관 임명 못 한다" 권성동 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003089520</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003089520</guid>
@@ -1068,14 +1075,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088062</guid>
             <pubDate>Thu, 12 Dec 2024 04:28:28 GMT</pubDate>
             <content:encoded><![CDATA[[12.12 대국민담화 팩트체크 ③] 계엄 포고령에 따라 국회 봉쇄, '국회의원 끌어내'라는 지시도]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["거대 야당, 국가보안법 폐지 시도" 윤석열 주장 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088064</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088064</guid>
-            <pubDate>Thu, 12 Dec 2024 04:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[[12·12 대국민담화 팩트체크 ②] 22대 국회 관련 법안 발의 '0건']]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>

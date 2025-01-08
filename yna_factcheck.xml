@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 18:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 02:54:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연말정산은 정말 '13월의 월급'일까?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241227148000518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241227148000518?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 08 Jan 2025 02:53:31 GMT</pubDate>
+            <content:encoded><![CDATA[10명 중 7명은 세금 환급…2명은 '추가 납부
+월급 같아도 '공제액' 따라 환급액 달라져
+(서울=연합뉴스) 박형빈 기자 = 2025년 새해가 밝은지도 일주일이 지났지만 직장인...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2024/12/27/AKR20241227148000518_03_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국은 정말 부동산의 나라인가?]]></title>
             <link>https://www.yna.co.kr/view/AKR20241223099200518?section=theme-list/factcheck</link>
@@ -257,16 +267,6 @@
 끊이지 않는 공정성 시비…정치권도 존치 여부 오락가락
 (서울=연...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/etc/inner/KR/2024/11/26/AKR20241126130900518_09_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리나라 쌍둥이 출생 정말 늘었나?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241128136100518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241128136100518?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 02 Dec 2024 22:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[2010년 중반까지 출생 쌍둥이↑…비중은 2022년 정점
-산모 고령화와 인공수정 확산 영향
-(서울=연합뉴스) 구정모 기자 = '쌍둥이 형제가 공군 학사장교로 임관', '쌍둥이 가...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/cms/2017/06/11/01/C0A8CAE20000015C96690D370000020E_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

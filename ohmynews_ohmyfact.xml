@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 18:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 02:54:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["비상계엄, 신의 한 수"는 김형석 명예교수 사칭 글]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003094513</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003094513</guid>
+            <pubDate>Wed, 08 Jan 2025 02:54:08 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 보수매체 기고글 주요 내용, 김 교수 글로 둔갑...극우 유튜브들 유명인 사칭해 '계엄 옹호' 퍼뜨려]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["권한대행은 헌법재판관 임명 못 한다" 권성동 주장은 '거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003089520</link>
@@ -37,14 +44,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088062</guid>
             <pubDate>Thu, 12 Dec 2024 04:28:28 GMT</pubDate>
             <content:encoded><![CDATA[[12.12 대국민담화 팩트체크 ③] 계엄 포고령에 따라 국회 봉쇄, '국회의원 끌어내'라는 지시도]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["거대 야당, 국가보안법 폐지 시도" 윤석열 주장 '거짓']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088064</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088064</guid>
-            <pubDate>Thu, 12 Dec 2024 04:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[[12·12 대국민담화 팩트체크 ②] 22대 국회 관련 법안 발의 '0건']]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
