@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jan 2025 08:31:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 12:45:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1038,6 +1038,13 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/20/l_2022022001002313900209021.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["탄핵집회에 중국인 대거 참석" 주장, 검증해보니 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003095662</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003095662</guid>
+            <pubDate>Fri, 10 Jan 2025 12:45:52 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 중국대사관 집회 참여제한 공지가 증거? 영국·미국대사관도 공지...국힘 의원들, '반중 정서' 활용]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["비상계엄, 신의 한 수"는 김형석 명예교수 사칭 글 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003094513</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003094513</guid>
@@ -1066,14 +1073,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088077</guid>
             <pubDate>Thu, 12 Dec 2024 11:20:12 GMT</pubDate>
             <content:encoded><![CDATA[[12.12 대국민담화 팩트체크 ④] "헌법 절차 준수돼야 통치 인정... 위헌 포고령에 군대까지 국회 보내, 폭동 성립"]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["국회 출입 안 막았다" 윤석열의 '새빨간 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088062</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088062</guid>
-            <pubDate>Thu, 12 Dec 2024 04:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[[12.12 대국민담화 팩트체크 ③] 계엄 포고령에 따라 국회 봉쇄, '국회의원 끌어내'라는 지시도]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
