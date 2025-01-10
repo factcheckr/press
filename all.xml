@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jan 2025 02:58:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 08:31:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -388,6 +388,22 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA['개인 사병' 전락한 경호처‥폐지가 답? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6674575_36799.html</link>
+            <guid>https://imnews.imbc.com/replay/2025/nwdesk/article/6674575_36799.html</guid>
+            <pubDate>Fri, 10 Jan 2025 08:30:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2025-01-07</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2025/nwdesk/article/__icsFiles/afieldfile/2025/01/07/desk_20250107_195625_1_5_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['내란죄 철회'로 탄핵 사유가 달라졌다? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6674187_36799.html</link>
+            <guid>https://imnews.imbc.com/replay/2025/nwdesk/article/6674187_36799.html</guid>
+            <pubDate>Fri, 10 Jan 2025 08:30:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2025-01-06</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2025/nwdesk/article/__icsFiles/afieldfile/2025/01/06/desk_20250106_203549_1_21_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[경제 불안은 탄핵 때문? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6671445_36515.html</link>
             <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6671445_36515.html</guid>
@@ -490,22 +506,6 @@
             <pubDate>Thu, 29 Aug 2024 11:20:55 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-08-29</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/08/29/desk_20240829_194835_1_2_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴라이트가 역사기관장 점령했다? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6626332_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6626332_36515.html</guid>
-            <pubDate>Mon, 12 Aug 2024 17:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-08-12</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/08/12/desk_20240812_200501_1_8_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영부인의 '청사 밖 조사' 특혜 아니다? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6619792_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6619792_36515.html</guid>
-            <pubDate>Mon, 22 Jul 2024 12:37:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-07-22</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/07/22/desk_20240722_195759_1_5_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['미의 상징' 미인대회 기준이 바뀌었다? (연합뉴스 ─ 팩트체크)]]></title>
