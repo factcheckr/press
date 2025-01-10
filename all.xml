@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jan 2025 20:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 01:43:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/07/22/desk_20240722_195759_1_5_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['미의 상징' 미인대회 기준이 바뀌었다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250106067900518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250106067900518?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 10 Jan 2025 01:42:52 GMT</pubDate>
+            <content:encoded><![CDATA[주요 대회서 나이 상한 철폐…기혼 여성에게도 개방
+트랜스젠더 여성도 우승…네덜란드는 대회 폐지하기도
+(서울=연합뉴스) 구정모 기자 = 최근 프랑스의 한 미인대회에서 30대 여성이...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2025/01/06/AKR20250106067900518_01_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['허위 영상물' 딥페이크는 10대 청소년이 만든다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20241224063600518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20241224063600518?section=theme-list/factcheck</guid>
@@ -756,17 +766,6 @@
 '참석 여부'로 달라지는 축의금…결혼 식대도 고려
 (서울=연합뉴스) 심재훈...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2024/11/20/AKR20241120107900518_01_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 산 전자담배는 법상 '담배'가 아니다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241203146100518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241203146100518?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 04 Dec 2024 22:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[합성 니코틴 및 줄기·뿌리 추출 니코틴, 법상 담배 아냐
-흡연전용기구도 그냥 '도구'…청소년 유해 물건 지정
-정부, 합성 니코틴도 담배로 규제 입장…법 개정 주목
-(서울=연합뉴스...]]></content:encoded>
-            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2024/05/09/PYH2024050920400001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
