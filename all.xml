@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jan 2025 21:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jan 2025 23:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/08/29/desk_20240829_194835_1_2_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['근태 불량' 사회복무요원은 현역 재입대한다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250102100200518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250102100200518?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 12 Jan 2025 23:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[사회복무요원 8일 이상 근무 이탈시 최대 '징역 3년'
+'징벌성' 현역 재입대 불가…보충역 판정 사유 무효시 가능
+(서울=연합뉴스) 박형빈 기자 = 사회복무요원 복무 기간 당...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/etc/inner/KR/2025/01/02/AKR20250102100200518_01_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['미의 상징' 미인대회 기준이 바뀌었다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20250106067900518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20250106067900518?section=theme-list/factcheck</guid>
@@ -755,17 +765,6 @@
 사이버도박으로 입건된 청소년 10년 새 5배 이상 늘어
 (서울=연합뉴스) 박형빈 기자 = 중독성이 강한 온라인 도박이 ...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/etc/inner/KR/2024/11/28/AKR20241128158600518_04_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결혼 축의금 얼마 내면 적당할까? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241120107900518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241120107900518?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 06 Dec 2024 01:47:48 GMT</pubDate>
-            <content:encoded><![CDATA[지인 축의금 5만~10만원·친한 사이는 10만원 이상 많아
-시대 변화·물가 상승에 축의금 액수도 올라
-'참석 여부'로 달라지는 축의금…결혼 식대도 고려
-(서울=연합뉴스) 심재훈...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2024/11/20/AKR20241120107900518_01_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
