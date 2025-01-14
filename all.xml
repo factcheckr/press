@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jan 2025 10:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 13:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -388,6 +388,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA['정진석 호소문' 팩트체크‥윤석열은 억울한 피해자? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6676931_36799.html</link>
+            <guid>https://imnews.imbc.com/replay/2025/nwdesk/article/6676931_36799.html</guid>
+            <pubDate>Tue, 14 Jan 2025 13:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2025-01-14</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2025/nwdesk/article/__icsFiles/afieldfile/2025/01/14/desk_20250114_200724_1_9_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['개인 사병' 전락한 경호처‥폐지가 답? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6674575_36799.html</link>
             <guid>https://imnews.imbc.com/replay/2025/nwdesk/article/6674575_36799.html</guid>
@@ -498,14 +506,6 @@
             <pubDate>Wed, 04 Sep 2024 12:44:38 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-09-04</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/09/04/desk_20240904_202355_1_15_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채상병 청문회에서 외압 없음이 드러났다? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6631879_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6631879_36515.html</guid>
-            <pubDate>Thu, 29 Aug 2024 11:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-08-29</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/08/29/desk_20240829_194835_1_2_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['오겜2'는 정말 우리나라 전통놀이인가?(종합) (연합뉴스 ─ 팩트체크)]]></title>
