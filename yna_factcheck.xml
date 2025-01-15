@@ -4,9 +4,30 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jan 2025 22:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 02:48:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1월 31일도 임시공휴일?…알고보니 가짜뉴스]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250115050300518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250115050300518?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 15 Jan 2025 02:47:51 GMT</pubDate>
+            <content:encoded><![CDATA[올해 설 연휴 임시 공휴일은 '1월 27일'
+언론사 인용해 '임시 공휴일' 가짜뉴스 나돌아
+(서울=연합뉴스) 심재훈 기자 = 정부가 설 연휴 전날인 오는 27일을 임시 공휴일로...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/etc/graphic/YH/2025/01/08/GYH2025010800050004402_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10억원 이상 있으면 한국에서 부자다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241226111200518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241226111200518?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 15 Jan 2025 02:47:51 GMT</pubDate>
+            <content:encoded><![CDATA[순자산 30억원ㆍ금융자산 10억원 이상이면 부자 반열
+부자 자산의 절반은 '부동산'…점차 비중은 줄어
+부자에겐 돈은 '편안함 유지 도구'…신문ㆍ뉴스에 집중
+(서울=연합뉴스...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/etc/inner/KR/2024/12/26/AKR20241226111200518_05_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['오겜2'는 정말 우리나라 전통놀이인가?(종합)]]></title>
             <link>https://www.yna.co.kr/view/AKR20250114023300518?section=theme-list/factcheck</link>
@@ -246,26 +267,6 @@
 영구 이민자 규모는 OECD 중위권…한국, 코로나 이후 증가 추세
 (서울=연합뉴스) 심재훈 기자 = 지난해 ...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/etc/inner/KR/2024/11/28/AKR20241128105000518_02_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리나라 음주운전 처벌은 관대한 편이다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241210128300518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241210128300518?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 12 Dec 2024 01:52:01 GMT</pubDate>
-            <content:encoded><![CDATA[법률 형량 낮지 않지만…판결은 집유·벌금형 다수
-"음주운전 방지 장치·음주 차량 몰수 등 확대해야"
-(서울=연합뉴스) 박형빈 기자 = 연말연시를 맞아 송년회·신년회 등 술자리가...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2024/12/10/AKR20241210128300518_01_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헷갈리는 상설 특검·일반 특검 뭐가 다른가?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241210157500518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241210157500518?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 11 Dec 2024 03:04:37 GMT</pubDate>
-            <content:encoded><![CDATA[본회의 통과 상설 특검은 '특별검사 임명 등에 관한 법률'상 특검
-일반 특검은 개별 특검법 제정 필요…대통령 거부권 행사할 수도
-(서울=연합뉴스) 구정모 기자 = 야당 주도로...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2024/12/10/PYH2024121013590001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
