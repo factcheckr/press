@@ -4,15 +4,23 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 07:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 12:42:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[체포 직전 "영장무효" 외친 윤 대통령… "법원이 세 번 인정" 거짓]]></title>
+            <title><![CDATA[윤석열이 밤새 썼다는 글, 명백한 허위]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003097015</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003097015</guid>
+            <pubDate>Wed, 15 Jan 2025 12:42:56 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 15일 자필 원고에 부정선거, 군 투입 숫자, 국회 내란죄 철회에 관해 궤변 늘어놓아]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤 대통령 "체포영장 절차 무효, 불법" 거짓]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003096918</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003096918</guid>
             <pubDate>Wed, 15 Jan 2025 07:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] "2차례 영장 발부·1차례 이의기각"... 천대엽 법원행정처장도 "영장 존중해야 법치"]]></content:encoded>
+            <content:encoded><![CDATA[[팩트체크]  법원 이미 세 차례, 공수처 주장 적법성 인정...법원행정처장 "적법하게 발부된 영장"]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,14 +44,6 @@
             <pubDate>Tue, 17 Dec 2024 03:04:48 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 헌법학자 "국회 몫 임명은 대통령의 형식적 권한, 권한대행 임명 문제 없어"]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/121711144649.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 "국회 병력 300명 미만"도 거짓, "질서유지"도 거짓]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088144</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088144</guid>
-            <pubDate>Thu, 12 Dec 2024 11:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[[12.12 대국민담화 팩트체크 ⑤] 국방부가 확인한 인원만 685명... "5.18 학살도 450명으로 시작"]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
