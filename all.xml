@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 02:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 07:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1039,6 +1039,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/20/l_2022022001002313900209021.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[체포 직전 "영장무효" 외친 윤 대통령… "법원이 세 번 인정" 거짓 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003096918</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003096918</guid>
+            <pubDate>Wed, 15 Jan 2025 07:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] "2차례 영장 발부·1차례 이의기각"... 천대엽 법원행정처장도 "영장 존중해야 법치"]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["탄핵집회에 중국인 대거 참석" 주장, 검증해보니 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003095662</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003095662</guid>
@@ -1066,14 +1074,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088144</guid>
             <pubDate>Thu, 12 Dec 2024 11:20:12 GMT</pubDate>
             <content:encoded><![CDATA[[12.12 대국민담화 팩트체크 ⑤] 국방부가 확인한 인원만 685명... "5.18 학살도 450명으로 시작"]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["12.3 계엄은 통치행위" 윤석열 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088077</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003088077</guid>
-            <pubDate>Thu, 12 Dec 2024 11:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[[12.12 대국민담화 팩트체크 ④] "헌법 절차 준수돼야 통치 인정... 위헌 포고령에 군대까지 국회 보내, 폭동 성립"]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
