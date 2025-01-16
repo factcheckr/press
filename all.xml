@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jan 2025 20:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 23:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,17 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/09/04/desk_20240904_202355_1_15_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['한국인의 추억' 공중전화가 거리서 사라진다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241231031700518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241231031700518?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 16 Jan 2025 23:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[공중전화, 국민 필수통신에서 거리 애물단지로 퇴색
+법상 공중전화 없앨 순 없어…국민 보편 서비스
+변신하는 공중전화…배터리 충전소 역할까지 다양화
+(서울=연합뉴스) 심재훈 기자 ...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2024/12/31/AKR20241231031700518_04_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이젠 한강에서 썰매를 탈 수 없다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20250114083600518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20250114083600518?section=theme-list/factcheck</guid>
@@ -757,17 +768,6 @@
 바나나맛우유, 초창기 용기 없다면 관련 자료 완비해야
 (서울=연합뉴스) 박형빈 기자 = 반투명한 항아리 모양 용기에 초록색...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/etc/inner/KR/2024/12/12/AKR20241212134300518_03_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['로또복권 1등' 당첨 조작할 수 있다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241202129300518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241202129300518?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 15 Dec 2024 23:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[1등 수십명씩 나오는 로또복권…복권위 "조작 불가능"
-로또복권 검증한 전문기관들도 "문제없다"
-'로또 당첨 번호 예측' 사기 속출…믿어선 안 돼
-(서울=연합뉴스) 심재훈 기...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2024/11/23/PYH2024112304440001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
