@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 08:26:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 16:26:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -388,6 +388,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA['국회 활동 금지' 포고령은 잘못 베낀 것? 또 거짓말 (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6678197_36799.html</link>
+            <guid>https://imnews.imbc.com/replay/2025/nwdesk/article/6678197_36799.html</guid>
+            <pubDate>Fri, 17 Jan 2025 16:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2025-01-17</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2025/nwdesk/article/__icsFiles/afieldfile/2025/01/17/desk_20250117_201908_1_13_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['정진석 호소문' 팩트체크‥윤석열은 억울한 피해자? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6676931_36799.html</link>
             <guid>https://imnews.imbc.com/replay/2025/nwdesk/article/6676931_36799.html</guid>
@@ -498,14 +506,6 @@
             <pubDate>Fri, 13 Sep 2024 12:38:12 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-09-13</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/09/13/desk_20240913_200355_1_8_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차별금지법이 공산주의 혁명 부른다? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6633734_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6633734_36515.html</guid>
-            <pubDate>Wed, 04 Sep 2024 12:44:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-09-04</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/09/04/desk_20240904_202355_1_15_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['한국인의 추억' 공중전화가 거리서 사라진다? (연합뉴스 ─ 팩트체크)]]></title>
@@ -1040,6 +1040,13 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/20/l_2022022001002313900209021.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정치 여론조사에 등장한 '뉴진스', 이런 함정이 있었네 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003097566</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003097566</guid>
+            <pubDate>Fri, 17 Jan 2025 16:26:42 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] '가짜 20대 가리기' 뉴진스 노래 문항 정답률, 진보-보수 20%p격차... "샘플 수 적어 과학적 입증은 어려워"]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[윤석열이 밤새 썼다는 글, 명백한 허위 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003097015</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003097015</guid>
@@ -1068,14 +1075,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003094513</guid>
             <pubDate>Wed, 08 Jan 2025 02:54:08 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 보수매체 기고글 주요 내용, 김 교수 글로 둔갑...극우 유튜브들 유명인 사칭해 '계엄 옹호' 퍼뜨려]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["권한대행은 헌법재판관 임명 못 한다" 권성동 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003089520</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003089520</guid>
-            <pubDate>Tue, 17 Dec 2024 03:04:48 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 헌법학자 "국회 몫 임명은 대통령의 형식적 권한, 권한대행 임명 문제 없어"]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/121711144649.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
