@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jan 2025 04:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jan 2025 04:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['국회 활동 금지' 포고령은 잘못 베낀 것? 또 거짓말]]></title>
+            <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6678197_36799.html</link>
+            <guid>https://imnews.imbc.com/replay/2025/nwdesk/article/6678197_36799.html</guid>
+            <pubDate>Sun, 19 Jan 2025 04:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2025-01-17</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2025/nwdesk/article/__icsFiles/afieldfile/2025/01/17/desk_20250117_201908_1_13_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['정진석 호소문' 팩트체크‥윤석열은 억울한 피해자?]]></title>
             <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6676931_36799.html</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 13 Sep 2024 12:38:12 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-09-13</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/09/13/desk_20240913_200355_1_8_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차별금지법이 공산주의 혁명 부른다?]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6633734_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6633734_36515.html</guid>
-            <pubDate>Sat, 18 Jan 2025 04:25:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-09-04</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/09/04/desk_20240904_202355_1_15_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
