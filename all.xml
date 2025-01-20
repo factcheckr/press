@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 21:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 23:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/09/25/desk_20240925_195505_1_5_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[치명적인 코로나 변이 유행?…알고보니 가짜뉴스 (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250120123800518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250120123800518?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 20 Jan 2025 23:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[독감 등 호흡기 감염병 유행에 수년 전 가짜뉴스 다시 퍼져
+XBB 변이 바이러스는 2023년 유행…"현재는 아냐"
+(서울=연합뉴스) 박형빈 기자 = 2022년 코로나19 유행 ...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/etc/inner/KR/2025/01/20/AKR20250120123800518_02_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리나라 대학 등록금은 비싼 편이다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20250110085200518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20250110085200518?section=theme-list/factcheck</guid>
@@ -759,16 +769,6 @@
 우리나라는 해방 후 공휴일로 지정돼…중국·일본은 공휴일 아니어
 (서울=연합뉴스) 박형빈 기자 = 세계에서 가장...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2024/12/18/AKR20241218061400518_02_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저작권료 때문에 길거리에 캐럴 사라졌다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241210075300518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241210075300518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 17 Dec 2024 23:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[저작권법 개정에 매장서 음악 사용비 증가도 요인
-한음저협 "캐럴 실종, 소음·에너지 규제 때문"
-(서울=연합뉴스) 구정모 기자 = 크리스마스가 가까워지는 12월, 길거리에서 캐럴...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2023/12/19/PYH2023121918660001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
