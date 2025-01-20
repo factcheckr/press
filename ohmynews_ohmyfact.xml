@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jan 2025 23:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 12:46:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["극좌 유튜버, 극우 유튜버 가장해 폭동 선동" 거짓]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003098084</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003098084</guid>
+            <pubDate>Mon, 20 Jan 2025 12:46:20 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 국힘 미디어특위 등 주장... JTBC "어쩔아재TV, 현장에 있던 다른 이들 목소리라고 밝혀"]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[정치 여론조사에 등장한 '뉴진스', 이런 함정이 있었네]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003097566</link>
@@ -36,13 +43,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003095662</guid>
             <pubDate>Fri, 10 Jan 2025 12:45:52 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 중국대사관 집회 참여제한 공지가 증거? 영국·미국대사관도 공지...국힘 의원들, '반중 정서' 활용]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["비상계엄, 신의 한 수"는 김형석 명예교수 사칭 글]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003094513</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003094513</guid>
-            <pubDate>Wed, 08 Jan 2025 02:54:08 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 보수매체 기고글 주요 내용, 김 교수 글로 둔갑...극우 유튜브들 유명인 사칭해 '계엄 옹호' 퍼뜨려]]></content:encoded>
         </item>
     </channel>
 </rss>

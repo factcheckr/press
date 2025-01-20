@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jan 2025 23:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 12:46:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -388,6 +388,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[국민의힘 너도나도 "트럼프 대통령 취임식 참석"‥친분 있어서? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6679060_36799.html</link>
+            <guid>https://imnews.imbc.com/replay/2025/nwdesk/article/6679060_36799.html</guid>
+            <pubDate>Mon, 20 Jan 2025 12:45:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2025-01-20</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2025/nwdesk/article/__icsFiles/afieldfile/2025/01/20/desk_20250120_203241_1_20_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['국회 활동 금지' 포고령은 잘못 베낀 것? 또 거짓말 (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6678197_36799.html</link>
             <guid>https://imnews.imbc.com/replay/2025/nwdesk/article/6678197_36799.html</guid>
@@ -498,14 +506,6 @@
             <pubDate>Wed, 25 Sep 2024 16:29:24 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-09-25</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/09/25/desk_20240925_195505_1_5_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["응급실 뺑뺑이에 국민 죽어나가"는 가짜 뉴스? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6636766_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6636766_36515.html</guid>
-            <pubDate>Fri, 13 Sep 2024 12:38:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-09-13</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/09/13/desk_20240913_200355_1_8_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리나라 대학 등록금은 비싼 편이다? (연합뉴스 ─ 팩트체크)]]></title>
@@ -1041,6 +1041,13 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/20/l_2022022001002313900209021.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["극좌 유튜버, 극우 유튜버 가장해 폭동 선동" 거짓 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003098084</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003098084</guid>
+            <pubDate>Mon, 20 Jan 2025 12:46:20 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 국힘 미디어특위 등 주장... JTBC "어쩔아재TV, 현장에 있던 다른 이들 목소리라고 밝혀"]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[정치 여론조사에 등장한 '뉴진스', 이런 함정이 있었네 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003097566</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003097566</guid>
@@ -1069,13 +1076,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003095662</guid>
             <pubDate>Fri, 10 Jan 2025 12:45:52 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 중국대사관 집회 참여제한 공지가 증거? 영국·미국대사관도 공지...국힘 의원들, '반중 정서' 활용]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["비상계엄, 신의 한 수"는 김형석 명예교수 사칭 글 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003094513</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003094513</guid>
-            <pubDate>Wed, 08 Jan 2025 02:54:08 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 보수매체 기고글 주요 내용, 김 교수 글로 둔갑...극우 유튜브들 유명인 사칭해 '계엄 옹호' 퍼뜨려]]></content:encoded>
         </item>
     </channel>
 </rss>

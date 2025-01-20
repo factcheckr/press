@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jan 2025 23:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 12:46:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국민의힘 너도나도 "트럼프 대통령 취임식 참석"‥친분 있어서?]]></title>
+            <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6679060_36799.html</link>
+            <guid>https://imnews.imbc.com/replay/2025/nwdesk/article/6679060_36799.html</guid>
+            <pubDate>Mon, 20 Jan 2025 12:45:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2025-01-20</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2025/nwdesk/article/__icsFiles/afieldfile/2025/01/20/desk_20250120_203241_1_20_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['국회 활동 금지' 포고령은 잘못 베낀 것? 또 거짓말]]></title>
             <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6678197_36799.html</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 25 Sep 2024 16:29:24 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-09-25</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/09/25/desk_20240925_195505_1_5_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["응급실 뺑뺑이에 국민 죽어나가"는 가짜 뉴스?]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6636766_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6636766_36515.html</guid>
-            <pubDate>Fri, 13 Sep 2024 12:38:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-09-13</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/09/13/desk_20240913_200355_1_8_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
