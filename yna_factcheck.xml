@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jan 2025 20:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jan 2025 23:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[설날에 떡국은 우리나라만 먹나?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250115123900518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250115123900518?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 22 Jan 2025 23:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[조선 중기부터 '떡국' 기록…'나이 먹는 음식' 의미
+가래떡 떡국은 한국만 전통…중일도 유사 음식 먹어
+(서울=연합뉴스) 박형빈 기자 = '떡국을 먹어야 한 살을 먹는다'는 말...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/etc/inner/KR/2025/01/15/AKR20250115123900518_07_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서부지법 난동…1980년대 이후 첫 법원 습격 사건]]></title>
             <link>https://www.yna.co.kr/view/AKR20250121153400518?section=theme-list/factcheck</link>
@@ -258,17 +268,6 @@ XBB 변이 바이러스는 2023년 유행…"현재는 아냐"
 고속도로서 폭설 고립 사고시 정부에 손해배상 요구할수도
 (서울=연합뉴스...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2024/11/27/PYH2024112712000006100_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여객기 비상구 강제로 열면 중형 받는다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241204067000518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241204067000518?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 20 Dec 2024 01:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[항공보안법에 따라 비상구 강제 개방시 '엄벌'
-비상구 좌석 탑승 조건 강화…경찰·군인에 우선 배려
-일부 여객기 비상구 강제 개방 가능…방지책 강화
-(서울=연합뉴스) 심재훈 기...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2024/12/04/AKR20241204067000518_02_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
