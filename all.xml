@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 22:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 13:29:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,17 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/09/25/desk_20240925_195505_1_5_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[설날 세뱃돈 얼마가 적당할까? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250103105600518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250103105600518?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 24 Jan 2025 13:28:26 GMT</pubDate>
+            <content:encoded><![CDATA[조선시대에도 세뱃돈 있어…현물에서 돈으로
+설날 세뱃돈 관행 여전…'3만~10만원' 대세
+'대학생 때까지 세뱃돈 받는다' 의견 많아
+(서울=연합뉴스) 심재훈 기자 = 매년 설날...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2025/01/03/AKR20250103105600518_01_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[설날에 떡국은 우리나라만 먹나? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20250115123900518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20250115123900518?section=theme-list/factcheck</guid>
@@ -757,17 +768,6 @@ XBB 변이 바이러스는 2023년 유행…"현재는 아냐"
 일평균 소득 대비 커피값 비중도 한국 높지 않아
 (서울=연합뉴스) 구정모 기자 = 최근 커피 원두 가격이 가파르게 오른다는 보...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2024/06/30/PYH2024063005190001300_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울마다 쌓이는 눈, 누가 치워야 하나? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241206101000518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241206101000518?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 23 Dec 2024 01:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[고속도로·국도는 정부, 지방도는 지자체가 제설 관리
-주택 주변 보도에 쌓인 눈은 집주인이나 세입자가 치워야
-고속도로서 폭설 고립 사고시 정부에 손해배상 요구할수도
-(서울=연합뉴스...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2024/11/27/PYH2024112712000006100_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
