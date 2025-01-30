@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jan 2025 22:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2025 23:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남자는 병역복무로 손해배상금 적게 계산된다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250114061400518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250114061400518?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 30 Jan 2025 23:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[그동안 민사상 손해배상서 군 복무 기간은 산정 제외
+군 복무 기간 포함해 최근 법 개정…하급심 판결 주목
+(서울=연합뉴스) 구정모 기자 = 미성년자가 사고로 심하게 다치거나 숨...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/cms/2021/12/24/21/PCM20211224000121990_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[설날 세뱃돈 얼마가 적당할까?]]></title>
             <link>https://www.yna.co.kr/view/AKR20250103105600518?section=theme-list/factcheck</link>
@@ -258,16 +268,6 @@ XBB 변이 바이러스는 2023년 유행…"현재는 아냐"
 남녀 결혼시 '경제적 여건' 비중있게 고려해
 (서울=연합뉴스) 심재훈 기자 = ...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2024/04/07/PYH2024040703070000500_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리나라 커피값이 세계적으로 비싸다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241213104300518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241213104300518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 24 Dec 2024 02:51:57 GMT</pubDate>
-            <content:encoded><![CDATA[라테 가격 기준, 한국 중하위권…스위스 가장 비싸
-일평균 소득 대비 커피값 비중도 한국 높지 않아
-(서울=연합뉴스) 구정모 기자 = 최근 커피 원두 가격이 가파르게 오른다는 보...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2024/06/30/PYH2024063005190001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
