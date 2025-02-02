@@ -4,9 +4,20 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Feb 2025 21:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Feb 2025 23:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연이은 사고…여객기 타도 정말 안전할까?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250131102000518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250131102000518?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Feb 2025 23:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[여객기 사망 사고, 벼락 맞을 확률보다 낮아
+항공 사고…도로·철도 비해 현저히 낮아
+여객기 사고 나면 대형 참사 우려…대비 필요
+(서울=연합뉴스) 심재훈 기자 = 미국 워싱턴D...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/etc/inner/KR/2025/01/31/AKR20250131102000518_03_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남자는 병역복무로 손해배상금 적게 계산된다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20250114061400518?section=theme-list/factcheck</link>
@@ -257,17 +268,6 @@ XBB 변이 바이러스는 2023년 유행…"현재는 아냐"
 모든 단순 유포자 처벌, 현실적으로 한계 직면
 (서울=연합뉴스) 박형빈 기자 =...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/etc/inner/KR/2024/12/16/AKR20241216087800518_03_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리나라 30대 결혼이 대세다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241205157900518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241205157900518?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 26 Dec 2024 02:54:35 GMT</pubDate>
-            <content:encoded><![CDATA[갈수록 줄어드는 혼인…30대 절반이 미혼
-결혼한다면…남녀 평균 초혼 연령 34세·32.5세
-남녀 결혼시 '경제적 여건' 비중있게 고려해
-(서울=연합뉴스) 심재훈 기자 = ...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2024/04/07/PYH2024040703070000500_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
