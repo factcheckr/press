@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Feb 2025 07:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 08:31:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['중국인 해커' 가짜뉴스 원조는 부정선거론자가 쓴 소설]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003100801</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003100801</guid>
+            <pubDate>Mon, 03 Feb 2025 08:31:47 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 디시인사이드 갤러리에 '중국인 해커 침투설' 퍼뜨려 윤석열 계엄 옹호]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[윤석열·김용현 "의원 아닌 요원 빼내라 했다" 주장 '거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003099076</link>
@@ -35,14 +42,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003097015</guid>
             <pubDate>Wed, 15 Jan 2025 12:42:56 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 15일 자필 원고에 부정선거, 군 투입 숫자, 국회 내란죄 철회에 관해 궤변 늘어놓아]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 대통령 "체포영장 절차 무효, 불법" 거짓]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003096918</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003096918</guid>
-            <pubDate>Wed, 15 Jan 2025 07:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크]  법원 이미 세 차례, 공수처 주장 적법성 인정...법원행정처장 "적법하게 발부된 영장"]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
