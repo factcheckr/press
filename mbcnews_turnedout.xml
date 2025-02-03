@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Feb 2025 09:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 13:29:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헌법재판소 결정 안 따라도 그만?]]></title>
+            <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6682776_36799.html</link>
+            <guid>https://imnews.imbc.com/replay/2025/nwdesk/article/6682776_36799.html</guid>
+            <pubDate>Mon, 03 Feb 2025 13:28:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2025-02-03</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2025/nwdesk/article/__icsFiles/afieldfile/2025/02/03/desk_20250203_202015_1_15_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국민의힘 너도나도 "트럼프 대통령 취임식 참석"‥친분 있어서?]]></title>
             <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6679060_36799.html</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 14 Oct 2024 12:45:45 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-10-14</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/10/14/desk_20241014_200133_1_7_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰의 '수심위 결론 뒤집기' 과거사례 따져보니]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6640289_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6640289_36515.html</guid>
-            <pubDate>Wed, 25 Sep 2024 16:29:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-09-25</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/09/25/desk_20240925_195505_1_5_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
