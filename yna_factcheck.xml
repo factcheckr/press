@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Feb 2025 19:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 04:27:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우체통에는 편지만 넣을 수 있다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241224018000518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241224018000518?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 04 Feb 2025 04:26:44 GMT</pubDate>
+            <content:encoded><![CDATA['에코 우체통'으로 탈바꿈…자원회수 역할도 맡아
+지갑·주민증 등 분실물 넣으면 주인 찾아줘
+(서울=연합뉴스) 구정모 기자 = 최근 우체통이 40여년 만에 '에코 우체통'으로 모...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/etc/inner/KR/2024/12/24/AKR20241224018000518_02_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연이은 사고…여객기 타도 정말 안전할까?]]></title>
             <link>https://www.yna.co.kr/view/AKR20250131102000518?section=theme-list/factcheck</link>
@@ -257,17 +267,6 @@ XBB 변이 바이러스는 2023년 유행…"현재는 아냐"
 각국 초고층 경쟁인데 국내는 규제에 50층 이상 꺼려
 (서울=연합뉴...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2024/12/10/AKR20241210128400518_04_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넘쳐나는 '지라시', 단순 유포는 괜찮다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241216087800518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241216087800518?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 26 Dec 2024 22:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[1980년대 증권가서 시작…인터넷 발달과 함께 성행
-일대일 전달도 명예훼손…민사 배상 책임질수도
-모든 단순 유포자 처벌, 현실적으로 한계 직면
-(서울=연합뉴스) 박형빈 기자 =...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/etc/inner/KR/2024/12/16/AKR20241216087800518_03_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
