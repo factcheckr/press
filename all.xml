@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 16:27:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 02:53:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,17 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/10/14/desk_20241014_200133_1_7_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[AI가 인간의 모든 일자리를 대체한다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250123097900518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250123097900518?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 05 Feb 2025 02:52:57 GMT</pubDate>
+            <content:encoded><![CDATA['튜링 테스트'부터 '챗GPT'까지…급속히 발전
+AI가 많은 일자리 대체 가능…업종·속도는 이견
+AI가 신규 일자리도 창출…직업 보완성 있어
+(서울=연합뉴스) 박형빈 기자 = ...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/etc/inner/KR/2025/01/23/AKR20250123097900518_05_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우체통에는 편지만 넣을 수 있다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20241224018000518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20241224018000518?section=theme-list/factcheck</guid>
@@ -756,17 +767,6 @@ XBB 변이 바이러스는 2023년 유행…"현재는 아냐"
 공무원은 공가 규정…기관장 재량에 달려
 (서울=연합뉴스) 박형빈 기자 = 겨울철 도심을 하얗게 뒤덮는 함박눈은 직장인에게 마냥 반...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2024/11/28/PYH2024112806550006100_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['한국 최고층' 롯데월드타워 얼마나 비쌀까? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241210128400518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241210128400518?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 30 Dec 2024 01:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[개장 당시 4조2천억원 들어…현재는 6조~7조원 평가
-세계 6위 초고층 빌딩에 최고급 호텔·레지던스까지 입주
-각국 초고층 경쟁인데 국내는 규제에 50층 이상 꺼려
-(서울=연합뉴...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2024/12/10/AKR20241210128400518_04_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
