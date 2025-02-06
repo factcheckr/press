@@ -4,7 +4,7 @@
         <title>SBS뉴스 ─ 사실은</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Feb 2025 19:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 08:30:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,7 +205,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007880067&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20241120/202009310_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241120/202009310.jpg'" alt="섬네일 이미지:[취재파일] 트럼프와 비트코인, 이번엔 꽃길만 걸을까? [사실은]" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20241120/202009310_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241120/202009310.jpg'" alt="섬네일 이미지:[취재파일] 트럼프와 비트코인, 이번엔 꽃길만 걸을까? [사실은]" class="mfn_img lazy">
 									
 								
 							</span>
@@ -233,7 +233,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20241120/202009310_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['트럼프발 관세'에 아이폰 급등?…한국에도 영향 줄까 [사실은]]]></title>

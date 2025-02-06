@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Feb 2025 19:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 08:30:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,7 +205,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007880067&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20241120/202009310_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241120/202009310.jpg'" alt="섬네일 이미지:[취재파일] 트럼프와 비트코인, 이번엔 꽃길만 걸을까? [사실은]" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20241120/202009310_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241120/202009310.jpg'" alt="섬네일 이미지:[취재파일] 트럼프와 비트코인, 이번엔 꽃길만 걸을까? [사실은]" class="mfn_img lazy">
 									
 								
 							</span>
@@ -233,7 +233,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20241120/202009310_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['트럼프발 관세'에 아이폰 급등?…한국에도 영향 줄까 [사실은] (SBS뉴스 ─ 사실은)]]></title>
@@ -508,6 +508,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/10/14/desk_20241014_200133_1_7_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[로또복권은 현금으로만 구입할 수 있다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250109060300518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250109060300518?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 06 Feb 2025 08:29:56 GMT</pubDate>
+            <content:encoded><![CDATA[현행법상 현금 구입만 가능…1회당 10만원 구매 한도
+로또복권 신용카드 구매 허용시 사행성 조장 우려
+(서울=연합뉴스) 심재훈 기자 = 일확천금의 기회로 여겨지는 로또복권을 복...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2024/12/27/PYH2024122710450001301_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[AI가 인간의 모든 일자리를 대체한다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20250123097900518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20250123097900518?section=theme-list/factcheck</guid>
@@ -757,16 +767,6 @@ XBB 변이 바이러스는 2023년 유행…"현재는 아냐"
 알코올 함량, 과거 소주 2병이 현재 소주 3병과 비슷
 (서울=연합뉴스) 구정모 기자 = 연말연시가 되면 저녁 약속을 피...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2017/02/15/PYH2017021522750001300_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폭설로 지각·결근하면 면책된다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241220132700518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241220132700518?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 30 Dec 2024 23:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[현행법에 관련 규정 없어…사기업은 사업주 재량
-공무원은 공가 규정…기관장 재량에 달려
-(서울=연합뉴스) 박형빈 기자 = 겨울철 도심을 하얗게 뒤덮는 함박눈은 직장인에게 마냥 반...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2024/11/28/PYH2024112806550006100_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
