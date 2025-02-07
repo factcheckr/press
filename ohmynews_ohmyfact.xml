@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Feb 2025 17:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 08:32:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["중증외상 수련센터 예산, 국회 전액 삭감" 오세훈 주장은 '거짓']]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003101808</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003101808</guid>
+            <pubDate>Fri, 07 Feb 2025 08:32:05 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 기재부가 전액 삭감... 국회 보건복지위에서 되살렸지만 반영 안돼]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2025/020714353274.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['중국인 해커' 가짜뉴스 원조는 부정선거론자가 쓴 소설?]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003100801</link>
@@ -35,14 +43,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003097566</guid>
             <pubDate>Fri, 17 Jan 2025 16:26:42 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] '가짜 20대 가리기' 뉴진스 노래 문항 정답률, 진보-보수 20%p격차... "샘플 수 적어 과학적 입증은 어려워"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤석열이 밤새 썼다는 글, 명백한 허위]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003097015</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003097015</guid>
-            <pubDate>Wed, 15 Jan 2025 12:42:56 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 15일 자필 원고에 부정선거, 군 투입 숫자, 국회 내란죄 철회에 관해 궤변 늘어놓아]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

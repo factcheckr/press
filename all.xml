@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Feb 2025 17:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 08:32:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,17 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/10/14/desk_20241014_200133_1_7_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[약탈된 고려불상 소유권이 일본에 있다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250205106500518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250205106500518?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 07 Feb 2025 08:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[법원, 약탈로 일본에 금동관음보살좌상 반출 판단
+법원서 '취득시효 완성' 일본 사찰에 소유권 인정
+문화재도 취득시효 인정해야 하나…반론 여전
+(서울=연합뉴스) 구정모 기자 =...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2025/01/24/PYH2025012412950006300_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[로또복권은 현금으로만 구입할 수 있다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20250109060300518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20250109060300518?section=theme-list/factcheck</guid>
@@ -757,16 +768,6 @@ XBB 변이 바이러스는 2023년 유행…"현재는 아냐"
 내국인 역차별 문제…외국인 부동산 투기 의혹 부각
 (서울=연합뉴스) 심재훈 기...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2024/12/12/AKR20241212157900518_07_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말연시 술자리…소주 2병을 마셔도 덜 취한다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241218093900518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241218093900518?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 02 Jan 2025 02:50:43 GMT</pubDate>
-            <content:encoded><![CDATA['순한 소주' 선호에 도수 하락…25년 새 25도→16도
-알코올 함량, 과거 소주 2병이 현재 소주 3병과 비슷
-(서울=연합뉴스) 구정모 기자 = 연말연시가 되면 저녁 약속을 피...]]></content:encoded>
-            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2017/02/15/PYH2017021522750001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
@@ -1039,6 +1040,14 @@ XBB 변이 바이러스는 2023년 유행…"현재는 아냐"
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/20/l_2022022001002313900209021.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["중증외상 수련센터 예산, 국회 전액 삭감" 오세훈 주장은 '거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003101808</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003101808</guid>
+            <pubDate>Fri, 07 Feb 2025 08:32:05 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 기재부가 전액 삭감... 국회 보건복지위에서 되살렸지만 반영 안돼]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2025/020714353274.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['중국인 해커' 가짜뉴스 원조는 부정선거론자가 쓴 소설? (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003100801</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003100801</guid>
@@ -1066,14 +1075,6 @@ XBB 변이 바이러스는 2023년 유행…"현재는 아냐"
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003097566</guid>
             <pubDate>Fri, 17 Jan 2025 16:26:42 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] '가짜 20대 가리기' 뉴진스 노래 문항 정답률, 진보-보수 20%p격차... "샘플 수 적어 과학적 입증은 어려워"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤석열이 밤새 썼다는 글, 명백한 허위 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003097015</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003097015</guid>
-            <pubDate>Wed, 15 Jan 2025 12:42:56 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 15일 자필 원고에 부정선거, 군 투입 숫자, 국회 내란죄 철회에 관해 궤변 늘어놓아]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

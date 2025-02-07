@@ -4,9 +4,20 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Feb 2025 17:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 08:32:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[약탈된 고려불상 소유권이 일본에 있다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250205106500518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250205106500518?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 07 Feb 2025 08:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[법원, 약탈로 일본에 금동관음보살좌상 반출 판단
+법원서 '취득시효 완성' 일본 사찰에 소유권 인정
+문화재도 취득시효 인정해야 하나…반론 여전
+(서울=연합뉴스) 구정모 기자 =...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2025/01/24/PYH2025012412950006300_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로또복권은 현금으로만 구입할 수 있다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20250109060300518?section=theme-list/factcheck</link>
@@ -257,16 +268,6 @@ XBB 변이 바이러스는 2023년 유행…"현재는 아냐"
 내국인 역차별 문제…외국인 부동산 투기 의혹 부각
 (서울=연합뉴스) 심재훈 기...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2024/12/12/AKR20241212157900518_07_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말연시 술자리…소주 2병을 마셔도 덜 취한다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241218093900518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241218093900518?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 02 Jan 2025 02:50:43 GMT</pubDate>
-            <content:encoded><![CDATA['순한 소주' 선호에 도수 하락…25년 새 25도→16도
-알코올 함량, 과거 소주 2병이 현재 소주 3병과 비슷
-(서울=연합뉴스) 구정모 기자 = 연말연시가 되면 저녁 약속을 피...]]></content:encoded>
-            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2017/02/15/PYH2017021522750001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
