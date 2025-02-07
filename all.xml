@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Feb 2025 08:32:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 14:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -388,6 +388,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[윤 대통령, '인원' 표현 써본 적 없다? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6684494_36799.html</link>
+            <guid>https://imnews.imbc.com/replay/2025/nwdesk/article/6684494_36799.html</guid>
+            <pubDate>Fri, 07 Feb 2025 14:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2025-02-07</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2025/nwdesk/article/__icsFiles/afieldfile/2025/02/07/desk_20250207_195936_1_7_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[헌법재판소 결정 안 따라도 그만? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6682776_36799.html</link>
             <guid>https://imnews.imbc.com/replay/2025/nwdesk/article/6682776_36799.html</guid>
@@ -498,14 +506,6 @@
             <pubDate>Wed, 23 Oct 2024 12:41:22 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-10-23</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/10/23/desk_20241023_200320_1_7_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한강 작가 소설이 역사 왜곡? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6646067_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6646067_36515.html</guid>
-            <pubDate>Mon, 14 Oct 2024 12:45:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-10-14</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/10/14/desk_20241014_200133_1_7_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[약탈된 고려불상 소유권이 일본에 있다? (연합뉴스 ─ 팩트체크)]]></title>
