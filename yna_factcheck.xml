@@ -4,9 +4,21 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Feb 2025 17:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Feb 2025 22:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['착오 송금' 알면서 써도 되나?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250103043000518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250103043000518?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 09 Feb 2025 22:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[착오 송금 알고도 사용시 '횡령죄' 해당
+착오 송금 반환지원제 시행…145억원 되찾아
+착오 송금 최다 실수는 '8'→'0'으로 오기
+'자주 쓰는 계좌' 목록 등록하면 유용해
+(...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2025/01/03/AKR20250103043000518_04_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[약탈된 고려불상 소유권이 일본에 있다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20250205106500518?section=theme-list/factcheck</link>
@@ -257,17 +269,6 @@ XBB 변이 바이러스는 2023년 유행…"현재는 아냐"
             <content:encoded><![CDATA[소방청 "사실 아냐"…AI 제작 영상으로 허위사실 유포
 (무안=연합뉴스) 장지현 이성민 기자 = 제주항공 참사를 수습하던 소방관이 순직했다는 내용의 영상이 소셜네트워크서비스(...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/etc/inner/KR/2025/01/03/AKR20250103034500054_01_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외국인이 국내 주택 대거 사들였다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241212157900518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241212157900518?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 02 Jan 2025 23:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[외국인 소유 주택 10만호 육박…전체의 0.49%
-외국인 보유 토지, 전체 국토의 0.26% 수준
-내국인 역차별 문제…외국인 부동산 투기 의혹 부각
-(서울=연합뉴스) 심재훈 기...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2024/12/12/AKR20241212157900518_07_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
