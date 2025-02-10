@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 20:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 23:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,17 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/10/23/desk_20241023_200320_1_7_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한국인 절반은 종교가 없다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250116158400518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250116158400518?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 10 Feb 2025 23:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[리서치 조사에선 무종교인 비율이 5년째 '과반'
+시계열 넓히면 한국인 탈종교화 두드러져
+젊은층, 종교 무관심…"한국인 세속화 단정 못해"
+(서울=연합뉴스) 구정모 기자 = 최근...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/etc/inner/KR/2025/01/16/AKR20250116158400518_08_i_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['착오 송금' 알면서 써도 되나? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20250103043000518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20250103043000518?section=theme-list/factcheck</guid>
@@ -760,15 +771,6 @@ XBB 변이 바이러스는 2023년 유행…"현재는 아냐"
 정식명칭은 비행기록장치…비행자료·조종실 음성 기록
 (서울=연합뉴스) 구정모 기자 = 최근 제주항공 참사의 원인 규명에 있어 핵심 역할...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2025/01/01/PYH2025010112520000300_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주항공 참사 구조 도중 소방관 순직했다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20250103034500054?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20250103034500054?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 03 Jan 2025 02:56:33 GMT</pubDate>
-            <content:encoded><![CDATA[소방청 "사실 아냐"…AI 제작 영상으로 허위사실 유포
-(무안=연합뉴스) 장지현 이성민 기자 = 제주항공 참사를 수습하던 소방관이 순직했다는 내용의 영상이 소셜네트워크서비스(...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/etc/inner/KR/2025/01/03/AKR20250103034500054_01_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
