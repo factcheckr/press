@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Feb 2025 23:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 09:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재명 "후보자 허위사실공표 처벌 조항, 한국 유일" 대체로 거짓]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003101343</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003101343</guid>
+            <pubDate>Mon, 10 Feb 2025 09:26:24 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 영국·독일·캐나다 등 처벌 규정 존재...미국 광범위하게 허용, 주별로  달라]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709230890.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["중증외상 수련센터 예산, 국회 전액 삭감" 오세훈 주장은 '거짓']]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003101808</link>
@@ -36,13 +44,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003098084</guid>
             <pubDate>Mon, 20 Jan 2025 12:46:20 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 국힘 미디어특위 등 주장... JTBC "어쩔아재TV, 현장에 있던 다른 이들 목소리라고 밝혀"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정치 여론조사에 등장한 '뉴진스', 이런 함정이 있었네]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003097566</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003097566</guid>
-            <pubDate>Fri, 17 Jan 2025 16:26:42 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] '가짜 20대 가리기' 뉴진스 노래 문항 정답률, 진보-보수 20%p격차... "샘플 수 적어 과학적 입증은 어려워"]]></content:encoded>
         </item>
     </channel>
 </rss>
