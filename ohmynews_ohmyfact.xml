@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 05:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 08:28:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['친윤' 인권위원 "선진국도 계엄 많이 한다", 거짓]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003103000</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003103000</guid>
+            <pubDate>Wed, 12 Feb 2025 08:28:50 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 선진국은 1970년 캐나다가 마지막... 미국·독일 등 대통령은 계엄선포권도 없어]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2025/021215361261.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[이재명 "후보자 허위사실공표 처벌 조항, 한국 유일" 대체로 거짓]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003101343</link>
@@ -37,13 +45,6 @@
             <pubDate>Thu, 23 Jan 2025 08:27:41 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크]  곽종근 등 내란가담자 증언·검찰 공소장 내용과도 정면 배치]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2025/012316454039.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["극좌 유튜버, 극우 유튜버 가장해 폭동 선동" 거짓]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003098084</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003098084</guid>
-            <pubDate>Mon, 20 Jan 2025 12:46:20 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 국힘 미디어특위 등 주장... JTBC "어쩔아재TV, 현장에 있던 다른 이들 목소리라고 밝혀"]]></content:encoded>
         </item>
     </channel>
 </rss>
