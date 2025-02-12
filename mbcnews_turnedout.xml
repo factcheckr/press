@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 08:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 14:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤 대통령, 야당이 박수 안 쳐서 계엄했다?]]></title>
+            <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6686037_36799.html</link>
+            <guid>https://imnews.imbc.com/replay/2025/nwdesk/article/6686037_36799.html</guid>
+            <pubDate>Wed, 12 Feb 2025 14:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2025-02-12</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2025/nwdesk/article/__icsFiles/afieldfile/2025/02/12/desk_20250212_200503_1_7_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤 대통령, '인원' 표현 써본 적 없다?]]></title>
             <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6684494_36799.html</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 31 Oct 2024 12:43:56 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-10-31</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/10/31/desk_20241031_202529_1_14_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['동행명령 불발' 김건희 여사 처벌 가능?]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6649220_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6649220_36515.html</guid>
-            <pubDate>Wed, 23 Oct 2024 12:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-10-23</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/10/23/desk_20241023_200320_1_7_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
