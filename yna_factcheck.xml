@@ -4,9 +4,20 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Feb 2025 13:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 05:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리나라에서 우표가 사라진다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250110119400518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250110119400518?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 12 Feb 2025 05:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 통신 발달에 우표 쇠퇴…젊은 세대엔 '유물'
+일반 우편물에 우표 사용 0.7% 불과…우취 인구도 줄어
+국제우편 등에 우표 사용…기념우표 상징성 여전해
+(서울=연합뉴스) ...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2024/12/02/PYH2024120205070001300_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국인 절반은 종교가 없다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20250116158400518?section=theme-list/factcheck</link>
@@ -261,16 +272,6 @@ XBB 변이 바이러스는 2023년 유행…"현재는 아냐"
 한국 가계 자산, 선진국보다 부동산에 편중
 (서울=연합뉴스) 심재훈 기자 = 우리나라 사람들은 전...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2024/11/26/PYH2024112610330001300_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[항공기 블랙박스는 검은색이 아니다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20250103144600518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20250103144600518?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 06 Jan 2025 01:45:19 GMT</pubDate>
-            <content:encoded><![CDATA[원래부터 주황색 제작…비행사고시 충격 견뎌
-정식명칭은 비행기록장치…비행자료·조종실 음성 기록
-(서울=연합뉴스) 구정모 기자 = 최근 제주항공 참사의 원인 규명에 있어 핵심 역할...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2025/01/01/PYH2025010112520000300_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
