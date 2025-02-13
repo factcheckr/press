@@ -4,9 +4,20 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 21:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 11:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국만 '현금 없는 사회'로 바뀐다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250108123300518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250108123300518?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 13 Feb 2025 11:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[매년 현금 사용 줄고 카드·온라인 결제 급증
+한국, 현금 사용률 20%대…미국·영국도 10%대 초반
+편리함이 주요인…결제망 마비·금융 소외 우려도
+(서울=연합뉴스) 박형빈 기자...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2023/03/01/PYH2023030105660001300_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리나라에서 우표가 사라진다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20250110119400518?section=theme-list/factcheck</link>
@@ -261,17 +272,6 @@ XBB 변이 바이러스는 2023년 유행…"현재는 아냐"
 월급 같아도 '공제액' 따라 환급액 달라져
 (서울=연합뉴스) 박형빈 기자 = 2025년 새해가 밝은지도 일주일이 지났지만 직장인...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2024/12/27/AKR20241227148000518_03_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국은 정말 부동산의 나라인가?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241223099200518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241223099200518?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 06 Jan 2025 23:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[가구 평균 자산 3분의 2가 부동산에 집중
-부자에게도 부동산은 '자산 1순위'
-한국 가계 자산, 선진국보다 부동산에 편중
-(서울=연합뉴스) 심재훈 기자 = 우리나라 사람들은 전...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2024/11/26/PYH2024112610330001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
