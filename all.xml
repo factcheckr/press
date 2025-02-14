@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Feb 2025 11:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 02:51:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,17 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/10/31/desk_20241031_202529_1_14_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[트럼프 관세 부과가 미국 경제에 큰 도움된다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250212123800518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250212123800518?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 14 Feb 2025 02:50:58 GMT</pubDate>
+            <content:encoded><![CDATA[미국 대통령 '관세 부과' 가능하지만 제약 있어
+트럼프 1기, 관세 부과에도 무역적자 확대
+트럼프 2기, 관세 부과에 '물가·GDP' 부정적 영향 우려
+관세 부과로 미국 고용·투자 일부 ...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/cms/2025/02/05/85/PCM20250205000085990_T2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한국만 '현금 없는 사회'로 바뀐다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20250108123300518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20250108123300518?section=theme-list/factcheck</guid>
@@ -762,16 +773,6 @@ XBB 변이 바이러스는 2023년 유행…"현재는 아냐"
 딥페이크 악용 막으려면…SNS 공개 등 지양해야
 (서울=연합뉴스) 심재훈 기자 ...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/photo/cms/2024/08/28/09/PCM20240828000109990_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말정산은 정말 '13월의 월급'일까? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241227148000518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241227148000518?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 08 Jan 2025 02:53:31 GMT</pubDate>
-            <content:encoded><![CDATA[10명 중 7명은 세금 환급…2명은 '추가 납부
-월급 같아도 '공제액' 따라 환급액 달라져
-(서울=연합뉴스) 박형빈 기자 = 2025년 새해가 밝은지도 일주일이 지났지만 직장인...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2024/12/27/AKR20241227148000518_03_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
