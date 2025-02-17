@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Feb 2025 22:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 02:59:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국산 '딥시크 포비아' 왜 생겼나?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250212056400518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250212056400518?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 17 Feb 2025 02:58:34 GMT</pubDate>
+            <content:encoded><![CDATA['AI 충격' 딥시크, 정보 유출 우려로 사용금지 속출
+과거 중국 틱톡·화웨이도 정보보안 문제 제기돼
+(서울=연합뉴스) 구정모 기자 = 중국이 최근 선보인 생성형 인공지능(AI...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/cms/2025/02/05/91/PCM20250205000091990_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트럼프 관세 부과가 미국 경제에 큰 도움된다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20250212123800518?section=theme-list/factcheck</link>
@@ -262,17 +272,6 @@ XBB 변이 바이러스는 2023년 유행…"현재는 아냐"
 트랜스젠더 여성도 우승…네덜란드는 대회 폐지하기도
 (서울=연합뉴스) 구정모 기자 = 최근 프랑스의 한 미인대회에서 30대 여성이...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2025/01/06/AKR20250106067900518_01_i_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['허위 영상물' 딥페이크는 10대 청소년이 만든다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241224063600518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241224063600518?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 09 Jan 2025 03:41:39 GMT</pubDate>
-            <content:encoded><![CDATA[10대가 딥페이크 범죄 주로 연루돼…피해자도 많아
-청소년 '잘못된 인식'…딥페이크 범죄로 이어져
-딥페이크 악용 막으려면…SNS 공개 등 지양해야
-(서울=연합뉴스) 심재훈 기자 ...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/photo/cms/2024/08/28/09/PCM20240828000109990_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
