@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Feb 2025 02:59:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 06:35:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1044,6 +1044,14 @@ XBB 변이 바이러스는 2023년 유행…"현재는 아냐"
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/20/l_2022022001002313900209021.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독] 포박하려는 게 아니었다? 김현태 단장 말 뒤집는 결정적 사진 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003103722</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003103722</guid>
+            <pubDate>Mon, 17 Feb 2025 06:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 국회 가져간 707특임단 '수갑형' 케이블타이, 문 봉쇄 안돼...707특임단장 말 달라져]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2025/021419194562.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["문형배 재판관이 음란물에 댓글 달았다" 주장은 '새빨간 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003103252</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003103252</guid>
@@ -1073,13 +1081,6 @@ XBB 변이 바이러스는 2023년 유행…"현재는 아냐"
             <pubDate>Fri, 07 Feb 2025 08:32:05 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 기재부가 전액 삭감... 국회 보건복지위에서 되살렸지만 반영 안돼]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2025/020714353274.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['중국인 해커' 가짜뉴스 원조는 부정선거론자가 쓴 소설? (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003100801</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003100801</guid>
-            <pubDate>Mon, 03 Feb 2025 08:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 디시인사이드 갤러리에 '중국인 해커 침투설' 퍼뜨려 윤석열 계엄 옹호]]></content:encoded>
         </item>
     </channel>
 </rss>
