@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 20:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 22:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,17 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/10/31/desk_20241031_202529_1_14_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한국 '결핵 발생률'이 세계 최고다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250214028700518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250214028700518?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 19 Feb 2025 22:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[한국 결핵 발생률 215개국 중 111위…꾸준히 개선
+한국 결핵 발생률 OECD 1위→2위…주요국 중 심각
+한국서 결핵 환자는 감소 추세…고령층 비중은 증가
+(서울=연합뉴스...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/cms/2018/08/03/15/C0A8CA3D00000164FDA74390000473A0_T2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[갑자기 튀어나온 일각의 하야설…與일축속 국내외 사례는 (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20250217130000518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20250217130000518?section=theme-list/factcheck</guid>
@@ -755,17 +766,6 @@ XBB 변이 바이러스는 2023년 유행…"현재는 아냐"
             <title><![CDATA['오겜2'는 정말 우리나라 전통놀이인가?(종합) (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20250114023300518?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20250114023300518?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 13 Jan 2025 23:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[공기놀이, 조선시대 문헌에 등장……지방마다 이름 달라
-비석치기 기원 분명치 않아… 오래전부터 즐겼던 놀이
-제기차기·팽이치기는 중국서 유래된듯
-(서울=연합뉴스) 구정모 기자 = ...]]></content:encoded>
-            <enclosure url="https://img9.yna.co.kr/photo/cms/2024/12/27/29/PCM20241227000029005_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오겜2'는 정말 우리나라 전통놀이인가? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20250110125800518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20250110125800518?section=theme-list/factcheck</guid>
             <pubDate>Mon, 13 Jan 2025 23:19:31 GMT</pubDate>
             <content:encoded><![CDATA[공기놀이, 조선시대 문헌에 등장……지방마다 이름 달라
 비석치기 기원 분명치 않아… 오래전부터 즐겼던 놀이
