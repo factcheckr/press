@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Feb 2025 22:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 02:52:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갑자기 튀어나온 일각의 하야설…與일축속 국내외 사례는]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250217130000518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250217130000518?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 19 Feb 2025 02:52:07 GMT</pubDate>
+            <content:encoded><![CDATA[현행법엔 '대통령 하야 절차' 명확한 규정 없어…尹대통령측 강력 부인
+탄핵 심판 중 대통령 하야 가능 여부엔 법조계 의견 갈려
+(서울=연합뉴스) 박형빈 기자 = 윤석열 대통령이...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2025/02/13/PYH2025021305060001300_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리나라 청소년 갈수록 뚱뚱해진다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20250106119300518?section=theme-list/factcheck</link>
@@ -262,16 +272,6 @@ XBB 변이 바이러스는 2023년 유행…"현재는 아냐"
 제기차기·팽이치기는 중국서 유래된듯
 (서울=연합뉴스) 구정모 기자 = ...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/photo/cms/2024/12/27/29/PCM20241227000029005_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['근태 불량' 사회복무요원은 현역 재입대한다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20250102100200518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20250102100200518?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 12 Jan 2025 23:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[사회복무요원 8일 이상 근무 이탈시 최대 '징역 3년'
-'징벌성' 현역 재입대 불가…보충역 판정 사유 무효시 가능
-(서울=연합뉴스) 박형빈 기자 = 사회복무요원 복무 기간 당...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/etc/inner/KR/2025/01/02/AKR20250102100200518_01_i_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
