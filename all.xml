@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Feb 2025 11:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 12:45:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -778,6 +778,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/20/l_2022022001002313900209021.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["반도체 주52시간, 전세계에 없다"는 권성동 말, 대체로 거짓 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003105834</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003105834</guid>
+            <pubDate>Mon, 24 Feb 2025 12:45:47 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 독일·프랑스·대만 등 노동시간 총량 제한... 일본·영국은 간접 규제]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/121711144649.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['민주당, 중도보수' 말했던 김대중·문재인, 이런 이유 때문이었다 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003105132</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003105132</guid>
@@ -807,14 +815,6 @@
             <pubDate>Wed, 12 Feb 2025 08:28:50 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 선진국은 1970년 캐나다가 마지막... 미국·독일 등 대통령은 계엄선포권도 없어]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2025/021215361261.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 "후보자 허위사실공표 처벌 조항, 한국 유일" 대체로 거짓 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003101343</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003101343</guid>
-            <pubDate>Mon, 10 Feb 2025 09:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 영국·독일·캐나다 등 처벌 규정 존재...미국 광범위하게 허용, 주별로  달라]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709230890.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
