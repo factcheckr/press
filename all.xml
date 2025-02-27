@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Feb 2025 11:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 12:43:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -388,6 +388,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[탄핵심판 쟁점마다 말 바꾼 윤 대통령‥왜? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6691132_36799.html</link>
+            <guid>https://imnews.imbc.com/replay/2025/nwdesk/article/6691132_36799.html</guid>
+            <pubDate>Thu, 27 Feb 2025 12:42:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2025-02-27</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2025/nwdesk/article/__icsFiles/afieldfile/2025/02/27/desk_20250227_200737_1_8_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤 대통령, 최종 변론까지 끝없는 '거짓말' (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6690751_36799.html</link>
             <guid>https://imnews.imbc.com/replay/2025/nwdesk/article/6690751_36799.html</guid>
@@ -498,14 +506,6 @@
             <pubDate>Mon, 09 Dec 2024 12:47:44 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-12-09</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/12/09/desk_20241209_204946_1_31_Large_u.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한일관계 '물 반 컵' 채워졌나? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6659770_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6659770_36515.html</guid>
-            <pubDate>Mon, 25 Nov 2024 13:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-11-25</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/11/25/desk_20241125_202607_1_17_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
