@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Mar 2025 07:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 08:34:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["한국 관세, 미국보다 4배 높다" 트럼프의 거짓말]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003108147</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003108147</guid>
+            <pubDate>Wed, 05 Mar 2025 08:34:21 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 한미FTA 반영 안된 WTO 관세율 단순 비교... 기재부 "13.4% 아닌 0.79% 수준"]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/091115194322.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["반도체 주52시간, 전세계에 없다"는 권성동 말, 대체로 거짓]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003105834</link>
@@ -37,14 +45,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003103252</guid>
             <pubDate>Thu, 13 Feb 2025 11:19:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 디시인사이드 국힘 갤러리, 동문 카페 댓글 합성... '자리 비운 사진'도 허위]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['친윤' 인권위원 "선진국도 계엄 많이 한다", 거짓]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003103000</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003103000</guid>
-            <pubDate>Wed, 12 Feb 2025 08:28:50 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 선진국은 1970년 캐나다가 마지막... 미국·독일 등 대통령은 계엄선포권도 없어]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2025/021215361261.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
