@@ -4,9 +4,47 @@
         <title>SBS뉴스 ─ 사실은</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 10:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 12:45:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[20m 뒤처져 사망, 교사 탓?…"다 없애라, 어떻게 알아채" [사실은]]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1008014701&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1008014701&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Mon, 10 Mar 2025 12:44:20 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1008014701&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20250310/202048357_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20250310/202048357.jpg'" alt="섬네일 이미지:20m 뒤처져 사망, 교사 탓?…&quot;다 없애라, 어떻게 알아채&quot; [사실은]" class="mfn_img lazy" style="display: inline;">
+									
+								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1008014701&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>20m 뒤처져 사망, 교사 탓?…"다 없애라, 어떻게 알아채" [사실은]</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2025.03.10<i class="ir i_time"></i>20:59</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20250310/202048357_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['한국산 세탁기' 때렸던 트럼프…실속 챙기고 '생색' [사실은]]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007974232&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -167,7 +205,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007910291&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20241212/202018260_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241212/202018260.jpg'" alt="섬네일 이미지:[사실은] &quot;비상계엄=통치행위&quot; 면죄부?…판례는 정반대" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20241212/202018260_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241212/202018260.jpg'" alt="섬네일 이미지:[사실은] &quot;비상계엄=통치행위&quot; 면죄부?…판례는 정반대" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -195,7 +233,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20241212/202018260_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 구글 어스, 북 군사위성보다 더 위험하다?…따져보니]]></title>
@@ -334,44 +372,6 @@
 							<!-- 기사 정보 -->	
 							<span class="info">
 								<span class="date">2024.11.05<i class="ir i_time"></i>21:03</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[취재파일] '채식주의자'가 유해한 걸까? '채식주의자 논란'이 유해한 걸까? [사실은]]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007848064&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007848064&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Mon, 25 Nov 2024 20:25:13 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007848064&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20241018/201997278_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241018/201997278.jpg'" alt="섬네일 이미지:[취재파일] '채식주의자'가 유해한 걸까? '채식주의자 논란'이 유해한 걸까? [사실은]" class="mfn_img lazy">
-									
-								
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007848064&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>[취재파일] '채식주의자'가 유해한 걸까? '채식주의자 논란'이 유해한 걸까? [사실은]</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2024.10.25<i class="ir i_time"></i>17:35</span>
 							</span>
 						</p>
 						<!--// 텍스트 영역 -->

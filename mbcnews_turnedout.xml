@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 10:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 12:45:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헌재 탄핵심판 절차에 문제 있다?]]></title>
+            <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6694454_36799.html</link>
+            <guid>https://imnews.imbc.com/replay/2025/nwdesk/article/6694454_36799.html</guid>
+            <pubDate>Mon, 10 Mar 2025 12:44:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2025-03-10</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2025/nwdesk/article/__icsFiles/afieldfile/2025/03/10/desk_20250310_201852_1_14_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['김건희 의혹'에 거짓말로 일관한 대국민 회견]]></title>
             <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6693277_36799.html</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 17 Dec 2024 13:33:52 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-12-17</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/12/17/desk_20241217_203647_1_21_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령 탄핵이 헌정 중단·국가 혼란 부른다?]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6666184_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6666184_36515.html</guid>
-            <pubDate>Wed, 11 Dec 2024 15:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-12-11</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/12/11/desk_20241211_202422_1_31_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
