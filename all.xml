@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 09:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 10:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -778,6 +778,13 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/28/l_2022022801003472800010471.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[문형배가 김정일과 악수? 국힘 김근식 사진이 문형배로 둔갑 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003110147</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003110147</guid>
+            <pubDate>Wed, 12 Mar 2025 10:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 김근식 "2007년 남북정상회담 당시 내 사진, 극우인사 가짜뉴스 도 넘어"]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["한국 관세, 미국보다 4배 높다" 트럼프의 거짓말 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003108147</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003108147</guid>
@@ -808,13 +815,6 @@
             <pubDate>Mon, 17 Feb 2025 06:35:21 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 국회 가져간 707특임단 '수갑형' 케이블타이, 문 봉쇄 안돼...707특임단장 말 달라져]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2025/021419194562.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["문형배 재판관이 음란물에 댓글 달았다" 주장은 '새빨간 거짓' (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003103252</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003103252</guid>
-            <pubDate>Thu, 13 Feb 2025 11:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 디시인사이드 국힘 갤러리, 동문 카페 댓글 합성... '자리 비운 사진'도 허위]]></content:encoded>
         </item>
     </channel>
 </rss>
