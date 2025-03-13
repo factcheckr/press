@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 01:46:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 03:00:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,7 +205,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007910291&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20241212/202018260_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241212/202018260.jpg'" alt="섬네일 이미지:[사실은] &quot;비상계엄=통치행위&quot; 면죄부?…판례는 정반대" class="mfn_img lazy">
+									<img src="https://img.sbs.co.kr/news/pc/thumb_v2.png" data-src="//img.sbs.co.kr/newimg/news/20241212/202018260_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241212/202018260.jpg'" alt="섬네일 이미지:[사실은] &quot;비상계엄=통치행위&quot; 면죄부?…판례는 정반대" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -233,7 +233,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+            <enclosure url="https://img.sbs.co.kr/news/pc/thumb_v2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 구글 어스, 북 군사위성보다 더 위험하다?…따져보니 (SBS뉴스 ─ 사실은)]]></title>
@@ -243,7 +243,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007893674&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20241130/202013483_300.png" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241130/202013483.png'" alt="섬네일 이미지:[사실은] 구글 어스, 북 군사위성보다 더 위험하다?…따져보니" class="mfn_img lazy">
+									<img src="https://img.sbs.co.kr/news/pc/thumb_v2.png" data-src="//img.sbs.co.kr/newimg/news/20241130/202013483_300.png" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241130/202013483.png'" alt="섬네일 이미지:[사실은] 구글 어스, 북 군사위성보다 더 위험하다?…따져보니" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -271,7 +271,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+            <enclosure url="https://img.sbs.co.kr/news/pc/thumb_v2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[취재파일] 트럼프와 비트코인, 이번엔 꽃길만 걸을까? [사실은] (SBS뉴스 ─ 사실은)]]></title>
@@ -281,7 +281,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007880067&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20241120/202009310_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241120/202009310.jpg'" alt="섬네일 이미지:[취재파일] 트럼프와 비트코인, 이번엔 꽃길만 걸을까? [사실은]" class="mfn_img lazy">
+									<img src="https://img.sbs.co.kr/news/pc/thumb_v2.png" data-src="//img.sbs.co.kr/newimg/news/20241120/202009310_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241120/202009310.jpg'" alt="섬네일 이미지:[취재파일] 트럼프와 비트코인, 이번엔 꽃길만 걸을까? [사실은]" class="mfn_img lazy">
 									
 								
 							</span>
@@ -309,7 +309,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+            <enclosure url="https://img.sbs.co.kr/news/pc/thumb_v2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['트럼프발 관세'에 아이폰 급등?…한국에도 영향 줄까 [사실은] (SBS뉴스 ─ 사실은)]]></title>
@@ -319,7 +319,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007876584&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20241117/202008226_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241117/202008226.jpg'" alt="섬네일 이미지:'트럼프발 관세'에 아이폰 급등?…한국에도 영향 줄까 [사실은]" class="mfn_img lazy">
+									<img src="https://img.sbs.co.kr/news/pc/thumb_v2.png" data-src="//img.sbs.co.kr/newimg/news/20241117/202008226_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241117/202008226.jpg'" alt="섬네일 이미지:'트럼프발 관세'에 아이폰 급등?…한국에도 영향 줄까 [사실은]" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -347,7 +347,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+            <enclosure url="https://img.sbs.co.kr/news/pc/thumb_v2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[트럼프 당선되면 '100만 코인' 비축?…따져보니 [사실은] (SBS뉴스 ─ 사실은)]]></title>
@@ -357,7 +357,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007861452&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20241105/202003745_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241105/202003745.jpg'" alt="섬네일 이미지:트럼프 당선되면 '100만 코인' 비축?…따져보니 [사실은]" class="mfn_img lazy">
+									<img src="https://img.sbs.co.kr/news/pc/thumb_v2.png" data-src="//img.sbs.co.kr/newimg/news/20241105/202003745_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241105/202003745.jpg'" alt="섬네일 이미지:트럼프 당선되면 '100만 코인' 비축?…따져보니 [사실은]" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -385,7 +385,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+            <enclosure url="https://img.sbs.co.kr/news/pc/thumb_v2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[헌재 탄핵심판 절차에 문제 있다? (MBC뉴스 ─ 알고보니)]]></title>
