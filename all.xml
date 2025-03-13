@@ -4,9 +4,47 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 11:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 12:44:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["베꼈네" 무조건 생떼?…한국 있는데 중국 없었다 [사실은] (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1008019744&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1008019744&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Thu, 13 Mar 2025 12:43:55 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1008019744&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20250313/202049706_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20250313/202049706.jpg'" alt="섬네일 이미지:&quot;베꼈네&quot; 무조건 생떼?…한국 있는데 중국 없었다 [사실은]" class="mfn_img lazy" style="display: inline;">
+									
+								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1008019744&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>"베꼈네" 무조건 생떼?…한국 있는데 중국 없었다 [사실은]</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2025.03.13<i class="ir i_time"></i>20:52</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20250313/202049706_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[20m 뒤처져 사망, 교사 탓?…"다 없애라, 어떻게 알아채" [사실은] (SBS뉴스 ─ 사실은)]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1008014701&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -167,7 +205,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007925123&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20241225/202022607_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241225/202022607.jpg'" alt="섬네일 이미지:[사실은] &quot;선관위, 5%만 보안 조사 임했다?&quot;…따져 보니" class="mfn_img lazy" style="display: inline;">
+									<img src="https://img.sbs.co.kr/news/pc/thumb_v2.png" data-src="//img.sbs.co.kr/newimg/news/20241225/202022607_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241225/202022607.jpg'" alt="섬네일 이미지:[사실은] &quot;선관위, 5%만 보안 조사 임했다?&quot;…따져 보니" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -195,7 +233,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20241225/202022607_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.sbs.co.kr/news/pc/thumb_v2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] "비상계엄=통치행위" 면죄부?…판례는 정반대 (SBS뉴스 ─ 사실은)]]></title>
@@ -334,44 +372,6 @@
 							<!-- 기사 정보 -->	
 							<span class="info">
 								<span class="date">2024.11.17<i class="ir i_time"></i>20:31</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/news/pc/thumb_v2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트럼프 당선되면 '100만 코인' 비축?…따져보니 [사실은] (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007861452&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007861452&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Mon, 25 Nov 2024 20:25:13 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007861452&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://img.sbs.co.kr/news/pc/thumb_v2.png" data-src="//img.sbs.co.kr/newimg/news/20241105/202003745_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241105/202003745.jpg'" alt="섬네일 이미지:트럼프 당선되면 '100만 코인' 비축?…따져보니 [사실은]" class="mfn_img lazy">
-									
-								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007861452&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>트럼프 당선되면 '100만 코인' 비축?…따져보니 [사실은]</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2024.11.05<i class="ir i_time"></i>21:03</span>
 							</span>
 						</p>
 						<!--// 텍스트 영역 -->
