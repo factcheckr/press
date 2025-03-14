@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 08:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 09:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['미니 레드카펫'이 캐나다의 복수? 사우디는 맨바닥]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003110764</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003110764</guid>
+            <pubDate>Fri, 14 Mar 2025 09:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크]  한국 기준, 공항 레드카펫은 국가원수급 의전... 장관급은 명확한 규정 없어]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[문형배가 김정일과 악수? 국힘 김근식 사진이 문형배로 둔갑]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003110147</link>
@@ -37,14 +44,6 @@
             <pubDate>Fri, 21 Feb 2025 02:53:16 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 보수층 외연 확장에 앞서 극우 세력 '색깔론' 방어 목적... "정당 노선은 정책으로 따져야"]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/061817200241.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 포박하려는 게 아니었다? 김현태 단장 말 뒤집는 결정적 사진]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003103722</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003103722</guid>
-            <pubDate>Mon, 17 Feb 2025 06:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 국회 가져간 707특임단 '수갑형' 케이블타이, 문 봉쇄 안돼...707특임단장 말 달라져]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2025/021419194562.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
