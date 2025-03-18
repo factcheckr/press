@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 11:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 12:45:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[야당 경고? 대국민 호소? 윤 대통령의 오락가락 계엄 목적]]></title>
+            <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6697226_36799.html</link>
+            <guid>https://imnews.imbc.com/replay/2025/nwdesk/article/6697226_36799.html</guid>
+            <pubDate>Tue, 18 Mar 2025 12:44:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2025-03-18</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2025/nwdesk/article/__icsFiles/afieldfile/2025/03/18/desk_20250318_201007_1_10_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헌재 탄핵심판 절차에 문제 있다?]]></title>
             <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6694454_36799.html</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 27 Dec 2024 12:41:36 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-12-27</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/12/27/desk_20241227_200536_1_21_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권성동, 권한대행은 재판관 임명 못한다?]]></title>
-            <link>https://imnews.imbc.com/replay/2024/nwdesk/article/6668304_36515.html</link>
-            <guid>https://imnews.imbc.com/replay/2024/nwdesk/article/6668304_36515.html</guid>
-            <pubDate>Tue, 17 Dec 2024 13:33:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2024-12-17</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/12/17/desk_20241217_203647_1_21_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
