@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Mar 2025 06:33:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 07:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -778,6 +778,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/28/l_2022022801003472800010471.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이재명 "누구나 최상목 체포 가능" 대체로 사실 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003112656</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003112656</guid>
+            <pubDate>Mon, 24 Mar 2025 07:26:27 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] '직무유기 현행범, 누구나 체포 가능' 주장, 법적으로 따져보니]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709230890.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[민주당의 계란 자작극? 윤 지지자들 '황당 주장' (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003112715</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003112715</guid>
@@ -805,14 +813,6 @@
             <pubDate>Wed, 05 Mar 2025 08:34:21 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 한미FTA 반영 안된 WTO 관세율 단순 비교... 기재부 "13.4% 아닌 0.79% 수준"]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/091115194322.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["반도체 주52시간, 전세계에 없다"는 권성동 말, 대체로 거짓 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003105834</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003105834</guid>
-            <pubDate>Mon, 24 Feb 2025 12:45:47 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 독일·프랑스·대만 등 노동시간 총량 제한... 일본·영국은 간접 규제]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/121711144649.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
