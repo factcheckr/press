@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 03:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 03:37:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -778,6 +778,13 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/28/l_2022022801003472800010471.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['산불 비상' 경북 경찰기동대가 남태령에? "바리케이드 빌려준 것" (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003113785</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003113785</guid>
+            <pubDate>Wed, 26 Mar 2025 03:37:41 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 트랙터 집회 현장에서 '경북 1기동대' 바리케이드 발견... 경북경찰 "1기동대는 경북 영덕 투입"]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이재명 "누구나 최상목 체포 가능" 대체로 사실 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003112656</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003112656</guid>
@@ -805,14 +812,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003110147</guid>
             <pubDate>Wed, 12 Mar 2025 10:26:11 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 김근식 "2007년 남북정상회담 당시 내 사진, 극우인사 가짜뉴스 도 넘어"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["한국 관세, 미국보다 4배 높다" 트럼프의 거짓말 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003108147</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003108147</guid>
-            <pubDate>Wed, 05 Mar 2025 08:34:21 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 한미FTA 반영 안된 WTO 관세율 단순 비교... 기재부 "13.4% 아닌 0.79% 수준"]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/091115194322.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
