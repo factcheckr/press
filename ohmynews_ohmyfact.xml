@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Apr 2025 03:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 04:30:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헌재, "아무 일 없었다"던 윤석열에 "시민들 저항 덕분"]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003116387</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003116387</guid>
+            <pubDate>Fri, 04 Apr 2025 04:30:11 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] '계엄은 사법심사 대상 아니다', '의원 아닌 요원 빼내라 했다' 모두 '거짓' 판단]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709295284.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대법원, 이재명 파기자판? 법조계 "국힘 주장 불가능"]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003115067</link>
@@ -36,13 +44,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003112715</guid>
             <pubDate>Fri, 21 Mar 2025 12:43:25 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 경호용 우산 사용 문제 삼아, 윤석열·황교안도 '우산 경호' ...엉뚱한 범인 지목]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['미니 레드카펫'이 캐나다의 복수? 사우디는 맨바닥]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003110764</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003110764</guid>
-            <pubDate>Fri, 14 Mar 2025 09:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크]  한국 기준, 공항 레드카펫은 국가원수급 의전... 장관급은 명확한 규정 없어]]></content:encoded>
         </item>
     </channel>
 </rss>
