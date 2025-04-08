@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Apr 2025 05:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 06:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 '왕' 자 소환한 안철수 손가락 글씨... "대변인 이름 적은 것"]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003117365</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003117365</guid>
+            <pubDate>Tue, 08 Apr 2025 06:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 대변인 맡은 이효진 전 아나운서 이름과 소속 적어... 지난 대선 '손가락' 발언도 소환]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2025/040815063072.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헌재, "아무 일 없었다"던 윤석열에 "시민들 저항 덕분"]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003116387</link>
@@ -37,13 +45,6 @@
             <pubDate>Mon, 24 Mar 2025 07:26:27 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] '직무유기 현행범, 누구나 체포 가능' 주장, 법적으로 따져보니]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709230890.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주당의 계란 자작극? 윤 지지자들 '황당 주장']]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003112715</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003112715</guid>
-            <pubDate>Fri, 21 Mar 2025 12:43:25 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 경호용 우산 사용 문제 삼아, 윤석열·황교안도 '우산 경호' ...엉뚱한 범인 지목]]></content:encoded>
         </item>
     </channel>
 </rss>
