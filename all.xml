@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Apr 2025 06:35:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 07:25:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -578,6 +578,13 @@
             <content:encoded><![CDATA[<span class="ellip">국내에서 신종 코로나바이러스 감염증(COVID-19·코로나19) 백신을 한 번 이상 맞은 사람이 1000만을 넘어섰다. <span class="ellip-line">코로나19 예방접종대응추진단(추진단)은 이날 오전 11시 기준 1006만705명이 백신 1차 접종을 마친 것으로 잠정 집계됐다고 밝혔다. 이는 전체 인구(지난해 12월 기준 5134만9116명) 약 19.6%에 해당한다. 접종 예약자 외에도 잔여백신을 맞은 30~50대들이 늘면서 코로나19로 제한됐던 일상생활 복귀에 대한 기대감도 커지고 있다. 지금도 하루 400~600명씩... </span></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[심우정 딸 때문에 떨어진 본인 등판? 언론사 탈락자와 혼동 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003118016</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003118016</guid>
+            <pubDate>Thu, 10 Apr 2025 07:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 외교부 연구원 탈락자 글로 오인... 원문 올린 당사자 "연합뉴스TV 영상기자 최종면접 얘기한 것"]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[윤석열 '왕' 자 소환한 안철수 손가락 글씨... "대변인 이름 적은 것" (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003117365</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003117365</guid>
@@ -607,14 +614,6 @@
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003113785</guid>
             <pubDate>Wed, 26 Mar 2025 03:37:41 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 트랙터 집회 현장에서 '경북 1기동대' 바리케이드 발견... 경북경찰 "1기동대는 경북 영덕 투입"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이재명 "누구나 최상목 체포 가능" 대체로 사실 (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003112656</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003112656</guid>
-            <pubDate>Mon, 24 Mar 2025 07:26:27 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] '직무유기 현행범, 누구나 체포 가능' 주장, 법적으로 따져보니]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/030709230890.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
