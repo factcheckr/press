@@ -4,9 +4,47 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Apr 2025 06:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 07:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[취재파일] 내가 낸 산불 기부금, 얼마나 피해 지원에 쓰일까 [사실은 A/S] (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1008059358&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1008059358&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Fri, 11 Apr 2025 07:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1008059358&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20250407/202058604_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20250407/202058604.jpg'" alt="섬네일 이미지:[취재파일] 내가 낸 산불 기부금, 얼마나 피해 지원에 쓰일까 [사실은 A/S]" class="mfn_img lazy" style="display: inline;">
+									
+								
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1008059358&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>[취재파일] 내가 낸 산불 기부금, 얼마나 피해 지원에 쓰일까 [사실은 A/S]</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2025.04.11<i class="ir i_time"></i>16:06</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20250407/202058604_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1,000억 모였는데…"기부단체 못 믿어" 설마 꿀꺽? [사실은] (SBS뉴스 ─ 사실은)]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1008053245&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -167,7 +205,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007963036&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20250126/202033999_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20250126/202033999.jpg'" alt="섬네일 이미지:[사실은] 위법 명령 불복종 조항…군 기강 무너진다?" class="mfn_img lazy" style="display: inline;">
+									<img src="https://img.sbs.co.kr/news/pc/thumb_v3.png" data-src="//img.sbs.co.kr/newimg/news/20250126/202033999_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20250126/202033999.jpg'" alt="섬네일 이미지:[사실은] 위법 명령 불복종 조항…군 기강 무너진다?" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -195,7 +233,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20250126/202033999_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.sbs.co.kr/news/pc/thumb_v3.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[초유의 법원 난동, '국민저항권'이라 처벌 안 받는다? [사실은] (SBS뉴스 ─ 사실은)]]></title>
@@ -334,44 +372,6 @@
 							<!-- 기사 정보 -->	
 							<span class="info">
 								<span class="date">2024.11.30<i class="ir i_time"></i>20:28</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/news/pc/thumb_v3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[취재파일] 트럼프와 비트코인, 이번엔 꽃길만 걸을까? [사실은] (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007880067&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007880067&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Mon, 25 Nov 2024 20:25:13 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007880067&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://img.sbs.co.kr/news/pc/thumb_v3.png" data-src="//img.sbs.co.kr/newimg/news/20241120/202009310_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241120/202009310.jpg'" alt="섬네일 이미지:[취재파일] 트럼프와 비트코인, 이번엔 꽃길만 걸을까? [사실은]" class="mfn_img lazy">
-									
-								
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007880067&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>[취재파일] 트럼프와 비트코인, 이번엔 꽃길만 걸을까? [사실은]</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2024.11.20<i class="ir i_time"></i>10:34</span>
 							</span>
 						</p>
 						<!--// 텍스트 영역 -->
