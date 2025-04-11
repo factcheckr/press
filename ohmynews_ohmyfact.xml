@@ -4,9 +4,16 @@
         <title>오마이뉴스 ─ 오마이팩트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Apr 2025 09:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 10:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국인·화교 출신 복수국적 판사 없다...대법원 공식 확인]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003118080</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003118080</guid>
+            <pubDate>Fri, 11 Apr 2025 10:25:28 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] "외국인·복수국적자 법관 임용 사례 없어" ...일부 재판관 겨냥한 허위조작정보 확인]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[심우정 딸 때문에 떨어진 본인 등판? 언론사 탈락자와 혼동]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003118016</link>
@@ -37,13 +44,6 @@
             <pubDate>Mon, 31 Mar 2025 10:26:17 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 상고심은 법률심이라 양형 판단 못 해... '무죄→유죄' 파기자판 사례도 없어]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/031917222342.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA['산불 비상' 경북 경찰기동대가 남태령에? "바리케이드 빌려준 것"]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003113785</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003113785</guid>
-            <pubDate>Wed, 26 Mar 2025 03:37:41 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 트랙터 집회 현장에서 '경북 1기동대' 바리케이드 발견... 경북경찰 "1기동대는 경북 영덕 투입"]]></content:encoded>
         </item>
     </channel>
 </rss>

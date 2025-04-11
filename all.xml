@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Apr 2025 09:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 10:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -578,6 +578,13 @@
             <content:encoded><![CDATA[<span class="ellip">국내에서 신종 코로나바이러스 감염증(COVID-19·코로나19) 백신을 한 번 이상 맞은 사람이 1000만을 넘어섰다. <span class="ellip-line">코로나19 예방접종대응추진단(추진단)은 이날 오전 11시 기준 1006만705명이 백신 1차 접종을 마친 것으로 잠정 집계됐다고 밝혔다. 이는 전체 인구(지난해 12월 기준 5134만9116명) 약 19.6%에 해당한다. 접종 예약자 외에도 잔여백신을 맞은 30~50대들이 늘면서 코로나19로 제한됐던 일상생활 복귀에 대한 기대감도 커지고 있다. 지금도 하루 400~600명씩... </span></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[중국인·화교 출신 복수국적 판사 없다...대법원 공식 확인 (오마이뉴스 ─ 오마이팩트)]]></title>
+            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003118080</link>
+            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003118080</guid>
+            <pubDate>Fri, 11 Apr 2025 10:25:28 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] "외국인·복수국적자 법관 임용 사례 없어" ...일부 재판관 겨냥한 허위조작정보 확인]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[심우정 딸 때문에 떨어진 본인 등판? 언론사 탈락자와 혼동 (오마이뉴스 ─ 오마이팩트)]]></title>
             <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003118016</link>
             <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003118016</guid>
@@ -607,13 +614,6 @@
             <pubDate>Mon, 31 Mar 2025 10:26:17 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 상고심은 법률심이라 양형 판단 못 해... '무죄→유죄' 파기자판 사례도 없어]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/FCHK/2024/031917222342.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA['산불 비상' 경북 경찰기동대가 남태령에? "바리케이드 빌려준 것" (오마이뉴스 ─ 오마이팩트)]]></title>
-            <link>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003113785</link>
-            <guid>http://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003113785</guid>
-            <pubDate>Wed, 26 Mar 2025 03:37:41 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 트랙터 집회 현장에서 '경북 1기동대' 바리케이드 발견... 경북경찰 "1기동대는 경북 영덕 투입"]]></content:encoded>
         </item>
     </channel>
 </rss>
