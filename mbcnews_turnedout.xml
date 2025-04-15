@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Apr 2025 11:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 12:49:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 형사재판 '궤변' 팩트체크]]></title>
+            <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6706738_36799.html</link>
+            <guid>https://imnews.imbc.com/replay/2025/nwdesk/article/6706738_36799.html</guid>
+            <pubDate>Tue, 15 Apr 2025 12:48:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2025-04-15</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2025/nwdesk/article/__icsFiles/afieldfile/2025/04/15/desk_20250415_200250_1_7_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["권한대행은 안돼" 말 뒤집은 한덕수·권성동]]></title>
             <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6704467_36799.html</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 26 Mar 2025 19:19:31 GMT</pubDate>
             <content:encoded><![CDATA[<span>2025-01-07</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2025/nwdesk/article/__icsFiles/afieldfile/2025/01/07/desk_20250107_195625_1_5_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['내란죄 철회'로 탄핵 사유가 달라졌다?]]></title>
-            <link>https://imnews.imbc.com/replay/2025/nwdesk/article/6674187_36799.html</link>
-            <guid>https://imnews.imbc.com/replay/2025/nwdesk/article/6674187_36799.html</guid>
-            <pubDate>Wed, 26 Mar 2025 19:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2025-01-06</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2025/nwdesk/article/__icsFiles/afieldfile/2025/01/06/desk_20250106_203549_1_21_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
